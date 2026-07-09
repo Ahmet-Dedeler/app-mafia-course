@@ -1,0 +1,429 @@
+[00:00:00] Creative time, baby. Let's fucking go did the punch because we're excited
+[00:00:03] So there are a few things to keep in mind here. This is when by the way
+[00:00:08] This is when everything we've spoken about we I showed you guys how to set up
+[00:00:14] your campaigns
+[00:00:15] How to upload ads now we're going to show what makes a good ad
+[00:00:20] There are three key metrics that make a good ad or that like measure good ads
+[00:00:25] usually are is the hook rate
+[00:00:27] Click the rate and the cost per result. I already showed you guys the cost per
+[00:00:30] result
+[00:00:31] Now let's define what a hook rate and click through it is and by the way, we
+[00:00:36] will be going through all of the Kali I ads for this
+[00:00:38] So I'm gonna be very open and transparent. We're showing you the fucking sauce.
+[00:00:43] This is tangible
+[00:00:44] This was $72,000 spent in the last seven days that you're gonna learn from if
+[00:00:49] 2,300 ads running that just shows you creative is king
+[00:00:54] You need to be fucking testing more creatives the more creatives you test and
+[00:00:57] more likely you are to find winners
+[00:00:59] So
+[00:01:03] Click through it click through it is right here
+[00:01:07] Generally you want above a 1% click through it. That's usually a good sign and
+[00:01:13] click through it by the way is
+[00:01:14] The percentage of people that CD add and then click the action button
+[00:01:19] So it's either like download app or learn more install whatever the core action
+[00:01:24] is the key behavior
+[00:01:25] that is the click through it and
+[00:01:28] You'll see honestly like when I scroll through here
+[00:01:32] I don't see the clearest correlation where the top ones are very high and the
+[00:01:36] bottom ones are low
+[00:01:37] I feel like it's like you could see here. It is low
+[00:01:40] These are mostly below one at the top. It's a lot higher
+[00:01:43] then you also have like 4.82, but this ad isn't doing that well and
+[00:01:48] I say that because
+[00:01:50] One the cost per result is pretty high and two. It's not getting a lot of money
+[00:01:54] spent on it and
+[00:01:55] So none of these in isolation aren't that good to look at to be honest
+[00:01:59] The next one is cost per result. That's arguably the most important
+[00:02:04] You just want I mean yeah, it's in my opinion the most important the lower the
+[00:02:08] cost per result is the more profitable
+[00:02:11] the ad is for you or the
+[00:02:13] Yeah, the lower the lower the cost per result is the more profitable
+[00:02:18] and
+[00:02:20] Then you want to look at the hook rate the hook rate is I
+[00:02:25] Think to find yet the first three seconds
+[00:02:28] how many people last the first three seconds divided by impressions and
+[00:02:33] This is actually custom metric. So to create a custom metric you have to
+[00:02:38] customize columns
+[00:02:40] You have to
+[00:02:42] You have to
+[00:02:45] Custom create custom metric
+[00:02:49] Hook rate
+[00:02:54] Like
+[00:02:57] Three three seconds watched divided by impressions
+[00:03:02] and
+[00:03:05] What you want to do is
+[00:03:08] Actually, let's see let's see what we had before
+[00:03:11] Edit
+[00:03:14] Okay
+[00:03:16] Three second video plays divided by impressions. You just take the formula.
+[00:03:20] Okay
+[00:03:20] Hook rate
+[00:03:25] What is it three three second?
+[00:03:30] well
+[00:03:32] three second video players
+[00:03:35] divided by impressions and
+[00:03:38] You want it as a percentage
+[00:03:41] Hook rate to
+[00:03:46] boom
+[00:03:47] Now the great tool is just confirm it matches the actual hook rate. Yeah, it
+[00:03:52] does
+[00:03:52] So we created it correctly. So that's what you want to do to actually create
+[00:03:56] the hook rate
+[00:03:56] I'm just gonna delete mine. We do not need it
+[00:04:03] You do not need to
+[00:04:05] This is what I mean guys by like I didn't create this metric we hired someone
+[00:04:10] to do it Marcus
+[00:04:11] He's a killer. So
+[00:04:13] Eventually you're gonna get to a point where you don't worry about any of this
+[00:04:16] stuff
+[00:04:17] You'll just start doing things and then and then you'll hire someone if you
+[00:04:20] really don't want to over-complicate this
+[00:04:22] I would say only worry about cost per result. That's bottom line all that
+[00:04:25] matters that you have a good cost per result
+[00:04:27] but the hook rate and the
+[00:04:31] Click through it is a good way to iterate on your creatives figure out. Okay
+[00:04:36] What is working? Well, what is hooking the users in?
+[00:04:39] Generally there is a correlation here where the better the video is doing and
+[00:04:45] by the way
+[00:04:45] It's ranked from best to worst if you couldn't tell already the better the
+[00:04:48] video is doing the higher the hook rate
+[00:04:49] You could see it starts to drop as we just scroll down now. We're in the 30s
+[00:04:54] and we were in the 60s
+[00:04:55] Okay
+[00:04:59] So let's see what types of creatives are killing it for Kali I there are so
+[00:05:04] many different ways and so many different types of creatives
+[00:05:07] That you can make the whole goal is that you want to test as many as you can we
+[00:05:13] have
+[00:05:13] 2373 ads running
+[00:05:16] That just shows you I don't first of all not all those are actually at are
+[00:05:21] actually active right now
+[00:05:23] But all of those were active at one point and that should show you how much
+[00:05:27] testing needs to go into this
+[00:05:29] in order to really
+[00:05:30] Find success. It's not going to take 2000 to find one successful ad
+[00:05:35] But if you want to really scale this up to spending half a million dollars a
+[00:05:38] month on paid ads like we are profitably
+[00:05:41] Then you need to be testing more creative is king the more creatives you test
+[00:05:47] the more winners you'll find
+[00:05:49] And there are so many different angles you'll just want to play around with all
+[00:05:54] kinds of different hooks
+[00:05:56] like going back to that virality module in the beginning of this distribution
+[00:06:00] course you want to use some of those you will want to
+[00:06:04] Pay use influencer videos as actually adds that's a big part of our strategy
+[00:06:10] so in the contract you want to make sure that they sign away the rights for you
+[00:06:15] to reuse it as an ad and
+[00:06:17] You'll want to just start
+[00:06:20] Testing as much as you can. Let's see if it's working well for Kali
+[00:06:25] This is our best performing ad we spent 10k in the last week
+[00:06:29] And let's see what it was he's 18 years old it uses AI to count calories based
+[00:06:36] on the food on your plate
+[00:06:38] Kali eyes an app where you can track the calories you're eating just by taking
+[00:06:43] a picture of your food
+[00:06:44] I'm just taking a picture right now of my lunch scan load and result
+[00:06:49] It's at 400 calories in this role it picked up sushi rice salmon avocado spicy
+[00:06:56] mayo sauce
+[00:06:57] Cal AI registers 90% accuracy
+[00:07:00] So that was just a cut of these 18 years old
+[00:07:04] There's a lot of social proof here because it was on CBS news and that
+[00:07:08] definitely helped and then I it was a live demonstration
+[00:07:12] There's also this factor like something you have to lean into your strengths
+[00:07:17] We paired two viral stories together one
+[00:07:20] It's it's viral that there's an app where you could take a picture of your food
+[00:07:23] and it tells you the calories
+[00:07:24] That's unprecedented now. It's something where a lot of people maybe it's a
+[00:07:28] less surprising because AI technology is getting better and better
+[00:07:31] And a lot of people have heard about Kali eye apps where you could just take a
+[00:07:34] picture of your food and get the calories
+[00:07:35] However, it was it wasn't something you would imagine like a year ago
+[00:07:40] But on top of that we paired it with my story the founder story that I'm 18
+[00:07:45] years old and I built an app that
+[00:07:47] Is making millions of dollars. That's viral that gets people watching and they
+[00:07:51] 're like wow this team
+[00:07:53] He built this app and I'm gonna get it. It's a cool app. So you got to hook
+[00:07:57] them in somehow
+[00:07:58] In years old it uses AI to count calories big first thing that said it is about
+[00:08:03] me not the app
+[00:08:04] He's 18 years old
+[00:08:06] Keep that in mind
+[00:08:08] Second video this is the this is actually one of our influencers who let's see
+[00:08:14] I
+[00:08:16] For 12 short 10 minute 12 12 second video one of our influencers
+[00:08:34] I don't think we did any editing to this he posted it and it didn't go that
+[00:08:38] viral on his own account
+[00:08:40] But we're running it as an ad and getting a massive ROI on however much we paid
+[00:08:44] him for it
+[00:08:45] We're getting such a bigger term his ad it's super high converting
+[00:08:49] What we did here is one. It's a hook. It's like him working out
+[00:08:53] You must eat so strict in quotes. So the viewer knows oh does he not eat strict
+[00:08:57] ?
+[00:08:57] How does he stay so lean them and then it shows you the it gets straight to the
+[00:09:02] point of what the app does
+[00:09:04] It doesn't show oh first sign up for the app type in your name on board and go
+[00:09:08] through
+[00:09:09] Take a picture it goes straight into
+[00:09:12] Picture load results for Cal AI these are the three sequential screens that
+[00:09:25] Explain what the app does in a really succinct way and shows the value
+[00:09:28] proposition
+[00:09:29] If you could figure that out for your app you'll be in a very good position for
+[00:09:32] your ad creatives
+[00:09:37] So you'll see there are a lot of news ads that were just caught up of me
+[00:09:40] I went on the news a lot and these news ads are honestly ripping they're doing
+[00:09:43] really good
+[00:09:44] Cal AI it tracks your calorie intake using artificial intelligence
+[00:09:50] It's also one of the top health and fitness apps in apples app store
+[00:09:54] It wasn't sustainable for my lifestyle to type in everything I was
+[00:09:58] By the way about this already cut off the video
+[00:10:01] I was the producer right before I went on the news segment told me my lights
+[00:10:06] had a glare
+[00:10:06] So I turned them off and I turned on these
+[00:10:09] Lights in front of me instead which I thought would look a lot better
+[00:10:13] But it just made me look scary like look at this bro. My entire room is tart
+[00:10:18] that I'm like a little
+[00:10:20] And it's one of our best performing ads, so I don't know maybe there's
+[00:10:25] something there
+[00:10:26] Eating so along with one of my co-founders
+[00:10:29] We had pot size that we could build an app where you could just take a picture
+[00:10:33] of your food
+[00:10:34] And then it will tell you the calories and macros of what you're eating the app
+[00:10:38] has grown
+[00:10:39] Extraordinarily fast in just the last 12 months
+[00:10:42] We have achieved more than six million downloads and the app is on track to
+[00:10:47] make more than 30 million dollars over the next year
+[00:10:50] Now AI it tracks
+[00:10:55] So a bunch of other news ads that I'm gonna skip they're all like the same
+[00:10:59] thing maybe just different slightly different clubs me on different channels
+[00:11:02] See this is another influencer if you want to go from looking like this
+[00:11:06] That a lot there was a calorie deficit in the best way to make sure you're in
+[00:11:11] that deficit is subtracting calories
+[00:11:13] Something like Cal AI here helps you track everything accurately by just taking
+[00:11:16] pictures of what you eat
+[00:11:17] That's what you don't got to worry about what you're eating and how much of it
+[00:11:20] If you want to go out doing really well showing it before and after showing
+[00:11:28] that's more of a
+[00:11:29] UGC type video user generated content
+[00:11:32] He himself is an influencer, but you get whether he's not that famous
+[00:11:37] So whether he has a following or not that didn't really affect the views
+[00:11:41] It's more that it was an authentic person giving their review of the app
+[00:11:44] showing how it works for them showing
+[00:11:46] He shows proof he shows how he went from very overweight to having a six back
+[00:11:52] Okay, this one was more heavily edited by our editor and let's see what happens
+[00:11:58] This is just simple and straight to the point
+[00:12:28] I'm honestly surprised that ad is doing that well. It's pretty impressive. How
+[00:12:32] well it's doing
+[00:12:33] What was it?
+[00:12:36] There's this one. Yeah, it's doing pretty good getting a lot of ad spend behind
+[00:12:41] it
+[00:12:41] So that's getting straight to the point that works
+[00:12:46] Renewes ads
+[00:12:49] Let's see this one. I'm curious don't know what it is
+[00:12:52] Okay, same guy that showed the transformation before
+[00:12:57] another transformation
+[00:12:59] Notice that it's hook and the hook is unrelated to the app and then it shows
+[00:13:14] the app
+[00:13:15] Not everything needs to be about your app. So don't get too caught up. You
+[00:13:19] could show it at the end and it could work
+[00:13:23] right now we're doing some experiments working with
+[00:13:26] Michael Chernom is pretty famous or pretty popular guy
+[00:13:30] If you're still using my fitness pal or your notes app to track your food you
+[00:13:34] 're wasting your time
+[00:13:35] Cal AI is an AI powered calorie tracking app that tells you the macros in your
+[00:13:40] meals just by snapping a picture
+[00:13:42] It's really that simple guys point your phone take a photo and in seconds you
+[00:13:46] get protein carbs and fats everything you need
+[00:13:48] It's so easy. My kids have even started using it
+[00:13:50] I used to log every ingredient manually now. It's just one photo and I'm done
+[00:13:55] Look if you're trying to eat cleaner lose weight or just track smarter check
+[00:13:59] out Cal AI
+[00:14:00] There's a free trial and it's honestly a no-brainer if you're still using my
+[00:14:04] fit
+[00:14:05] so that one was definitely a little bit higher quality than most of our ads and
+[00:14:10] Looking at this right now. It looks like it's not actually profitable at the
+[00:14:14] moment this ad is early on
+[00:14:16] So we're gonna see if it becomes profitable. It's getting a lot of spend but
+[00:14:19] not profitably
+[00:14:20] We'll see if it turns around
+[00:14:22] It actually you know what there's a chance. It's profitable
+[00:14:25] Usually I say it's not profitable because the cost per result usually
+[00:14:28] profitable for us is one the cost per results like under $20
+[00:14:31] But this is over
+[00:14:34] However, Michael Chernau is an influencer that usually targets older audiences
+[00:14:38] And so because of that it's possible that this ad is
+[00:14:42] profitable and we could actually see the age demographic breakdown. I think of
+[00:14:47] his ad
+[00:14:48] Basically what I'm saying is if he's targeting an older audience. They might be
+[00:14:52] more likely to convert
+[00:14:53] They might have a higher LTV
+[00:14:55] Okay, so 35 to 44
+[00:14:58] It's 24 the average age, okay versus this ad
+[00:15:10] Which is
+[00:15:16] Mostly younger, so it is it is definitely hitting an older audience and it's
+[00:15:26] possibly profitable
+[00:15:29] So, okay, let's watch like one more
+[00:15:44] That's a Spanish ad to be honest. I don't know what it says, but it's working
+[00:15:47] for our Spanish campaign
+[00:15:49] You don't you don't need to worry about Spanish for now
+[00:15:51] I don't take out his takes too long and then shows
+[00:15:55] Problem this ad was so similar you can make this in 30 minutes or less like
+[00:16:02] probably like
+[00:16:03] minutes if you're just grinding it out
+[00:16:05] something else I want to go over is a
+[00:16:09] Static ad so this is one you just have an image and you can do something like
+[00:16:13] we tried the best calorie trackers
+[00:16:15] here's our favorite and
+[00:16:17] Then you click learn more it takes you to the app or website or whatever
+[00:16:20] So these static ads can actually work pretty well if some some company is
+[00:16:25] heavily rely on them others heavily rely on video for
+[00:16:28] else we're mostly video oriented and
+[00:16:30] Just starting statics. It looks like it's
+[00:16:34] Not it's likely not profitable right now most of our statics look like they're
+[00:16:38] not doing that good
+[00:16:39] For apps honestly videos are probably the way to go
+[00:16:44] But yeah, so we just have a lot of stuff here
+[00:16:48] Let's look at some ads of some other apps
+[00:16:52] So like I said before you could just go to the meta ad library all ads Facebook
+[00:16:57] ad library
+[00:16:58] And then you can start looking up stuff. So like Opel
+[00:17:02] Cool cool app cool ads
+[00:17:04] Some text on the screen
+[00:17:08] I've seen some really high quality of lives I wonder if I could find one
+[00:17:27] Let's see
+[00:17:28] This is one of the best ads I've seen in a while
+[00:17:31] It is made you feel very uncomfortable
+[00:17:33] And that's the whole point of this ad because if you feel uncomfortable
+[00:17:35] The jobs are high as you come on free. So you can try that for yourself
+[00:17:39] Like cattle
+[00:17:44] This is by design why do you think every single social media company created
+[00:17:51] their own vertical video black
+[00:17:52] Because it's insanely fucking addictive to call it persuasive technology
+[00:17:56] But it's enslavement four hours on your phone all of ten years of your life
+[00:18:01] gone. What are you getting returned?
+[00:18:03] It was never meant to be this way the iPhone was the bicycle of the mind men's
+[00:18:07] take us further than we've ever been before
+[00:18:09] We harnessed fire going to the moon was all done
+[00:18:12] But the nose smarter than you without a fucking I call you've even given one
+[00:18:16] chance to play this game of life
+[00:18:17] And I'm trying to trap you here
+[00:18:19] But now you're awake even choice
+[00:18:23] Stay here
+[00:18:24] Look at that fuck off your phone
+[00:18:26] So this obviously isn't the actual ad this was a tick-tock of a guy reacting to
+[00:18:32] it, but this ad
+[00:18:33] I remember seeing it
+[00:18:35] Before like it just came up naturally on my for you page and it it called my
+[00:18:40] attention
+[00:18:41] It's a very cool ad cinematic ads like that can work really well
+[00:18:45] There is a trade-off where like we I showed that ad where someone just took a
+[00:18:48] picture of an apple one of our best performing ads
+[00:18:52] Ever and that took 30 minutes or less whereas this probably took hours
+[00:18:57] Tens of hours maybe even a hundred hours
+[00:19:00] And you don't know if it's gonna be profitable at the end of the day
+[00:19:04] You could spend we actually spent like 20k on an ad and it just wasn't wasn't
+[00:19:09] profitable
+[00:19:09] We tried to do a really high quality one just was not profitable
+[00:19:12] To be fair actually that ad we did it was a TV ad so it was very different than
+[00:19:17] what we're going through right now
+[00:19:19] We were just dabbling in TV
+[00:19:21] Not something you guys need to worry about right now
+[00:19:23] You'll get there soon enough if you really have what it takes you'll see
+[00:19:28] Our entrepreneurs born or can they be created? I don't know
+[00:19:32] I was actually thinking about this recently and I think I've came to an answer
+[00:19:36] I think that it's a lot of nature versus nurture where I think most of being an
+[00:19:40] entrepreneur is nurture
+[00:19:41] It's like risk tolerance a bunch of other things that all are affected when you
+[00:19:46] 're young for example risk tolerance
+[00:19:49] If you are rewarded for taking risks when you're younger versus if you are
+[00:19:54] It's opposite of a word like
+[00:19:57] Opposite word punished I guess
+[00:20:04] Anton
+[00:20:11] I
+[00:20:13] Okay, maybe there isn't a good one but punished as a kid
+[00:20:25] Entrepreneurs natural like everyone knows they have a high risk tolerance. They
+[00:20:30] take a lot of risks most of them do at least and
+[00:20:34] That's something that if you're younger you develop a low risk tolerance
+[00:20:39] I think you could break that habit when you're older. It's just difficult to
+[00:20:42] The longer you go before starting your entrepreneurial your entrepreneurial
+[00:20:46] journey the harder
+[00:20:48] I think it will be to get in the right mindset because there are some traits
+[00:20:51] that are very necessary
+[00:20:52] I'd say the main ones are grit. It's just being willing to fail over and over
+[00:20:57] and over again as you're watching this just
+[00:20:59] Don't think you're gonna watch this and even though we've done this so many
+[00:21:03] times we're giving you were spoon-feeding you the secrets
+[00:21:07] Don't think you're gonna get it on your first time
+[00:21:09] You're probably going to fail for your first couple of apps until one finally
+[00:21:13] takes off and when that one takes off
+[00:21:15] It's gonna blow up past any of your expectations if you stay in it
+[00:21:19] I honestly was thinking about this the other day
+[00:21:22] I used to say when I was a like I mean I was good bad to say when I was a kid
+[00:21:26] But I guess a lot of people look at me as a kid now, but I'm 18. I'm not a kid,
+[00:21:29] but
+[00:21:30] but I
+[00:21:32] Used to think I'm gonna be an entrepreneur or die trying I don't want to work a
+[00:21:36] nine to five
+[00:21:36] And I thought about this. Yes, or I was like that's kind of retarded like I
+[00:21:40] think genuine genuinely
+[00:21:42] Anyone can find success as an entrepreneur. It's just a matter of trying enough
+[00:21:46] things like you will it's almost
+[00:21:48] Impossible not to if you just don't give up because there's so much money to be
+[00:21:51] made so many industries that are untapped
+[00:21:54] People are making money off the dumbest things. I know people who are making
+[00:21:57] six figures a year
+[00:21:58] That literally just book restaurant seats in advance and then sell them as it
+[00:22:03] gets closer to the day
+[00:22:04] There is so much money to be made in the world people just don't realize that
+[00:22:08] Back to the point of this yeah, so go through the ad library search up your
+[00:22:15] favorite apps
+[00:22:15] Let's see if we get some any other cool ones
+[00:22:19] Dumb and best is actually a really cool platform there on some nice news ads
+[00:22:27] Would you sell your ownership in this particular app for a hundred million
+[00:22:31] dollars you personally not definitely not?
+[00:22:34] A billion definitely not
+[00:22:36] So you want to refuse to walk away from this no matter
+[00:22:39] I want to run this for the rest of my life
+[00:22:41] And I think the mission that we're trying to bring is we're rewriting the
+[00:22:44] investing playbook
+[00:22:45] 50 cent Americans are not participating in the greatest wealth creation engine
+[00:22:49] of our time to stop working capitalism
+[00:22:51] And we want to change the demand is been
+[00:22:54] I
+[00:22:55] Love him. We've been out to dinner a bunch of times a great guy that is
+[00:22:59] definitely cap
+[00:23:00] He would sell shares her billion dollars if he if he won't then it's very
+[00:23:04] commendable
+[00:23:04] Maybe he cares about his company more than I think
+[00:23:07] But you know you got to say some extreme stuff for good ad creatives. He
+[00:23:12] actually told me it's funny
+[00:23:13] He goes on when he goes on ads when he when he goes on
+[00:23:15] TV live TV
+[00:23:18] He'll have a few lines ready that they know will work well for the paid ad and
+[00:23:23] then they'll clip up these specific parts
+[00:23:25] So that's what I started doing too when I go on these TV ads
+[00:23:28] I'll try some things something I actually did the last time I went on TV
+[00:23:33] I don't know if we tried it as an ad yet, but I worked two watches one on each
+[00:23:37] wrist
+[00:23:37] Hoping that it's going to rage bait people in the comments to write like why
+[00:23:42] the foxy wearing two watches that
+[00:23:43] founder will lose her blah blah blah
+[00:23:46] Because engagement on paid ads actually helps you get more and more reach just
+[00:23:50] like on an organic post it will lower the cost per
+[00:23:54] Person that sees it generate generally if you get good engagement
+[00:23:58] Okay
+[00:24:00] So feel free to just go around look through this like goes through creatives
+[00:24:07] pretty well I
+[00:24:08] Hope you have some good takeaways. I got a relaxed now. I'm tired to do a lot
+[00:24:14] of recording today
+[00:24:15] Hey, you guys got this you don't need me fucking just lock in
+[00:24:20] Listen to some music spend like I know a lot of people that will spend
+[00:24:26] One day a week and that whole day is just dedicated to making ad creatives
+[00:24:30] We'll upload them they'll let them run for a week
+[00:24:33] And they'll have a new batch already like the next day of the week to put in
+[00:24:37] the one filming day
+[00:24:38] And then one uploading day they'll upload like 50 creatives every single week
+[00:24:42] You don't need to do that at this scale
+[00:24:44] But like when you start scaling up 50 creatives a week is an ambitious goal. It
+[00:24:48] 's a good place to be
+[00:24:49] That's when you'll start making millions of dollars a month
+[00:24:51] cool I
+[00:24:54] Think that's actually everything for the traditional pick. It's not everything.
+[00:24:58] Okay. I'll see you guys in the next module
+[00:25:01] *Click on the bell*

@@ -1,0 +1,1649 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.800
+Hey everyone, welcome back to the design module. Today we'll be going through
+
+2
+00:00:03.800 --> 00:00:04.680
+onboarding and
+
+3
+00:00:04.680 --> 00:00:09.960
+payables. These are probably the most essential parts of your app for being
+
+4
+00:00:09.960 --> 00:00:11.960
+successful long-term,
+
+5
+00:00:11.960 --> 00:00:15.760
+because if your onboarding sucks, your conversion rate is going to be super low
+
+6
+00:00:15.760 --> 00:00:16.000
+, and if you
+
+7
+00:00:16.000 --> 00:00:18.870
+converge and rate super low, you won't be profitable, and you won't be able to
+
+8
+00:00:18.870 --> 00:00:19.120
+scale
+
+9
+00:00:19.120 --> 00:00:23.780
+and be successful. So like, what is an onboarding? Why can't I just skip to the
+
+10
+00:00:23.780 --> 00:00:24.320
+payable straight
+
+11
+00:00:24.320 --> 00:00:29.880
+away? Explain that from me, Alex. Of course, of course, of course. So people
+
+12
+00:00:29.880 --> 00:00:30.880
+objectively
+
+13
+00:00:30.880 --> 00:00:35.000
+and objectively don't want to spend money if they don't have to. So you need to
+
+14
+00:00:35.000 --> 00:00:35.800
+communicate
+
+15
+00:00:35.800 --> 00:00:40.600
+value across to the user, otherwise they'll just reject it and swipe out,
+
+16
+00:00:40.600 --> 00:00:42.120
+uninstall, boom,
+
+17
+00:00:42.120 --> 00:00:49.830
+your user's gone. So the way we found best to communicate that value across is
+
+18
+00:00:49.830 --> 00:00:50.800
+for a quiz.
+
+19
+00:00:50.800 --> 00:00:54.940
+It's a multi-choice quiz where you ask your user a bunch of personal questions,
+
+20
+00:00:54.940 --> 00:00:55.440
+and they
+
+21
+00:00:55.440 --> 00:00:59.560
+answer it based on their personal life. So for example, I will pull up the very
+
+22
+00:00:59.560 --> 00:01:00.120
+old
+
+23
+00:01:00.120 --> 00:01:04.520
+quitter onboarding. The design has been upgraded immensely, but the content is
+
+24
+00:01:04.520 --> 00:01:05.400
+relatively the
+
+25
+00:01:05.400 --> 00:01:09.900
+same. So yeah, if we look at the quitter onboarding, you can see us a bunch of
+
+26
+00:01:09.900 --> 00:01:11.520
+personal questions,
+
+27
+00:01:11.520 --> 00:01:14.910
+and you can see it on the screen now and get inspired on how the tail is down
+
+28
+00:01:14.910 --> 00:01:16.920
+to your niche,
+
+29
+00:01:16.920 --> 00:01:22.800
+that everything is super direct, and the more user answers these questions, the
+
+30
+00:01:22.800 --> 00:01:23.560
+more they
+
+31
+00:01:23.560 --> 00:01:28.870
+feel like the apps being built around them and their life, and they feel like
+
+32
+00:01:28.870 --> 00:01:29.920
+you resonate
+
+33
+00:01:29.920 --> 00:01:37.620
+with them and their goals, all extremely intentional. And you can do the same
+
+34
+00:01:37.620 --> 00:01:38.200
+thing for colour
+
+35
+00:01:38.200 --> 00:01:43.110
+retracking. It's like, what is your way? How long have you been trying to lose
+
+36
+00:01:43.110 --> 00:01:43.680
+way? What
+
+37
+00:01:43.680 --> 00:01:48.830
+has stopped you in the past? Like, what could help you moving forward? And then
+
+38
+00:01:48.830 --> 00:01:49.240
+, bomb,
+
+39
+00:01:49.240 --> 00:01:52.220
+bomb, bomb, you're answering these questions for them, people inputting their
+
+40
+00:01:52.220 --> 00:01:53.240
+personal information,
+
+41
+00:01:53.240 --> 00:01:59.040
+and they're like, okay, this app hears me. It understands me. It understands my
+
+42
+00:01:59.040 --> 00:02:00.120
+situation.
+
+43
+00:02:00.120 --> 00:02:05.760
+And this is essential because usually every product you are going to create has
+
+44
+00:02:05.760 --> 00:02:06.200
+a pain
+
+45
+00:02:06.200 --> 00:02:14.160
+point that you solve. And so, if you show them that you understand and that you
+
+46
+00:02:14.160 --> 00:02:14.440
+have the
+
+47
+00:02:14.440 --> 00:02:20.050
+magic solution, they'll be like, holy shit, I'm going to just pay for it. But
+
+48
+00:02:20.050 --> 00:02:21.160
+that comes
+
+49
+00:02:21.160 --> 00:02:24.600
+at the end. But yeah, that's the questionnaire. So you skip past the
+
+50
+00:02:24.600 --> 00:02:25.680
+questionnaire, you ask
+
+51
+00:02:25.680 --> 00:02:29.790
+their name and age, we use this for data and stuff. We also use your name very
+
+52
+00:02:29.790 --> 00:02:30.480
+attention
+
+53
+00:02:30.480 --> 00:02:34.070
+and later to like make it feel more personal, and I'll show you how we do that
+
+54
+00:02:34.070 --> 00:02:34.680
+too. So then
+
+55
+00:02:34.680 --> 00:02:39.510
+we calculate the calculating actually does nothing. But what it does is adds
+
+56
+00:02:39.510 --> 00:02:40.200
+more time
+
+57
+00:02:40.200 --> 00:02:43.430
+that you spend in the onboarding, because if you've completed it, you're intent
+
+58
+00:02:43.430 --> 00:02:43.760
+super
+
+59
+00:02:43.760 --> 00:02:47.820
+high. Now, I'm going to tell you a little analogy before we continue. Like the
+
+60
+00:02:47.820 --> 00:02:48.200
+longer
+
+61
+00:02:48.200 --> 00:02:56.010
+a user spends on wanting the better because, oh, catch my book. If it's super
+
+62
+00:02:56.010 --> 00:02:56.560
+simple to
+
+63
+00:02:56.560 --> 00:03:01.880
+just click off and uninstall the app and save 30 bucks a year, then I'll do it.
+
+64
+00:03:01.880 --> 00:03:02.240
+But if I've
+
+65
+00:03:02.240 --> 00:03:07.910
+spent a lot, a lot, a lot of time building my profile and setting this app up
+
+66
+00:03:07.910 --> 00:03:08.600
+for me,
+
+67
+00:03:08.600 --> 00:03:13.630
+and it's towards my goals, then I'm more convinced to just pay and fuck it, I'm
+
+68
+00:03:13.630 --> 00:03:14.040
+just
+
+69
+00:03:14.040 --> 00:03:18.960
+going to do it rather than get nothing back all the time I spent. This is the
+
+70
+00:03:18.960 --> 00:03:19.280
+typical
+
+71
+00:03:19.280 --> 00:03:27.920
+gamble is phenomenon. Gambalies don't necessarily, they're not necessarily
+
+72
+00:03:27.920 --> 00:03:28.400
+addicted to gambling.
+
+73
+00:03:28.400 --> 00:03:33.420
+They're just addicted to getting something back all the time they spent
+
+74
+00:03:33.420 --> 00:03:34.480
+gathering. At
+
+75
+00:03:34.480 --> 00:03:39.620
+least someone told me that sounds legit, though. Take my word for it. Okay. So
+
+76
+00:03:39.620 --> 00:03:39.960
+anyways,
+
+77
+00:03:39.960 --> 00:03:46.660
+we do it in an analysis and we say, look, we have some news to break to you.
+
+78
+00:03:46.660 --> 00:03:47.200
+You are
+
+79
+00:03:47.200 --> 00:03:53.820
+addicted. You have a problem. You need this app. You need it. But let's check
+
+80
+00:03:53.820 --> 00:03:54.640
+our symptoms
+
+81
+00:03:54.640 --> 00:04:00.380
+first. Let's verify this information. And this check has symptoms. So one, this
+
+82
+00:04:00.380 --> 00:04:01.240
+screen scares
+
+83
+00:04:01.240 --> 00:04:07.980
+you. And two, it nudges you into the next screen. And every subsequent screen,
+
+84
+00:04:07.980 --> 00:04:08.200
+yes,
+
+85
+00:04:08.200 --> 00:04:15.250
+adds friction, but it also increases your intent to buy. So it's all very
+
+86
+00:04:15.250 --> 00:04:17.280
+important.
+
+87
+00:04:17.280 --> 00:04:21.680
+So then we go to symptoms and you can have different things with different apps
+
+88
+00:04:21.680 --> 00:04:22.200
+. For
+
+89
+00:04:22.200 --> 00:04:26.100
+Twitter, it's like, you know, one of the porn side effects for like calorie
+
+90
+00:04:26.100 --> 00:04:26.760
+tracking, it's
+
+91
+00:04:26.760 --> 00:04:30.980
+like what are the side effects of you being fat or you eating, you know,
+
+92
+00:04:30.980 --> 00:04:32.120
+unhealthy food.
+
+93
+00:04:32.120 --> 00:04:36.970
+And it can be, it can be exact same stuff. Like I'm eating junk food and I feel
+
+94
+00:04:36.970 --> 00:04:37.920
+unmotivated.
+
+95
+00:04:37.920 --> 00:04:42.630
+I have no ambition. I have difficulty concentrating, et cetera, et cetera. But
+
+96
+00:04:42.630 --> 00:04:44.000
+the goal of this
+
+97
+00:04:44.000 --> 00:04:49.110
+screen, and I'll show you very soon, is to compare these negative symptoms to
+
+98
+00:04:49.110 --> 00:04:50.040
+an eventual
+
+99
+00:04:50.040 --> 00:04:55.150
+positive outcome if you buy the subscription. So it's like, okay, we scare you
+
+100
+00:04:55.150 --> 00:04:55.600
+with all
+
+101
+00:04:55.600 --> 00:05:02.250
+these words, like you're like getting weak erections. And then we flash off,
+
+102
+00:05:02.250 --> 00:05:02.720
+you finish
+
+103
+00:05:02.720 --> 00:05:10.660
+this, we flash up a red screen. Porn is a drug. Porn destroys relationships.
+
+104
+00:05:10.660 --> 00:05:11.560
+Porn shatters
+
+105
+00:05:11.560 --> 00:05:16.110
+sex drive. And are you feeling unhappy? A lot of people feel unhappy. So like
+
+106
+00:05:16.110 --> 00:05:16.680
+this screen
+
+107
+00:05:16.680 --> 00:05:20.140
+is kind of tragic, kind of nothing but what was it down to porn? It's like all
+
+108
+00:05:20.140 --> 00:05:20.520
+the problems
+
+109
+00:05:20.520 --> 00:05:24.520
+in your life is fucking porn. You need to quit, but you probably can't quit.
+
+110
+00:05:24.520 --> 00:05:24.640
+That's why
+
+111
+00:05:24.640 --> 00:05:31.710
+you download this app. And then boom, welcome to Twitter. This is your path to
+
+112
+00:05:31.710 --> 00:05:32.800
+recovery.
+
+113
+00:05:32.800 --> 00:05:39.330
+Rewire your brain back to normal, stay motivated and avoid setbacks. Don't go
+
+114
+00:05:39.330 --> 00:05:39.800
+back to that
+
+115
+00:05:39.800 --> 00:05:43.950
+bad life where you're unmotivated and you're getting weaker erections and
+
+116
+00:05:43.950 --> 00:05:45.040
+conquer yourself.
+
+117
+00:05:45.040 --> 00:05:50.610
+Be a fucking man. Rise to the occasion. Just be the best version of yourself
+
+118
+00:05:50.610 --> 00:05:51.360
+and level
+
+119
+00:05:51.360 --> 00:05:58.430
+up to life. So this is a very intentional juxtaposition. We compared a super
+
+120
+00:05:58.430 --> 00:05:59.240
+negative
+
+121
+00:05:59.240 --> 00:06:02.990
+cloud of stuff where you've answered personal questions about your life and all
+
+122
+00:06:02.990 --> 00:06:03.440
+of these
+
+123
+00:06:03.440 --> 00:06:08.800
+are not negative, but they are negative. They are towards the pain point that
+
+124
+00:06:08.800 --> 00:06:09.760
+you're solving
+
+125
+00:06:09.760 --> 00:06:13.940
+with your app. So for example, quick one, all these are porn related. So super
+
+126
+00:06:13.940 --> 00:06:14.560
+negative,
+
+127
+00:06:14.560 --> 00:06:17.640
+you're feeling bad about yourself. Like I've been addicted. I mean, sorry as
+
+128
+00:06:17.640 --> 00:06:18.080
+well, you're
+
+129
+00:06:18.080 --> 00:06:21.650
+also learning about yourself. When I ask you these questions, you're learning
+
+130
+00:06:21.650 --> 00:06:23.560
+about yourself.
+
+131
+00:06:23.560 --> 00:06:28.980
+You're learning, damn, I've been addicted since I was fucking 12. This needs to
+
+132
+00:06:28.980 --> 00:06:29.480
+stop.
+
+133
+00:06:29.480 --> 00:06:34.810
+This is insane. And am I getting, do I need to watch more extreme material?
+
+134
+00:06:34.810 --> 00:06:36.000
+Like, fuck,
+
+135
+00:06:36.000 --> 00:06:39.900
+this is ruining my mind. So you're learning about yourself, you're then getting
+
+136
+00:06:39.900 --> 00:06:40.200
+scared
+
+137
+00:06:40.200 --> 00:06:44.070
+by the symptoms, you're then getting scared by the language we're using, saying
+
+138
+00:06:44.070 --> 00:06:44.360
+it's
+
+139
+00:06:44.360 --> 00:06:49.850
+porn is the worst thing ever. And then boom, path to recovery. You're in the
+
+140
+00:06:49.850 --> 00:06:50.800
+right place.
+
+141
+00:06:50.800 --> 00:06:55.090
+Quitter, we are here for you. We love you. And like, we're going to help you re
+
+142
+00:06:55.090 --> 00:06:55.600
+wire your
+
+143
+00:06:55.600 --> 00:07:02.160
+brain, help you stay motivated, etc, etc. So that contrast is very uplifting
+
+144
+00:07:02.160 --> 00:07:03.040
+for people,
+
+145
+00:07:03.040 --> 00:07:07.160
+which is also why we have a super high conversion rate. You heard it from the
+
+146
+00:07:07.160 --> 00:07:08.400
+man himself. And
+
+147
+00:07:08.400 --> 00:07:13.900
+then we give social proof. So rewiring benefits. And people are talking about
+
+148
+00:07:13.900 --> 00:07:15.280
+the app. So let's
+
+149
+00:07:15.280 --> 00:07:19.800
+say these all NBC is the they aren't real. We probably should have real people.
+
+150
+00:07:19.800 --> 00:07:20.640
+But Jack
+
+151
+00:07:20.640 --> 00:07:25.920
+says he's he's feel like a different person. He's way more talked to and aware.
+
+152
+00:07:25.920 --> 00:07:26.800
+So, and
+
+153
+00:07:26.800 --> 00:07:30.030
+then Michael, he wants to go out, he wants to work out, he wants to live, he
+
+154
+00:07:30.030 --> 00:07:30.320
+wants to
+
+155
+00:07:30.320 --> 00:07:35.350
+be a fucking man. He wants to do, he wants to conquer the world. Connor, who's
+
+156
+00:07:35.350 --> 00:07:35.880
+my co who's
+
+157
+00:07:35.880 --> 00:07:39.200
+my co founder, obviously has been very addicted. He wrote this one personally.
+
+158
+00:07:39.200 --> 00:07:39.780
+Quitting has
+
+159
+00:07:39.780 --> 00:07:44.270
+allowed me to change my mindset on the little things in life. I was coming to
+
+160
+00:07:44.270 --> 00:07:44.920
+grips with
+
+161
+00:07:44.920 --> 00:07:50.160
+the fact that life is dark, boring, depressing. And then I die. Screw that. Qu
+
+162
+00:07:50.160 --> 00:07:51.120
+itting has allowed
+
+163
+00:07:51.120 --> 00:07:57.050
+me to change my mindset on the little things in life. And yet, like you get the
+
+164
+00:07:57.050 --> 00:07:58.280
+point. So
+
+165
+00:07:58.280 --> 00:08:05.130
+personal questionnaire, calculate the result, scale you, uplift you, social
+
+166
+00:08:05.130 --> 00:08:06.400
+proof. And then
+
+167
+00:08:06.400 --> 00:08:11.700
+we give the chart. We show, okay, like you could quit on your own. But look at
+
+168
+00:08:11.700 --> 00:08:12.400
+Twitter.
+
+169
+00:08:12.400 --> 00:08:18.420
+Look how much faster you can quit. And whoa, how is this guy here right now? It
+
+170
+00:08:18.420 --> 00:08:19.800
+'s interesting.
+
+171
+00:08:19.800 --> 00:08:26.480
+Anyways, you can see that. Why is he following me? You can see that by week
+
+172
+00:08:26.480 --> 00:08:27.480
+free, you're
+
+173
+00:08:27.480 --> 00:08:32.060
+going to go through the same bullshit cycle. But with quitter, you're going to
+
+174
+00:08:32.060 --> 00:08:33.040
+win. You're
+
+175
+00:08:33.040 --> 00:08:37.740
+going to rise to the occasion. You're going to finally beat the addiction. And
+
+176
+00:08:37.740 --> 00:08:37.880
+then we're
+
+177
+00:08:37.880 --> 00:08:40.450
+getting to like the more uplifting part of things, we're like, choose your
+
+178
+00:08:40.450 --> 00:08:40.920
+goals. I
+
+179
+00:08:40.920 --> 00:08:43.620
+want to be strong. I want to have stronger relationships. I want to have
+
+180
+00:08:43.620 --> 00:08:44.280
+improved self
+
+181
+00:08:44.280 --> 00:08:53.330
+confidence. And then do you have a referral code? This is useful if you want to
+
+182
+00:08:53.330 --> 00:08:53.640
+track
+
+183
+00:08:53.640 --> 00:08:59.760
+which influencers sent you to what place, what influencers suggested you're at
+
+184
+00:08:59.760 --> 00:09:00.360
+and actually
+
+185
+00:09:00.360 --> 00:09:08.150
+downloaded it. Like what? This is important for you to track which influencers
+
+186
+00:09:08.150 --> 00:09:08.560
+brought
+
+187
+00:09:08.560 --> 00:09:14.460
+in your traffic. There we go. Then give us a rating. This is probably one of
+
+188
+00:09:14.460 --> 00:09:14.840
+the most
+
+189
+00:09:14.840 --> 00:09:18.260
+essential screens as well. Not everyone is going to rate you five stars
+
+190
+00:09:18.260 --> 00:09:18.960
+straight out
+
+191
+00:09:18.960 --> 00:09:23.120
+the gate out trying your app. But there will obviously be like the 0.5% of
+
+192
+00:09:23.120 --> 00:09:23.840
+people that
+
+193
+00:09:23.840 --> 00:09:28.410
+actually do. And when you have a million downloads, 0.5% is a hell of a lot of
+
+194
+00:09:28.410 --> 00:09:28.880
+people
+
+195
+00:09:28.880 --> 00:09:33.570
+that give you a five star review. So I totally recommend this screen. I will
+
+196
+00:09:33.570 --> 00:09:34.440
+say as well,
+
+197
+00:09:34.440 --> 00:09:38.120
+the more five star and ratings you have on the app store, the more people trust
+
+198
+00:09:38.120 --> 00:09:38.440
+you.
+
+199
+00:09:38.440 --> 00:09:42.920
+And all the more people actually end up getting to the end of your onboarding.
+
+200
+00:09:42.920 --> 00:09:43.400
+Whereas if
+
+201
+00:09:43.400 --> 00:09:47.520
+you're a brand new app and you have like 20 reviews, people don't trust you.
+
+202
+00:09:47.520 --> 00:09:48.560
+Like they
+
+203
+00:09:48.560 --> 00:09:51.890
+don't trust you. They're going to be hesitant. They're going to be more
+
+204
+00:09:51.890 --> 00:09:52.800
+reluctant to not,
+
+205
+00:09:52.800 --> 00:09:57.560
+they're going to be more reluctant to pay than if you had 50,000 five stars.
+
+206
+00:09:57.560 --> 00:09:57.640
+And it's
+
+207
+00:09:57.640 --> 00:10:01.960
+like 20 bucks, but like 50,000 people rate this five stars hell yet. Like sign
+
+208
+00:10:01.960 --> 00:10:02.400
+me up.
+
+209
+00:10:02.400 --> 00:10:05.450
+And then this is one thing we do at Quitter that I've seen a lot of people not
+
+210
+00:10:05.450 --> 00:10:05.800
+be able
+
+211
+00:10:05.800 --> 00:10:11.200
+to do or not done. I'm losing my mind, but like I hope you guys hear me through
+
+212
+00:10:11.200 --> 00:10:11.720
+this.
+
+213
+00:10:11.720 --> 00:10:16.370
+Hear me through this. This is fucking source right here. Right. So we say
+
+214
+00:10:16.370 --> 00:10:17.560
+welcome to Quitter,
+
+215
+00:10:17.560 --> 00:10:21.520
+your path to freedom. Here's your card is decided to help you quit porn forever
+
+216
+00:10:21.520 --> 00:10:22.000
+. Now
+
+217
+00:10:22.000 --> 00:10:26.910
+this is the most fucking, this is the most forward thing I've ever done, but it
+
+218
+00:10:26.910 --> 00:10:27.200
+'s low
+
+219
+00:10:27.200 --> 00:10:33.930
+key working. Now it's time to invest in yourself. And like short, it's a bit
+
+220
+00:10:33.930 --> 00:10:34.560
+pushy and it's
+
+221
+00:10:34.560 --> 00:10:41.660
+a bit like, like, it's in the uncanny valley territory. But instead of people
+
+222
+00:10:41.660 --> 00:10:42.360
+spamming me
+
+223
+00:10:42.360 --> 00:10:45.760
+with reviews saying, I thought this app was going to be free. I didn't know it
+
+224
+00:10:45.760 --> 00:10:46.000
+was going
+
+225
+00:10:46.000 --> 00:10:50.430
+to be paid or even is it paid? A lot of people don't even know if they have to
+
+226
+00:10:50.430 --> 00:10:50.920
+pay. They
+
+227
+00:10:50.920 --> 00:10:53.540
+don't want to pay. They think there's a free version. But the fact that says
+
+228
+00:10:53.540 --> 00:10:54.000
+now it's time
+
+229
+00:10:54.000 --> 00:10:59.840
+to invest in yourself, they're like, okay, it's time to lock in. And even
+
+230
+00:10:59.840 --> 00:11:00.280
+though it's
+
+231
+00:11:00.280 --> 00:11:06.140
+like they're reading it on a screen and it's not like this is inhuman. Like
+
+232
+00:11:06.140 --> 00:11:06.400
+there's no
+
+233
+00:11:06.400 --> 00:11:09.460
+one, there's not your friend isn't telling you to invest in yourself, which has
+
+234
+00:11:09.460 --> 00:11:09.880
+a really
+
+235
+00:11:09.880 --> 00:11:14.370
+high like conversion rate. The fact you're reading on a screen will sit in the
+
+236
+00:11:14.370 --> 00:11:14.760
+back of
+
+237
+00:11:14.760 --> 00:11:21.870
+your mind. And when you do get to the payroll, you remember that sentence. It's
+
+238
+00:11:21.870 --> 00:11:26.040
+$45 a year,
+
+239
+00:11:26.040 --> 00:11:30.720
+but now it's time to invest in myself. I would spend that shit on big Macs, but
+
+240
+00:11:30.720 --> 00:11:31.320
+now it's
+
+241
+00:11:31.320 --> 00:11:40.670
+time to invest in yourself. Start my journey. Pay. Boom. You're in. And that's
+
+242
+00:11:40.670 --> 00:11:41.640
+a really,
+
+243
+00:11:41.640 --> 00:11:45.990
+really good funnel. This is one of the best funnels ever. I can pull up my
+
+244
+00:11:45.990 --> 00:11:46.800
+revenue for
+
+245
+00:11:46.800 --> 00:11:49.840
+the day. Oh, we're going to get into payables and a sec. I can pull up my
+
+246
+00:11:49.840 --> 00:11:50.400
+revenue for the
+
+247
+00:11:50.400 --> 00:11:55.550
+day. This is proceeds after Apple's 30% cut, but fuck that. Don't even look at
+
+248
+00:11:55.550 --> 00:11:56.240
+that. Just
+
+249
+00:11:56.240 --> 00:12:06.770
+look at the conversion rate. Like this is pretty good. 16. Why is she? Fuck. It
+
+250
+00:12:06.770 --> 00:12:07.080
+'s good,
+
+251
+00:12:07.080 --> 00:12:12.840
+it's, it's, it's usually better. It's usually like 20%. So like one in six
+
+252
+00:12:12.840 --> 00:12:15.640
+people are paying.
+
+253
+00:12:15.640 --> 00:12:23.230
+This isn't a free trial spiel. This is one in six paying. So yeah, that is
+
+254
+00:12:23.230 --> 00:12:24.520
+onboarding
+
+255
+00:12:24.520 --> 00:12:33.080
+for you guys. Peace out. All right, boys. So I would usually explain how to
+
+256
+00:12:33.080 --> 00:12:34.040
+design a good
+
+257
+00:12:34.040 --> 00:12:40.530
+onboarding, but for all of my future apps, if I do create future apps, I'm just
+
+258
+00:12:40.530 --> 00:12:40.960
+going
+
+259
+00:12:40.960 --> 00:12:46.330
+to be ripping this exact format by just rewording it. And, you know, I'm just
+
+260
+00:12:46.330 --> 00:12:47.000
+going to recommend
+
+261
+00:12:47.000 --> 00:12:51.460
+you guys do the same. Kalei has a very similar onboarding to Twitter, literally
+
+262
+00:12:51.460 --> 00:12:52.440
+almost exactly
+
+263
+00:12:52.440 --> 00:12:58.830
+the same format. And, you know, you guys can design this rectangle, text, text
+
+264
+00:12:58.830 --> 00:12:59.200
+for the
+
+265
+00:12:59.200 --> 00:13:03.740
+question, etc. Like this is, this is like one screen. Very simple. It's right
+
+266
+00:13:03.740 --> 00:13:04.520
+out in front
+
+267
+00:13:04.520 --> 00:13:07.670
+of you. Say with these, these are just a lotty files. So if you search in
+
+268
+00:13:07.670 --> 00:13:08.240
+Google, lotty
+
+269
+00:13:08.240 --> 00:13:12.980
+files, you'll find a bunch and then search within lotty files, what you like.
+
+270
+00:13:12.980 --> 00:13:13.560
+So maybe
+
+271
+00:13:13.560 --> 00:13:17.910
+search start and you might find this one or sun or meditate, you'll find this
+
+272
+00:13:17.910 --> 00:13:18.160
+one or
+
+273
+00:13:18.160 --> 00:13:24.640
+locked, you'll find this one, etc. This is a very well designed onboarding. I
+
+274
+00:13:24.640 --> 00:13:24.880
+wouldn't
+
+275
+00:13:24.880 --> 00:13:30.770
+really met the will. And like me and Kalei, we've made millions of dollars with
+
+276
+00:13:30.770 --> 00:13:31.240
+this
+
+277
+00:13:31.240 --> 00:13:37.110
+exact format. So I'm not going to teach you how to design it, but I will link
+
+278
+00:13:37.110 --> 00:13:38.080
+this in
+
+279
+00:13:38.080 --> 00:13:46.310
+the course. But yeah, now let's get to the paywall. So this is a paywall that I
+
+280
+00:13:46.310 --> 00:13:46.920
+started
+
+281
+00:13:46.920 --> 00:13:52.010
+with, which is just a simulator of all the screens kind of laid out. So you can
+
+282
+00:13:52.010 --> 00:13:52.480
+kind
+
+283
+00:13:52.480 --> 00:13:56.910
+of get intro or slash preview of the app before you pay. And at the top, we
+
+284
+00:13:56.910 --> 00:13:58.040
+have very intentional
+
+285
+00:13:58.040 --> 00:14:03.380
+texts saying get unlimited access to quitter, including personalizing science
+
+286
+00:14:03.380 --> 00:14:04.280
+based custom
+
+287
+00:14:04.280 --> 00:14:09.770
+plan, adult content blocker, community chat, street tracking, daily pledges,
+
+288
+00:14:09.770 --> 00:14:10.160
+plus much
+
+289
+00:14:10.160 --> 00:14:16.670
+more. I know what this is great. And you can copy this. If you go to super wall
+
+290
+00:14:16.670 --> 00:14:17.320
+, you click
+
+291
+00:14:17.320 --> 00:14:25.550
+into templates and you scroll down a little bit and you will find the here we
+
+292
+00:14:25.550 --> 00:14:27.040
+go, the
+
+293
+00:14:27.040 --> 00:14:31.910
+quitter, the quitter paywall right here. So what you do on super wall is you
+
+294
+00:14:31.910 --> 00:14:32.320
+click on
+
+295
+00:14:32.320 --> 00:14:36.860
+to this and you click use template. And I wouldn't generally recommend you go
+
+296
+00:14:36.860 --> 00:14:37.200
+into
+
+297
+00:14:37.200 --> 00:14:41.530
+Figma and start designing your own one. And I know it's counterintuitive
+
+298
+00:14:41.530 --> 00:14:42.160
+because this
+
+299
+00:14:42.160 --> 00:14:46.230
+is a design course, but I can show you what good design is without having you
+
+300
+00:14:46.230 --> 00:14:46.880
+design it
+
+301
+00:14:46.880 --> 00:14:52.250
+yourself. So when it comes to consumer utility, you usually want to display all
+
+302
+00:14:52.250 --> 00:14:53.120
+the benefits
+
+303
+00:14:53.120 --> 00:15:02.960
+up front. So something like something like something like homework AI is
+
+304
+00:15:02.960 --> 00:15:03.720
+actually pretty
+
+305
+00:15:03.720 --> 00:15:08.550
+good. You can see unlock all features of pro, you're kind of explaining the
+
+306
+00:15:08.550 --> 00:15:09.760
+core features.
+
+307
+00:15:09.760 --> 00:15:12.680
+Remember the onboarding has already sold your app. People are convinced. Now
+
+308
+00:15:12.680 --> 00:15:13.200
+just summarize
+
+309
+00:15:13.200 --> 00:15:18.140
+the core features and make it super easy to pay. And I'm going to show you my
+
+310
+00:15:18.140 --> 00:15:18.520
+current
+
+311
+00:15:18.520 --> 00:15:24.080
+onboarding, the one that's doing the best. And we hired a designer to do this.
+
+312
+00:15:24.080 --> 00:15:24.320
+But you
+
+313
+00:15:24.320 --> 00:15:28.100
+can see it's pretty simple. Again, still the very core features that people are
+
+314
+00:15:28.100 --> 00:15:28.520
+paying
+
+315
+00:15:28.520 --> 00:15:33.000
+and buying into. You also have the previews of the app. So very similar to the
+
+316
+00:15:33.000 --> 00:15:33.880
+first iteration
+
+317
+00:15:33.880 --> 00:15:37.250
+that that quitter launch with, but just in a different format, you see this
+
+318
+00:15:37.250 --> 00:15:37.800
+time it's
+
+319
+00:15:37.800 --> 00:15:45.040
+in a scrolly carousel. And then also you can just change the plan. So if I don
+
+320
+00:15:45.040 --> 00:15:45.440
+'t want
+
+321
+00:15:45.440 --> 00:15:50.130
+to pay 29, 19 a year, why don't I just pay 15 a month? And people do do that.
+
+322
+00:15:50.130 --> 00:15:51.760
+So interesting
+
+323
+00:15:51.760 --> 00:15:58.730
+note, we also on this iteration show the reviews. So this is a very interesting
+
+324
+00:15:58.730 --> 00:15:59.600
+point. And you
+
+325
+00:15:59.600 --> 00:16:04.550
+know, design this in Figma, I can definitely show you how to do it. But I think
+
+326
+00:16:04.550 --> 00:16:05.160
+it might
+
+327
+00:16:05.160 --> 00:16:08.250
+be a better use of my time to just show you what good designers show you the
+
+328
+00:16:08.250 --> 00:16:09.160
+core principles.
+
+329
+00:16:09.160 --> 00:16:13.740
+And then you can apply this yourself. Blake has already covered a lot of app
+
+330
+00:16:13.740 --> 00:16:14.560
+design. And
+
+331
+00:16:14.560 --> 00:16:18.440
+I'm not the best at Figma. I usually get off the ball. But I have a lot of
+
+332
+00:16:18.440 --> 00:16:19.240
+insight. So
+
+333
+00:16:19.240 --> 00:16:23.240
+yeah, this is a very good payroll as well. I believe they have something very
+
+334
+00:16:23.240 --> 00:16:23.800
+similar
+
+335
+00:16:23.800 --> 00:16:27.990
+in the templates. And I would just use templates because up to your first like
+
+336
+00:16:27.990 --> 00:16:29.800
+100k, even 500k,
+
+337
+00:16:29.800 --> 00:16:34.330
+I think we didn't even change the quitter payoff until maybe one and a half
+
+338
+00:16:34.330 --> 00:16:35.240
+million dollars
+
+339
+00:16:35.240 --> 00:16:39.650
+in revenue. So it's not as important as you think. It might have slight maybe
+
+340
+00:16:39.650 --> 00:16:40.280
+two to three
+
+341
+00:16:40.280 --> 00:16:46.330
+to four to five percent increases. But just don't over index on perfecting it
+
+342
+00:16:46.330 --> 00:16:47.160
+per se.
+
+343
+00:16:47.160 --> 00:16:50.220
+So like, okay, if I want to do calorie checking up, I'll show you what's a good
+
+344
+00:16:50.220 --> 00:16:50.840
+one because
+
+345
+00:16:50.840 --> 00:16:53.700
+we've already done the calorie tracking tutorial. Actually that comes next. I
+
+346
+00:16:53.700 --> 00:16:54.680
+'ll show you guys
+
+347
+00:16:54.680 --> 00:16:59.230
+in the development module. But like, if I wanted to choose a calorie tracking,
+
+348
+00:16:59.230 --> 00:16:59.880
+paywall, I would
+
+349
+00:16:59.880 --> 00:17:06.760
+pick. Hmm. This is a great one for SAI. Obviously not for calorie tracking.
+
+350
+00:17:06.760 --> 00:17:11.080
+This is so bad.
+
+351
+00:17:11.080 --> 00:17:26.700
+Zest. Actually, this is the car that I want. So yeah, and it has the gift. So I
+
+352
+00:17:26.700 --> 00:17:27.800
+would use this.
+
+353
+00:17:27.800 --> 00:17:32.920
+I would have, we want you to try a calorie for free. I would have a moving gift
+
+354
+00:17:32.920 --> 00:17:33.480
+of the app.
+
+355
+00:17:33.480 --> 00:17:40.280
+And you can record this in Screen Studio. I believe that's the name of the app.
+
+356
+00:17:40.280 --> 00:17:41.000
+Screen Studio.
+
+357
+00:17:41.960 --> 00:17:46.050
+And just run through it. And then obviously link this to your product. We cover
+
+358
+00:17:46.050 --> 00:17:46.600
+this in
+
+359
+00:17:46.600 --> 00:17:50.130
+the development module. So make sure you watch that next. And this is a solid
+
+360
+00:17:50.130 --> 00:17:50.680
+design.
+
+361
+00:17:50.680 --> 00:17:55.290
+And then with Super, I'll show you real quick how you can actually change
+
+362
+00:17:55.290 --> 00:17:56.520
+things around and
+
+363
+00:17:56.520 --> 00:18:07.390
+personalize it for you. So unlock. Cali. Unlock Cali. There you go. So we just
+
+364
+00:18:07.390 --> 00:18:10.120
+change text. Super
+
+365
+00:18:10.120 --> 00:18:13.860
+simple. No commitment canceling time. This is great. And then we go into
+
+366
+00:18:13.860 --> 00:18:15.080
+products. We change
+
+367
+00:18:15.080 --> 00:18:20.090
+products of $4.99 a week. And then a secondary at $9.99 a month. And as you can
+
+368
+00:18:20.090 --> 00:18:21.640
+see, boom.
+
+369
+00:18:21.640 --> 00:18:31.760
+This is a solid payroll. And then for the video. For the video, we have to
+
+370
+00:18:31.760 --> 00:18:32.600
+upload a video.
+
+371
+00:18:32.600 --> 00:18:37.250
+Do I have any videos of the app? Actually, you know what? We do. We do. We do.
+
+372
+00:18:37.250 --> 00:18:37.560
+We do. We do.
+
+373
+00:18:38.280 --> 00:18:41.640
+So this is the app I'm building for you guys. You'll see it later in the
+
+374
+00:18:41.640 --> 00:18:42.680
+development module.
+
+375
+00:18:42.680 --> 00:18:45.880
+But I'm just going to screen record it. So I'm going to do command R.
+
+376
+00:18:45.880 --> 00:18:53.400
+Run you through it. Boom. Boom. And you can't see the actual app.
+
+377
+00:18:53.400 --> 00:18:58.600
+Because this is just the onboarding. But I will upload it. Ready?
+
+378
+00:18:58.600 --> 00:19:03.240
+Let's see.
+
+379
+00:19:06.040 --> 00:19:09.320
+You got to get off. You got to get off. And you got to teach me how to get off.
+
+380
+00:19:09.320 --> 00:19:13.400
+I'm recording or the onboarding. Yeah. What up gang? Someone doesn't read the
+
+381
+00:19:13.400 --> 00:19:14.360
+group chats.
+
+382
+00:19:14.360 --> 00:19:19.480
+Well, you opened it. So at that point, Cali, I pay while studying that. Yeah,
+
+383
+00:19:19.480 --> 00:19:20.040
+listen, this
+
+384
+00:19:20.040 --> 00:19:23.770
+kid's got to go fucking party right now. The one A.B. test we did to this pay
+
+385
+00:19:23.770 --> 00:19:25.000
+wall that made it
+
+386
+00:19:25.000 --> 00:19:31.080
+double the conversions. It's that the privacy, it used to be spelled privacy
+
+387
+00:19:31.080 --> 00:19:31.720
+policy, but just
+
+388
+00:19:31.720 --> 00:19:35.210
+making it privacy doubled our conversions. It's the details that this is a
+
+389
+00:19:35.210 --> 00:19:36.040
+complete joke.
+
+390
+00:19:36.040 --> 00:19:41.560
+It was actually, you know, deceiving the consumer that it will list.
+
+391
+00:19:41.560 --> 00:19:48.350
+Hey, I just scammed, guys. No, but what you want to do here is you see it's
+
+392
+00:19:48.350 --> 00:19:49.640
+this tripe or zero.
+
+393
+00:19:49.640 --> 00:19:53.560
+And then they click it. And it's a multi page. I don't know what this is. Us,
+
+394
+00:19:53.560 --> 00:19:54.920
+did you create this?
+
+395
+00:19:54.920 --> 00:19:58.700
+This is a template, bro. Yeah. It's all created a template out of us. Yeah,
+
+396
+00:19:58.700 --> 00:19:59.320
+they've done this for us,
+
+397
+00:19:59.320 --> 00:20:03.000
+dude. Try to continue. They fucking stole it.
+
+398
+00:20:03.000 --> 00:20:06.670
+Multi page is actually great guys. Saying to the user will send your reminder
+
+399
+00:20:06.670 --> 00:20:07.080
+before your free
+
+400
+00:20:07.080 --> 00:20:10.440
+trial lens, they fucking love that. Is that true? Love it. It's true. We do
+
+401
+00:20:10.440 --> 00:20:11.320
+send an notification.
+
+402
+00:20:11.320 --> 00:20:14.990
+It would be very fucked up. You say you will, but then you do not. If I, we
+
+403
+00:20:14.990 --> 00:20:16.120
+actually did an A.B. test
+
+404
+00:20:16.120 --> 00:20:20.200
+and it did decrease the conversion rate slightly, but you need to actually set
+
+405
+00:20:20.200 --> 00:20:20.840
+like it would be
+
+406
+00:20:20.840 --> 00:20:24.750
+really fucked up not to. Yeah, true. Yeah. So we tell them what it would look
+
+407
+00:20:24.750 --> 00:20:25.640
+like. These zero
+
+408
+00:20:25.640 --> 00:20:29.720
+days. That's like I'm going to stop. Yeah, that's going to get. Yeah. Yes, you
+
+409
+00:20:29.720 --> 00:20:30.600
+started for trial.
+
+410
+00:20:30.600 --> 00:20:34.680
+There we go. You got them. That's the source guys.
+
+411
+00:20:34.680 --> 00:20:38.280
+That's how you get them. That's onboarding and peels done.
+
+412
+00:20:38.280 --> 00:20:45.560
+Now we're going to go fucking party. Let's go. Let's fucking go. See you boys.

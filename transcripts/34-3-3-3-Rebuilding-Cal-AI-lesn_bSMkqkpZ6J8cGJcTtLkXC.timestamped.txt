@@ -1,0 +1,396 @@
+[00:00:00] Hey everyone, welcome back to finally the tutorial on how to rebuild a
+[00:00:05] successful app
+[00:00:06] from scratch.
+[00:00:07] Now, a slight change of plan, we will be rebuilding Cal AI from scratch,
+[00:00:11] focusing on
+[00:00:12] like the fundamental feature, which pretty much is the taking a picture of your
+[00:00:17] food
+[00:00:17] and estimating the calories instead of you next.
+[00:00:20] The reason for this is because OpenAI at chat GBT, they are limiting me from
+[00:00:24] raising other
+[00:00:25] people's faces, which is totally fair and there's not a problem.
+[00:00:29] Cal AI, a little bit of background, Cal AI makes three and a half million
+[00:00:33] dollars a month,
+[00:00:34] they have almost 10 million downloads and I'm going to run you through exactly
+[00:00:38] how I
+[00:00:38] would rebuild it from scratch and how I would, like what kind of version I
+[00:00:43] would launch into
+[00:00:44] the market if I wanted to make a competitor, for example.
+[00:00:47] Now, I will preface this by saying I don't suggest you make a competitor to Cal
+[00:00:52] AI.
+[00:00:53] I mean, even if you do, like there is a lot of competition and a lot of people
+[00:00:57] have tried
+[00:00:58] and failed, but I want you to more use this tutorial as a kind of a visual
+[00:01:02] representation
+[00:01:03] on how you can build a super successful app from scratch and then you can
+[00:01:07] translate these
+[00:01:08] same concepts, these same execution I'm doing now into other ideas and other
+[00:01:13] apps.
+[00:01:14] So let's get started.
+[00:01:16] The first thing you need to do is to download Xcode and once you've downloaded
+[00:01:19] it, go to
+[00:01:20] the top left to click settings and log into Apple account.
+[00:01:24] You log in by clicking this plus icon on the bottom left, clicking Apple
+[00:01:27] account, continue
+[00:01:28] and then entering your details.
+[00:01:30] Super simple stuff.
+[00:01:33] Once you've done that, you will click create new project app next, call it Cal
+[00:01:39] AI or whatever
+[00:01:40] else you want to call it and then make sure you come up with your own
+[00:01:44] organization identifier.
+[00:01:45] You can do like calm dot Slater or calm dot mafia or calm dot whatever else,
+[00:01:50] but it's totally
+[00:01:51] unique and you need to come up with your own name.
+[00:01:54] This can't be repeated by other people and you can't just copy the one I've
+[00:01:57] written down.
+[00:01:58] So I'm just going to do mafia tutorial.
+[00:02:01] You can leave all of this as a standard and then choose a folder and
+[00:02:07] destination where
+[00:02:08] you'd want to code in.
+[00:02:09] So I'm happy with the GitHub folder.
+[00:02:11] So I'll just click create bottom right and boom, your app is now live and in
+[00:02:16] business.
+[00:02:17] So this is going to load a preview of what you're coding on the left side and
+[00:02:27] like this
+[00:02:28] will show, okay, so the left side is the back end and the right side is the
+[00:02:31] front end.
+[00:02:32] Everything you're typing on the left side will display itself in some shape or
+[00:02:35] form on
+[00:02:36] the front end if you're building the front end view.
+[00:02:39] Obviously like the functions and stuff you won't be able to like see.
+[00:02:42] But as you can see, if I just changed this from hello world to hello mafia,
+[00:02:48] this update
+[00:02:49] in real time and you can see exactly what you are building, which is super cool
+[00:02:54] .
+[00:02:54] So the way I usually like to start building apps is kind of mapping up the
+[00:03:02] design first
+[00:03:04] and you know, people can say that this isn't necessarily productive, but I like
+[00:03:08] to do it
+[00:03:09] because it gives me a vision of what the app is and that inspires me to and
+[00:03:14] motivates
+[00:03:14] me to keep building, keep building, keep building.
+[00:03:16] Whereas if you're just working on a feature and the rest of it isn't built, you
+[00:03:20] might
+[00:03:21] be like, eh, I'm not super happy with this.
+[00:03:23] But if you start creating a brand around it and start doing the designs, it
+[00:03:27] feels more
+[00:03:27] real and more tangible and that pushes you to keep building.
+[00:03:30] At least that's how I operate.
+[00:03:32] So I'm going to start with like fontway dot bold dot font dot title.
+[00:03:38] And if you've watched this tutorial, I suggested earlier, like these concepts
+[00:03:41] are really easy
+[00:03:41] to understand.
+[00:03:42] I'm not going to go into details on how to code, but I will kind of give you a
+[00:03:46] little
+[00:03:46] bit of that kind of what I'm doing when necessary.
+[00:03:49] So okay, so that's the title.
+[00:03:50] We'll do a spacer and then we'll do a button with the label of an image.
+[00:03:58] And this is when you open SF symbols.
+[00:04:00] I told you guys down at this earlier.
+[00:04:02] So open SF symbols and we're going to go for a camera icon.
+[00:04:06] So we'll do camera dot circle.
+[00:04:07] Is there a circle dot fill?
+[00:04:09] Let's see.
+[00:04:10] Circle dot fill.
+[00:04:11] Okay, there is.
+[00:04:13] So I'm going to copy this, this name.
+[00:04:15] I'm going to do image, system name.
+[00:04:17] Actually, I'm going to make this a bit bigger for you guys.
+[00:04:20] Image, system name, camera dot circle dot fill.
+[00:04:22] So as you can see, time the little circle in the corner now.
+[00:04:25] Great.
+[00:04:26] Now we'll do dot resizable, scalps at fit, frame, width.
+[00:04:29] I'm going to say width 45.
+[00:04:31] Is that big enough?
+[00:04:32] No.
+[00:04:33] 90.
+[00:04:34] Okay.
+[00:04:35] So it's a fine balance.
+[00:04:38] That's all good.
+[00:04:39] And then for the color, I'm going to go red.
+[00:04:43] Cool.
+[00:04:44] Like a little like camera red recording icon, which is sick.
+[00:04:49] Okay.
+[00:04:50] Now inside this, inside this bracket, you do the logic, which we'll get to very
+[00:04:54] , very
+[00:04:55] soon.
+[00:04:56] So what this should do is you click on this, it will then open your camera and
+[00:05:01] there should
+[00:05:01] be another button where you can click and snap a photo.
+[00:05:05] That photo should then be sent back to the chat GBT API and then that will
+[00:05:09] analyze the
+[00:05:10] calories and estimate it.
+[00:05:11] And then you'll take that data that chat GBT is analyzed also where it's like
+[00:05:15] estimated
+[00:05:16] the calories and display that on the front end for the user.
+[00:05:18] So that's our objective today.
+[00:05:21] And then we'll get into the payroll everything else soon.
+[00:05:24] So let's stop the linkers.
+[00:05:25] So what I would do is take this logic.
+[00:05:29] Actually, we'll just copy that entire file.
+[00:05:33] And then we go to chat GBT.com.
+[00:05:35] I'll close this.
+[00:05:39] Hey, chat GBT.
+[00:05:41] I'm coding a calorie tracker app and I want you to write me the code for a
+[00:05:52] function that
+[00:05:54] allows me to press the button shown below, pull up the camera and when a photo
+[00:06:06] is snapped,
+[00:06:08] it should send it back to the chat GBT API and estimate the calories and also
+[00:06:18] display
+[00:06:19] the name of the food item it sees.
+[00:06:26] Don't use any packages.
+[00:06:28] Just use a standard API call.
+[00:06:33] And then I'm going to send it my code.
+[00:06:36] Maybe I could have written this better, but like it doesn't have to be perfect.
+[00:06:41] If you ask it a question and it fucks up or isn't the result you're expecting,
+[00:06:45] you can
+[00:06:45] always go back and say, hey, can we change this or I meant this thing or I
+[00:06:49] meant to say
+[00:06:51] or, you know, explain the bug.
+[00:06:53] Like if this doesn't work, just be like, okay, look, it didn't estimate the
+[00:06:56] calories.
+[00:06:56] It estimated the width of the food, whatever it is.
+[00:07:00] But the prompt doesn't have to be perfect.
+[00:07:02] At least that's my take.
+[00:07:05] So I would post this.
+[00:07:07] Let's see what it says.
+[00:07:11] I'll be waiting.
+[00:07:19] Silo, chat GBT5 takes a hell of a long time to apply it.
+[00:07:23] Honestly, I love photo because it was incredibly accurate and fast.
+[00:07:28] So, you know, it is what it is.
+[00:07:33] But apparently chat GBT5 makes less mistakes and thinks deeper about certain
+[00:07:39] topics.
+[00:07:40] So you don't have to keep going back and forth because it did make the
+[00:07:43] occasional mistakes.
+[00:07:44] Okay, this is important.
+[00:07:46] You got to, so I'll give you a quick background.
+[00:07:49] For Apple, you need to clearly state why you're using certain features.
+[00:07:54] For example, the camera or the microphone or the photo library.
+[00:07:57] You need to add and do this with me.
+[00:08:00] Copy NSCameraUseThisDescription.
+[00:08:02] Go to Xcode.
+[00:08:04] Click Cali top left if that's what you named it.
+[00:08:07] Go into info.
+[00:08:08] Click this plus icon.
+[00:08:10] Paste it in.
+[00:08:11] Click return.
+[00:08:13] It should then pull up the full name and then you can write.
+[00:08:17] We use your camera so you can take a picture of food and estimate the calories
+[00:08:26] bomb.
+[00:08:27] You need to do this.
+[00:08:28] Otherwise your camera won't work.
+[00:08:30] Straight up.
+[00:08:31] Very essential.
+[00:08:32] Okay, well, let's send me a massive, massive code.
+[00:08:37] Result.
+[00:08:38] And it's all in one file which isn't optimal, but for the sake of the tutorial,
+[00:08:44] I think it's
+[00:08:45] clearer and easier.
+[00:08:47] So we're going to stick with this.
+[00:08:49] Okay, it's just finished.
+[00:08:52] So I would copy this.
+[00:08:54] And by the way, this whole chat will be in the course material.
+[00:08:58] So you can go into this and also copy the exact code I'm taking here right now.
+[00:09:03] And then copy and paste the entire file back into it.
+[00:09:08] And let's see any errors.
+[00:09:11] Two errors.
+[00:09:15] So what I would do is I would copy the errors if you do get them and they are
+[00:09:19] occasional,
+[00:09:19] but they do happen.
+[00:09:20] I'm just going to show you how to navigate this.
+[00:09:22] You'd post.
+[00:09:24] I got two errors.
+[00:09:28] Fix these for me, please.
+[00:09:30] And I'm going to paste the errors.
+[00:09:38] And it should know what's causing it.
+[00:09:39] Like it should have the knowledge and intelligence to find out what is causing
+[00:09:42] it and fix it for
+[00:09:43] us.
+[00:09:47] You know what we can do in the meantime?
+[00:09:56] We can go to platform.openai.com.
+[00:09:58] For that form.openai.com.
+[00:10:04] Make an account if you haven't already in the top right, there should be a
+[00:10:06] button to create
+[00:10:07] an account.
+[00:10:08] Okay, look, as you can see the sign up, do that.
+[00:10:11] I already have an account so I don't, ooh, it would log me out.
+[00:10:14] Oh, am I an incognito?
+[00:10:17] I am my bad.
+[00:10:20] Platform.openai.com.
+[00:10:27] Once you're assigned in, go to, I believe, Manage Projects.
+[00:10:35] Yep, API Keys and then create a new secret key.
+[00:10:38] I'm going to call this one Cal AI clone and just pick the quota project.
+[00:10:44] This will create a secret key.
+[00:10:46] Usually you can't reveal this, but I'm like, I'm going to delete this
+[00:10:49] afterwards, but
+[00:10:50] copy the key and make sure you paste it into, whoa, like, into this.
+[00:11:03] Your open AI API key.
+[00:11:06] So we'll do that right now.
+[00:11:09] That's how ChaiJubitin knows which account to build.
+[00:11:13] So incredibly important and you won't be able to do your functional call about
+[00:11:17] it.
+[00:11:17] It's very important to know as well.
+[00:11:19] Okay, let's get back to it.
+[00:11:25] All right, so we're sending back the full fixed file, which means we're going
+[00:11:33] to need
+[00:11:34] to paste in the opening idea again, but that's not an issue.
+[00:11:37] Takes like a second.
+[00:11:41] By the way, I intend to keep this process very raw and uncut just because like
+[00:11:52] this is
+[00:11:53] like the real grind.
+[00:11:56] You are seeing like directly behind the scenes of the building process.
+[00:11:59] And like if I do fast cuts, a lot of you guys won't understand.
+[00:12:03] And I think it's very important to see the building process in its flaws, in
+[00:12:09] its successes.
+[00:12:11] I kind of, kind of adjust of how long it takes, but we'll always through this
+[00:12:15] like eventually.
+[00:12:16] Once it gets it right, that's like the bulk of the work.
+[00:12:25] All right, cool.
+[00:12:31] Hopefully this works.
+[00:12:32] Hopefully this works.
+[00:12:33] So paste it in and no errors.
+[00:12:36] Great.
+[00:12:37] All right.
+[00:12:38] Now let's go back to our API key, copy it and then paste it in the your opening
+[00:12:43] API, such
+[00:12:44] a tongue twister, your opening API API key.
+[00:12:47] All right, paste it in, bomb and run of ships running to my phone.
+[00:12:52] Oh no.
+[00:12:56] Okay.
+[00:12:57] I've just run it on the simulator.
+[00:12:59] So let's see how it looks.
+[00:13:01] Simulators are a little bit different to the preview by the way, but I like
+[00:13:04] using the
+[00:13:05] simulator more.
+[00:13:06] All right, so let's test camera, boom, camera right there.
+[00:13:11] Amazing.
+[00:13:14] Which is great and should work, but because it's in the simulator and it has no
+[00:13:18] physical
+[00:13:19] camera, you won't be able to see what it's doing.
+[00:13:22] So what we should do is run this.
+[00:13:30] I'm going to say great.
+[00:13:34] It works.
+[00:13:36] Now please add functionality to upload stuff from your photo library as well.
+[00:13:46] In the meantime, I'm going to find a picture of food on the simulator.
+[00:13:54] Picture of lasagna.
+[00:13:56] Actually, lasagna is like so misleading because everything's like melted
+[00:14:02] together, but we'll
+[00:14:03] try it.
+[00:14:04] We'll do this, this picture.
+[00:14:05] Just going to hold down on it, click save to photos.
+[00:14:10] This is just for the tutorial, by the way, usually in practice when people have
+[00:14:13] their
+[00:14:13] real phones, they could just take a picture, very simple, but for the safety of
+[00:14:16] the tutorial,
+[00:14:17] I will show you how this works.
+[00:14:20] Okay.
+[00:14:21] So it's going to send like the full complete code again.
+[00:14:24] Is that right?
+[00:14:29] Seems like it.
+[00:14:33] It should be fast at this time because it's only changing a few lines, but then
+[00:14:36] we will
+[00:14:36] need to find our API key again.
+[00:14:38] I'm going to tell it in future if there are any more changes we need to do
+[00:14:42] after this
+[00:14:42] to just use the API key that I provided.
+[00:14:49] But like, I hope this is an example of like, it's not super complex.
+[00:14:54] Like yes, there's a lot of back and forth from repetition and trying to like
+[00:14:58] mold the
+[00:14:58] AI to do what you want, but that's the game.
+[00:15:02] And once it's built once, sorry, she's the same word twice, once it's built
+[00:15:07] once I suppose,
+[00:15:09] you don't need to really build it again.
+[00:15:11] It's just slight improvements that you have to make, but once I've built this
+[00:15:15] feature,
+[00:15:16] I can just change the code slightly to improve it.
+[00:15:19] Like I don't need to get this entire thing written, written, written again,
+[00:15:22] have to keep
+[00:15:23] going back to AI.
+[00:15:24] I just make small changes.
+[00:15:27] And what I will say as well, once you've built this app, this example, you can
+[00:15:31] just
+[00:15:32] go out there and market it.
+[00:15:33] You don't need to do much else.
+[00:15:35] Like it can be very simple.
+[00:15:37] As long as it helps a select few people and makes their life maybe 5 to 10%
+[00:15:41] better, that's
+[00:15:42] all that matters.
+[00:15:43] And like the distribution of having an AI to estimate the calories, even if it
+[00:15:49] isn't
+[00:15:49] perfect, is super helpful.
+[00:15:52] Even if it sucks, it can suck.
+[00:15:55] Cal AI launched and it launched with one feature and the tracking wasn't great.
+[00:16:00] They slowly started improving it, but they still made hundreds of thousands of
+[00:16:02] dollars
+[00:16:03] before that point.
+[00:16:04] So I wouldn't over index on getting the technical part, right?
+[00:16:08] I'm, you know, like, I'd focus on just building MVP.
+[00:16:12] Okay, so that should be good.
+[00:16:15] And again, I'm going to have to get my API key annoying, but hey, all good.
+[00:16:23] So here we go, paste it in, run it on the simulator.
+[00:16:26] By the way, to run, I'm using command R. So it's the Apple symbol on your
+[00:16:30] keyboard plus
+[00:16:31] the letter R.
+[00:16:32] Okay, let's see.
+[00:16:33] Here we go.
+[00:16:34] So now I can choose from library and I'm going to select the, that's me, I'm
+[00:16:38] going to select
+[00:16:39] the lasagna and it's saying analyzing.
+[00:16:43] Boom.
+[00:16:44] We have fucking built Cal AI.
+[00:16:48] Okay.
+[00:16:49] That's how you do it.
+[00:16:50] Right?
+[00:16:51] I'm launching a competitor, Blake and Zach and Henry and Jake watch out because
+[00:16:56] my Cal AI
+[00:16:57] is going to destroy the market.
+[00:16:59] I'm going to make way more money than you and you guys suck.
+[00:17:03] I'm going to go back here.
+[00:17:04] That is come on now.
+[00:17:05] All right.
+[00:17:06] Awesome boys.
+[00:17:07] We have something tangible.
+[00:17:09] Now there are, there are a bunch of improvements and changes you can make.
+[00:17:13] How much of it is totally relevant?
+[00:17:15] I don't know, but like I'm telling you and I know this sucks, but you could
+[00:17:18] fully go
+[00:17:19] to market with this product right now and how long did it take me?
+[00:17:23] Like 17 minutes and that's just with like a bit of back and forth of AI.
+[00:17:27] 17 minutes and I've built the main feature that Cal AI made hundreds of
+[00:17:31] thousands of
+[00:17:32] dollars with.
+[00:17:34] There we go.
+[00:17:35] This is the new age of software boys.
+[00:17:36] Welcome to the fucking mafia.
+[00:17:38] New age.
+[00:17:39] Okay.
+[00:17:40] Great.
+[00:17:41] Now let's go back to our course assignment.
+[00:17:48] (keyboard clicking)
+[00:17:51] (keyboard clicking)
+[00:18:18] Alright, well it looks like that's it for the core feature.
+[00:18:23] Like we built it, boys.
+[00:18:24] We have built it.
+[00:18:25] And we can do another test real quick,
+[00:18:27] just for reference.
+[00:18:29] Let's get like ice cream.
+[00:18:31] Ice cream.
+[00:18:33] Let's see if this works as well.
+[00:18:35] So we're gonna images.
+[00:18:37] (grunts)
+[00:18:39] We'll get this ice cream, that's good.
+[00:18:41] But if it estimates the hand, that'll be so funny.
+[00:18:44] How many calories do you think are in a hand?
+[00:18:47] Alright, bomb.
+[00:18:49] Analyzing.
+[00:18:50] Let's go.
+[00:18:51] Chocolate ice cream.
+[00:18:55] There we fucking go, boys.
+[00:18:57] Okay.
+[00:18:58] Next module, we'll go through the paywall and onboarding.
+[00:19:02] And we'll show you guys how to make money and how to turn this free product,
+[00:19:06] and easy to use product, paywall it.
+[00:19:09] And then before the paywall just convince people why this is relevant to them,
+[00:19:12] and why they should pay.
+[00:19:14] See you, boys.
+[00:19:15] [BLANK_AUDIO]

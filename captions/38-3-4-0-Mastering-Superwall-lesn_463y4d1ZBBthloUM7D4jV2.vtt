@@ -1,0 +1,1757 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.080
+Hey everyone, welcome back to the development module. Today we'll be going over
+
+2
+00:00:04.080 --> 00:00:05.120
+how to master
+
+3
+00:00:05.120 --> 00:00:10.200
+Superwall. Superwall is the paywall provider and is how you'll be tracking your
+
+4
+00:00:10.200 --> 00:00:11.520
+revenue per user,
+
+5
+00:00:11.520 --> 00:00:16.320
+your lifetime value, your AV testing, how many people actually reaching the pay
+
+6
+00:00:16.320 --> 00:00:16.560
+wall,
+
+7
+00:00:16.560 --> 00:00:22.400
+testing pricing, etc. And it's very essential in order to be really profitable
+
+8
+00:00:22.400 --> 00:00:23.200
+and to improve
+
+9
+00:00:23.200 --> 00:00:27.250
+everything else in the business side of things. So this is less about the
+
+10
+00:00:27.250 --> 00:00:27.600
+product,
+
+11
+00:00:27.600 --> 00:00:31.520
+more about the business side of things. So we'll go straight for it. This is
+
+12
+00:00:31.520 --> 00:00:32.640
+the Superwall dashboard
+
+13
+00:00:32.640 --> 00:00:36.920
+at Superwall.com. I'm already logged in, but if you're not logged in yet, just
+
+14
+00:00:36.920 --> 00:00:38.320
+like create an account,
+
+15
+00:00:38.320 --> 00:00:43.310
+very simple stuff. So I'll run you through the main dashboard. Top left is the
+
+16
+00:00:43.310 --> 00:00:44.480
+proceeds today.
+
+17
+00:00:44.480 --> 00:00:48.960
+So it's the amount of revenue minus Apple's cart, whether that be 15 or 30%.
+
+18
+00:00:48.960 --> 00:00:49.840
+They take 30%
+
+19
+00:00:49.840 --> 00:00:55.610
+from me. So my gross today is about maybe 11 or 12k. And after their taxes, we
+
+20
+00:00:55.610 --> 00:00:56.400
+'re sitting at like
+
+21
+00:00:56.400 --> 00:01:00.800
+8.2k for the day, which isn't great. But hey, like is what it is. That's not
+
+22
+00:01:00.800 --> 00:01:01.440
+fucking important
+
+23
+00:01:01.440 --> 00:01:05.580
+right now. Okay, so new users. This is how many people in the last 24 hours
+
+24
+00:01:05.580 --> 00:01:06.480
+have downloaded your
+
+25
+00:01:06.480 --> 00:01:11.930
+app. So about free 3.2k. This is how many people have converted in the last 24
+
+26
+00:01:11.930 --> 00:01:13.360
+hours, including free
+
+27
+00:01:13.360 --> 00:01:17.010
+trials. So it can be a bit misleading at times. I have a hard paywall, but for
+
+28
+00:01:17.010 --> 00:01:18.160
+under 18s, as you
+
+29
+00:01:18.160 --> 00:01:21.610
+can see, we have a free trial. So that's why only two hundred like 200
+
+30
+00:01:21.610 --> 00:01:22.960
+conversions, which is quite
+
+31
+00:01:22.960 --> 00:01:27.650
+a lot, only a mass to $700, which is like $3 per user. It doesn't make sense.
+
+32
+00:01:27.650 --> 00:01:28.480
+That's because there's
+
+33
+00:01:28.480 --> 00:01:33.210
+a free trial. And yeah, very simple stuff. The next one is initial conversions.
+
+34
+00:01:33.210 --> 00:01:34.240
+So how many people
+
+35
+00:01:34.240 --> 00:01:38.110
+downloaded the app within the last 24 hours that ended up paying within the 24
+
+36
+00:01:38.110 --> 00:01:39.120
+hours. This number
+
+37
+00:01:39.120 --> 00:01:42.760
+here is like, like, how many people today have converted, they could have
+
+38
+00:01:42.760 --> 00:01:44.000
+downloaded it last week
+
+39
+00:01:44.000 --> 00:01:47.660
+or the week before, whatever. So the payroll rate is also very important metric
+
+40
+00:01:47.660 --> 00:01:48.720
+. The payroll rate
+
+41
+00:01:48.720 --> 00:01:53.360
+displays what percent of users that have downloaded your app ended up reaching
+
+42
+00:01:53.360 --> 00:01:55.600
+the paywall. And usually
+
+43
+00:01:55.600 --> 00:01:59.790
+with a long onboarding, you can expect a high drop off. You want to be around
+
+44
+00:01:59.790 --> 00:02:01.440
+the 85 to 90% range.
+
+45
+00:02:01.440 --> 00:02:05.920
+That's like the sweet spot. At the same time, I'm not too bothered with 83%
+
+46
+00:02:05.920 --> 00:02:06.640
+because all the people
+
+47
+00:02:06.640 --> 00:02:09.910
+that had low intent and weren't going to buy from you anyway would have dropped
+
+48
+00:02:09.910 --> 00:02:10.800
+off. All of these
+
+49
+00:02:10.800 --> 00:02:15.070
+people came to the end and they were super prep to pay. And that's why our
+
+50
+00:02:15.070 --> 00:02:16.880
+conversion rate is about 20%.
+
+51
+00:02:18.480 --> 00:02:22.000
+Which is on the far right side. Take a sip of water real quick.
+
+52
+00:02:22.000 --> 00:02:33.200
+Okay, so let's get started. This is Quidders Breakdown. And what we do is we
+
+53
+00:02:33.200 --> 00:02:34.240
+present paywalls
+
+54
+00:02:34.240 --> 00:02:39.790
+by age. So on the back end, and I'll show you how to do this as well, we pretty
+
+55
+00:02:39.790 --> 00:02:40.960
+much ask for your
+
+56
+00:02:40.960 --> 00:02:45.780
+age during the onboarding. And whatever age you're in will display a custom pay
+
+57
+00:02:45.780 --> 00:02:46.880
+wall. Now, we don't
+
+58
+00:02:46.880 --> 00:02:50.720
+necessarily change the prices because that might be against their terms of
+
+59
+00:02:50.720 --> 00:02:52.960
+service. But what we do
+
+60
+00:02:52.960 --> 00:02:58.420
+do, what we do do, but what we do is we see the conversion rates of different
+
+61
+00:02:58.420 --> 00:02:59.920
+age groups. And we
+
+62
+00:02:59.920 --> 00:03:03.450
+didn't do this for a long time. But ever since we started doing it, I've been
+
+63
+00:03:03.450 --> 00:03:04.400
+learning a hell of a
+
+64
+00:03:04.400 --> 00:03:07.530
+lot more about our demographic and like how much intent there is based on
+
+65
+00:03:07.530 --> 00:03:08.720
+different age ranges.
+
+66
+00:03:08.720 --> 00:03:13.990
+So for example, age 23 to 28 seemingly has one of the highest conversion rates
+
+67
+00:03:13.990 --> 00:03:15.200
+at 17.6%
+
+68
+00:03:16.000 --> 00:03:23.600
+paying. So under 18, 17.2%, but they're free trial. So getting like almost 18%
+
+69
+00:03:23.600 --> 00:03:24.880
+paying is insane.
+
+70
+00:03:24.880 --> 00:03:28.790
+And shows that this is the age demographic that we should be focusing on. And
+
+71
+00:03:28.790 --> 00:03:29.440
+this really helps
+
+72
+00:03:29.440 --> 00:03:33.510
+it on marketing because let's say we know this is the most profitable niche,
+
+73
+00:03:33.510 --> 00:03:35.120
+most profitable age
+
+74
+00:03:35.120 --> 00:03:41.190
+range. I'm just going to find creators that serve viewers in that age range. Or
+
+75
+00:03:41.190 --> 00:03:42.000
+I'm going to target
+
+76
+00:03:42.000 --> 00:03:46.130
+Facebook and meta ads in that age range and eventually be more profitable. Very
+
+77
+00:03:46.130 --> 00:03:47.040
+, very simple stuff.
+
+78
+00:03:47.040 --> 00:03:53.320
+What's also interesting to know is under 18, at least for my app. So this is
+
+79
+00:03:53.320 --> 00:03:54.880
+very like subjective.
+
+80
+00:03:54.880 --> 00:03:59.850
+But for my app, most of the traffic comes from under 18. Whereas like even
+
+81
+00:03:59.850 --> 00:04:00.320
+though
+
+82
+00:04:00.320 --> 00:04:07.360
+23 to 28 year olds bring in the most revenue, under 18 serve as a massive
+
+83
+00:04:07.360 --> 00:04:09.200
+massive like service
+
+84
+00:04:09.200 --> 00:04:14.320
+massive volume for downloads. All right. So now how do you start testing and
+
+85
+00:04:14.320 --> 00:04:14.880
+what are the key
+
+86
+00:04:14.880 --> 00:04:19.200
+metrics to look for when it comes to testing different payables or pricing? So
+
+87
+00:04:19.200 --> 00:04:20.240
+the first thing I do
+
+88
+00:04:20.240 --> 00:04:23.820
+when I'm beginning is start out in the templates category. So on the left side
+
+89
+00:04:23.820 --> 00:04:24.640
+of Superwall over
+
+90
+00:04:24.640 --> 00:04:28.370
+here, there is a botting called templates. Click onto that and look for
+
+91
+00:04:28.370 --> 00:04:30.320
+something that interests you.
+
+92
+00:04:30.320 --> 00:04:34.080
+So what you're looking for is something that appeals to your company. So if
+
+93
+00:04:34.080 --> 00:04:34.640
+this consumer
+
+94
+00:04:34.640 --> 00:04:39.150
+utility, for example, I'd copy this one, homework AI, it's very clear, very
+
+95
+00:04:39.150 --> 00:04:40.400
+simple. Or if it's like
+
+96
+00:04:40.400 --> 00:04:45.450
+a chat based app, maybe I choose the step saga, this one right here. Or you
+
+97
+00:04:45.450 --> 00:04:47.200
+know, you can make it
+
+98
+00:04:47.200 --> 00:04:49.900
+whatever you want, depending on the design of your app, depending on the
+
+99
+00:04:49.900 --> 00:04:51.200
+demographic of targeting,
+
+100
+00:04:51.200 --> 00:04:55.850
+choose anything that interests you is not really a big deal. We'll be testing
+
+101
+00:04:55.850 --> 00:04:56.800
+these payables anyway.
+
+102
+00:04:56.800 --> 00:05:00.230
+So if one doesn't convert, we can always test another. We can test a bunch of
+
+103
+00:05:00.230 --> 00:05:00.960
+conjunction.
+
+104
+00:05:00.960 --> 00:05:05.760
+And you can find out what's the most optimal for you. So what Super does with
+
+105
+00:05:05.760 --> 00:05:06.400
+these templates,
+
+106
+00:05:06.400 --> 00:05:11.700
+by the way, is all the successful apps found in paywallscreens.com. So they've
+
+107
+00:05:11.700 --> 00:05:12.560
+compiled a
+
+108
+00:05:12.560 --> 00:05:16.300
+bunch of different payables. They've also listed the revenue these apps are
+
+109
+00:05:16.300 --> 00:05:17.360
+making. You probably
+
+110
+00:05:17.360 --> 00:05:22.240
+find Twitter here, I'm sure as well. Yep. Well, it says I'm making 30k a month,
+
+111
+00:05:22.240 --> 00:05:23.120
+which isn't true.
+
+112
+00:05:23.120 --> 00:05:28.740
+But this is one of our old payables. And it's like, or maybe Kali, I will use
+
+113
+00:05:28.740 --> 00:05:30.080
+Kali for this example.
+
+114
+00:05:30.080 --> 00:05:33.920
+So it says, I'm making 200k a month. But this is the paywall that we're using.
+
+115
+00:05:33.920 --> 00:05:39.130
+And you know, it's very simple. And you can copy it in the templates category.
+
+116
+00:05:39.130 --> 00:05:39.760
+So for example,
+
+117
+00:05:39.760 --> 00:05:43.600
+the quitter one is right here is called capture AI for some reason. But it's
+
+118
+00:05:43.600 --> 00:05:44.880
+fine. All you need to do
+
+119
+00:05:44.880 --> 00:05:48.560
+is just click on it and then click use template. But because we're doing a Kali
+
+120
+00:05:48.560 --> 00:05:49.360
+iCloud, I want to
+
+121
+00:05:49.360 --> 00:05:54.320
+make, I want to pick a paywall that's kind of better for that. So I'm going to
+
+122
+00:05:54.320 --> 00:05:54.880
+choose.
+
+123
+00:05:54.880 --> 00:06:05.610
+I think I'm going to do the homework AI one. So scroll back up to the top of
+
+124
+00:06:05.610 --> 00:06:06.480
+homework AI is
+
+125
+00:06:06.480 --> 00:06:13.040
+and click on it, click use template. Super simple. Next, it'll show you like a
+
+126
+00:06:13.040 --> 00:06:14.400
+figment kind of breakdown
+
+127
+00:06:14.400 --> 00:06:19.100
+of like what all the elements are. All you need to do is change the text. So I
+
+128
+00:06:19.100 --> 00:06:19.760
+'m going to call this
+
+129
+00:06:19.760 --> 00:06:26.470
+Cal AI at the top. Cal AI is not pro, but we'll keep it. And then the bullet
+
+130
+00:06:26.470 --> 00:06:28.080
+points. So I'm going to
+
+131
+00:06:28.080 --> 00:06:40.740
+write track calories in one snap. Lose weight, easy and fast. And of course,
+
+132
+00:06:40.740 --> 00:06:41.920
+Hunter or Blake would
+
+133
+00:06:41.920 --> 00:06:45.720
+have covered this in the design section. But you want to kind of show language
+
+134
+00:06:45.720 --> 00:06:46.400
+where it's like,
+
+135
+00:06:46.400 --> 00:06:50.320
+okay, I'm reading this paywall screen. This app is going to change my life. I'm
+
+136
+00:06:50.320 --> 00:06:50.800
+going to track
+
+137
+00:06:50.800 --> 00:06:53.910
+calories. I'm going to lose weight easily. I'm going to become the best version
+
+138
+00:06:53.910 --> 00:06:54.800
+of myself. All I've
+
+139
+00:06:54.800 --> 00:07:00.430
+got to do is pay $20 a year. And if you convince that across, then you're going
+
+140
+00:07:00.430 --> 00:07:01.920
+to be super successful.
+
+141
+00:07:01.920 --> 00:07:05.040
+But again, like we're going to show you how to test these different paywall
+
+142
+00:07:05.040 --> 00:07:05.600
+suit. You're not
+
+143
+00:07:05.600 --> 00:07:09.600
+working in the dark. I always recommend striving for data. So that's exactly
+
+144
+00:07:09.600 --> 00:07:10.400
+what we're going to be
+
+145
+00:07:10.400 --> 00:07:14.800
+doing. So look, I picked the paywall. I'm going to pick up product. So product
+
+146
+00:07:14.800 --> 00:07:15.440
+also contains a
+
+147
+00:07:15.440 --> 00:07:19.320
+price. So they kind of look the same thing. So I'm going to choose like, let's
+
+148
+00:07:19.320 --> 00:07:21.120
+say for 99 a week,
+
+149
+00:07:21.120 --> 00:07:26.000
+or secondary, maybe 1499 a month. And I'm curious, like which one's going to
+
+150
+00:07:26.000 --> 00:07:26.800
+convert the most,
+
+151
+00:07:26.800 --> 00:07:30.240
+like what what product is going to sell the most? Very simple. Just save this.
+
+152
+00:07:38.960 --> 00:07:43.680
+Go to campaigns, create new campaign. And let's call it paywall test.
+
+153
+00:07:43.680 --> 00:07:49.530
+Next thing I want to do is click onto no payables, add paywall, and then just
+
+154
+00:07:49.530 --> 00:07:50.400
+add the most recent
+
+155
+00:07:50.400 --> 00:07:56.000
+ones. So it's the homework AI template. So now that's showing to 100% of users,
+
+156
+00:07:56.000 --> 00:07:56.560
+and the results
+
+157
+00:07:56.560 --> 00:08:00.880
+breakdown will be on this category. So what I want to do now is make a more
+
+158
+00:08:00.880 --> 00:08:02.160
+informed decision.
+
+159
+00:08:02.160 --> 00:08:06.390
+So how do I do that? I go back to templates. Oh, sorry, I go back to payables.
+
+160
+00:08:06.390 --> 00:08:07.280
+I click this duplicate
+
+161
+00:08:07.280 --> 00:08:13.920
+button right here, duplicate. And then I just duplicate it. I'm going to call
+
+162
+00:08:13.920 --> 00:08:14.320
+this
+
+163
+00:08:14.320 --> 00:08:22.960
+2999 a year test. Of course, by the way, you need all these products already
+
+164
+00:08:22.960 --> 00:08:23.840
+built out in
+
+165
+00:08:23.840 --> 00:08:26.880
+App Store Connect, which I'm sure you had to do in a previous step. So all you
+
+166
+00:08:26.880 --> 00:08:28.160
+need to do is go back
+
+167
+00:08:28.160 --> 00:08:31.470
+to App Store Connect, go back to subscriptions, and then create a new
+
+168
+00:08:31.470 --> 00:08:32.640
+subscription and then
+
+169
+00:08:32.640 --> 00:08:37.030
+just write whatever price you want to test. Let that get approved by Apple
+
+170
+00:08:37.030 --> 00:08:38.000
+takes probably less
+
+171
+00:08:38.000 --> 00:08:41.350
+than a day. Then you can use it in Super one start testing, pretty simple stuff
+
+172
+00:08:41.350 --> 00:08:43.520
+. So okay,
+
+173
+00:08:43.520 --> 00:08:51.600
+now we've completely duplicated the paywall. So this minimizes other factors.
+
+174
+00:08:51.600 --> 00:08:52.720
+So for example,
+
+175
+00:08:52.720 --> 00:08:56.310
+if I were to test a different payroll design with a different price, then I'm
+
+176
+00:08:56.310 --> 00:08:56.960
+playing with two
+
+177
+00:08:56.960 --> 00:09:03.040
+factors. Maybe the original homework AI template would have been better because
+
+178
+00:09:03.040 --> 00:09:04.000
+of the pricing,
+
+179
+00:09:04.000 --> 00:09:08.660
+but because I changed the design on this one, this performs better. Makes sense
+
+180
+00:09:08.660 --> 00:09:09.840
+? So even though
+
+181
+00:09:09.840 --> 00:09:13.320
+the pricing is cheaper, and everyone's looking at the ARPU and they're like, oh
+
+182
+00:09:13.320 --> 00:09:14.240
+, the average revenue
+
+183
+00:09:14.240 --> 00:09:17.830
+per user is actually increased because you've had an additional factor, you're
+
+184
+00:09:17.830 --> 00:09:18.560
+not going to have
+
+185
+00:09:18.560 --> 00:09:24.820
+a clear answer on what is the most optimal paywall setup for you. But anyways,
+
+186
+00:09:24.820 --> 00:09:25.440
+back to the products.
+
+187
+00:09:25.440 --> 00:09:29.520
+I'm going to change the product to 29, 1990 year, and then I'm going to keep
+
+188
+00:09:29.520 --> 00:09:30.400
+the monthly price.
+
+189
+00:09:30.400 --> 00:09:34.720
+I'm going to do the weekly price because it's more penetrable now. It's like,
+
+190
+00:09:34.720 --> 00:09:35.600
+okay, you can pay
+
+191
+00:09:35.600 --> 00:09:43.300
+499 a week, which adds up to like $20 a month, or you can pay 29, 99 and get
+
+192
+00:09:43.300 --> 00:09:45.040
+the entire year.
+
+193
+00:09:45.040 --> 00:09:50.480
+So this is a great test. Because you're kind of covering all areas, and you'll
+
+194
+00:09:50.480 --> 00:09:51.040
+find out very
+
+195
+00:09:51.040 --> 00:09:54.090
+fast what your demographic is and what they were paid for, what they were
+
+196
+00:09:54.090 --> 00:09:55.600
+afford. So boom, we saved
+
+197
+00:09:55.600 --> 00:10:04.270
+that. And go back into campaigns, go to the new one called paywall test, and
+
+198
+00:10:04.270 --> 00:10:06.160
+then just click add
+
+199
+00:10:06.160 --> 00:10:11.600
+paywall and select the brand new 29, 99 year test or whatever you called it.
+
+200
+00:10:11.600 --> 00:10:13.440
+Now, usually I would
+
+201
+00:10:13.440 --> 00:10:18.730
+do an 80 20 split. If I have a preexisting successful paywall because I don't
+
+202
+00:10:18.730 --> 00:10:20.000
+want to mess up revenue
+
+203
+00:10:20.000 --> 00:10:26.190
+too much, but because these are fresh brand new, I'm willing to do 50 50 and
+
+204
+00:10:26.190 --> 00:10:28.640
+see which out of the
+
+205
+00:10:28.640 --> 00:10:33.360
+50% of traffic generates the most revenue. So I just click save, save again,
+
+206
+00:10:33.360 --> 00:10:36.640
+and boom. Now,
+
+207
+00:10:36.640 --> 00:10:41.200
+anytime you run this campaign, so by the way, so you've got to do placements.
+
+208
+00:10:41.200 --> 00:10:41.600
+And this is what
+
+209
+00:10:41.600 --> 00:10:44.830
+you call the campaign name. So I'm going to call it paywall test, for example,
+
+210
+00:10:44.830 --> 00:10:45.840
+create paywall test.
+
+211
+00:10:47.040 --> 00:10:52.830
+And whenever you call that in the Kali i code, so super wall dot, present,
+
+212
+00:10:52.830 --> 00:10:54.000
+shared up register.
+
+213
+00:10:54.000 --> 00:11:00.870
+So you have to make sure this now says make it bigger, paywall test. And you'll
+
+214
+00:11:00.870 --> 00:11:01.040
+see,
+
+215
+00:11:01.040 --> 00:11:06.480
+when we get back to coding later, that this will now display this campaign with
+
+216
+00:11:06.480 --> 00:11:07.680
+the split testing.
+
+217
+00:11:07.680 --> 00:11:11.250
+And now ever anyone that downloads the app will see the either these two pay
+
+218
+00:11:11.250 --> 00:11:11.680
+ables.
+
+219
+00:11:13.520 --> 00:11:18.000
+Okay, great. That's the setup. Now what we want to do is wait for the data to
+
+220
+00:11:18.000 --> 00:11:18.880
+start rolling in so
+
+221
+00:11:18.880 --> 00:11:22.000
+you can make a better informed decision about which one you want to keep. And
+
+222
+00:11:22.000 --> 00:11:22.960
+then you can drive more
+
+223
+00:11:22.960 --> 00:11:27.080
+traffic to a different one. And then you can do additional additional more
+
+224
+00:11:27.080 --> 00:11:28.880
+tests. Very simple.
+
+225
+00:11:28.880 --> 00:11:35.140
+Again, I would suggest maybe different design this time rather than different
+
+226
+00:11:35.140 --> 00:11:36.560
+pricing. So if
+
+227
+00:11:36.560 --> 00:11:40.740
+you've tested the pricing, now it's time to test design. And I'd pick something
+
+228
+00:11:40.740 --> 00:11:41.840
+completely different,
+
+229
+00:11:41.840 --> 00:11:45.830
+maybe something that has a graphic on it, maybe something that feels more
+
+230
+00:11:45.830 --> 00:11:46.400
+engaging.
+
+231
+00:11:46.400 --> 00:11:52.480
+Like this, for example, and then we change the text to track calories, do, do,
+
+232
+00:11:52.480 --> 00:11:52.960
+do, do, do,
+
+233
+00:11:52.960 --> 00:11:55.920
+and then we change the pricing, maybe offer free trial, whatever, whatever,
+
+234
+00:11:55.920 --> 00:11:56.640
+whatever.
+
+235
+00:11:56.640 --> 00:11:59.960
+Pretty simple. I've explained the steps you can just choose which product you
+
+236
+00:11:59.960 --> 00:12:00.400
+prefer.
+
+237
+00:12:00.400 --> 00:12:07.260
+And do the same thing. Go back into campaigns, go back into paywall test, go
+
+238
+00:12:07.260 --> 00:12:08.400
+into payables and
+
+239
+00:12:08.400 --> 00:12:14.880
+just add this brand new paywall. And then click the pen, change the amount of
+
+240
+00:12:14.880 --> 00:12:15.280
+people you want to
+
+241
+00:12:15.280 --> 00:12:19.400
+see the new paywall and boom, let the data start rolling in. What I would
+
+242
+00:12:19.400 --> 00:12:21.200
+recommend is
+
+243
+00:12:21.200 --> 00:12:29.690
+wait for like a thousand users. Okay, usually at my scale, I'd wait for like a
+
+244
+00:12:29.690 --> 00:12:30.560
+thousand to maybe
+
+245
+00:12:30.560 --> 00:12:34.430
+three thousand users per make a decision, whatever a payroll is good. What's
+
+246
+00:12:34.430 --> 00:12:35.600
+not good is if you make
+
+247
+00:12:35.600 --> 00:12:43.310
+a decision based on limited data. So for example, if I have extremely high
+
+248
+00:12:43.310 --> 00:12:45.040
+quality traffic, like
+
+249
+00:12:45.040 --> 00:12:49.610
+I've nurtured, I've like paid an influencer, a lot of people trust this influ
+
+250
+00:12:49.610 --> 00:12:50.560
+encer. And now they
+
+251
+00:12:50.560 --> 00:12:55.550
+have a bunch of traffic coming in, but is really high in 10. And then this pay
+
+252
+00:12:55.550 --> 00:12:56.480
+wall is of course
+
+253
+00:12:56.480 --> 00:13:01.550
+doing super, super well. Like how much of that can you attribute to the traffic
+
+254
+00:13:01.550 --> 00:13:01.920
+rather than the
+
+255
+00:13:01.920 --> 00:13:06.260
+actual paywall? So this is why you should wait an extended period of time
+
+256
+00:13:06.260 --> 00:13:07.840
+before coming to conclusions
+
+257
+00:13:07.840 --> 00:13:12.320
+about what is the most optimal setup for you. And I would never get stagnant. I
+
+258
+00:13:12.320 --> 00:13:13.120
+would always be
+
+259
+00:13:13.120 --> 00:13:18.880
+testing. I'd always be trying new things because like at my scale now, so I
+
+260
+00:13:18.880 --> 00:13:19.920
+make half a million
+
+261
+00:13:19.920 --> 00:13:26.030
+dollars a month, like a small 10% increase is $50,000 of additional bottom line
+
+262
+00:13:26.030 --> 00:13:27.120
+revenue every single
+
+263
+00:13:27.120 --> 00:13:35.180
+month. So that's just some perspective. And 10% on a $20 plan is an extra $2.
+
+264
+00:13:35.180 --> 00:13:36.000
+Like it seems very
+
+265
+00:13:36.000 --> 00:13:41.450
+marginal or nominal, but it adds up big time. And an extra 10% at Cali ice
+
+266
+00:13:41.450 --> 00:13:43.440
+level is like half a million
+
+267
+00:13:43.440 --> 00:13:51.510
+to $350,000 a month. So just an example. So yeah, I'm going to show you now how
+
+268
+00:13:51.510 --> 00:13:52.640
+to study the data
+
+269
+00:13:52.640 --> 00:13:57.140
+and how to make the informed decisions. And of course, I can't load a bunch of
+
+270
+00:13:57.140 --> 00:13:57.920
+data to this
+
+271
+00:13:57.920 --> 00:14:01.880
+because I'm not going to launch this paywall. But I can show you some tests I
+
+272
+00:14:01.880 --> 00:14:02.960
+'ve ran and how I
+
+273
+00:14:02.960 --> 00:14:09.600
+justify what is doing well and what isn't doing well. So we'll go to the 50 off
+
+274
+00:14:09.600 --> 00:14:11.680
+the discount button.
+
+275
+00:14:11.680 --> 00:14:18.280
+And we have three different tests. Well, we have two tests. So we'll look at
+
+276
+00:14:18.280 --> 00:14:19.600
+both of these. So one
+
+277
+00:14:19.600 --> 00:14:23.760
+of the tests is you open a special gift. It's very like engaging, super, super
+
+278
+00:14:23.760 --> 00:14:24.880
+engaging. And then you
+
+279
+00:14:24.880 --> 00:14:29.470
+click claim your lemon sit off for now. The other one is getting hit straight
+
+280
+00:14:29.470 --> 00:14:30.720
+with a one time offer,
+
+281
+00:14:30.720 --> 00:14:34.500
+very clean, you have a countdown on the screen, counting down from five minutes
+
+282
+00:14:34.500 --> 00:14:35.360
+, claim your offer
+
+283
+00:14:35.360 --> 00:14:39.700
+now. And yeah, let's see if there's a pricing difference as well. No, same
+
+284
+00:14:39.700 --> 00:14:41.760
+price. But these are
+
+285
+00:14:41.760 --> 00:14:45.660
+the tests of just a design test. And we'll go to the results tab. And you can
+
+286
+00:14:45.660 --> 00:14:46.800
+see very clearly the
+
+287
+00:14:46.800 --> 00:14:50.820
+different results. So if we ignore this one, let's just, let's just do these
+
+288
+00:14:50.820 --> 00:14:51.840
+two. So folks on the
+
+289
+00:14:51.840 --> 00:15:03.520
+ones that have checked, the one with the present is making like 10%, 15% less
+
+290
+00:15:03.520 --> 00:15:05.200
+than the instant one
+
+291
+00:15:05.200 --> 00:15:11.110
+time off of a five minute countdown. You see that? And that's because I'm
+
+292
+00:15:11.110 --> 00:15:13.120
+judging the ARPU,
+
+293
+00:15:13.120 --> 00:15:17.270
+which I believe is the most important metric because this means how much
+
+294
+00:15:17.270 --> 00:15:18.800
+revenue are you generating
+
+295
+00:15:18.800 --> 00:15:25.680
+per viewer? So like, let's say 10 people viewed a screen and, you know, one
+
+296
+00:15:25.680 --> 00:15:26.800
+paid $20,
+
+297
+00:15:26.800 --> 00:15:32.440
+you're making $2 per view, which is about exactly what this is making. So on
+
+298
+00:15:32.440 --> 00:15:33.520
+that note,
+
+299
+00:15:33.520 --> 00:15:39.870
+if your goal is revenue, getting the ARPU up as much as possible, even if that
+
+300
+00:15:39.870 --> 00:15:40.560
+means the
+
+301
+00:15:40.560 --> 00:15:44.160
+conversion rate suffers isn't an issue. So you can see there's like a free
+
+302
+00:15:44.160 --> 00:15:44.880
+percent difference
+
+303
+00:15:44.880 --> 00:15:48.150
+between this conversion rate and the other conversion rate between this
+
+304
+00:15:48.150 --> 00:15:49.360
+discount. So this
+
+305
+00:15:49.360 --> 00:15:55.680
+seems better. And it actually is better. Sorry, that actually is better as a
+
+306
+00:15:55.680 --> 00:15:56.800
+high conversion rate.
+
+307
+00:15:56.800 --> 00:15:59.590
+And it makes more money per user, which kind of makes sense. Because if you
+
+308
+00:15:59.590 --> 00:16:00.480
+have a high conversion
+
+309
+00:16:00.480 --> 00:16:03.910
+rate, usually more people are paying, which means it's more revenue per user.
+
+310
+00:16:03.910 --> 00:16:04.480
+So actually,
+
+311
+00:16:04.480 --> 00:16:08.960
+yeah, no, this is right. But in some instances, like this top one, and I know
+
+312
+00:16:08.960 --> 00:16:10.480
+we have limited data,
+
+313
+00:16:10.480 --> 00:16:15.280
+but this is an 8.7% conversion rate. So very low compared to the others, but it
+
+314
+00:16:15.280 --> 00:16:16.560
+has 2.24
+
+315
+00:16:16.560 --> 00:16:22.550
+estimated dollars revenue per user. Very interesting stuff. So even though this
+
+316
+00:16:22.550 --> 00:16:23.520
+is almost half,
+
+317
+00:16:23.520 --> 00:16:29.600
+it's still making more than the previous one. So again, to cut frame, if you're
+
+318
+00:16:29.600 --> 00:16:30.400
+optimizing for
+
+319
+00:16:30.400 --> 00:16:33.990
+revenue, if you're trying to make as much money as possible, focus on ARPU,
+
+320
+00:16:33.990 --> 00:16:34.960
+even if that means
+
+321
+00:16:34.960 --> 00:16:42.170
+the expense of conversion rate. Even if that means like you sell $100 a year
+
+322
+00:16:42.170 --> 00:16:43.760
+and only 5% of people
+
+323
+00:16:43.760 --> 00:16:50.880
+pay for it, but you make way more money per user, because if you were selling
+
+324
+00:16:50.880 --> 00:16:52.880
+like $5 a week plan,
+
+325
+00:16:52.880 --> 00:16:56.440
+you would have maybe a super high conversion rate, but your average revenue per
+
+326
+00:16:56.440 --> 00:16:57.040
+user wouldn't be
+
+327
+00:16:57.040 --> 00:17:02.700
+that high, which means it maps out that the $100 a year would be way more
+
+328
+00:17:02.700 --> 00:17:04.160
+beneficial for you if
+
+329
+00:17:04.160 --> 00:17:09.160
+you're focusing on revenue. Actually, boom, just forgot massive, massive,
+
+330
+00:17:09.160 --> 00:17:10.240
+massive thing. I'm going
+
+331
+00:17:10.240 --> 00:17:22.050
+to tell you guys one sec. All right, lock in, we're not done. I'm about to make
+
+332
+00:17:22.050 --> 00:17:24.000
+you thousands of
+
+333
+00:17:24.000 --> 00:17:33.150
+dollars more a day at scale, or at least boost your revenue by 20 to 25 to 40%.
+
+334
+00:17:33.150 --> 00:17:34.560
+It's that drastic
+
+335
+00:17:34.560 --> 00:17:40.030
+voice. It's that drastic. Ready? You see this top campaign transaction
+
+336
+00:17:40.030 --> 00:17:41.600
+abandoned right here?
+
+337
+00:17:42.960 --> 00:17:55.110
+Yeah. So this has a 25 or 23.1% conversion rate. That means one in four people
+
+338
+00:17:55.110 --> 00:17:56.240
+pay
+
+339
+00:17:56.240 --> 00:18:03.520
+when they see this screen. That's how overpowered it is. So I'm going to tell
+
+340
+00:18:03.520 --> 00:18:05.120
+you what it does,
+
+341
+00:18:05.120 --> 00:18:10.310
+how to set it up, and a really good pay wall for it. Okay, let's go. So what
+
+342
+00:18:10.310 --> 00:18:10.640
+you do
+
+343
+00:18:11.680 --> 00:18:17.020
+is you go to campaigns, new campaign, and you search, you just call this what
+
+344
+00:18:17.020 --> 00:18:17.600
+transaction
+
+345
+00:18:17.600 --> 00:18:21.000
+abandoned. I'm going to call it transaction abandoned too, because I already
+
+346
+00:18:21.000 --> 00:18:21.600
+have one. And
+
+347
+00:18:21.600 --> 00:18:29.520
+if it placements, you do transaction abandoned. Okay, so this is a default
+
+348
+00:18:29.520 --> 00:18:31.680
+super wall event name,
+
+349
+00:18:31.680 --> 00:18:34.160
+and you don't need to make it yourself. And you can already see the amount of
+
+350
+00:18:34.160 --> 00:18:34.560
+people that
+
+351
+00:18:34.560 --> 00:18:38.560
+triggered this event the last 24 hours, which is approximately 2000 people. Now
+
+352
+00:18:38.560 --> 00:18:39.600
+, what this means
+
+353
+00:18:39.600 --> 00:18:44.330
+is anyone that's clicked on the paywall and has clicks continue and like Apple
+
+354
+00:18:44.330 --> 00:18:44.960
+have prompted them
+
+355
+00:18:44.960 --> 00:18:51.810
+to pay. And then, and then they change their mind and tap out of it. Yeah, they
+
+356
+00:18:51.810 --> 00:18:53.040
+get hit with a
+
+357
+00:18:53.040 --> 00:18:58.480
+second payroll, which has a massive discount. And it's usually around 50%. Now
+
+358
+00:18:58.480 --> 00:18:59.920
+these people are
+
+359
+00:18:59.920 --> 00:19:03.470
+extremely high in 10 because they were about to pay. Maybe you don't know why
+
+360
+00:19:03.470 --> 00:19:04.480
+they didn't pay,
+
+361
+00:19:04.480 --> 00:19:09.170
+but maybe pricing was an issue. So the whole strategy of you've made this
+
+362
+00:19:09.170 --> 00:19:10.320
+campaign, which I'll
+
+363
+00:19:10.320 --> 00:19:15.280
+show you this one, is to hit them with like a FOMO offer. So this is my FOMO
+
+364
+00:19:15.280 --> 00:19:17.280
+offer. One time
+
+365
+00:19:17.280 --> 00:19:22.810
+offer, 80% off forever. And very intentional language. This offer won't be
+
+366
+00:19:22.810 --> 00:19:24.080
+there once you close it.
+
+367
+00:19:24.080 --> 00:19:31.520
+You see this right here? Very, very intentional. Now what this does is,
+
+368
+00:19:32.720 --> 00:19:36.150
+you know, imagine, imagine the flow. Someone's about to pay for the Kali I
+
+369
+00:19:36.150 --> 00:19:37.120
+clone we just created.
+
+370
+00:19:37.120 --> 00:19:40.400
+And they really want to check their calories. They really want to change their
+
+371
+00:19:40.400 --> 00:19:40.880
+life. They really
+
+372
+00:19:40.880 --> 00:19:45.430
+want to lose weight. But then they get hit the paywall and they're like, okay,
+
+373
+00:19:45.430 --> 00:19:46.800
+$50 a year.
+
+374
+00:19:46.800 --> 00:19:51.840
+Let's do it. Fuck it. Let's do it. Click continue. And then the dollar sign
+
+375
+00:19:51.840 --> 00:19:52.720
+comes up on the screen.
+
+376
+00:19:52.720 --> 00:19:58.560
+It says 29.99 Kali I and this is double tap to pay. And then the user's like,
+
+377
+00:20:01.200 --> 00:20:04.720
+actually, it seems like a lot of money. And I don't really spend money on apps.
+
+378
+00:20:04.720 --> 00:20:04.960
+I only
+
+379
+00:20:04.960 --> 00:20:09.300
+spend money on food and other stuff. So I'm going to tap out of this. As soon
+
+380
+00:20:09.300 --> 00:20:10.480
+as they tap out of it,
+
+381
+00:20:10.480 --> 00:20:17.610
+they get hit with the one time offer, 80% off forever. All right. And it's, it
+
+382
+00:20:17.610 --> 00:20:18.480
+just hits some of the
+
+383
+00:20:18.480 --> 00:20:25.540
+fat discount. So yeah, I mean, as the numbers don't lie, I've spoke to Zach who
+
+384
+00:20:25.540 --> 00:20:26.880
+owns Kali I,
+
+385
+00:20:26.880 --> 00:20:30.560
+it's boosted their revenue by almost 40%. It's been my main revenue driver
+
+386
+00:20:30.560 --> 00:20:31.680
+every single day.
+
+387
+00:20:31.680 --> 00:20:35.880
+And it's probably the most essential part of Superwall. If you want to be
+
+388
+00:20:35.880 --> 00:20:36.880
+successful long term.
+
+389
+00:20:36.880 --> 00:20:44.480
+One of the best decisions I've ever, ever, ever made. So I'm real quick. I'll
+
+390
+00:20:44.480 --> 00:20:45.520
+just show you a
+
+391
+00:20:45.520 --> 00:20:49.880
+template you can use for that. So if you go to templates and scroll down, this
+
+392
+00:20:49.880 --> 00:20:50.560
+should be one.
+
+393
+00:20:51.200 --> 00:20:56.320
+Okay, here's one, for example. This is a bunch of code, but it does actually
+
+394
+00:20:56.320 --> 00:20:58.000
+count down. And you
+
+395
+00:20:58.000 --> 00:21:01.600
+can kind of get ideas of one time offer, just uses template and then add it to
+
+396
+00:21:01.600 --> 00:21:02.400
+the campaign.
+
+397
+00:21:02.400 --> 00:21:05.430
+Like I've showed you previously, or this is another one, one time offer you
+
+398
+00:21:05.430 --> 00:21:06.640
+will never see this again
+
+399
+00:21:06.640 --> 00:21:11.760
+with a massive discount. And I would always discount by at least like 50%. So
+
+400
+00:21:11.760 --> 00:21:13.120
+the main paywall
+
+401
+00:21:13.120 --> 00:21:18.560
+is like the main paywall presents you with a product that costs 29, 99 a year.
+
+402
+00:21:18.560 --> 00:21:19.520
+The discount
+
+403
+00:21:19.520 --> 00:21:28.240
+gives you an offer for 19, 99 a year, which is about 50%. So yeah, anyways,
+
+404
+00:21:28.240 --> 00:21:30.000
+that is a high level
+
+405
+00:21:30.000 --> 00:21:33.460
+overview. I think I've covered all bases when it comes to Superwall. This is
+
+406
+00:21:33.460 --> 00:21:34.560
+like this, I guess,
+
+407
+00:21:34.560 --> 00:21:38.400
+the most important and essential stuff. I wouldn't over complicate it. It's
+
+408
+00:21:38.400 --> 00:21:39.200
+just, you know,
+
+409
+00:21:39.200 --> 00:21:47.010
+product, paywall, pricing, testing, data, and then you make a decision. And I
+
+410
+00:21:47.010 --> 00:21:47.600
+would recommend
+
+411
+00:21:47.600 --> 00:21:51.840
+just keep testing, keep testing, keep testing. There's always ways to optimize
+
+412
+00:21:51.840 --> 00:21:52.640
+the revenue.
+
+413
+00:21:52.640 --> 00:21:58.260
+I think I said it's previously, but like a 10% increase, like taking an LTV of
+
+414
+00:21:58.260 --> 00:21:59.760
+a user from 20,
+
+415
+00:21:59.760 --> 00:22:04.280
+20 dollars to 22 dollars is a 10% increase, which seems nominal, which seems
+
+416
+00:22:04.280 --> 00:22:04.720
+marginal,
+
+417
+00:22:04.720 --> 00:22:10.500
+but I'm making half a million a month. So 10% increase is $50,000 a month. And
+
+418
+00:22:10.500 --> 00:22:10.720
+it goes
+
+419
+00:22:11.280 --> 00:22:16.310
+like the same way for like Cali, like if they boost like conversions or boost
+
+420
+00:22:16.310 --> 00:22:17.200
+like revenue
+
+421
+00:22:17.200 --> 00:22:21.600
+by 10%, by just playing around with the paywall and the language and how they
+
+422
+00:22:21.600 --> 00:22:22.640
+are framing things,
+
+423
+00:22:22.640 --> 00:22:27.190
+that 10% increase is hundreds of thousands. That's a fucking Lamborghini
+
+424
+00:22:27.190 --> 00:22:27.520
+hurricane
+
+425
+00:22:27.520 --> 00:22:36.080
+either a month, just in like small, really easy changes. So yeah, as I said,
+
+426
+00:22:36.080 --> 00:22:36.800
+covered on my bases
+
+427
+00:22:36.800 --> 00:22:41.770
+here, it is a pretty high level overview. But this is all the important stuff.
+
+428
+00:22:41.770 --> 00:22:42.240
+And you know,
+
+429
+00:22:42.240 --> 00:22:46.130
+I've come this far, I mean, I'll show the revenue just just because I don't
+
+430
+00:22:46.130 --> 00:22:47.280
+really care. This is
+
+431
+00:22:47.280 --> 00:22:50.920
+proceeds, by the way, oh, that fucking sucks. All right, 90 days, give me
+
+432
+00:22:50.920 --> 00:22:51.760
+something juicy.
+
+433
+00:22:51.760 --> 00:22:56.600
+All right, almost a million in the last 90 days. It was better than this. We're
+
+434
+00:22:56.600 --> 00:22:57.040
+having a slow
+
+435
+00:22:57.040 --> 00:23:02.420
+month. Point is, you know, I've come this far with all the knowledge I just
+
+436
+00:23:02.420 --> 00:23:03.760
+showed of you. And as
+
+437
+00:23:03.760 --> 00:23:08.510
+you can see, transaction abandoned has made miles more than any other campaign
+
+438
+00:23:08.510 --> 00:23:09.680
+I've ever run,
+
+439
+00:23:09.680 --> 00:23:16.080
+just for perspective. So yeah, keep killing it boys. Much love. Peace.

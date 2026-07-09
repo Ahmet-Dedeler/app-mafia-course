@@ -1,0 +1,4289 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:09.120
+What's up everybody? This is module two, Viral App Design. My name is Hunter. A
+
+2
+00:00:09.120 --> 00:00:09.400
+little
+
+3
+00:00:09.400 --> 00:00:15.240
+bit of background on myself. I have been designing Viral Consumer Apps since
+
+4
+00:00:15.240 --> 00:00:19.680
+2017. My apps have
+
+5
+00:00:19.680 --> 00:00:25.780
+done over 300 million downloads. Currently have over 150 million monthly active
+
+6
+00:00:25.780 --> 00:00:26.240
+users.
+
+7
+00:00:26.240 --> 00:00:32.210
+I have generated over 100 million dollars in revenue across social, dating,
+
+8
+00:00:32.210 --> 00:00:33.280
+lifestyle,
+
+9
+00:00:33.280 --> 00:00:40.260
+fintech, many categories of apps. I've been in the game for eight years. I'm 26
+
+10
+00:00:40.260 --> 00:00:41.080
+now. I
+
+11
+00:00:41.080 --> 00:00:46.270
+started when I was just high school. So if you're a young guy or a young girl
+
+12
+00:00:46.270 --> 00:00:47.040
+watching
+
+13
+00:00:47.040 --> 00:00:55.500
+this, I was at the beginning not too long ago. It's definitely an industry that
+
+14
+00:00:55.500 --> 00:00:56.280
+you cut your
+
+15
+00:00:56.280 --> 00:01:02.950
+teeth on and you call through the mud, but it's worth it. Today I'm really
+
+16
+00:01:02.950 --> 00:01:04.720
+excited because
+
+17
+00:01:04.720 --> 00:01:09.840
+I'm going to get to talk about my favorite part of building an app, which is
+
+18
+00:01:09.840 --> 00:01:12.040
+the design.
+
+19
+00:01:12.040 --> 00:01:16.990
+We're not going to just have a Figma how-to. We're really going to talk about
+
+20
+00:01:16.990 --> 00:01:18.040
+frameworks,
+
+21
+00:01:18.040 --> 00:01:25.330
+key terms, methodologies, and really general mindset of how to build a Viral
+
+22
+00:01:25.330 --> 00:01:26.320
+App. I'm going
+
+23
+00:01:26.320 --> 00:01:31.900
+to try to get you into that mindset and you can apply these lessons and these
+
+24
+00:01:31.900 --> 00:01:32.840
+frameworks
+
+25
+00:01:32.840 --> 00:01:41.780
+across your apps and your ideas in any niche. I'm going to talk about really
+
+26
+00:01:41.780 --> 00:01:42.680
+what makes
+
+27
+00:01:42.680 --> 00:01:50.470
+an app go viral. That's the first question. What makes an app go viral? There's
+
+28
+00:01:50.470 --> 00:01:50.680
+a number
+
+29
+00:01:50.680 --> 00:01:56.080
+of things that make an app go viral. The way that I've broken it down is like
+
+30
+00:01:56.080 --> 00:01:56.800
+this. There
+
+31
+00:01:56.800 --> 00:02:01.260
+are emotional hooks and core human drivers. There's something called the Maslow
+
+32
+00:02:01.260 --> 00:02:02.040
+'s hierarchy
+
+33
+00:02:02.040 --> 00:02:06.430
+of needs. This is something that you're concept in psychology. You have the
+
+34
+00:02:06.430 --> 00:02:07.440
+bottom needs, which
+
+35
+00:02:07.440 --> 00:02:14.510
+are more basic. As you go up the pyramid, you reach self-actualization. These
+
+36
+00:02:14.510 --> 00:02:15.240
+are the
+
+37
+00:02:15.240 --> 00:02:21.050
+highest level of needs, the highest vibration needs. Apps that go viral are
+
+38
+00:02:21.050 --> 00:02:22.400
+usually targeting
+
+39
+00:02:22.400 --> 00:02:29.020
+one of these needs. Belongingness and love. That's a great example. There's a
+
+40
+00:02:29.020 --> 00:02:29.600
+lot of
+
+41
+00:02:29.600 --> 00:02:35.400
+apps that target that. A lot of dating apps that target that. Esteem needs,
+
+42
+00:02:35.400 --> 00:02:36.360
+prestige,
+
+43
+00:02:36.360 --> 00:02:39.810
+feeling of accomplishment. I would say an app like Duolingo, where you're
+
+44
+00:02:39.810 --> 00:02:41.080
+hitting streaks
+
+45
+00:02:41.080 --> 00:02:47.530
+or Kalei. You're logging your meals and maintaining your consistency. Safety
+
+46
+00:02:47.530 --> 00:02:48.080
+needs
+
+47
+00:02:48.080 --> 00:02:55.720
+could be other kinds of social apps. Social apps like GAS from 2022. People
+
+48
+00:02:55.720 --> 00:02:56.360
+wanted to
+
+49
+00:02:56.360 --> 00:03:02.090
+know, do people think I'm cool? Do people think I'm nice? Do people think I'm
+
+50
+00:03:02.090 --> 00:03:02.880
+funny?
+
+51
+00:03:02.880 --> 00:03:09.100
+NGL would follow that as well. What do my friends think about me? These are
+
+52
+00:03:09.100 --> 00:03:09.920
+core human
+
+53
+00:03:09.920 --> 00:03:14.420
+drivers. These are core human needs. Maslow's hierarchy of needs is a great
+
+54
+00:03:14.420 --> 00:03:15.240
+thing to look
+
+55
+00:03:15.240 --> 00:03:19.360
+at whenever you're building apps. Always just remember that this is why people
+
+56
+00:03:19.360 --> 00:03:20.680
+do things.
+
+57
+00:03:20.680 --> 00:03:24.060
+I think it's really important to remember that. When you're looking at your
+
+58
+00:03:24.060 --> 00:03:24.360
+apps and
+
+59
+00:03:24.360 --> 00:03:29.160
+you're looking at what is my app doing, what is it providing to people in terms
+
+60
+00:03:29.160 --> 00:03:29.760
+of a core
+
+61
+00:03:29.760 --> 00:03:35.300
+human driver and a core need. I would take a look at this and try to figure out
+
+62
+00:03:35.300 --> 00:03:35.600
+where
+
+63
+00:03:35.600 --> 00:03:41.320
+you plot on the pyramid. Depending on where you are, it will inform things like
+
+64
+00:03:41.320 --> 00:03:41.680
+you're
+
+65
+00:03:41.680 --> 00:03:46.090
+onboarding, like how much user investment you want in the product prior to
+
+66
+00:03:46.090 --> 00:03:46.920
+coming in.
+
+67
+00:03:46.920 --> 00:03:53.600
+It will also inform what is the core action of the product. I think this is an
+
+68
+00:03:53.600 --> 00:03:54.120
+important
+
+69
+00:03:54.120 --> 00:03:59.880
+thing to look at and something I've used for many years.
+
+70
+00:03:59.880 --> 00:04:03.990
+Some examples of this, this is one of my apps. I co-founded NGL. This did over
+
+71
+00:04:03.990 --> 00:04:05.600
+300 million
+
+72
+00:04:05.600 --> 00:04:11.960
+downloads. The core human driver in this app is what do people think about me?
+
+73
+00:04:11.960 --> 00:04:11.960
+Everybody
+
+74
+00:04:11.960 --> 00:04:18.030
+wants to know what their friends think about them, especially when there's no
+
+75
+00:04:18.030 --> 00:04:18.840
+filter or
+
+76
+00:04:18.840 --> 00:04:25.960
+it's anonymous. People want to know. This is a very effective driver because
+
+77
+00:04:25.960 --> 00:04:26.360
+people
+
+78
+00:04:26.360 --> 00:04:33.940
+will jump through hoops and go down a somewhat complicated UX route in order to
+
+79
+00:04:33.940 --> 00:04:35.240
+satisfy this
+
+80
+00:04:35.240 --> 00:04:44.160
+drive. That's NGL's core driver. Gas, another viral app from 2022, was really
+
+81
+00:04:44.160 --> 00:04:44.640
+about who
+
+82
+00:04:44.640 --> 00:04:49.580
+likes me. Gas was about sending anonymous compliments. It was about who likes
+
+83
+00:04:49.580 --> 00:04:49.880
+me, who
+
+84
+00:04:49.880 --> 00:04:53.600
+thinks I have nice hair, who thinks I have nice eyes, who thinks that I'm a
+
+85
+00:04:53.600 --> 00:04:55.560
+great person.
+
+86
+00:04:55.560 --> 00:05:01.160
+That's a fundamental need. Who likes me? We have what do people think about me
+
+87
+00:05:01.160 --> 00:05:01.640
+and who
+
+88
+00:05:01.640 --> 00:05:11.710
+likes me? Then we have T. This is a newer app. It's blown up. This is really
+
+89
+00:05:11.710 --> 00:05:12.240
+what are they
+
+90
+00:05:12.240 --> 00:05:15.340
+saying about me? If I'm a guy, I want to know what they're saying about me
+
+91
+00:05:15.340 --> 00:05:16.000
+because it's
+
+92
+00:05:16.000 --> 00:05:21.350
+a women's only app. Or if I'm a girl, what are they saying about someone? This
+
+93
+00:05:21.350 --> 00:05:21.600
+app is
+
+94
+00:05:21.600 --> 00:05:27.180
+extremely effective at getting a core human need, wanting to know what people
+
+95
+00:05:27.180 --> 00:05:28.000
+are saying
+
+96
+00:05:28.000 --> 00:05:34.930
+about you or somebody else. Really struck a chord and that's why they went
+
+97
+00:05:34.930 --> 00:05:36.320
+number one.
+
+98
+00:05:36.320 --> 00:05:40.940
+Be real. I don't remember it's be real. The core human driver in be real, it
+
+99
+00:05:40.940 --> 00:05:41.560
+was like
+
+100
+00:05:41.560 --> 00:05:45.570
+you would open the app because you get notification. Your friend posted. You
+
+101
+00:05:45.570 --> 00:05:46.440
+wanted to see what
+
+102
+00:05:46.440 --> 00:05:52.360
+your friend posted. You wanted to see it. You were willing to take a picture.
+
+103
+00:05:52.360 --> 00:05:52.400
+What
+
+104
+00:05:52.400 --> 00:05:56.860
+pictured in my friend post? This is another really core human driver. All these
+
+105
+00:05:56.860 --> 00:05:57.120
+apps
+
+106
+00:05:57.120 --> 00:06:00.850
+went number one on the app store. That's why we talked about them. These are
+
+107
+00:06:00.850 --> 00:06:01.280
+apps that
+
+108
+00:06:01.280 --> 00:06:07.250
+went super viral, number one on the app store, millions and millions of
+
+109
+00:06:07.250 --> 00:06:08.560
+downloads. That's
+
+110
+00:06:08.560 --> 00:06:15.240
+really what I look at when it comes to emotional hooks and core human drivers.
+
+111
+00:06:15.240 --> 00:06:15.640
+The next thing
+
+112
+00:06:15.640 --> 00:06:23.230
+we're going to talk about is K-factor. I wrote it out right here. It's super
+
+113
+00:06:23.230 --> 00:06:23.920
+simple. It's
+
+114
+00:06:23.920 --> 00:06:28.680
+the average number of new users, each user invites. Pretty simple. I'm a
+
+115
+00:06:28.680 --> 00:06:29.960
+believer that
+
+116
+00:06:29.960 --> 00:06:34.590
+when you build a product, you should have the product really serve as the
+
+117
+00:06:34.590 --> 00:06:36.080
+marketing as well.
+
+118
+00:06:36.080 --> 00:06:42.000
+I like product-led growth. I love to encourage users to share. I love to get a
+
+119
+00:06:42.000 --> 00:06:43.480
+certain percentage
+
+120
+00:06:43.480 --> 00:06:50.100
+of users as many as possible to do specific actions to share or invite contacts
+
+121
+00:06:50.100 --> 00:06:50.920
+, share
+
+122
+00:06:50.920 --> 00:06:56.880
+an asset on social media. I really always like to aim for a K-factor greater
+
+123
+00:06:56.880 --> 00:06:57.840
+than one.
+
+124
+00:06:57.840 --> 00:07:02.390
+This is a big part of my methodology. I'm always thinking about how can we get
+
+125
+00:07:02.390 --> 00:07:02.760
+a pile
+
+126
+00:07:02.760 --> 00:07:07.420
+of users, bring them into the product, and then we know that at minimum, they
+
+127
+00:07:07.420 --> 00:07:08.240
+'re going to
+
+128
+00:07:08.240 --> 00:07:14.930
+bring back everybody plus 10%, or everybody plus 50%, or in the case of an app
+
+129
+00:07:14.930 --> 00:07:15.640
+like NGL,
+
+130
+00:07:15.640 --> 00:07:22.530
+everybody times two, three, five. K-factor is extremely important and something
+
+131
+00:07:22.530 --> 00:07:23.000
+to think
+
+132
+00:07:23.000 --> 00:07:27.590
+about. This is a term you're going to hear a lot across viral apps, not just in
+
+133
+00:07:27.590 --> 00:07:28.200
+design,
+
+134
+00:07:28.200 --> 00:07:39.560
+but across everything. Great. This is a little story time. This was when NGL
+
+135
+00:07:39.560 --> 00:07:39.880
+went number
+
+136
+00:07:39.880 --> 00:07:45.960
+one in the App Store, which was an awesome experience that was super grateful.
+
+137
+00:07:45.960 --> 00:07:46.120
+This is
+
+138
+00:07:46.120 --> 00:07:51.560
+really when I talk about K-factor. This is what I'm really talking about. This
+
+139
+00:07:51.560 --> 00:07:51.880
+is the
+
+140
+00:07:51.880 --> 00:07:59.920
+hourly downloads for NGL. This was one of our highest hours. You see how it
+
+141
+00:07:59.920 --> 00:08:00.240
+just goes
+
+142
+00:08:00.240 --> 00:08:06.730
+straight up. This is what's called having really a high K-factor. When you go
+
+143
+00:08:06.730 --> 00:08:08.640
+from 1,000 downloads,
+
+144
+00:08:08.640 --> 00:08:12.850
+this was about a week or so later, two weeks later, not even. Now we have a
+
+145
+00:08:12.850 --> 00:08:13.840
+million users
+
+146
+00:08:13.840 --> 00:08:20.870
+in the last 30 minutes. I think it's really important. Use unique trackable
+
+147
+00:08:20.870 --> 00:08:21.760
+links, very
+
+148
+00:08:21.760 --> 00:08:26.410
+very important because you want to know where the growth is coming from. I tell
+
+149
+00:08:26.410 --> 00:08:26.720
+this to
+
+150
+00:08:26.720 --> 00:08:32.830
+founders. These are just some tips. You have to implement data, mix panel,
+
+151
+00:08:32.830 --> 00:08:33.880
+amplitude,
+
+152
+00:08:33.880 --> 00:08:39.550
+track every user event because we want to know what's going on in every facet
+
+153
+00:08:39.550 --> 00:08:40.080
+of the
+
+154
+00:08:40.080 --> 00:08:45.800
+app because this is going to help us maximize K-factor. This is just an
+
+155
+00:08:45.800 --> 00:08:46.720
+important tip.
+
+156
+00:08:46.720 --> 00:08:53.020
+But when you have good traction, this is a little meme that we've said to run
+
+157
+00:08:53.020 --> 00:08:53.600
+at one
+
+158
+00:08:53.600 --> 00:08:58.810
+of my companies, that makes panel and amplitude these services, they want their
+
+159
+00:08:58.810 --> 00:09:00.560
+money. I guess
+
+160
+00:09:00.560 --> 00:09:05.600
+a good problem to have when it works. But yes, unique trackable links, make
+
+161
+00:09:05.600 --> 00:09:06.400
+sure that
+
+162
+00:09:06.400 --> 00:09:09.450
+I love using reflinks for users. I'm a big fan of that so I can track
+
+163
+00:09:09.450 --> 00:09:10.280
+everything and
+
+164
+00:09:10.280 --> 00:09:16.640
+know which users coming from which user. I'm a big fan of that. Okay, so the
+
+165
+00:09:16.640 --> 00:09:17.360
+next thing
+
+166
+00:09:17.360 --> 00:09:22.670
+we're going to talk about is social proof. So queues showing the apps
+
+167
+00:09:22.670 --> 00:09:24.640
+popularity and acceptance
+
+168
+00:09:24.640 --> 00:09:30.990
+as socially normative. This loose user trust and engagement. The way that I see
+
+169
+00:09:30.990 --> 00:09:31.400
+social
+
+170
+00:09:31.400 --> 00:09:36.020
+proof is it really establishes comfort. At the end of the day, you want to see
+
+171
+00:09:36.020 --> 00:09:36.560
+that other
+
+172
+00:09:36.560 --> 00:09:44.160
+people are doing the thing that the app is asking you to do. For apps like NGL,
+
+173
+00:09:44.160 --> 00:09:44.400
+social
+
+174
+00:09:44.400 --> 00:09:49.560
+proof was critical to our success. The reason that the app succeeded is enough
+
+175
+00:09:49.560 --> 00:09:50.240
+people saw
+
+176
+00:09:50.240 --> 00:09:56.780
+their friends doing it. So then they decided to do it because it was socially
+
+177
+00:09:56.780 --> 00:09:57.760
+normal. This
+
+178
+00:09:57.760 --> 00:10:03.620
+can also be not just people posting links and participating in loops like NGL.
+
+179
+00:10:03.620 --> 00:10:04.280
+This could
+
+180
+00:10:04.280 --> 00:10:09.380
+be just having a lot of views on TikTok videos for your app. Having lots of
+
+181
+00:10:09.380 --> 00:10:10.400
+people see your
+
+182
+00:10:10.400 --> 00:10:14.460
+app, lots of eyeballs creates a sense of social proof and knowing that people
+
+183
+00:10:14.460 --> 00:10:15.320
+know that this
+
+184
+00:10:15.320 --> 00:10:21.240
+app does this thing and it's known and it's widely accepted and understood.
+
+185
+00:10:21.240 --> 00:10:21.560
+Social proof
+
+186
+00:10:21.560 --> 00:10:27.850
+really is kind of it's about enough users have comprehended the purpose of your
+
+187
+00:10:27.850 --> 00:10:29.560
+app and
+
+188
+00:10:29.560 --> 00:10:35.380
+expressed it, shared it, amplified it to the point where people don't feel
+
+189
+00:10:35.380 --> 00:10:36.600
+weird for using
+
+190
+00:10:36.600 --> 00:10:40.360
+it or posting it. And I think social proof is something that you just really
+
+191
+00:10:40.360 --> 00:10:40.920
+always have
+
+192
+00:10:40.920 --> 00:10:45.540
+to be thinking about because certain apps have different ways of implementing
+
+193
+00:10:45.540 --> 00:10:46.760
+social proof.
+
+194
+00:10:46.760 --> 00:10:52.720
+And we'll obviously talk about that. So I love to talk about the bandalagging
+
+195
+00:10:52.720 --> 00:10:53.320
+effect,
+
+196
+00:10:53.320 --> 00:11:01.100
+right? Classic human behavior, right? We are more willing to like a video with
+
+197
+00:11:01.100 --> 00:11:02.760
+more likes or more
+
+198
+00:11:02.760 --> 00:11:09.380
+willing to engage with something that is perceived as more popular. Humans have
+
+199
+00:11:09.380 --> 00:11:10.840
+a tendency to really
+
+200
+00:11:10.840 --> 00:11:18.390
+like, as I say, arbitrary big numbers, right? They put a power into it and it
+
+201
+00:11:18.390 --> 00:11:19.560
+makes sense, right?
+
+202
+00:11:19.560 --> 00:11:26.200
+It's the wisdom of the crowd, right? If the crowd has deemed it this video or
+
+203
+00:11:26.200 --> 00:11:27.560
+this piece of content
+
+204
+00:11:27.560 --> 00:11:33.250
+or this app or whatever it is, if it's perceived as a lot of people are using
+
+205
+00:11:33.250 --> 00:11:34.840
+it, then somehow
+
+206
+00:11:34.840 --> 00:11:38.460
+it's perceived as once again socially normative, right? Like we talked about up
+
+207
+00:11:38.460 --> 00:11:39.400
+here with social
+
+208
+00:11:39.400 --> 00:11:44.640
+proof. So bandalagging effect is super important and a lot of apps, especially
+
+209
+00:11:44.640 --> 00:11:45.720
+viral apps that are
+
+210
+00:11:45.720 --> 00:11:50.310
+in consumer social really thrive on creating bandalagging effect. And this is
+
+211
+00:11:50.310 --> 00:11:51.720
+something that I really
+
+212
+00:11:51.720 --> 00:11:57.010
+work on creating with my apps is really getting everybody to do the same thing
+
+213
+00:11:57.010 --> 00:11:58.200
+at the same time,
+
+214
+00:11:58.200 --> 00:12:03.080
+because everybody is doing it and they all hop on the bandwagon because they
+
+215
+00:12:03.080 --> 00:12:04.280
+see everybody doing
+
+216
+00:12:04.280 --> 00:12:09.430
+it, right? And it comes down to really knowing how to just activate that pocket
+
+217
+00:12:09.430 --> 00:12:10.200
+of users to
+
+218
+00:12:10.200 --> 00:12:14.440
+initiate the bandwagon effect. But when you're designing the apps, you really
+
+219
+00:12:14.440 --> 00:12:15.800
+have to think about
+
+220
+00:12:15.800 --> 00:12:20.290
+how do you get someone to hop on this bandwagon? How do you get them to join in
+
+221
+00:12:20.290 --> 00:12:21.560
+with the fun?
+
+222
+00:12:21.560 --> 00:12:25.370
+And that really comes down to social proof as a big thing there, right? You
+
+223
+00:12:25.370 --> 00:12:26.040
+want them to feel
+
+224
+00:12:26.040 --> 00:12:30.200
+comfortable and confident to do the thing that you're asking them to do. So
+
+225
+00:12:30.200 --> 00:12:33.560
+yeah, make people feel
+
+226
+00:12:33.560 --> 00:12:40.130
+socially acceptable by sharing or inviting. Sharing should maintain or boost
+
+227
+00:12:40.130 --> 00:12:42.200
+social capital. Totally
+
+228
+00:12:42.200 --> 00:12:47.080
+agree with you know, and I think certain apps cannot be shared like this, right
+
+229
+00:12:47.080 --> 00:12:48.200
+? You know,
+
+230
+00:12:48.200 --> 00:12:51.280
+I'm really talking about your some apps can be shared, right? Some apps you
+
+231
+00:12:51.280 --> 00:12:51.880
+could share,
+
+232
+00:12:51.880 --> 00:12:56.920
+you know, your streak on dual lingo, right? You can share, you know, your, your
+
+233
+00:12:56.920 --> 00:12:58.040
+NGL link, right?
+
+234
+00:12:58.040 --> 00:13:03.560
+You can share in someone, sent you a compliment on gas, right? You could, you
+
+235
+00:13:03.560 --> 00:13:04.360
+know, you could share
+
+236
+00:13:04.360 --> 00:13:11.110
+a TikTok over iMessage to your friend, right? Like there's, there's, you know,
+
+237
+00:13:11.110 --> 00:13:12.520
+sharing should
+
+238
+00:13:12.520 --> 00:13:18.190
+not decrease social capital, right? So sharing a dating app is pretty difficult
+
+239
+00:13:18.190 --> 00:13:19.480
+, right? That's
+
+240
+00:13:19.480 --> 00:13:22.620
+a more difficult one. Getting someone to post if they're on a dating app, that
+
+241
+00:13:22.620 --> 00:13:23.640
+'s really difficult,
+
+242
+00:13:23.640 --> 00:13:28.210
+right? So, you know, always keep in mind like there is something about boosting
+
+243
+00:13:28.210 --> 00:13:29.160
+social capital
+
+244
+00:13:29.160 --> 00:13:34.160
+that's very important and it, and it, it all comes back to, you know, comfort
+
+245
+00:13:34.160 --> 00:13:35.000
+and security,
+
+246
+00:13:35.000 --> 00:13:38.440
+which we talked about earlier with, you know, Maslow's hierarchy of needs,
+
+247
+00:13:38.440 --> 00:13:43.000
+and then sharing on different platforms, right? There's different motivations.
+
+248
+00:13:43.000 --> 00:13:44.360
+The things that
+
+249
+00:13:44.360 --> 00:13:47.830
+you share on Instagram are different than the things that you would share on
+
+250
+00:13:47.830 --> 00:13:48.600
+Snapchat or the
+
+251
+00:13:48.600 --> 00:13:53.410
+things you share on X. This is especially true when targeting younger users,
+
+252
+00:13:53.410 --> 00:13:54.520
+right? Most of my apps
+
+253
+00:13:54.520 --> 00:14:02.660
+have been used in the core demo of, you know, 18 to 30. So really, you have to
+
+254
+00:14:02.660 --> 00:14:04.760
+look at what are
+
+255
+00:14:04.760 --> 00:14:07.580
+people posting on their Instagram? What are they willing to post on their
+
+256
+00:14:07.580 --> 00:14:08.520
+Instagram? You know,
+
+257
+00:14:08.520 --> 00:14:12.570
+some things are better posted on Snapchat. You know, I had an app called Wink
+
+258
+00:14:12.570 --> 00:14:13.640
+that I was a designer
+
+259
+00:14:13.640 --> 00:14:19.640
+of. We did 70 million downloads. I built that with my first mentor who created
+
+260
+00:14:19.640 --> 00:14:20.120
+Musically,
+
+261
+00:14:20.120 --> 00:14:25.210
+he was the president of the company, and we learned a lot in that app. That app
+
+262
+00:14:25.210 --> 00:14:25.640
+used to,
+
+263
+00:14:25.640 --> 00:14:31.550
+you know, a old, you know, growth loop on Snapchat, right? And it worked on
+
+264
+00:14:31.550 --> 00:14:32.280
+Snapchat really well,
+
+265
+00:14:32.280 --> 00:14:38.120
+because the app was too, you know, about making friends on Snapchat. NGL really
+
+266
+00:14:38.120 --> 00:14:38.600
+worked off of
+
+267
+00:14:38.600 --> 00:14:41.770
+Instagram. You know, there had never been an anonymous app that had been built
+
+268
+00:14:41.770 --> 00:14:42.360
+on Instagram
+
+269
+00:14:42.360 --> 00:14:49.250
+prior to NGL. We were the first. And when we took off on Instagram, it then
+
+270
+00:14:49.250 --> 00:14:50.680
+permeated to other
+
+271
+00:14:50.680 --> 00:14:56.730
+platforms, right? X, for example, I've launched things exclusively on X. My Fin
+
+272
+00:14:56.730 --> 00:14:57.640
+Tech platform,
+
+273
+00:14:57.640 --> 00:15:03.020
+DAGS, was exclusively on X. We used X as the primary driver of organic viral
+
+274
+00:15:03.020 --> 00:15:05.080
+growth with sharing
+
+275
+00:15:05.080 --> 00:15:12.330
+links similar to NGL sharing link with this timeline X. The point of what I'm
+
+276
+00:15:12.330 --> 00:15:14.040
+saying is that
+
+277
+00:15:14.040 --> 00:15:22.180
+sharing on IG, sharing on Snap, sharing on X all have different motivations,
+
+278
+00:15:22.180 --> 00:15:23.400
+and there's a different
+
+279
+00:15:23.400 --> 00:15:30.940
+quality filter. So I always like to think about what is postable on these
+
+280
+00:15:30.940 --> 00:15:31.880
+platforms.
+
+281
+00:15:32.840 --> 00:15:37.320
+And it's just something to think about, right? You won't post the same thing on
+
+282
+00:15:37.320 --> 00:15:38.440
+X that you post
+
+283
+00:15:38.440 --> 00:15:43.230
+on Instagram or Snapchat or any other platform, or you won't send the same
+
+284
+00:15:43.230 --> 00:15:44.600
+things over text that
+
+285
+00:15:44.600 --> 00:15:48.950
+you would post on your story, right? So you have to understand the context in
+
+286
+00:15:48.950 --> 00:15:50.600
+which your app can
+
+287
+00:15:50.600 --> 00:16:00.280
+be shared in order to optimize for that virality. Great. So virality. Now we're
+
+288
+00:16:00.280 --> 00:16:01.000
+going to talk about
+
+289
+00:16:02.040 --> 00:16:07.720
+viral growth loops. This is a word I use a lot. This is a word I tweet a lot.
+
+290
+00:16:07.720 --> 00:16:09.160
+This is where I say a lot.
+
+291
+00:16:09.160 --> 00:16:15.320
+You're going to hear me say this a lot. The way that I summed it up is a viral
+
+292
+00:16:15.320 --> 00:16:15.800
+growth loop
+
+293
+00:16:15.800 --> 00:16:21.900
+is a self-sustaining cycle where a user's action triggers new users to join,
+
+294
+00:16:21.900 --> 00:16:23.800
+which creates a hockey
+
+295
+00:16:23.800 --> 00:16:30.770
+stick growth, right? I showed earlier in the previous section on K-factor
+
+296
+00:16:30.770 --> 00:16:32.440
+examples of hockey stick growth,
+
+297
+00:16:32.440 --> 00:16:39.230
+that growth came from a viral loop. So I also like to say if loops are strong
+
+298
+00:16:39.230 --> 00:16:39.960
+enough,
+
+299
+00:16:39.960 --> 00:16:43.870
+they will reengage users who have churned, right? So you can get people to
+
+300
+00:16:43.870 --> 00:16:45.880
+share your app or share
+
+301
+00:16:45.880 --> 00:16:51.200
+content from your app and push it out more and more, or create UGC videos for
+
+302
+00:16:51.200 --> 00:16:51.880
+your app,
+
+303
+00:16:51.880 --> 00:16:55.890
+then ultimately users that have already encountered your app and downloaded it
+
+304
+00:16:55.890 --> 00:16:56.280
+will be
+
+305
+00:16:56.280 --> 00:17:01.800
+brought in again through the net and reactivated. So that's something just to
+
+306
+00:17:01.800 --> 00:17:02.760
+always consider
+
+307
+00:17:02.760 --> 00:17:06.670
+with building these kinds of loops is yes, it's a self-sustaining growth of new
+
+308
+00:17:06.670 --> 00:17:07.080
+users,
+
+309
+00:17:07.080 --> 00:17:12.360
+but also it's bringing users in that have already churned because you're still
+
+310
+00:17:12.360 --> 00:17:13.320
+getting those users,
+
+311
+00:17:13.320 --> 00:17:17.720
+still having lots of users engage, the fly reel is still including the people
+
+312
+00:17:17.720 --> 00:17:18.840
+that have churned.
+
+313
+00:17:19.800 --> 00:17:23.480
+Keep that in mind that that's really one of the major things about viral loops
+
+314
+00:17:23.480 --> 00:17:24.520
+that I like to
+
+315
+00:17:24.520 --> 00:17:28.680
+think about is how do you make sure you reengage existing users, right? So we
+
+316
+00:17:28.680 --> 00:17:29.320
+'ll talk more about
+
+317
+00:17:29.320 --> 00:17:38.200
+that later of course. Right now I'm going to talk about explicit loops, right?
+
+318
+00:17:38.200 --> 00:17:41.080
+So this is the NGL
+
+319
+00:17:41.080 --> 00:17:46.360
+flow right here. We're going to walk through the flow and I'm going to explain
+
+320
+00:17:46.360 --> 00:17:47.800
+exactly how it works
+
+321
+00:17:47.800 --> 00:17:52.760
+and why I designed the way I did it. So this is the share asset. You can just
+
+322
+00:17:52.760 --> 00:17:54.120
+post the link by itself,
+
+323
+00:17:54.120 --> 00:17:57.720
+you know, and put any photo you want, but this is the main share asset that we
+
+324
+00:17:57.720 --> 00:17:58.440
+direct people to
+
+325
+00:17:58.440 --> 00:18:02.840
+post. We tried many different share assets. So we tried share assets that were
+
+326
+00:18:02.840 --> 00:18:05.000
+very bright colored,
+
+327
+00:18:05.000 --> 00:18:10.760
+we tried share assets with different size profile pictures, we tried different
+
+328
+00:18:10.760 --> 00:18:12.520
+call to actions
+
+329
+00:18:12.520 --> 00:18:16.080
+with the text. This is ultimately the one that won because it was the most
+
+330
+00:18:16.080 --> 00:18:18.280
+direct. It was directly
+
+331
+00:18:18.280 --> 00:18:22.860
+talking at the user, send me anonymous messages. The link was very easily
+
+332
+00:18:22.860 --> 00:18:24.520
+framed there. Your eye
+
+333
+00:18:24.520 --> 00:18:28.760
+goes exactly where it needs to go. So this is the initial touch point for every
+
+334
+00:18:28.760 --> 00:18:29.720
+user in NGL.
+
+335
+00:18:29.720 --> 00:18:35.190
+Every user that comes into NGL discovers it by encountering it in the wild on
+
+336
+00:18:35.190 --> 00:18:36.280
+their friend's
+
+337
+00:18:36.280 --> 00:18:41.180
+Instagram story. So your initial touch point essentially is your friend
+
+338
+00:18:41.180 --> 00:18:42.920
+endorsing this product,
+
+339
+00:18:42.920 --> 00:18:50.840
+which is very powerful, right? So once you tap on the link, you go to a website
+
+340
+00:18:50.840 --> 00:18:52.280
+inside of Instagram
+
+341
+00:18:52.280 --> 00:18:57.720
+where you can send a message. You can tap on the dice to get example messages
+
+342
+00:18:57.720 --> 00:18:58.680
+and these also,
+
+343
+00:18:58.680 --> 00:19:05.280
+you know, change every second or so. So you can send a message. When you send
+
+344
+00:19:05.280 --> 00:19:05.400
+it,
+
+345
+00:19:05.400 --> 00:19:11.800
+we tell you to get your own messages or send another message. When you get your
+
+346
+00:19:11.800 --> 00:19:12.840
+own messages,
+
+347
+00:19:12.840 --> 00:19:20.140
+you are sent to the app store where you download the app. Then pretend it's
+
+348
+00:19:20.140 --> 00:19:20.920
+your profile picture
+
+349
+00:19:20.920 --> 00:19:28.560
+not mine. Then you come to the app, you follow the instructions and keep in
+
+350
+00:19:28.560 --> 00:19:29.960
+mind, you came from
+
+351
+00:19:29.960 --> 00:19:33.820
+your friend doing this. Right? So when I talked about earlier the notion of
+
+352
+00:19:33.820 --> 00:19:35.000
+getting people through,
+
+353
+00:19:35.000 --> 00:19:42.910
+you know, getting earlier, you came from your friend. Your friend posted this.
+
+354
+00:19:42.910 --> 00:19:44.840
+You sent a message.
+
+355
+00:19:45.400 --> 00:19:54.360
+You did that core action that you now know your friends are going to do. So
+
+356
+00:19:54.360 --> 00:19:55.240
+this is one of the
+
+357
+00:19:55.240 --> 00:19:59.630
+key learnings that I found because the motivation was so strong, we were able
+
+358
+00:19:59.630 --> 00:20:01.000
+to get users through
+
+359
+00:20:01.000 --> 00:20:05.350
+a four step tutorial. So you follow the instructions, copy your link, share
+
+360
+00:20:05.350 --> 00:20:06.680
+your link in your story,
+
+361
+00:20:06.680 --> 00:20:12.270
+and then these four steps right here where you click on this ticker button,
+
+362
+00:20:12.270 --> 00:20:13.160
+click on link,
+
+363
+00:20:13.160 --> 00:20:17.080
+we tell you to paste your link, we tell you to frame your link, and then you go
+
+364
+00:20:17.080 --> 00:20:17.720
+and do it for
+
+365
+00:20:17.720 --> 00:20:25.180
+10 noms, this is your PFP not mine. Then you get messages. Remember, you sent a
+
+366
+00:20:25.180 --> 00:20:25.800
+message to your
+
+367
+00:20:25.800 --> 00:20:30.730
+friend at the beginning of this loop. Now you get messages. So notifications
+
+368
+00:20:30.730 --> 00:20:32.040
+are super important,
+
+369
+00:20:32.040 --> 00:20:39.940
+super, super important. Then here's your messages in your app. You open the
+
+370
+00:20:39.940 --> 00:20:40.840
+messages,
+
+371
+00:20:41.880 --> 00:20:47.480
+you can reply by putting it on your story, and then you can type your response.
+
+372
+00:20:47.480 --> 00:20:50.680
+So really what this is
+
+373
+00:20:50.680 --> 00:20:58.770
+in summed up is clear expectation, minimal actions, and a variable reward
+
+374
+00:20:58.770 --> 00:20:59.880
+formula. That's what's
+
+375
+00:20:59.880 --> 00:21:05.350
+happening here. You're starting with seeing what's going to happen to you,
+
+376
+00:21:05.350 --> 00:21:07.000
+right? You're starting
+
+377
+00:21:07.000 --> 00:21:11.220
+with seeing your friend posted a link and your friend got replies, right?
+
+378
+00:21:11.220 --> 00:21:12.360
+Because you'll see
+
+379
+00:21:12.360 --> 00:21:15.290
+your friend posted a link and maybe they put in, they got a couple replies as
+
+380
+00:21:15.290 --> 00:21:16.680
+well. In many cases,
+
+381
+00:21:16.680 --> 00:21:21.820
+actually, we found that users wouldn't actually send messages until where the
+
+382
+00:21:21.820 --> 00:21:22.840
+bulk of users
+
+383
+00:21:22.840 --> 00:21:27.080
+wouldn't send messages until their friend had already shared a reply. Because
+
+384
+00:21:27.080 --> 00:21:28.200
+sometimes your
+
+385
+00:21:28.200 --> 00:21:32.340
+friend posted a link, you're like, oh, but nobody replied to it. So there was a
+
+386
+00:21:32.340 --> 00:21:33.320
+user comfort there,
+
+387
+00:21:33.320 --> 00:21:39.960
+too, by getting a user to share just the link and share the replies, then more
+
+388
+00:21:39.960 --> 00:21:41.160
+people sent replies,
+
+389
+00:21:41.160 --> 00:21:45.000
+because those people felt comfortable to do it. So it's an interesting kind of
+
+390
+00:21:45.000 --> 00:21:46.040
+comfort level on both
+
+391
+00:21:46.040 --> 00:21:52.280
+sides. And this is something that I think about in viral design. So this is the
+
+392
+00:21:52.280 --> 00:21:55.720
+NGL case study,
+
+393
+00:21:55.720 --> 00:22:01.380
+which was I said an explicit, explicit loop, right? Tap on my NGL links, any
+
+394
+00:22:01.380 --> 00:22:02.520
+messages, and then maybe
+
+395
+00:22:03.480 --> 00:22:12.710
+you'll get your own messages. Then there are implicit loops, right? So for
+
+396
+00:22:12.710 --> 00:22:15.560
+example, TikTok.
+
+397
+00:22:15.560 --> 00:22:21.240
+TikTok, whenever you export a video and send it to your friend, there's always
+
+398
+00:22:21.240 --> 00:22:23.000
+a watermark. And the
+
+399
+00:22:23.000 --> 00:22:26.780
+watermark bounces around the screen, so you can't really crop it out. And there
+
+400
+00:22:26.780 --> 00:22:27.800
+are sites where you
+
+401
+00:22:27.800 --> 00:22:32.260
+literally crop out the TikTok watermark, or they take the watermark off because
+
+402
+00:22:32.260 --> 00:22:33.160
+people don't like it.
+
+403
+00:22:33.160 --> 00:22:37.340
+But it was a very effective growth loop, because what TikTok did is just had
+
+404
+00:22:37.340 --> 00:22:38.440
+videos from TikTok
+
+405
+00:22:38.440 --> 00:22:43.640
+posted on Instagram, posted onto various platforms, posted on YouTube, and then
+
+406
+00:22:43.640 --> 00:22:44.360
+people would see,
+
+407
+00:22:44.360 --> 00:22:47.290
+oh, this is a funny video, it's an energy video of TikTok. I'm going to go
+
+408
+00:22:47.290 --> 00:22:48.520
+download TikTok. And
+
+409
+00:22:48.520 --> 00:22:52.340
+then once they had TikTok, and they see more funny TikToks, they think about,
+
+410
+00:22:52.340 --> 00:22:53.160
+oh, I should
+
+411
+00:22:53.160 --> 00:22:57.650
+probably open up TikTok, right? So this is an implicit one, implicit growth
+
+412
+00:22:57.650 --> 00:22:58.440
+loop here,
+
+413
+00:22:58.440 --> 00:23:03.350
+because you're seeing the TikTok logo, you're registering the content came from
+
+414
+00:23:03.350 --> 00:23:03.960
+there,
+
+415
+00:23:03.960 --> 00:23:07.400
+but it's not asking you to tap a link, it's not asking you to do some kind of
+
+416
+00:23:07.400 --> 00:23:08.360
+core action,
+
+417
+00:23:08.360 --> 00:23:12.910
+it's simply reminding you that this piece of content came from this app, so you
+
+418
+00:23:12.910 --> 00:23:13.560
+should maybe
+
+419
+00:23:13.560 --> 00:23:20.040
+open that app at some point, maybe now or maybe later. And this is really a big
+
+420
+00:23:20.040 --> 00:23:20.680
+strategy of how
+
+421
+00:23:20.680 --> 00:23:25.320
+TikTok was able to take over over the last, you know, five, six years.
+
+422
+00:23:25.320 --> 00:23:40.200
+So to review, we have four major terms that we define emotional hooks in core
+
+423
+00:23:40.200 --> 00:23:41.480
+human drivers,
+
+424
+00:23:41.480 --> 00:23:45.880
+right? This is what gets people into a viral app, and it's important to think
+
+425
+00:23:45.880 --> 00:23:46.440
+about this with
+
+426
+00:23:46.440 --> 00:23:52.440
+the viral design aspect. How do we carry in the emotional hook from that ad,
+
+427
+00:23:52.440 --> 00:23:54.600
+from that UGC content,
+
+428
+00:23:54.600 --> 00:24:00.770
+or from your friend posting something on their social media, or your friend
+
+429
+00:24:00.770 --> 00:24:01.880
+sending you something,
+
+430
+00:24:01.880 --> 00:24:06.440
+how do we carry that emotional hook into the design? How do we target the right
+
+431
+00:24:06.440 --> 00:24:06.680
+core,
+
+432
+00:24:06.680 --> 00:24:13.880
+even driver? K-factor, right? K-factor like we talked about is super important
+
+433
+00:24:13.880 --> 00:24:15.240
+for, you know,
+
+434
+00:24:15.240 --> 00:24:24.920
+maintaining and tracking how viral your app actually is. So I am also really
+
+435
+00:24:24.920 --> 00:24:25.880
+making sure that you
+
+436
+00:24:25.880 --> 00:24:30.760
+orient your decisions around K-factor. It's very important. So like I said,
+
+437
+00:24:30.760 --> 00:24:31.400
+always track
+
+438
+00:24:31.960 --> 00:24:35.450
+everything and figure out where your users are coming from. We also talked
+
+439
+00:24:35.450 --> 00:24:36.520
+about social proof,
+
+440
+00:24:36.520 --> 00:24:42.360
+right? And how social proof is really important, establishing comfort.
+
+441
+00:24:42.360 --> 00:24:48.840
+And comfort is essential to create a viral growth loop, right?
+
+442
+00:24:48.840 --> 00:24:55.640
+Virile growth loops, something that have been used to grow massive apps across
+
+443
+00:24:55.640 --> 00:24:56.440
+multiple sectors,
+
+444
+00:24:56.440 --> 00:25:00.680
+right? We talked about TikTok with an implicit, you know, growth loop with the
+
+445
+00:25:00.680 --> 00:25:01.640
+watermark,
+
+446
+00:25:01.640 --> 00:25:07.040
+Vine did that, X is now doing that. That's a very common practice. NGL with
+
+447
+00:25:07.040 --> 00:25:08.200
+link sharing,
+
+448
+00:25:08.200 --> 00:25:16.850
+you know, many other apps use link sharing as well now. And yeah, really, that
+
+449
+00:25:16.850 --> 00:25:18.440
+'s the main bulk of
+
+450
+00:25:18.440 --> 00:25:24.170
+kind of this first module. These are the, I think, very important terms that I
+
+451
+00:25:24.170 --> 00:25:25.480
+'m always thinking
+
+452
+00:25:25.480 --> 00:25:29.980
+about when I'm designing. And, you know, before we jump into Figma, before we
+
+453
+00:25:29.980 --> 00:25:31.320
+talk about branding,
+
+454
+00:25:31.320 --> 00:25:35.880
+and we talk about, you know, colors and fonts and, you know, that fun stuff
+
+455
+00:25:35.880 --> 00:25:37.400
+that like flows and user
+
+456
+00:25:37.400 --> 00:25:41.560
+journeys and on-boarding and, you know, what to ask for. Like, I really think
+
+457
+00:25:41.560 --> 00:25:42.520
+it's important to
+
+458
+00:25:42.520 --> 00:25:47.750
+just remember what makes an app go viral and why we are going to design things
+
+459
+00:25:47.750 --> 00:25:48.520
+the way we're
+
+460
+00:25:48.520 --> 00:25:57.480
+going to design them and how we're going to think about these things. So, yeah,
+
+461
+00:25:57.480 --> 00:25:58.680
+one thing I'm going
+
+462
+00:25:58.680 --> 00:26:02.580
+to, I'm going to talk about now. I'm going to kind of just kick off the next
+
+463
+00:26:02.580 --> 00:26:05.000
+section right now.
+
+464
+00:26:05.000 --> 00:26:12.190
+Okay, so this is going to be like a rough draft of me talking about curating
+
+465
+00:26:12.190 --> 00:26:13.080
+the first session.
+
+466
+00:26:13.080 --> 00:26:25.160
+So, section two of my viral app design module is called curating the first
+
+467
+00:26:25.160 --> 00:26:25.480
+session.
+
+468
+00:26:27.000 --> 00:26:38.030
+A lot of people think about apps in terms of D1, D7, D30, etc. I think of apps
+
+469
+00:26:38.030 --> 00:26:39.400
+more in terms of
+
+470
+00:26:39.400 --> 00:26:48.350
+section one, session two, etc. I think this makes decision making much easier
+
+471
+00:26:48.350 --> 00:26:49.320
+because we're focused
+
+472
+00:26:49.320 --> 00:26:54.790
+on sessions. We're not focused on more of the long tail retentive type features
+
+473
+00:26:54.790 --> 00:26:56.040
+. I like to focus
+
+474
+00:26:56.040 --> 00:26:59.940
+first on like, what are they doing in session one? Section one is the most
+
+475
+00:26:59.940 --> 00:27:01.800
+important, right? So,
+
+476
+00:27:01.800 --> 00:27:06.200
+we're going to talk about onboarding. That's going to be part of this section.
+
+477
+00:27:06.200 --> 00:27:07.800
+We're going to talk
+
+478
+00:27:07.800 --> 00:27:14.030
+about core actions, right? What are the things that you're doing on the app?
+
+479
+00:27:14.030 --> 00:27:16.440
+You know, like I said,
+
+480
+00:27:16.440 --> 00:27:20.830
+we're talking about onboarding the initial experience. What questions are we
+
+481
+00:27:20.830 --> 00:27:22.040
+asking the users?
+
+482
+00:27:23.160 --> 00:27:27.000
+What do they have to provide and sign up as far as information building
+
+483
+00:27:27.000 --> 00:27:27.960
+profiles?
+
+484
+00:27:27.960 --> 00:27:32.520
+Long onboarding versus short onboarding. We're going to talk about what the
+
+485
+00:27:32.520 --> 00:27:33.400
+benefits are
+
+486
+00:27:33.400 --> 00:27:40.520
+for long versus short versus long. And we're going to talk about everything in
+
+487
+00:27:40.520 --> 00:27:41.480
+onboarding.
+
+488
+00:27:41.480 --> 00:27:46.680
+I'm going to show examples of onboarding of my own apps, as well as apps of
+
+489
+00:27:46.680 --> 00:27:47.400
+other members of
+
+490
+00:27:47.400 --> 00:27:53.960
+Amafia. We're also talking about core actions. Core actions is the action that
+
+491
+00:27:53.960 --> 00:27:54.680
+people are taking
+
+492
+00:27:54.680 --> 00:27:59.090
+on your app the majority of the time. This is the most important essential
+
+493
+00:27:59.090 --> 00:28:00.200
+action that users are
+
+494
+00:28:00.200 --> 00:28:05.720
+taking. In the example of Snapchat, it's sending snaps, right? Pretty simple.
+
+495
+00:28:05.720 --> 00:28:07.960
+For TikTok, it's scrolling
+
+496
+00:28:07.960 --> 00:28:13.300
+the for you. For NGL, it's posting a link and getting replies from your
+
+497
+00:28:13.300 --> 00:28:14.520
+followers.
+
+498
+00:28:14.520 --> 00:28:25.240
+Figuring out your core action is essential for also figuring out short versus
+
+499
+00:28:25.240 --> 00:28:27.000
+medium versus long
+
+500
+00:28:27.000 --> 00:28:32.120
+onboarding. And your core action dictates what information you're going to ask
+
+501
+00:28:32.120 --> 00:28:32.760
+people to do,
+
+502
+00:28:32.760 --> 00:28:35.540
+because you may not need all the permissions, right? We're going to talk about
+
+503
+00:28:35.540 --> 00:28:36.040
+permission,
+
+504
+00:28:36.040 --> 00:28:40.600
+about notification permissions, camera permissions, contact permissions, how to
+
+505
+00:28:40.600 --> 00:28:41.800
+prompt them correctly,
+
+506
+00:28:41.800 --> 00:28:46.250
+right? Because you have to figure out what the core action is going to be to
+
+507
+00:28:46.250 --> 00:28:46.840
+know what the
+
+508
+00:28:46.840 --> 00:28:51.450
+onboarding is going to require. And then it kind of all becomes this self-sust
+
+509
+00:28:51.450 --> 00:28:53.480
+aining cycle, right?
+
+510
+00:28:53.480 --> 00:28:57.850
+So don't think of these as things in direct order. We're going to be figuring
+
+511
+00:28:57.850 --> 00:28:59.080
+this out at the same time.
+
+512
+00:29:01.160 --> 00:29:06.740
+So we're talking about single player versus multiplayer experiences, right?
+
+513
+00:29:06.740 --> 00:29:08.040
+Designing a single player
+
+514
+00:29:08.040 --> 00:29:12.670
+app versus designing a multiplayer app and what that means. We're talking about
+
+515
+00:29:12.670 --> 00:29:13.800
+magic moments,
+
+516
+00:29:13.800 --> 00:29:19.540
+right? How do we deliver a dopamine hit in the app? How do we get people
+
+517
+00:29:19.540 --> 00:29:20.600
+excited?
+
+518
+00:29:20.600 --> 00:29:27.960
+What's that moment where they feel the app's value and they lock in that
+
+519
+00:29:27.960 --> 00:29:28.760
+comprehension
+
+520
+00:29:29.640 --> 00:29:36.240
+of the app and its purpose for Tinder, it's getting a match, right? For NGL, it
+
+521
+00:29:36.240 --> 00:29:37.080
+'s getting a message on
+
+522
+00:29:37.080 --> 00:29:44.450
+your link for, you know, Duolingo, it's hitting a streak for Snapchat. It's
+
+523
+00:29:44.450 --> 00:29:46.360
+also maintaining a streak,
+
+524
+00:29:46.360 --> 00:29:53.570
+right? I like to use notifications, confetti, haptics, excitement, right?
+
+525
+00:29:53.570 --> 00:29:54.920
+Making magic moments,
+
+526
+00:29:54.920 --> 00:29:58.360
+truly magic. And we're going to show a few examples of magic moments.
+
+527
+00:29:58.360 --> 00:30:06.520
+Inwright, share, and paywalls, right? We're going to talk about walls and walls
+
+528
+00:30:06.520 --> 00:30:08.440
+versus hurdles.
+
+529
+00:30:08.440 --> 00:30:14.840
+You were going to talk about what a hard gate is, hard gate for sharing, hard
+
+530
+00:30:14.840 --> 00:30:16.120
+gate for inviting,
+
+531
+00:30:16.120 --> 00:30:21.400
+hard, you know, a hard paywall. We're going to talk about various examples of
+
+532
+00:30:21.400 --> 00:30:21.880
+these and we're
+
+533
+00:30:21.880 --> 00:30:30.120
+going to show them. North Star Metrics. The North Star metric is the key metric
+
+534
+00:30:30.120 --> 00:30:35.890
+reflecting user value in viral success, which guides design choices. Users
+
+535
+00:30:35.890 --> 00:30:37.560
+funding wallets on
+
+536
+00:30:37.560 --> 00:30:44.650
+bags is a North Star metric. NGL posting is a North Star metric. North Star
+
+537
+00:30:44.650 --> 00:30:46.040
+metrics affect
+
+538
+00:30:46.040 --> 00:30:51.240
+every other metric. It's the main driver of success for the app. And it should
+
+539
+00:30:51.240 --> 00:30:52.280
+be very obvious to
+
+540
+00:30:52.280 --> 00:30:58.760
+identify, right? What that North Star is. For Zoom University, my viral double
+
+541
+00:30:58.760 --> 00:30:59.640
+dating app,
+
+542
+00:30:59.640 --> 00:31:06.600
+the North Star metric was number of minutes per average call time. We found
+
+543
+00:31:06.600 --> 00:31:07.160
+when the call time
+
+544
+00:31:07.160 --> 00:31:12.610
+was higher, people had better conversations with one another, which led to more
+
+545
+00:31:12.610 --> 00:31:13.480
+magic moments of
+
+546
+00:31:13.480 --> 00:31:17.480
+people connecting and getting dropped into group chats, right? Having that
+
+547
+00:31:17.480 --> 00:31:18.360
+match experience.
+
+548
+00:31:18.360 --> 00:31:21.880
+And so we wanted to maximize quality of call.
+
+549
+00:31:21.880 --> 00:31:29.240
+This is this section and I'm really excited to dive into this section because
+
+550
+00:31:29.240 --> 00:31:36.200
+there's a lot of great things to talk about. So let's start with onboarding.
+
+551
+00:31:36.200 --> 00:31:54.870
+Alright, welcome back. We're going to do the next round. This is titled cur
+
+552
+00:31:54.870 --> 00:31:55.960
+ating the first
+
+553
+00:31:55.960 --> 00:32:03.160
+session. One of the questions I get asked extremely often is always about
+
+554
+00:32:03.160 --> 00:32:03.640
+people ask about
+
+555
+00:32:03.640 --> 00:32:09.780
+retention. People ask about, you know, D1, D7 retention, D30, and we talked, we
+
+556
+00:32:09.780 --> 00:32:10.040
+had these
+
+557
+00:32:10.040 --> 00:32:14.630
+conversations about retention. I like to have those conversations, but really
+
+558
+00:32:14.630 --> 00:32:15.880
+the conversation I
+
+559
+00:32:15.880 --> 00:32:19.890
+enjoy more than I think is more impactful to the success of the viral app is
+
+560
+00:32:19.890 --> 00:32:20.920
+talking about
+
+561
+00:32:20.920 --> 00:32:27.320
+sessions, not talking in terms of days, talking in terms of sessions, because
+
+562
+00:32:27.320 --> 00:32:28.600
+users can churn out
+
+563
+00:32:29.400 --> 00:32:37.080
+very, very quickly. If you don't have a great session one, session two, etc,
+
+564
+00:32:37.080 --> 00:32:38.280
+etc. experience.
+
+565
+00:32:38.280 --> 00:32:42.460
+So we're going to talk about curating the first session. Now we're going to
+
+566
+00:32:42.460 --> 00:32:43.640
+talk about what it is
+
+567
+00:32:43.640 --> 00:32:49.810
+that we're going to be doing to curate the first session. So we're going to hop
+
+568
+00:32:49.810 --> 00:32:53.480
+in now with onboarding.
+
+569
+00:32:53.480 --> 00:32:57.560
+So onboarding is, you know, the way I define it is the initial experience that
+
+570
+00:32:57.560 --> 00:32:58.680
+conveys value in
+
+571
+00:32:58.680 --> 00:33:04.880
+hooks users. So short onboarding and long onboarding, this is the biggest
+
+572
+00:33:04.880 --> 00:33:06.120
+question I get as well.
+
+573
+00:33:06.120 --> 00:33:10.570
+People ask me, Hunter, should I have short onboarding or long onboarding? What
+
+574
+00:33:10.570 --> 00:33:11.960
+is the correct answer?
+
+575
+00:33:11.960 --> 00:33:16.920
+So I say there is no correct answer. It just depends what you're maximizing for
+
+576
+00:33:16.920 --> 00:33:17.320
+it. So I have
+
+577
+00:33:17.320 --> 00:33:21.270
+it here. So short maximizes for speed and virality, right, because you want to
+
+578
+00:33:21.270 --> 00:33:22.040
+get them into the
+
+579
+00:33:22.040 --> 00:33:26.540
+product quickly, right, you want to get them to hit the end of onboarding, get
+
+580
+00:33:26.540 --> 00:33:27.400
+in there fast,
+
+581
+00:33:27.880 --> 00:33:34.750
+and do whatever core actions the app requires them to do. But long onboarding,
+
+582
+00:33:34.750 --> 00:33:35.320
+it does risk
+
+583
+00:33:35.320 --> 00:33:39.880
+that friction, but it creates investment by it creates some cost. If you spend
+
+584
+00:33:39.880 --> 00:33:40.920
+a lot of time in
+
+585
+00:33:40.920 --> 00:33:45.950
+onboarding, filling out personal information for a profile like a dating app,
+
+586
+00:33:45.950 --> 00:33:47.000
+or, you know,
+
+587
+00:33:47.000 --> 00:33:51.760
+going through a long, you know, offer wall, you know, ending in some kind of
+
+588
+00:33:51.760 --> 00:33:52.600
+hard pay wall,
+
+589
+00:33:53.400 --> 00:33:58.500
+where you're answering questions and quizzing and what have you, that creates
+
+590
+00:33:58.500 --> 00:33:59.640
+investment.
+
+591
+00:33:59.640 --> 00:34:04.280
+So both are correct. It just depends what you want to optimize for.
+
+592
+00:34:04.280 --> 00:34:11.140
+So I said the word core action, only to find this one real quick. So core
+
+593
+00:34:11.140 --> 00:34:12.520
+action is the primary
+
+594
+00:34:12.520 --> 00:34:21.560
+user behavior on the app. So it's really easy to spot this. If you don't know
+
+595
+00:34:21.560 --> 00:34:22.440
+the core action of
+
+596
+00:34:22.440 --> 00:34:27.130
+your app, you're probably overthinking the question. So I have some examples
+
+597
+00:34:27.130 --> 00:34:29.240
+here of apps.
+
+598
+00:34:29.240 --> 00:34:39.770
+So TikTok, the core action of TikTok, I would say is scrolling and watching
+
+599
+00:34:39.770 --> 00:34:41.720
+content, right,
+
+600
+00:34:41.720 --> 00:34:46.120
+getting you on the four new page. That's the core action. You know, 1% of the
+
+601
+00:34:46.120 --> 00:34:46.840
+people are
+
+602
+00:34:46.840 --> 00:34:51.160
+creating content, but the 99% are consuming content. So I'd say the core action
+
+603
+00:34:51.160 --> 00:34:51.480
+of an app
+
+604
+00:34:51.480 --> 00:34:59.390
+like TikTok is scrolling, right? So TikTok would want to maximize for how fast
+
+605
+00:34:59.390 --> 00:35:00.280
+and at what
+
+606
+00:35:00.280 --> 00:35:07.320
+rate do we drop them into the core action, right? With TikTok, you open the app
+
+607
+00:35:07.320 --> 00:35:08.200
+and you can immediately
+
+608
+00:35:08.200 --> 00:35:12.860
+start swiping. And then you have to sign up when you interact with various tab
+
+609
+00:35:12.860 --> 00:35:13.800
+icons, right? They
+
+610
+00:35:13.800 --> 00:35:16.880
+want you to get right into the action. They want you to be immediately immersed
+
+611
+00:35:16.880 --> 00:35:18.840
+. So that's one core
+
+612
+00:35:18.840 --> 00:35:23.480
+action. Instagram, I'd say similar, right, photos, create, I'm originally
+
+613
+00:35:23.480 --> 00:35:25.000
+taking photos, applying
+
+614
+00:35:25.000 --> 00:35:30.470
+filters, you know, messaging, obviously, expanded a lot. But I'd say like the
+
+615
+00:35:30.470 --> 00:35:31.880
+core of Instagram is
+
+616
+00:35:31.880 --> 00:35:36.520
+the feed. And I'd say stories, right? Most people are absorbing content in the
+
+617
+00:35:36.520 --> 00:35:37.320
+feed, whether it's
+
+618
+00:35:37.320 --> 00:35:42.360
+the real feed or it's the main feed, or they're watching their friends stories.
+
+619
+00:35:42.360 --> 00:35:43.880
+That's, I think,
+
+620
+00:35:43.880 --> 00:35:47.680
+where the main core action is on an app like Instagram, or so an app like
+
+621
+00:35:47.680 --> 00:35:48.360
+Instagram want to
+
+622
+00:35:48.360 --> 00:35:53.580
+maximize getting you into the app to get to that core action. You know,
+
+623
+00:35:53.580 --> 00:35:56.200
+Snapchat, right? Snapchat.
+
+624
+00:35:56.200 --> 00:36:03.000
+Core action Snapchat is taking pictures, right? Snapping and chatting. The core
+
+625
+00:36:03.000 --> 00:36:03.720
+action of an app
+
+626
+00:36:03.720 --> 00:36:07.790
+like bags this is my FinTech app is trading and creating meme coins, right?
+
+627
+00:36:07.790 --> 00:36:09.000
+That's the core action
+
+628
+00:36:09.000 --> 00:36:11.880
+of the app. That's what we get everybody to do. You know, at the end of onboard
+
+629
+00:36:11.880 --> 00:36:12.760
+ing, we prompt you
+
+630
+00:36:12.760 --> 00:36:18.250
+to fund your wallet. And we have you do that with Apple Pay or we have just
+
+631
+00:36:18.250 --> 00:36:19.880
+crypto. And our goal is
+
+632
+00:36:19.880 --> 00:36:24.580
+just to get you into the app so you can start trading with NGL, one of my other
+
+633
+00:36:24.580 --> 00:36:25.800
+apps. The core
+
+634
+00:36:25.800 --> 00:36:31.280
+action is posting a link, posting replies, and just having fun on your story,
+
+635
+00:36:31.280 --> 00:36:33.000
+right? That's the core
+
+636
+00:36:33.000 --> 00:36:36.600
+action. So we want to get you into the app and want to get you to that core
+
+637
+00:36:36.600 --> 00:36:38.680
+action as quickly as
+
+638
+00:36:38.680 --> 00:36:42.870
+possible and at the right rate and have the user be in the right mindset, right
+
+639
+00:36:42.870 --> 00:36:44.280
+? The user needs to be
+
+640
+00:36:44.280 --> 00:36:49.270
+primed and programmed and ready for that core action. You know, so chat GPT,
+
+641
+00:36:49.270 --> 00:36:51.160
+another great example,
+
+642
+00:36:51.160 --> 00:36:57.740
+prime, you know, the core action of chat GPT is prompting chat GPT, right? So,
+
+643
+00:36:57.740 --> 00:36:58.360
+typing.
+
+644
+00:36:58.360 --> 00:37:07.090
+Hinge, primary action would be, you know, sending likes, right? To various
+
+645
+00:37:07.090 --> 00:37:07.800
+profiles.
+
+646
+00:37:08.520 --> 00:37:13.090
+That's what they want you to do. They want you to spend time in the feed. What
+
+647
+00:37:13.090 --> 00:37:13.880
+'s app?
+
+648
+00:37:13.880 --> 00:37:18.030
+Obviously is texting and messaging and the original free texting, free
+
+649
+00:37:18.030 --> 00:37:20.280
+messaging. That's the core action
+
+650
+00:37:20.280 --> 00:37:27.490
+and calioc, core action, calioc is obviously scanning food, scanning your items
+
+651
+00:37:27.490 --> 00:37:27.800
+,
+
+652
+00:37:27.800 --> 00:37:34.380
+figuring out what's in it, based on calories and various nutrients, and then
+
+653
+00:37:34.380 --> 00:37:36.040
+logging your food,
+
+654
+00:37:36.040 --> 00:37:41.960
+having streak and being healthy, right? That's the core action of calioc. So
+
+655
+00:37:41.960 --> 00:37:42.840
+these are the core
+
+656
+00:37:42.840 --> 00:37:46.330
+actions and I always like to think about the core actions of an app when I go
+
+657
+00:37:46.330 --> 00:37:47.240
+into designing
+
+658
+00:37:47.240 --> 00:37:51.810
+them because we have to think about what is the core action and when do we want
+
+659
+00:37:51.810 --> 00:37:52.920
+the user to do it
+
+660
+00:37:52.920 --> 00:37:58.300
+and what do we want them to see before they do it? How are they primed? So we
+
+661
+00:37:58.300 --> 00:37:58.920
+'re going to continue
+
+662
+00:37:58.920 --> 00:38:03.890
+talking about this. But some notes here. So figure out what the core action
+
+663
+00:38:03.890 --> 00:38:05.080
+will be at the end of
+
+664
+00:38:05.080 --> 00:38:08.740
+onboarding and depending on the action you can optimize for short or long
+
+665
+00:38:08.740 --> 00:38:10.280
+onboarding. So
+
+666
+00:38:10.280 --> 00:38:16.360
+core actions and onboarding length have a direct relationship. I always keep
+
+667
+00:38:16.360 --> 00:38:18.120
+them in mind, right?
+
+668
+00:38:18.120 --> 00:38:20.900
+Because this is going to inform also the next thing I'm going to talk about,
+
+669
+00:38:20.900 --> 00:38:21.640
+which is the things
+
+670
+00:38:21.640 --> 00:38:25.540
+that we're going to get into sign up during onboarding and how that correlates
+
+671
+00:38:25.540 --> 00:38:26.120
+to the core
+
+672
+00:38:26.120 --> 00:38:31.430
+action of the app as well. So with NGL, it's a short sign up for the sharing
+
+673
+00:38:31.430 --> 00:38:32.840
+prompt, right?
+
+674
+00:38:32.840 --> 00:38:38.440
+Maximizes for our outing sharing. It's multiplayer, variable reward, and it's
+
+675
+00:38:38.440 --> 00:38:39.800
+primarily an external
+
+676
+00:38:39.800 --> 00:38:44.890
+motivator, right? You want to post an NGL because you want to get other people
+
+677
+00:38:44.890 --> 00:38:46.280
+to send you messages.
+
+678
+00:38:46.280 --> 00:38:51.440
+Maybe you saw your friend do it. You want the external motivation, external
+
+679
+00:38:51.440 --> 00:38:52.600
+validation. You want
+
+680
+00:38:52.600 --> 00:38:57.370
+to feel cool. You want to feel socially accepted. So we have a short sign up,
+
+681
+00:38:57.370 --> 00:38:58.360
+right? We want to
+
+682
+00:38:58.360 --> 00:39:10.200
+get you in there fast to get you into this multiplayer experience. So Kali-i as
+
+683
+00:39:10.200 --> 00:39:11.080
+another example,
+
+684
+00:39:11.080 --> 00:39:19.480
+long sign up flow with a hard paywall. This drives investment, right? Because
+
+685
+00:39:19.480 --> 00:39:20.360
+you go down this
+
+686
+00:39:21.880 --> 00:39:26.520
+long journey and we're going to show it in a second and it creates some cost.
+
+687
+00:39:26.520 --> 00:39:28.840
+And it's a single
+
+688
+00:39:28.840 --> 00:39:36.040
+player experience, more of an internal motivator, right? So different ways of
+
+689
+00:39:36.040 --> 00:39:37.000
+looking at the apps
+
+690
+00:39:37.000 --> 00:39:40.520
+and that way you can see, well, a short onboarding works for this, but a long
+
+691
+00:39:40.520 --> 00:39:41.400
+onboarding actually
+
+692
+00:39:41.400 --> 00:39:47.490
+works for this, right? And that's the purpose of me bringing these up. Yeah, so
+
+693
+00:39:47.490 --> 00:39:48.440
+multiplayer,
+
+694
+00:39:48.440 --> 00:39:54.840
+variable rewards, NGL messages, Instagram likes, single player consistency,
+
+695
+00:39:54.840 --> 00:40:00.170
+dual lingo streaks, Kali-i streaks. You get the purpose. This is the different
+
+696
+00:40:00.170 --> 00:40:00.840
+iator here.
+
+697
+00:40:00.840 --> 00:40:07.800
+But both are correct, ultimately. Long or short onboarding is correct. So next,
+
+698
+00:40:07.800 --> 00:40:08.520
+we're going to talk about this.
+
+699
+00:40:09.080 --> 00:40:21.720
+So, depending on the type of app that you're building, you're going to want to
+
+700
+00:40:13.320 --> 00:40:34.120
+what do you need,
+
+701
+00:40:21.720 --> 00:40:24.760
+ask for different
+
+702
+00:40:24.760 --> 00:40:13.320
+information in sign up. This, I think, really comes down to what is required,
+
+703
+00:40:34.680 --> 00:40:39.400
+and what's a nice to have, right? So a great example of this in the context of
+
+704
+00:40:39.400 --> 00:40:40.280
+a dating app,
+
+705
+00:40:40.280 --> 00:40:49.430
+having your age, very important, right? In the context of an app to share
+
+706
+00:40:49.430 --> 00:40:49.960
+recipes,
+
+707
+00:40:49.960 --> 00:40:56.120
+maybe your age isn't as important, right? So figuring out what is essential,
+
+708
+00:40:56.120 --> 00:40:56.840
+what is vital,
+
+709
+00:40:56.840 --> 00:41:01.350
+what information do I need as the creator of this app, as the designer of this
+
+710
+00:41:01.350 --> 00:41:02.440
+app, in order to make
+
+711
+00:41:02.440 --> 00:41:07.640
+sure that I have all the information I need to deliver the user to that core
+
+712
+00:41:07.640 --> 00:41:08.360
+action, right?
+
+713
+00:41:08.360 --> 00:41:11.720
+To bring them in, and we have everything we need so they can do their thing,
+
+714
+00:41:11.720 --> 00:41:12.920
+right? So in the case
+
+715
+00:41:12.920 --> 00:41:16.950
+of, you know, dating app, how do we get all their information in sign up so we
+
+716
+00:41:16.950 --> 00:41:17.720
+can build their
+
+717
+00:41:17.720 --> 00:41:21.550
+profile, and then we can take their profile, and we can push it out to our
+
+718
+00:41:21.550 --> 00:41:22.840
+users and they can start
+
+719
+00:41:22.840 --> 00:41:28.060
+swiping, right? So think about what you need to get from the user. So what kind
+
+720
+00:41:28.060 --> 00:41:29.400
+of authentication,
+
+721
+00:41:29.400 --> 00:41:37.800
+right? What kind of auth? You could auth with phone, and then a 2FA text code,
+
+722
+00:41:37.800 --> 00:41:38.200
+you could
+
+723
+00:41:38.200 --> 00:41:44.990
+auth with email, you could do Apple, Google, X, various single sign on options.
+
+724
+00:41:44.990 --> 00:41:46.280
+There's many,
+
+725
+00:41:46.280 --> 00:41:53.080
+many options. The way that I see it is that in absolute lean, I like to lean
+
+726
+00:41:53.080 --> 00:41:54.360
+away personally,
+
+727
+00:41:54.360 --> 00:41:59.120
+from complicating the auth unless the user wants to, right? So a great example
+
+728
+00:41:59.120 --> 00:42:01.000
+of this is in my
+
+729
+00:42:01.000 --> 00:42:06.760
+FinTech app bags, our auth, we offer basically every option, right? Apple,
+
+730
+00:42:06.760 --> 00:42:08.680
+Google, X, email, phone,
+
+731
+00:42:08.680 --> 00:42:14.430
+everything. But we have 2FA as well. So you can, you know, if you want to go
+
+732
+00:42:14.430 --> 00:42:15.720
+deeper, you can add
+
+733
+00:42:15.720 --> 00:42:20.720
+even an authentication app, right? If you want to go deeper, it works for that
+
+734
+00:42:20.720 --> 00:42:21.480
+kind of app,
+
+735
+00:42:21.480 --> 00:42:26.760
+because it's a FinTech app, right? An app like NGL had no auth when we first
+
+736
+00:42:26.760 --> 00:42:27.320
+released it. There
+
+737
+00:42:27.320 --> 00:42:30.680
+was no auth at all. It was simply Asta, and I'm going to show you in a second,
+
+738
+00:42:30.680 --> 00:42:31.240
+but it hadn't
+
+739
+00:42:31.240 --> 00:42:36.280
+absolutely no auth. Agent birthday, you know, that's important for certain apps
+
+740
+00:42:36.280 --> 00:42:37.400
+. Definitely in social
+
+741
+00:42:37.400 --> 00:42:40.600
+apps, definitely in, you know, various marketplaces, things involving money,
+
+742
+00:42:40.600 --> 00:42:42.600
+you know, all of that,
+
+743
+00:42:42.600 --> 00:42:45.960
+of course, gender. That's also very important, right? Dating, of course, super
+
+744
+00:42:45.960 --> 00:42:46.440
+important,
+
+745
+00:42:47.560 --> 00:42:51.320
+you know, health and fitness. That's also important. Profile picture, you know,
+
+746
+00:42:51.320 --> 00:42:52.440
+the thing with profile
+
+747
+00:42:52.440 --> 00:42:59.000
+pictures, profile picture. So the thing with profile pictures is, I think that
+
+748
+00:42:59.000 --> 00:43:01.800
+it depends on the app.
+
+749
+00:43:01.800 --> 00:43:06.590
+I'll say that a lot of the times, unless it makes sense in the right context,
+
+750
+00:43:06.590 --> 00:43:08.280
+users don't really care
+
+751
+00:43:08.280 --> 00:43:11.440
+to upload a profile picture and they'll either skip it or they'll upload a
+
+752
+00:43:11.440 --> 00:43:12.520
+photo that's not them.
+
+753
+00:43:12.520 --> 00:43:16.360
+So I would just really think about the context in which they're uploading the
+
+754
+00:43:16.360 --> 00:43:17.240
+profile picture.
+
+755
+00:43:17.240 --> 00:43:23.240
+You know, I like to grab the profile picture from the social account, right? If
+
+756
+00:43:23.240 --> 00:43:23.880
+they log in with
+
+757
+00:43:23.880 --> 00:43:27.490
+X, log in with Instagram, log in with other various methods, I like to just
+
+758
+00:43:27.490 --> 00:43:28.840
+grab their profile picture
+
+759
+00:43:28.840 --> 00:43:34.600
+to their PFP at that point and not have them have to upload it. That's just my
+
+760
+00:43:34.600 --> 00:43:35.880
+preference.
+
+761
+00:43:35.880 --> 00:43:38.040
+You could also use iCloud.
+
+762
+00:43:43.400 --> 00:43:50.190
+You could also use iCloud to pull PFP. But I think it works with certain
+
+763
+00:43:50.190 --> 00:43:50.760
+contexts,
+
+764
+00:43:50.760 --> 00:43:56.680
+you know, use that with discretion. But I am an interest, very much social
+
+765
+00:43:56.680 --> 00:43:57.080
+dating,
+
+766
+00:43:57.080 --> 00:44:02.520
+marketplaces, those types of apps, interactive quizzes. This is a lot,
+
+767
+00:44:02.520 --> 00:44:03.480
+something I've seen a lot
+
+768
+00:44:03.480 --> 00:44:08.630
+in apps, you know, apps like Headspace, I've seen in, it's an app like Quitter
+
+769
+00:44:08.630 --> 00:44:09.240
+that we're going to
+
+770
+00:44:09.240 --> 00:44:13.690
+talk about soon. Calli, I had these interactive quizzes. This is, you know, a
+
+771
+00:44:13.690 --> 00:44:14.520
+great feature of
+
+772
+00:44:14.520 --> 00:44:20.040
+onboarding as like, as a way to prime the user for a paywall. Permissions,
+
+773
+00:44:20.040 --> 00:44:20.840
+permissions are super
+
+774
+00:44:20.840 --> 00:44:23.820
+important as well and onboarding. What permissions do we need to grab, any new
+
+775
+00:44:23.820 --> 00:44:24.600
+grant notifications,
+
+776
+00:44:24.600 --> 00:44:29.280
+photos, contacts, camera, mic, etc. We need to think about what we're going to
+
+777
+00:44:29.280 --> 00:44:29.960
+grab because
+
+778
+00:44:29.960 --> 00:44:34.680
+as you're watching this, you should be thinking about how many things do you
+
+779
+00:44:34.680 --> 00:44:35.560
+need to grab and
+
+780
+00:44:35.560 --> 00:44:38.040
+how many screens is that going to be? Right. You're just going to have to have
+
+781
+00:44:38.040 --> 00:44:39.160
+a photo upload screen,
+
+782
+00:44:39.160 --> 00:44:44.600
+screen to, you know, confirm the photo. You need the contact prompt. You're
+
+783
+00:44:44.600 --> 00:44:45.160
+going to need the,
+
+784
+00:44:45.160 --> 00:44:48.120
+you know, the contact states when they've been invited. You're going to need to
+
+785
+00:44:48.120 --> 00:44:48.760
+have the
+
+786
+00:44:48.760 --> 00:44:54.260
+open graph images. So when you, you know, invite your friend over iMessage, it
+
+787
+00:44:54.260 --> 00:44:55.240
+has a nice, you know,
+
+788
+00:44:55.240 --> 00:44:59.560
+link image and a nice, you know, piece of text with some good copy. Right.
+
+789
+00:44:59.560 --> 00:45:00.440
+These are all the things
+
+790
+00:45:00.440 --> 00:45:05.160
+you got to think about. So I like to start this right when we do onboarding. We
+
+791
+00:45:05.160 --> 00:45:05.720
+think about what
+
+792
+00:45:05.720 --> 00:45:20.410
+do we need from the user? So this is NGL. When the app went viral in June of
+
+793
+00:45:20.410 --> 00:45:23.640
+2022, this was our
+
+794
+00:45:23.640 --> 00:45:31.560
+onboarding. So as you can see, it is a very, very fast onboarding. In the
+
+795
+00:45:31.560 --> 00:45:32.920
+previous section,
+
+796
+00:45:32.920 --> 00:45:38.500
+we talked about how users that came into NGL came in from their friend's
+
+797
+00:45:38.500 --> 00:45:40.200
+Instagram story.
+
+798
+00:45:40.200 --> 00:45:46.040
+So it came from their friend's Instagram story. They went on the website, sent
+
+799
+00:45:46.040 --> 00:45:46.760
+a message,
+
+800
+00:45:46.760 --> 00:45:51.560
+downloaded the app. Now they're here. So we have an influx of millions of
+
+801
+00:45:51.560 --> 00:45:52.600
+people trying to get into
+
+802
+00:45:52.600 --> 00:45:56.260
+this app and participate in the thing that their friends are doing. And they've
+
+803
+00:45:56.260 --> 00:45:57.080
+gotten the stamp
+
+804
+00:45:57.080 --> 00:46:01.170
+of approval by all their friends that it's socially acceptable to do. So our
+
+805
+00:46:01.170 --> 00:46:02.280
+goal was to get them as
+
+806
+00:46:02.280 --> 00:46:09.660
+quickly as possible into the app and to the core action. With NGL, it was
+
+807
+00:46:09.660 --> 00:46:11.560
+simply a one question
+
+808
+00:46:11.560 --> 00:46:19.080
+onboarding. What is your Instagram handle? That's it. That's all we asked for.
+
+809
+00:46:19.080 --> 00:46:21.560
+No off, nothing.
+
+810
+00:46:22.120 --> 00:46:27.960
+Since then, we've added a few steps. But this was the core flow that made it
+
+811
+00:46:27.960 --> 00:46:28.840
+viral.
+
+812
+00:46:28.840 --> 00:46:33.640
+When you think about the core action on NGL, the only thing that's really
+
+813
+00:46:33.640 --> 00:46:35.000
+required is to just
+
+814
+00:46:35.000 --> 00:46:42.200
+know the person's Instagram and to know in order to access their PFP.
+
+815
+00:46:43.080 --> 00:47:00.340
+So because the NGL core action was sharing something and we wanted to get the
+
+816
+00:47:00.340 --> 00:47:04.760
+user in quickly,
+
+817
+00:47:05.720 --> 00:47:11.480
+and we also knew we needed very little information from the user. This is why
+
+818
+00:47:11.480 --> 00:47:13.720
+we made the decision
+
+819
+00:47:13.720 --> 00:47:20.120
+to have onboarding be this sparse. I said earlier, I'm going to show you things
+
+820
+00:47:20.120 --> 00:47:20.920
+that are very
+
+821
+00:47:20.920 --> 00:47:26.720
+unorthodox. But this is what maximizes virality because remember, we have this
+
+822
+00:47:26.720 --> 00:47:27.800
+screen, but then
+
+823
+00:47:27.800 --> 00:47:33.030
+we have copying the link and we have the four step tutorial where the user has
+
+824
+00:47:33.030 --> 00:47:33.960
+to manually
+
+825
+00:47:35.080 --> 00:47:41.300
+add the link. And this was before you could automatically copy links on the
+
+826
+00:47:41.300 --> 00:47:42.040
+stories.
+
+827
+00:47:42.040 --> 00:47:47.520
+This was before anyone knew how to use the Instagram link feature, right? In
+
+828
+00:47:47.520 --> 00:47:49.160
+August of 2021,
+
+829
+00:47:49.160 --> 00:47:55.180
+I co-founded NGL with a couple of friends. This was right when Instagram had
+
+830
+00:47:55.180 --> 00:47:55.880
+released
+
+831
+00:47:55.880 --> 00:48:02.020
+the link feature for all users. You used to have to have 10,000 followers in
+
+832
+00:48:02.020 --> 00:48:03.400
+order to post the link.
+
+833
+00:48:03.400 --> 00:48:09.800
+So the second that happened, we immediately started working on NGL. At the time
+
+834
+00:48:09.800 --> 00:48:10.040
+, it was
+
+835
+00:48:10.040 --> 00:48:16.300
+called something different. I later rebranded it NGL. But ultimately, this
+
+836
+00:48:16.300 --> 00:48:17.800
+onboarding worked
+
+837
+00:48:17.800 --> 00:48:23.130
+because of the core action that we required the user to do. And we knew that it
+
+838
+00:48:23.130 --> 00:48:24.200
+was a complicated
+
+839
+00:48:24.200 --> 00:48:30.400
+multi-step core action. So we wanted to minimize the time onboarding. The user
+
+840
+00:48:30.400 --> 00:48:31.400
+was already sold.
+
+841
+00:48:31.400 --> 00:48:36.960
+We didn't have to sell them. And that's a stark contrast from the next app we
+
+842
+00:48:36.960 --> 00:48:37.640
+'re going to talk about.
+
+843
+00:48:37.640 --> 00:48:45.000
+So now we're going to talk about another app, which is Cali and I, an app with
+
+844
+00:48:45.000 --> 00:48:46.120
+over 10 million
+
+845
+00:48:46.120 --> 00:48:53.750
+downloads and multi-seven figure monthly revenue. Built by a very talented team
+
+846
+00:48:53.750 --> 00:48:55.000
+, I also add.
+
+847
+00:48:56.360 --> 00:49:01.640
+And let's dive into this one. Very different onboarding flow than what we just
+
+848
+00:49:01.640 --> 00:49:02.440
+did with NGL.
+
+849
+00:49:02.440 --> 00:49:08.520
+So I want to zoom out here, just kind of get like a one of a bird's eye view.
+
+850
+00:49:08.520 --> 00:49:10.360
+As we can see,
+
+851
+00:49:10.360 --> 00:49:17.620
+this is a much longer flow, much longer flow, than NGL when it comes to onboard
+
+852
+00:49:17.620 --> 00:49:18.360
+ing.
+
+853
+00:49:19.480 --> 00:49:25.560
+So this is a moving GIF. I went to start the beginning, which I think is
+
+854
+00:49:25.560 --> 00:49:26.360
+awesome because it
+
+855
+00:49:26.360 --> 00:49:32.080
+demonstrates what the app does. It's showing you what it does. So it shows this
+
+856
+00:49:32.080 --> 00:49:33.080
+game of food and
+
+857
+00:49:33.080 --> 00:49:38.230
+a little pop-up coming up. And I think it's a phenomenal way of explaining what
+
+858
+00:49:38.230 --> 00:49:39.320
+the app does
+
+859
+00:49:39.320 --> 00:49:46.440
+in a visual way. So definitely very impressive with the onboarding video. So
+
+860
+00:49:46.440 --> 00:49:47.160
+then you can get
+
+861
+00:49:47.160 --> 00:49:52.540
+started. We have a few authentication options, Apple, Google, email, pretty
+
+862
+00:49:52.540 --> 00:49:53.720
+standard. I think
+
+863
+00:49:53.720 --> 00:49:58.850
+with Cali's demo, it makes a lot of sense to do Apple, Google, and email versus
+
+864
+00:49:58.850 --> 00:50:00.760
+leading with phone
+
+865
+00:50:00.760 --> 00:50:06.700
+number. It does make sense to me. I think that this really just comes down to
+
+866
+00:50:06.700 --> 00:50:07.560
+one information
+
+867
+00:50:07.560 --> 00:50:11.470
+you want. So if the phone number is important to you, for some reason inside
+
+868
+00:50:11.470 --> 00:50:12.280
+the app, sure,
+
+869
+00:50:12.280 --> 00:50:16.490
+grab the phone number. In more social apps, I'd say it makes sense to have
+
+870
+00:50:16.490 --> 00:50:17.400
+phone number.
+
+871
+00:50:17.400 --> 00:50:23.070
+But they've opted for these three authentication options. Then we have, this is
+
+872
+00:50:23.070 --> 00:50:23.800
+if you were to
+
+873
+00:50:23.800 --> 00:50:30.920
+choose email with the code, then there's a gender option. Really simple, like a
+
+874
+00:50:30.920 --> 00:50:32.280
+little quiz. How
+
+875
+00:50:32.280 --> 00:50:37.790
+many workouts do you do per week? So people could really feel like they're
+
+876
+00:50:37.790 --> 00:50:39.240
+investing into this
+
+877
+00:50:39.240 --> 00:50:45.190
+app as they're going down this little quiz. We'll progress far at the top, big
+
+878
+00:50:45.190 --> 00:50:45.880
+back button,
+
+879
+00:50:45.880 --> 00:50:51.120
+great UI here. And if you really notice what I love about this onboarding is
+
+880
+00:50:51.120 --> 00:50:52.200
+you know exactly
+
+881
+00:50:52.200 --> 00:50:58.280
+where to look. The text is really big at the top. We have a clear progression.
+
+882
+00:50:58.280 --> 00:50:59.400
+So you don't feel
+
+883
+00:50:59.400 --> 00:51:04.440
+like you're going to be here forever and you do see progress. And you just know
+
+884
+00:51:04.440 --> 00:51:05.080
+exactly where
+
+885
+00:51:05.080 --> 00:51:09.240
+to look. The buttons are big. There's haptics. It's very clear. It's really a
+
+886
+00:51:09.240 --> 00:51:10.520
+very simple onboarding.
+
+887
+00:51:10.520 --> 00:51:14.760
+And I think that's really the key. And we're going to see that with all the
+
+888
+00:51:14.760 --> 00:51:15.240
+really all the
+
+889
+00:51:15.240 --> 00:51:20.130
+onboarding is I'm going to show they are quite simple. As long as they are, the
+
+890
+00:51:20.130 --> 00:51:21.240
+UI is very clean
+
+891
+00:51:21.240 --> 00:51:26.600
+and the UX is very simple and it's a recognizable pattern. Right? So these are
+
+892
+00:51:26.600 --> 00:51:27.800
+very simple patterns
+
+893
+00:51:27.800 --> 00:51:35.800
+to recognize. So we're showing where did you hear about us? Then we moved to
+
+894
+00:51:35.800 --> 00:51:36.760
+asking a question
+
+895
+00:51:36.760 --> 00:51:43.450
+about trying competitors. As I'm sure many people have. Right? So this is this
+
+896
+00:51:43.450 --> 00:51:44.440
+is a very relevant
+
+897
+00:51:44.440 --> 00:51:48.370
+question for for Kali because at the end of the onboarding, you guys are going
+
+898
+00:51:48.370 --> 00:51:49.560
+to see that we have
+
+899
+00:51:49.560 --> 00:51:54.240
+a hard paywall. Right? So this is really about understanding who are these
+
+900
+00:51:54.240 --> 00:51:55.320
+people that are coming
+
+901
+00:51:55.320 --> 00:52:00.390
+into the product. How they try to their apps? Where do they hear about us? And
+
+902
+00:52:00.390 --> 00:52:01.960
+selling them
+
+903
+00:52:01.960 --> 00:52:08.840
+on why the product is superior. So we have a really nice animation here
+
+904
+00:52:08.840 --> 00:52:17.350
+with a great stat. Very clean UI. You just know exactly where it's a look. We
+
+905
+00:52:17.350 --> 00:52:18.840
+have height and weight.
+
+906
+00:52:19.720 --> 00:52:23.320
+You know, so people can input that. Obviously it's a calorie tracking app.
+
+907
+00:52:23.320 --> 00:52:25.640
+Height and weight is important.
+
+908
+00:52:25.640 --> 00:52:32.680
+When were you born? This is also important, right? The example of asking for
+
+909
+00:52:32.680 --> 00:52:33.240
+birthday.
+
+910
+00:52:33.240 --> 00:52:37.650
+We talked about above, you know, why do you ask for certain things and not
+
+911
+00:52:37.650 --> 00:52:39.400
+others? Right? So for
+
+912
+00:52:39.400 --> 00:52:44.040
+an app like NGL, you know, we're not going to ask for height and weight. Right?
+
+913
+00:52:46.200 --> 00:52:50.520
+For an app like Kali Eye, yes, knowing when someone's born is important.
+
+914
+00:52:50.520 --> 00:52:58.470
+What is your goal? Right? So this is very interesting here. And this is used, I
+
+915
+00:52:58.470 --> 00:52:59.080
+'m assuming,
+
+916
+00:52:59.080 --> 00:53:10.600
+to create some kind of split path where you show, yeah, losing weight. And I'm
+
+917
+00:53:10.600 --> 00:53:11.160
+sure there's
+
+918
+00:53:11.160 --> 00:53:16.360
+instances for gaining weight and this whole section.
+
+919
+00:53:16.360 --> 00:53:30.960
+So then we have this question, what is your goal? Right? Another important
+
+920
+00:53:30.960 --> 00:53:31.400
+question.
+
+921
+00:53:34.680 --> 00:53:40.280
+Losing weight, maintaining, or gaining weight. So what I like about this
+
+922
+00:53:40.280 --> 00:53:41.480
+onboarding is we have
+
+923
+00:53:41.480 --> 00:53:50.280
+a good mix of user is giving information, right? Gender, workouts,
+
+924
+00:53:50.280 --> 00:53:58.550
+asking these questions to the user, the user's answering. The user is on a
+
+925
+00:53:58.550 --> 00:53:59.960
+journey of giving
+
+926
+00:53:59.960 --> 00:54:07.730
+information and sharing yes and no's kind of answering, you know, A or B type
+
+927
+00:54:07.730 --> 00:54:08.680
+questions,
+
+928
+00:54:08.680 --> 00:54:15.480
+while getting sold and continuing to input information, continuing to input
+
+929
+00:54:15.480 --> 00:54:16.040
+information,
+
+930
+00:54:16.040 --> 00:54:21.000
+then being asked another quiz question, do you see how it's moving? Do you see
+
+931
+00:54:21.000 --> 00:54:21.640
+how you're not
+
+932
+00:54:21.640 --> 00:54:26.110
+stuck in the same format? This is a very, very smart onboarding. So I feel like
+
+933
+00:54:26.110 --> 00:54:26.520
+when it comes
+
+934
+00:54:26.520 --> 00:54:32.520
+along onboarding, that requires lots of information up front, like Calli does,
+
+935
+00:54:32.520 --> 00:54:33.080
+right? Because this is
+
+936
+00:54:33.080 --> 00:54:35.470
+important. You need to have your height away, you need to have where you're
+
+937
+00:54:35.470 --> 00:54:36.760
+born. We need to know
+
+938
+00:54:36.760 --> 00:54:43.860
+the goals. These are all important things. We move from goals to what is your
+
+939
+00:54:43.860 --> 00:54:45.480
+desired weight.
+
+940
+00:54:45.480 --> 00:54:52.040
+Then we have a screen here that is, you know, programmatic depending on losing
+
+941
+00:54:52.040 --> 00:54:52.920
+or gaining from
+
+942
+00:54:52.920 --> 00:54:58.930
+the step here. I like this one a lot, this slider of how fast you want to reach
+
+943
+00:54:58.930 --> 00:55:00.520
+your goal. I really
+
+944
+00:55:00.520 --> 00:55:06.970
+like that because that's a question everybody has, right? Think of you're a
+
+945
+00:55:06.970 --> 00:55:08.120
+user and you want to
+
+946
+00:55:08.120 --> 00:55:11.470
+lose five pounds, you want to gain five pounds. Question you're going to have
+
+947
+00:55:11.470 --> 00:55:13.240
+for this, you know,
+
+948
+00:55:13.240 --> 00:55:16.900
+Calli app is AI app that's going to help me lose weight and help me track my
+
+949
+00:55:16.900 --> 00:55:17.720
+calories is like,
+
+950
+00:55:17.720 --> 00:55:20.720
+how quickly can I do it? That's a valid question. So what I like about this
+
+951
+00:55:20.720 --> 00:55:21.480
+onboarding is that
+
+952
+00:55:21.480 --> 00:55:26.530
+we're really jumping around into different types of, you know, really nice
+
+953
+00:55:26.530 --> 00:55:29.000
+interactions, sliders,
+
+954
+00:55:29.000 --> 00:55:34.120
+buttons, scrolls. It's very dynamic, but at the same time it's very simple
+
+955
+00:55:34.120 --> 00:55:36.280
+onboarding experience.
+
+956
+00:55:36.280 --> 00:55:40.200
+So I would definitely look at this one when you're doing your apps and noticing
+
+957
+00:55:40.200 --> 00:55:40.680
+how there's really
+
+958
+00:55:40.680 --> 00:55:46.670
+only one accent color, right? It's very mild, chromatic, very simple. And we
+
+959
+00:55:46.670 --> 00:55:48.120
+move from, you know,
+
+960
+00:55:48.120 --> 00:55:52.600
+answering a question to being sold again, right? Lose twice as much weight with
+
+961
+00:55:52.600 --> 00:55:53.560
+Calli versus on
+
+962
+00:55:53.560 --> 00:55:58.320
+your own. Right? So we got sold a little bit back here. We answered more
+
+963
+00:55:58.320 --> 00:56:00.120
+questions. We had some fun
+
+964
+00:56:00.120 --> 00:56:03.790
+with some cool interactions and some haptics. And then now we're here lose
+
+965
+00:56:03.790 --> 00:56:04.760
+twice as much weight
+
+966
+00:56:04.760 --> 00:56:09.490
+with Calli on versus on your own. So notice the weaving and how we're filling
+
+967
+00:56:09.490 --> 00:56:10.600
+out information,
+
+968
+00:56:10.600 --> 00:56:15.660
+we're answering questions and we're being sold at the same time. Asking about
+
+969
+00:56:15.660 --> 00:56:16.520
+another,
+
+970
+00:56:16.520 --> 00:56:20.830
+you ask me other question, following diet, what do you want to accomplish?
+
+971
+00:56:20.830 --> 00:56:23.640
+Right? And then another
+
+972
+00:56:23.640 --> 00:56:27.780
+screen of really just positive enforcement, which sometimes really important,
+
+973
+00:56:27.780 --> 00:56:28.360
+people need
+
+974
+00:56:28.360 --> 00:56:33.340
+positive enforcement. I love this, you know, this, this, this hand, this, this
+
+975
+00:56:33.340 --> 00:56:34.040
+high five.
+
+976
+00:56:34.040 --> 00:56:43.480
+And I love this. Now we have another screen that, you know, really is a
+
+977
+00:56:43.480 --> 00:56:45.240
+positive reinforcement
+
+978
+00:56:45.240 --> 00:56:49.880
+type screen. So you go from answering questions to positive reinforcement, you
+
+979
+00:56:49.880 --> 00:56:50.440
+know, selling the
+
+980
+00:56:50.440 --> 00:56:55.790
+user that the user, you know, can have that weight transition that they want to
+
+981
+00:56:55.790 --> 00:56:56.200
+have.
+
+982
+00:56:56.200 --> 00:57:01.560
+Then we have another screen here for privacy and security, which is just great
+
+983
+00:57:01.560 --> 00:57:02.520
+for trust factor.
+
+984
+00:57:02.520 --> 00:57:08.420
+And really, a lot of this is also, you know, it's about gaining trust. It's
+
+985
+00:57:08.420 --> 00:57:09.400
+about filling this
+
+986
+00:57:09.400 --> 00:57:14.110
+information out, educating the user on what the app is doing and how the app
+
+987
+00:57:14.110 --> 00:57:16.360
+can help. And, you know,
+
+988
+00:57:16.360 --> 00:57:21.200
+really focusing on building trust. We have integrations connecting into your
+
+989
+00:57:21.200 --> 00:57:22.040
+apps, you know,
+
+990
+00:57:22.040 --> 00:57:27.640
+skippable, you know, being able to, you know, add these extra things answering
+
+991
+00:57:27.640 --> 00:57:28.440
+yes and no's,
+
+992
+00:57:28.440 --> 00:57:33.320
+right? So it's a very interactive, very, very interactive flow. You know, we
+
+993
+00:57:33.320 --> 00:57:34.680
+asked, we have a,
+
+994
+00:57:38.280 --> 00:57:43.520
+it's a very interactive flow, which I think is what makes it really good.
+
+995
+00:57:43.520 --> 00:57:45.720
+Because you're moving
+
+996
+00:57:45.720 --> 00:57:52.520
+pretty quick through it. The questions are very simple. And the UI interactions
+
+997
+00:57:52.520 --> 00:57:53.480
+and animations
+
+998
+00:57:53.480 --> 00:57:59.540
+are very delightful. So it helps push you through this experience. As many
+
+999
+00:57:59.540 --> 00:58:01.080
+screens as it is, it actually
+
+1000
+00:58:01.080 --> 00:58:08.620
+feels very fast. And there's not really a moment where you don't know where to
+
+1001
+00:58:08.620 --> 00:58:10.360
+look or what to do,
+
+1002
+00:58:10.360 --> 00:58:20.820
+which I really like. Then we have four screens here asking questions, yes and
+
+1003
+00:58:20.820 --> 00:58:21.960
+no, right? We've
+
+1004
+00:58:21.960 --> 00:58:26.680
+switched from the buttons and the swipes and the taps into the yes and no
+
+1005
+00:58:26.680 --> 00:58:29.560
+buttons. We have a,
+
+1006
+00:58:29.560 --> 00:58:35.320
+give us a rating screen, getting a rating screen in onboarding.
+
+1007
+00:58:35.320 --> 00:58:44.480
+It's not something I've personally done. But I do think that it's very valid if
+
+1008
+00:58:44.480 --> 00:58:46.760
+you have a medium
+
+1009
+00:58:46.760 --> 00:58:58.760
+to long onboarding to add that in. Yes. I'll be honest, I haven't really done
+
+1010
+00:58:58.760 --> 00:58:59.880
+that with my apps.
+
+1011
+00:58:59.880 --> 00:59:07.520
+I've really asked for ratings after some kind of magic moment, which we're
+
+1012
+00:59:07.520 --> 00:59:09.000
+going to talk about.
+
+1013
+00:59:12.520 --> 00:59:17.080
+So this is not something that I've done in my own apps. But I think in an app
+
+1014
+00:59:17.080 --> 00:59:17.720
+like Calli
+
+1015
+00:59:17.720 --> 00:59:22.390
+Eye and other apps, it makes a lot of sense. Right? Because the more five star
+
+1016
+00:59:22.390 --> 00:59:23.560
+ratings we have.
+
+1017
+00:59:40.520 --> 00:59:45.960
+I think for an app like Calli Eye, having a rating prompt makes a lot of sense
+
+1018
+00:59:45.960 --> 00:59:46.600
+in onboarding.
+
+1019
+00:59:46.600 --> 00:59:53.240
+Really, the way I see ratings is at the end of the day, on your app store page,
+
+1020
+00:59:53.240 --> 00:59:54.920
+it will build trust.
+
+1021
+00:59:54.920 --> 00:59:59.960
+So asking for an onboarding makes a lot of sense if you have a medium to long
+
+1022
+00:59:59.960 --> 01:00:01.000
+onboarding.
+
+1023
+01:00:01.000 --> 01:00:06.930
+That's just my opinion. It's not something that I've tried with my apps too
+
+1024
+01:00:06.930 --> 01:00:09.400
+often. But I think it's
+
+1025
+01:00:09.400 --> 01:00:15.880
+very valid for a medium onboarding app, especially like the one you're seeing
+
+1026
+01:00:15.880 --> 01:00:16.600
+right here. This is
+
+1027
+01:00:16.600 --> 01:00:23.230
+a great, give us a rating screen. We've ref code screen. And now we have kind
+
+1028
+01:00:23.230 --> 01:00:25.480
+of this satisfying,
+
+1029
+01:00:25.480 --> 01:00:31.800
+okay, we're done. Let's generate a plan. And now we have the AI, you know, have
+
+1030
+01:00:31.800 --> 01:00:32.600
+this really delightful
+
+1031
+01:00:32.600 --> 01:00:38.770
+moment of the AI, you know, generating the plan and having the progress bar
+
+1032
+01:00:38.770 --> 01:00:39.720
+fill up.
+
+1033
+01:00:39.720 --> 01:00:47.300
+Now we have this really nice, delightful screen of, you know, counting up to
+
+1034
+01:00:47.300 --> 01:00:48.280
+100.
+
+1035
+01:00:48.280 --> 01:00:53.040
+And we're setting it up for you, right? So this is a great screen. This is a
+
+1036
+01:00:53.040 --> 01:00:54.200
+great screen. If you
+
+1037
+01:00:54.200 --> 01:01:00.560
+need some time to do things, I love creating delays. And you know, it's
+
+1038
+01:01:00.560 --> 01:01:01.720
+something I've done in other
+
+1039
+01:01:01.720 --> 01:01:07.310
+apps as well, but having something where you weigh a few seconds for the user
+
+1040
+01:01:07.310 --> 01:01:08.200
+to get excited and
+
+1041
+01:01:08.200 --> 01:01:14.160
+to build in dissipation. So I love screens like this. And it's animated. Then
+
+1042
+01:01:14.160 --> 01:01:16.120
+we have that your plan
+
+1043
+01:01:16.120 --> 01:01:21.140
+is ready. Right. So we have this like delivery of something great, like this is
+
+1044
+01:01:21.140 --> 01:01:22.840
+what the AI thinks
+
+1045
+01:01:22.840 --> 01:01:30.430
+you should be doing every day, right? Super simple screen and a very delightful
+
+1046
+01:01:30.430 --> 01:01:32.280
+experience from
+
+1047
+01:01:32.280 --> 01:01:42.040
+here to here. So now the user is here. The next stream would be a paywall. And
+
+1048
+01:01:42.040 --> 01:01:42.440
+I have a couple
+
+1049
+01:01:42.440 --> 01:01:50.740
+different paywalls here. This is the current paywall. So it's very simple and
+
+1050
+01:01:50.740 --> 01:01:52.840
+clean. We're going to
+
+1051
+01:01:52.840 --> 01:01:55.720
+talk about paywalls in the next section, but I'm just going to pop this up here
+
+1052
+01:01:55.720 --> 01:01:57.640
+. This is a trial
+
+1053
+01:01:57.640 --> 01:02:04.190
+paywall. Soltisser. We'll talk about that soon. But this is the call AI onboard
+
+1054
+01:02:04.190 --> 01:02:04.920
+ing. And this is
+
+1055
+01:02:04.920 --> 01:02:10.060
+the NGL onboarding. Both of them are correct. Right. Like I said, both are
+
+1056
+01:02:10.060 --> 01:02:12.200
+correct. It just depends
+
+1057
+01:02:12.200 --> 01:02:16.760
+on what the purpose of the app is. What is the core action? What do we need
+
+1058
+01:02:16.760 --> 01:02:17.960
+from the user for
+
+1059
+01:02:17.960 --> 01:02:22.550
+the core action? Right. Call AI, you need a lot of information in order to when
+
+1060
+01:02:22.550 --> 01:02:23.560
+you scan the food
+
+1061
+01:02:23.560 --> 01:02:27.790
+and you provide these insights, then you can share insights of, Oh, maybe you
+
+1062
+01:02:27.790 --> 01:02:28.840
+should eat more of
+
+1063
+01:02:28.840 --> 01:02:32.180
+this or eat less of this. We have to know your height and your weight. And we
+
+1064
+01:02:32.180 --> 01:02:32.920
+have to know your
+
+1065
+01:02:32.920 --> 01:02:38.040
+gender. We have to know all these things about you versus NGL, which requires
+
+1066
+01:02:38.040 --> 01:02:39.080
+very little information
+
+1067
+01:02:39.080 --> 01:02:43.630
+from the user in order for the core action to be effective. Right. Just sharing
+
+1068
+01:02:43.630 --> 01:02:44.760
+a link on your story.
+
+1069
+01:02:44.760 --> 01:02:51.310
+So I hope that answers the question of what is the right answer. I get this DM
+
+1070
+01:02:51.310 --> 01:02:52.040
+all the time.
+
+1071
+01:02:52.040 --> 01:03:01.320
+What is the right answer? Short or long onboarding. And the answer is both.
+
+1072
+01:03:01.320 --> 01:03:10.980
+[BLANK_AUDIO]

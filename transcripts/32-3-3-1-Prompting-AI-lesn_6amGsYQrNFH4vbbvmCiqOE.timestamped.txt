@@ -1,0 +1,74 @@
+[00:00:00] Okay, now we're going to talk about AI prompting and how to expedite
+[00:00:03] development by utilizing
+[00:00:05] AI.
+[00:00:06] In my opinion, and I've spoke to Blake Anderson about this, the reason apps
+[00:00:10] have blown up
+[00:00:11] recently and the reason we've all got very rich and successful of it is because
+[00:00:15] AI has
+[00:00:16] lowered the barriers to entry significantly.
+[00:00:18] It saves a lot of time.
+[00:00:20] It's super smart and you can build and test and validate things at lightning
+[00:00:28] speed.
+[00:00:29] There is a bunch of charity of deprops that you can use.
+[00:00:32] We'll be using this first one to begin this tutorial and then there's a bunch
+[00:00:35] of other
+[00:00:36] ones that are very simple, like make a pull to refresh list and SwiftUI or
+[00:00:41] create a SwiftUI
+[00:00:41] button with a Spring Bounce animation when tapped.
+[00:00:44] These are all like really simple prompts but they work and instead of like
+[00:00:50] needing to learn
+[00:00:51] to learn to code, like knowing all the ins and outs, this and that, you can
+[00:00:55] just ask
+[00:00:55] JPT to build it for you and as long as you have a fundamental understanding of
+[00:00:59] how Swift
+[00:01:00] and how code works, you can build anything.
+[00:01:06] We use that a lot in Quitter.
+[00:01:07] I use a lot to expedite my work with the community.
+[00:01:11] Most of the community functions build by AI.
+[00:01:13] I understand how they work now but I didn't initially and JPT just did it for
+[00:01:18] me and now
+[00:01:19] we have a working community that has a thousand posts a day.
+[00:01:23] It really does work and usually the more detailed the better.
+[00:01:30] As you can see this prompt that we're going to use for the beginning of the
+[00:01:34] tutorial,
+[00:01:35] I want to build a UMAX Clonus with UI.
+[00:01:38] Very explicit.
+[00:01:39] Then UMAX is an app where you can take a picture of your face and it will rate
+[00:01:43] your looks out
+[00:01:44] of 10.
+[00:01:45] This should be out of 100.
+[00:01:46] Yeah, that should be right.
+[00:01:50] This image should be passed to the open AI API via Mac Qualls repository and
+[00:01:54] the results
+[00:01:55] should display on the front end.
+[00:01:57] If you've coded before, you can't understand what I mean by results, front end,
+[00:02:01] whatever.
+[00:02:02] I'm repository.
+[00:02:04] Very simple.
+[00:02:05] I will explain later.
+[00:02:06] The scores that should give you are overall rating, potential, masculinity,
+[00:02:10] skin quality
+[00:02:11] and jawline and cheap work, sorry.
+[00:02:14] This is exactly what UMAX has.
+[00:02:16] I'll just plop there right now.
+[00:02:22] As you can see, there is an overall, there's a potential, masculinity, skin
+[00:02:25] quality, jawline,
+[00:02:26] cheekbones and it's just his face and that image is rated by chatgbt.
+[00:02:32] Very, very simple stuff.
+[00:02:34] So yeah, that's the problem I'm going to give chatgbt in the next section of
+[00:02:37] the tutorial.
+[00:02:38] But usually just the general role is like the more explicit the better.
+[00:02:42] You should always share information about your tech stack.
+[00:02:44] So let's, for example, say I'm using Firebase or I'm using open AI instead of
+[00:02:50] Claude or
+[00:02:51] Gemini.
+[00:02:54] And also if it doesn't, if like if you copy paste the code into your IDE and it
+[00:02:59] isn't
+[00:02:59] what you kind of expected or is not kind of functioning how you want it to
+[00:03:03] function,
+[00:03:03] just say change this.
+[00:03:05] It's doing one thing, but I want it to do another thing instead.
+[00:03:09] And chatgbt will be very fast to fix it and you can like move a lightning speed
+[00:03:13] .
+[00:03:13] And I'm going to show you how fast we can build a UMAX competitor right now.
+[00:03:17] So let's get into it.

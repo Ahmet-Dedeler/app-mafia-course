@@ -1,0 +1,486 @@
+[00:00:00] What's up guys, Zach Yada-Gara here, co-founder and CEO of Cal AI.
+[00:00:04] You're going to hear about me more later in the distribution section especially
+[00:00:09] , but
+[00:00:09] I'm just going to jump in here and talk about some primary and secondary design
+[00:00:13] principles
+[00:00:14] for you to keep in mind.
+[00:00:15] I'm going to be picking off after Blake's.
+[00:00:18] So he put together this whole testosterone max app design and he showed you
+[00:00:27] guys how
+[00:00:28] to wire frame it.
+[00:00:29] He also showed you how to hire a designer to take these designs and make them
+[00:00:33] into something
+[00:00:34] beautiful.
+[00:00:35] We have not had a designer redesign it yet.
+[00:00:38] However, so I'm just going to jump in assume like by this point you should have
+[00:00:43] more beautiful
+[00:00:44] designs on well, I guess it doesn't actually you should honestly have this
+[00:00:49] stuff done in
+[00:00:50] your wire frame the stuff I'm about to go over to be honest and then you should
+[00:00:53] probably
+[00:00:54] send it to a designer.
+[00:00:56] So he showed the wire frame so you open the app and then it's going to tell you
+[00:01:01] complete
+[00:01:01] your first analysis.
+[00:01:03] You hit start.
+[00:01:06] This is a primary action the start.
+[00:01:09] You are doing your first analysis.
+[00:01:12] There are other buttons on the screen.
+[00:01:14] This is some kind of calendar you click and see past days.
+[00:01:18] It depends if you want to add that functionality to see past days, but then
+[00:01:21] maybe at the bottom
+[00:01:22] you'll have an app bar where you have multiple different tabs that they could
+[00:01:27] go to like
+[00:01:27] a home tab of a things little cut off.
+[00:01:31] My my full screen is actually not being shown.
+[00:01:34] Let me let me address this.
+[00:01:37] Okay, should be better now, but okay.
+[00:01:44] I don't know how much was cut off.
+[00:01:47] I'm just going to keep going.
+[00:01:49] So the primary action is the start because this is what you want your users to
+[00:01:55] do.
+[00:01:55] You basically want to spoon feed them the buttons to click.
+[00:01:59] You want to make sure that they clearly understand where to go in the flow of
+[00:02:06] the app.
+[00:02:07] And that's kind of what makes an intuitive design and intuitive design is when
+[00:02:12] you have
+[00:02:13] one clear action per screen.
+[00:02:16] So on this screen, the clear action is to start your analysis.
+[00:02:20] That's the big button.
+[00:02:22] And then you might have some secondary ones at the bottom where it's like, okay
+[00:02:26] , home,
+[00:02:26] settings.
+[00:02:28] There's not much content without having your first analysis you want to show.
+[00:02:31] Maybe you'll have like something like recommendations unavailable.
+[00:02:38] Something like this, the designer would make this look good.
+[00:02:40] And the reason they're unavailable, it's just to show the user, yeah, there is
+[00:02:43] more content.
+[00:02:44] But until you start your analysis, you're going to do that.
+[00:02:48] Maybe like recommendations, you could even put some recommendations here, but
+[00:02:52] then kind
+[00:02:53] of blur them out.
+[00:02:56] And that could actually be a cool thing.
+[00:02:59] It's like you put something over, make it kind of light, but add a blur effect
+[00:03:06] to it.
+[00:03:07] Layer blur.
+[00:03:08] I don't know if layer blur is the right, is what I'm looking for.
+[00:03:17] I think layer blur on this actually.
+[00:03:21] So recommendations needs to be separate.
+[00:03:25] Okay.
+[00:03:27] Look.
+[00:03:28] Get rid of this.
+[00:03:30] Take this stuff, get out of here.
+[00:03:34] Okay.
+[00:03:35] So I'm going to add a layer blur to.
+[00:03:42] I'm going to make two separate text elements.
+[00:03:50] Lucky, this is all part of the wireframe.
+[00:03:52] So I'm just like going off here, but I just think it's a cool idea to add a
+[00:03:56] layer blur.
+[00:03:57] It'd be like very blurry, and then you would put a button or it's like scan to
+[00:04:09] get recommendations.
+[00:04:12] Just to show them, honestly, this might not look good after having a designer
+[00:04:15] go over it.
+[00:04:16] Like a lot of the time you just want to put things out there.
+[00:04:20] And by the way, this is too long of a text for a call to action.
+[00:04:23] You always want it to be shorter.
+[00:04:24] But sometimes you'll want to just put stuff out there and just have designers
+[00:04:28] work on
+[00:04:28] it and then see what you like and what you don't like.
+[00:04:31] Don't be afraid to try things and then cut them if they are not good.
+[00:04:36] But this isn't, this isn't the worst of the world.
+[00:04:40] So something like this.
+[00:04:41] And then you click this basically just like the start button, but just more
+[00:04:44] content on
+[00:04:44] the page.
+[00:04:46] This is technically a secondary action, but it takes you to the same flow as
+[00:04:49] the primary.
+[00:04:50] So primary actions are everything that's, you only have typically one primary
+[00:04:55] action per
+[00:04:56] page and then everything else is secondary.
+[00:04:59] I mean, you could have like secondary tertiary and just keep going down the
+[00:05:04] list, but where
+[00:05:05] all that really matters, you don't need to over-complicate this.
+[00:05:07] So you want one clear button on every page.
+[00:05:10] Here is the start button.
+[00:05:11] Once you click this, then we're going to want to take them to a page where it
+[00:05:17] shows, where
+[00:05:18] it shows maybe a camera, for example, or not a camera, because what does he,
+[00:05:23] the input
+[00:05:24] is a selfie.
+[00:05:25] Okay, so camera.
+[00:05:26] So you want like a camera, a take picture button and the take picture.
+[00:05:32] Now is the primary action.
+[00:05:36] Take picture.
+[00:05:37] Obviously you don't want to have like a text label like this.
+[00:05:39] You'll actually want a real camera button, but again, this is the Zolt wire
+[00:05:43] frame.
+[00:05:44] I have not had a designer go over it.
+[00:05:47] So take picture.
+[00:05:49] You'll also want a back button.
+[00:05:51] Boom.
+[00:05:53] And this will, this is a camera.
+[00:05:56] So you'll see your face.
+[00:05:58] Great.
+[00:05:59] Big smile.
+[00:06:01] And so on this page, the primary action is taking a picture.
+[00:06:04] The secondary action is hitting the back arrow.
+[00:06:07] That's a good thing about this.
+[00:06:09] Once you take a picture, get the scan, you're going to enter your info, blah,
+[00:06:12] blah, you
+[00:06:12] have like, ideally a good thing to do.
+[00:06:16] You don't always have to do this by putting one input field per page makes it
+[00:06:20] very simple.
+[00:06:21] Like onboarding flows, for example, it's one question per page generally.
+[00:06:26] Sometimes they put multiple.
+[00:06:28] Like if things fit together, sometimes age, sorry.
+[00:06:30] So sometimes weight and height is put together because that, that is, that
+[00:06:35] flows and is typically
+[00:06:36] seen as something together.
+[00:06:38] It's also proportional effect each other.
+[00:06:41] But then if, if you're going to ask unrelated questions in a row, it's always
+[00:06:45] smoother to
+[00:06:45] just separate the screens to keep one primary action per screen.
+[00:06:50] So once you take the picture, go through all the questions that you'll design,
+[00:06:55] the homepage
+[00:06:55] will look something like this.
+[00:06:58] Five actions left for the day, you'll have all your actions.
+[00:07:01] And then you'll probably want something at the bottom where it's like new scan
+[00:07:07] or like,
+[00:07:07] I honestly would put like a picture frame here.
+[00:07:12] This is a picture of you when you scanned, you're like last scan, nine dash 21,
+[00:07:20] like some
+[00:07:23] date.
+[00:07:25] And then I'm honestly modeling this kind of after Kelly.
+[00:07:28] I right now can be anything.
+[00:07:29] But last scan, overall score, 99 out of 100.
+[00:07:38] And then maybe then like a view more button or like open.
+[00:07:50] Looky, this is pretty shitty.
+[00:08:02] But maybe you want all your scans and then like I honestly, so I would think
+[00:08:08] you don't
+[00:08:09] like scans section here.
+[00:08:12] So you have your recommendations section, you have your scan section and you'll
+[00:08:16] want a
+[00:08:17] new scan button.
+[00:08:18] Honestly, how this is all laid out may not be optimal.
+[00:08:21] You might want the new scan above your previous scan.
+[00:08:23] You might want to list it like all of your past scans.
+[00:08:27] That's a little bit more unclear.
+[00:08:29] You might want the scans above the actions that honestly could work too.
+[00:08:32] I can see how that could look good.
+[00:08:35] But you want a new scan button.
+[00:08:36] So on this page, the primary actions, although there's not necessarily one
+[00:08:41] clear button, the
+[00:08:43] primary action is to clear these actions.
+[00:08:47] Maybe it's like maybe these are check boxes and you're just ticking them off.
+[00:09:00] I don't like the auto layout stuff that Blake did.
+[00:09:03] I'm not good at this stuff.
+[00:09:04] That's what you should learn it though.
+[00:09:06] It's a good thing if you do something that I'm bad at.
+[00:09:10] So it's not drawing.
+[00:09:13] But whatever, you have like check boxes.
+[00:09:15] You could check off the actions as you complete them.
+[00:09:17] And technically, if you want to really break down the hierarchy of things, the
+[00:09:20] top action,
+[00:09:21] this would be the primary action.
+[00:09:22] This would be the secondary action tertiary blah, blah, blah.
+[00:09:24] And then new scan is like whatever the next after all of those.
+[00:09:29] See the user comes on and they do that.
+[00:09:33] Let's look at more examples of when you design how to think about the primary
+[00:09:39] and secondary
+[00:09:39] actions.
+[00:09:40] So let's open up actually Cal AI and the design here.
+[00:09:48] So in Cal AI, this is the main homepage and the primary action, can you guess
+[00:09:56] what it
+[00:09:56] is?
+[00:09:58] Primary action is clicking the plus.
+[00:10:01] And it's a little bit less clear here that this is the primary action because
+[00:10:05] there's
+[00:10:06] so much going on on the screen.
+[00:10:08] You see your calories left, you see a calendar at the top, you see a bar at the
+[00:10:12] bottom with
+[00:10:13] different pages.
+[00:10:14] You see a recently uploaded section.
+[00:10:16] The way you know it's the primary action and the way we show users that it is
+[00:10:20] to make
+[00:10:20] it easier is that we say you haven't uploaded any food and we have an arrow
+[00:10:24] pointing to
+[00:10:25] this big black button in the corner with a plus.
+[00:10:29] This entire section is just dedicated to someone clicking on the black button.
+[00:10:33] So that's how we kind of solve for so much going on on the screen.
+[00:10:37] Then they hit the plus.
+[00:10:38] Once they do it once they'll learn that that is it's all of this design really
+[00:10:43] is most
+[00:10:44] important for when a user first uses your app because you want it to be so easy
+[00:10:48] .
+[00:10:48] They don't need a manual.
+[00:10:49] They don't need a God to use it.
+[00:10:51] Video games, the first video game is ever invented.
+[00:10:53] You actually need it to read an entire manual in order to play them which
+[00:10:57] sucked obviously
+[00:10:58] that was way too much friction for most consumers to actually care enough to
+[00:11:03] want to learn
+[00:11:04] and play the game.
+[00:11:05] For apps we want to make sure you do not need any instructions.
+[00:11:08] You don't need any manual.
+[00:11:09] It should be so easy, so intuitive, so simple that they just jump in and know
+[00:11:14] exactly where
+[00:11:15] to go.
+[00:11:16] So you hit the plus.
+[00:11:19] That's the primary action.
+[00:11:20] There are a ton of other secondary actions like the pages clicking into this
+[00:11:24] clicking past
+[00:11:24] days in the calendar.
+[00:11:27] And how I would think about designing your app is the primary action by far is
+[00:11:33] what matters
+[00:11:33] especially for launch.
+[00:11:35] When we launched Cal AI, actually let me try to see if I can find this picture.
+[00:11:41] But when we launched Cal AI, it had one feature on it.
+[00:12:00] Trying to find it right now.
+[00:12:02] Actually here it is.
+[00:12:06] Sick.
+[00:12:08] Okay.
+[00:12:11] So Blake made this tweet.
+[00:12:14] This was Cal AI version 0.0.
+[00:12:17] This is what we launched with.
+[00:12:18] We literally launched with just the primary action.
+[00:12:22] Take a picture of your meal.
+[00:12:23] You hit the plus, it will take you to a camera.
+[00:12:26] You snap the picture.
+[00:12:28] Takes you back to the home screen.
+[00:12:29] We'll load and show you the calories.
+[00:12:31] That was it.
+[00:12:33] There are no secondary actions here.
+[00:12:35] The only other action there even is is clicking the calendar to go back to
+[00:12:39] yesterday.
+[00:12:40] That was the only other action even possible.
+[00:12:44] And this worked for us.
+[00:12:45] This was with this design.
+[00:12:47] We did $30,000 that month.
+[00:12:50] And so in the second month, we did $150,000.
+[00:12:53] And I think we were actually still in this design.
+[00:12:55] Maybe a little bit more built out.
+[00:12:56] But it was still very poor.
+[00:13:01] So that should show you that you don't need to overthink things.
+[00:13:04] You don't need to have too many features.
+[00:13:06] The primary action is truly all that really matters right away.
+[00:13:10] But you do want secondary actions to really build out the content of the app.
+[00:13:15] This is kind of where more of retention comes in.
+[00:13:18] Like obviously if they're downloading your app, they're doing it because of
+[00:13:24] your primary
+[00:13:24] action.
+[00:13:25] And that's what all your marketing's around.
+[00:13:27] The secondary actions should kind of help the primary action.
+[00:13:31] So for example, Kali Eye.
+[00:13:34] We're not just going to put random secondary actions.
+[00:13:37] Like it would be if the primary action was track your calories, track your food
+[00:13:41] , and
+[00:13:42] then the secondary action was create a workout plan.
+[00:13:49] That's somewhat related.
+[00:13:51] It's not close enough where it's not close enough where it's intuitive.
+[00:13:57] Instead, what we have is when you hit the plus, you're prompted with a few
+[00:14:03] things.
+[00:14:04] So you could scan food, log food from the database, log food from your saved
+[00:14:10] foods.
+[00:14:11] And you also can log in exercise.
+[00:14:13] All of this is related to calories.
+[00:14:14] Basically, you could say the core action is log either calories eaten or
+[00:14:19] calories burned.
+[00:14:21] Because that's all this is.
+[00:14:22] You're just logging calories.
+[00:14:23] You're either logging the food you ate or you're logging calories you burned.
+[00:14:28] We didn't have log exercise early on in Kali Eye.
+[00:14:31] We just had log food and logging exercise that is a secondary action that
+[00:14:35] benefits the user
+[00:14:37] and helps because it helps them track their calories more accurately.
+[00:14:40] That's how really I would look at secondary actions is that they are just
+[00:14:45] supporting to
+[00:14:46] the primary action.
+[00:14:47] They support a supporting role.
+[00:15:01] Make sure that you don't put too much into your designs and screens.
+[00:15:08] That was a big innovation we made going from Kali Eye to my fitness pal was
+[00:15:13] just simplifying
+[00:15:14] the entire app.
+[00:15:15] I'm actually going to find something right now that I have basically Kali Eye.
+[00:15:26] One of the best things about us that most people don't talk about is just how
+[00:15:29] we made
+[00:15:30] ourselves so easy to use.
+[00:15:33] Look at this.
+[00:15:35] So it's pretty blurry.
+[00:15:36] I just pulled this from Forbes article about us.
+[00:15:39] So it'll flex right there.
+[00:15:40] You have Kali Eye.
+[00:15:43] It's actually crazy.
+[00:15:44] You can build an app.
+[00:15:45] An app idea can just come out of your mind and then boom, you're in Forbes a
+[00:15:47] few months
+[00:15:48] later.
+[00:15:49] This could be you next.
+[00:15:51] So Kali Eye you can see on the left and you can see all the other ones even
+[00:15:54] though they're
+[00:15:55] super blurry next to it.
+[00:15:56] So my fitness pal, look at everything going on.
+[00:16:00] This is Kali Eye.
+[00:16:02] You can see everything fits in one page.
+[00:16:04] My fitness pal, it's already cut off.
+[00:16:05] You have to scroll and there's so much more content.
+[00:16:08] There are four different tabs here.
+[00:16:11] There are these things underneath for steps and exercises.
+[00:16:14] You have your weight graphs.
+[00:16:15] You have just so much shoved into one page.
+[00:16:17] The core action is searching food, but then they put so many secondary actions
+[00:16:22] that the
+[00:16:22] app is so hard to understand.
+[00:16:24] It's unintuitive.
+[00:16:25] You need a manual.
+[00:16:26] You need someone helping you legitimately.
+[00:16:28] When you download my fitness pal, you need a friend telling you how to really
+[00:16:32] onboard to
+[00:16:33] it.
+[00:16:34] There's a lot of friction.
+[00:16:36] There are some other apps here and I don't really know their names for all of
+[00:16:40] them, but
+[00:16:40] you can see they all also have a ton going on.
+[00:16:45] So much.
+[00:16:46] It's confusing.
+[00:16:47] When you look at a screen, you should instantly know what is the button I click
+[00:16:51] to perform
+[00:16:52] the desired action.
+[00:16:57] With my fitness pal, to be honest, it's very confusing to just know how to
+[00:17:05] track your
+[00:17:06] calories properly and all of these other apps as well.
+[00:17:10] Kalea, you can see way easier and obviously I'm biased, but you could see this
+[00:17:14] with your
+[00:17:15] own eyes.
+[00:17:16] It's fucking clear.
+[00:17:18] So primary action right here clearly, you could see it is hitting the plus.
+[00:17:23] With my fitness pal, it's a little bit less clear, but you can see it's
+[00:17:26] searching for
+[00:17:27] food.
+[00:17:28] The reason this is not great is because primary actions, a search bar is
+[00:17:34] usually not a primary
+[00:17:35] action.
+[00:17:36] That's a little bit unintuitive.
+[00:17:37] People are used to hitting a button, not hitting a search bar, but it's a
+[00:17:42] search for food after.
+[00:17:44] It's easy enough where you look at it the first time and then you're like, "
+[00:17:46] Okay, that's
+[00:17:47] how I do it."
+[00:17:48] But then with everything else going on, it's just so much.
+[00:17:51] It takes the user a while to even see the search bar there.
+[00:17:54] It's confusing.
+[00:17:55] A jumble of mess.
+[00:17:57] Here, this is honestly a lot less clear.
+[00:18:00] There's an orange plus at the bottom.
+[00:18:02] It's very small, but, and so much going on here, you can see it take the quiz
+[00:18:06] button.
+[00:18:07] If I'm looking at this, I think that the take the quiz might even be the call
+[00:18:10] to action.
+[00:18:11] That might be the primary action because it's the biggest button on the screen
+[00:18:15] and it's
+[00:18:15] bright orange.
+[00:18:17] To me, that's calling out to me, which obviously it's wrong.
+[00:18:21] Taking a quiz shouldn't be the core action.
+[00:18:23] It's logging your food.
+[00:18:25] This app, a little bit better because the button is bigger at the bottom.
+[00:18:30] I think it's the biggest bright green button in the app.
+[00:18:34] It's more clear, but still a ton going on.
+[00:18:37] It's not super obvious.
+[00:18:40] Life sum.
+[00:18:41] It does better, for sure.
+[00:18:43] It's a lot more simple.
+[00:18:46] They are much more intuitive and easy to understand.
+[00:18:51] However, they too are a little bit convoluted.
+[00:18:56] You could see you have to scroll down to see all of the content on the page.
+[00:18:59] I see four plus buttons on this app.
+[00:19:02] I'm confused.
+[00:19:03] I'm supposed to click the green one at the bottom or am I supposed to click the
+[00:19:06] one on
+[00:19:07] the side here.
+[00:19:09] Overall, they're probably better than the other ones besides Calli-i.
+[00:19:14] Calli-i is the best.
+[00:19:20] Going back and talking about your design, I would think about orienting
+[00:19:25] everything around
+[00:19:27] the primary action, making it very clear on every single page.
+[00:19:31] Not just the homepage, but every single page with the main button is.
+[00:19:34] Then you could have secondary buttons, but they should always be de-emphasized.
+[00:19:38] If you're going to have two buttons, for example, a take picture button, or if
+[00:19:44] you want the option
+[00:19:45] that less people do, but you want to offer it, be upload a picture, then what
+[00:19:49] you do is
+[00:19:52] you put the button somewhere, but you make it less big, less flashy, put it
+[00:20:00] underneath.
+[00:20:02] If I'm looking at this, it's clear the core action is take a picture, secondary
+[00:20:05] actions
+[00:20:05] upload.
+[00:20:06] Both are an option, but more people will gravitate towards take a picture.
+[00:20:10] If alternatively you want people to take more and upload less, then you just
+[00:20:14] flip them,
+[00:20:15] you put one upload, and then take at the bottom.
+[00:20:19] Consumer psychology will tell you that this will just cause more people to
+[00:20:22] click the bigger,
+[00:20:24] the bigger, more flashy button, nine times out of time.
+[00:20:30] Sick.
+[00:20:34] Not much more for me to say on this.
+[00:20:36] I think I really exhausted the terms, primary and secondary actions.
+[00:20:42] Something I do want to say though, for your design, just keep in mind that all
+[00:20:47] of this
+[00:20:48] can be iterated on it.
+[00:20:49] All of this can be changed.
+[00:20:51] Don't be a perfectionist.
+[00:20:53] Just launch.
+[00:20:54] Going back to the version of Kali I we initially launched with, it was fucking
+[00:20:59] embarrassing.
+[00:21:01] If you're not embarrassed with what you're launching with, then you launch too
+[00:21:04] late.
+[00:21:05] That's a quote.
+[00:21:06] It's not necessarily always the case, but I think generally it's a good
+[00:21:08] framework you
+[00:21:09] should launch earlier than you think.
+[00:21:11] You don't need to have everything perfect, but you need to have most
+[00:21:16] importantly the
+[00:21:17] core action.
+[00:21:18] It's also something in business, just in general, is that users are coming to
+[00:21:23] your app for the
+[00:21:26] one main action and the secondary actions aren't going to get them to leave.
+[00:21:31] They're not going to get them to stay unless you overdo them.
+[00:21:37] You really just should not have that.
+[00:21:38] You don't want too many features in your app.
+[00:21:40] You want one core feature and then you want some supporting features to the
+[00:21:43] core feature,
+[00:21:44] but you do not want all these random things baked in.
+[00:21:47] Keep your app simple.
+[00:21:49] Don't be the one stop shop for mediocre products.
+[00:21:52] Instead, be the single store shop for great products.
+[00:21:56] Everyone asks why we don't put workout plans into Kali I.
+[00:22:01] The answer is because it's going to convolute the app too much.
+[00:22:03] There's going to be way too much going on.
+[00:22:05] Sure.
+[00:22:06] People who track their calories probably want to work out as well and want
+[00:22:09] workout plans,
+[00:22:09] a good percentage of them.
+[00:22:11] But I would prefer to build a whole separate app under the same umbrella
+[00:22:16] company that is
+[00:22:17] all about fitness.
+[00:22:18] We could even have a link in Kali I to go download that app, but including them
+[00:22:23] together is too
+[00:22:24] much going on.
+[00:22:25] That's the point of the app store.
+[00:22:26] That's why we have multiple apps on our phones.
+[00:22:28] I think each app should serve a very specific purpose.
+[00:22:30] One app for tracking calories, one app for working out.
+[00:22:33] If you combine both, then it's mediocre on both fronts.
+[00:22:36] It gets convoluted, confusing.
+[00:22:40] It's just not what's intended by the fact that you could have multiple apps on
+[00:22:46] your
+[00:22:46] phones.
+[00:22:47] For a reason, also you're missing out on additional revenue because you could
+[00:22:51] charge two subscriptions.
+[00:22:53] Two for different apps.
+[00:22:56] That is actually more nuanced because some people say, "Okay, I want to build a
+[00:22:58] super
+[00:22:59] app for everything."
+[00:23:00] You just charge a higher price, but we don't want to do it.
+[00:23:02] We want to be simple, intuitive, straight to the point, and pump and print
+[00:23:06] fucking cash.
+[00:23:06] We're not the next WeChat.
+[00:23:08] I'm going to end this section here and see you guys in one of the later ones.

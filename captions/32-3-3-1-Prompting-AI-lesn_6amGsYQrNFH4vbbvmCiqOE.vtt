@@ -1,0 +1,297 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.800
+Okay, now we're going to talk about AI prompting and how to expedite
+
+2
+00:00:03.800 --> 00:00:05.200
+development by utilizing
+
+3
+00:00:05.200 --> 00:00:06.200
+AI.
+
+4
+00:00:06.200 --> 00:00:10.760
+In my opinion, and I've spoke to Blake Anderson about this, the reason apps
+
+5
+00:00:10.760 --> 00:00:11.640
+have blown up
+
+6
+00:00:11.640 --> 00:00:15.980
+recently and the reason we've all got very rich and successful of it is because
+
+7
+00:00:15.980 --> 00:00:16.400
+AI has
+
+8
+00:00:16.400 --> 00:00:18.800
+lowered the barriers to entry significantly.
+
+9
+00:00:18.800 --> 00:00:20.560
+It saves a lot of time.
+
+10
+00:00:20.560 --> 00:00:28.730
+It's super smart and you can build and test and validate things at lightning
+
+11
+00:00:28.730 --> 00:00:29.840
+speed.
+
+12
+00:00:29.840 --> 00:00:32.480
+There is a bunch of charity of deprops that you can use.
+
+13
+00:00:32.480 --> 00:00:35.990
+We'll be using this first one to begin this tutorial and then there's a bunch
+
+14
+00:00:35.990 --> 00:00:36.480
+of other
+
+15
+00:00:36.480 --> 00:00:41.210
+ones that are very simple, like make a pull to refresh list and SwiftUI or
+
+16
+00:00:41.210 --> 00:00:41.880
+create a SwiftUI
+
+17
+00:00:41.880 --> 00:00:44.280
+button with a Spring Bounce animation when tapped.
+
+18
+00:00:44.280 --> 00:00:50.490
+These are all like really simple prompts but they work and instead of like
+
+19
+00:00:50.490 --> 00:00:51.840
+needing to learn
+
+20
+00:00:51.840 --> 00:00:55.350
+to learn to code, like knowing all the ins and outs, this and that, you can
+
+21
+00:00:55.350 --> 00:00:55.840
+just ask
+
+22
+00:00:55.840 --> 00:00:59.990
+JPT to build it for you and as long as you have a fundamental understanding of
+
+23
+00:00:59.990 --> 00:01:00.640
+how Swift
+
+24
+00:01:00.640 --> 00:01:06.760
+and how code works, you can build anything.
+
+25
+00:01:06.760 --> 00:01:07.960
+We use that a lot in Quitter.
+
+26
+00:01:07.960 --> 00:01:11.200
+I use a lot to expedite my work with the community.
+
+27
+00:01:11.200 --> 00:01:13.680
+Most of the community functions build by AI.
+
+28
+00:01:13.680 --> 00:01:18.870
+I understand how they work now but I didn't initially and JPT just did it for
+
+29
+00:01:18.870 --> 00:01:19.440
+me and now
+
+30
+00:01:19.440 --> 00:01:23.960
+we have a working community that has a thousand posts a day.
+
+31
+00:01:23.960 --> 00:01:30.080
+It really does work and usually the more detailed the better.
+
+32
+00:01:30.080 --> 00:01:34.450
+As you can see this prompt that we're going to use for the beginning of the
+
+33
+00:01:34.450 --> 00:01:35.120
+tutorial,
+
+34
+00:01:35.120 --> 00:01:38.040
+I want to build a UMAX Clonus with UI.
+
+35
+00:01:38.040 --> 00:01:39.480
+Very explicit.
+
+36
+00:01:39.480 --> 00:01:43.560
+Then UMAX is an app where you can take a picture of your face and it will rate
+
+37
+00:01:43.560 --> 00:01:44.600
+your looks out
+
+38
+00:01:44.600 --> 00:01:45.600
+of 10.
+
+39
+00:01:45.600 --> 00:01:46.920
+This should be out of 100.
+
+40
+00:01:46.920 --> 00:01:50.200
+Yeah, that should be right.
+
+41
+00:01:50.200 --> 00:01:54.540
+This image should be passed to the open AI API via Mac Qualls repository and
+
+42
+00:01:54.540 --> 00:01:55.360
+the results
+
+43
+00:01:55.360 --> 00:01:57.720
+should display on the front end.
+
+44
+00:01:57.720 --> 00:02:01.510
+If you've coded before, you can't understand what I mean by results, front end,
+
+45
+00:02:01.510 --> 00:02:02.160
+whatever.
+
+46
+00:02:02.160 --> 00:02:04.960
+I'm repository.
+
+47
+00:02:04.960 --> 00:02:05.960
+Very simple.
+
+48
+00:02:05.960 --> 00:02:06.960
+I will explain later.
+
+49
+00:02:06.960 --> 00:02:10.700
+The scores that should give you are overall rating, potential, masculinity,
+
+50
+00:02:10.700 --> 00:02:11.400
+skin quality
+
+51
+00:02:11.400 --> 00:02:14.880
+and jawline and cheap work, sorry.
+
+52
+00:02:14.880 --> 00:02:16.240
+This is exactly what UMAX has.
+
+53
+00:02:16.240 --> 00:02:22.160
+I'll just plop there right now.
+
+54
+00:02:22.160 --> 00:02:25.280
+As you can see, there is an overall, there's a potential, masculinity, skin
+
+55
+00:02:25.280 --> 00:02:26.160
+quality, jawline,
+
+56
+00:02:26.160 --> 00:02:32.000
+cheekbones and it's just his face and that image is rated by chatgbt.
+
+57
+00:02:32.000 --> 00:02:34.560
+Very, very simple stuff.
+
+58
+00:02:34.560 --> 00:02:37.230
+So yeah, that's the problem I'm going to give chatgbt in the next section of
+
+59
+00:02:37.230 --> 00:02:38.840
+the tutorial.
+
+60
+00:02:38.840 --> 00:02:42.120
+But usually just the general role is like the more explicit the better.
+
+61
+00:02:42.120 --> 00:02:44.640
+You should always share information about your tech stack.
+
+62
+00:02:44.640 --> 00:02:50.780
+So let's, for example, say I'm using Firebase or I'm using open AI instead of
+
+63
+00:02:50.780 --> 00:02:51.640
+Claude or
+
+64
+00:02:51.640 --> 00:02:54.760
+Gemini.
+
+65
+00:02:54.760 --> 00:02:59.320
+And also if it doesn't, if like if you copy paste the code into your IDE and it
+
+66
+00:02:59.320 --> 00:02:59.800
+isn't
+
+67
+00:02:59.800 --> 00:03:03.080
+what you kind of expected or is not kind of functioning how you want it to
+
+68
+00:03:03.080 --> 00:03:03.800
+function,
+
+69
+00:03:03.800 --> 00:03:05.840
+just say change this.
+
+70
+00:03:05.840 --> 00:03:09.800
+It's doing one thing, but I want it to do another thing instead.
+
+71
+00:03:09.800 --> 00:03:13.730
+And chatgbt will be very fast to fix it and you can like move a lightning speed
+
+72
+00:03:13.730 --> 00:03:13.800
+.
+
+73
+00:03:13.800 --> 00:03:17.680
+And I'm going to show you how fast we can build a UMAX competitor right now.
+
+74
+00:03:17.680 --> 00:03:18.640
+So let's get into it.

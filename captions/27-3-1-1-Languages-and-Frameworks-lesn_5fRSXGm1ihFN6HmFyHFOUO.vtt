@@ -1,0 +1,133 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.220
+Okay, great. Now we've caught up. It's time to get into nitty-gritty of the
+
+2
+00:00:05.220 --> 00:00:09.000
+technical things we'll be using to build this application.
+
+3
+00:00:09.000 --> 00:00:14.450
+I will start by saying the language we'll be using is SwiftUI, which is a
+
+4
+00:00:14.450 --> 00:00:17.000
+language developed by Apple.
+
+5
+00:00:17.000 --> 00:00:21.770
+And I generally recommend it for building apps. There are other platforms like
+
+6
+00:00:21.770 --> 00:00:24.000
+React Native or Expo or Flutter,
+
+7
+00:00:24.000 --> 00:00:31.000
+but they aren't as smooth as SwiftUI. And so I would totally recommend that.
+
+8
+00:00:31.000 --> 00:00:33.000
+That's all I coded with.
+
+9
+00:00:33.000 --> 00:00:38.000
+Now the problem with it is that it's limited to iOS and iPhones for now.
+
+10
+00:00:38.000 --> 00:00:41.400
+I know they are working on like an Android version, but for now it's only
+
+11
+00:00:41.400 --> 00:00:44.000
+iPhones, which means you won't be able to sell your app on Android.
+
+12
+00:00:44.000 --> 00:00:49.130
+But in my opinion, it doesn't really matter in the early days because most of
+
+13
+00:00:49.130 --> 00:00:53.000
+the revenue is generated from Apple devices in the US specifically.
+
+14
+00:00:53.000 --> 00:01:00.710
+Well, because the US is so rich and the US's market penetration with iPhones is
+
+15
+00:01:00.710 --> 00:01:02.000
+99%.
+
+16
+00:01:02.000 --> 00:01:06.000
+So you shouldn't really worry about Android too much.
+
+17
+00:01:06.000 --> 00:01:10.500
+Also, all of these massive apps like Instagram, for example, they're built on
+
+18
+00:01:10.500 --> 00:01:14.000
+SwiftUI for iOS and then they're built on something else for Android.
+
+19
+00:01:14.000 --> 00:01:18.490
+I think it's Kotlin. So it's just like very, like it's optimizing for the
+
+20
+00:01:18.490 --> 00:01:20.000
+platform that it's sold on.
+
+21
+00:01:20.000 --> 00:01:23.000
+So I wouldn't think about multi-platform right now.
+
+22
+00:01:23.000 --> 00:01:30.990
+Yeah, and like even my friend Blake Anderson, he built, I think it was 10x or
+
+23
+00:01:30.990 --> 00:01:36.000
+it was Apex or something on React Native during PMF or Die.
+
+24
+00:01:36.000 --> 00:01:40.340
+And then rebuilt it from scratch because it wasn't that smooth on iOS and he
+
+25
+00:01:40.340 --> 00:01:43.000
+like optimized for things being smooth.
+
+26
+00:01:43.000 --> 00:01:47.740
+And the reason you optimize for things being smooth, intuitive and natural, etc
+
+27
+00:01:47.740 --> 00:01:50.000
+. is because it's easier to sell.
+
+28
+00:01:50.000 --> 00:01:54.770
+Whereas if something's jittery or you can feel it like not really being
+
+29
+00:01:54.770 --> 00:01:59.120
+designed for you, people are more likely to churn or not actually pay for a
+
+30
+00:01:59.120 --> 00:02:00.000
+subscription.
+
+31
+00:02:00.000 --> 00:02:02.990
+So these are some things to keep in mind when it comes to choosing the language
+
+32
+00:02:02.990 --> 00:02:06.760
+, but this tutorial will be in SwiftUI because that's what I'm most comfortable
+
+33
+00:02:06.760 --> 00:02:08.000
+with and that's all I know how to code in.

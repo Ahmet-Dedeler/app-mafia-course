@@ -1,0 +1,1577 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.400
+Hey everyone, welcome back to the development module. Today we'll be going
+
+2
+00:00:04.400 --> 00:00:05.080
+through cleanup
+
+3
+00:00:05.080 --> 00:00:09.740
+and optimizations to the app we previously built, which is a Kali i competitor.
+
+4
+00:00:09.740 --> 00:00:10.400
+So I've
+
+5
+00:00:10.400 --> 00:00:15.580
+gone out and done the courtesy of building and refining the app for you. The
+
+6
+00:00:15.580 --> 00:00:15.840
+reason I
+
+7
+00:00:15.840 --> 00:00:20.970
+did this off camera is because I feel like it's a better use of my time to just
+
+8
+00:00:20.970 --> 00:00:21.680
+explain
+
+9
+00:00:21.680 --> 00:00:25.820
+and show you how to do the high revenue level pulling items rather than just
+
+10
+00:00:25.820 --> 00:00:26.560
+copy pasting
+
+11
+00:00:26.560 --> 00:00:30.540
+code that I've just taken from quitter. So this is the new app. We have a
+
+12
+00:00:30.540 --> 00:00:31.680
+splash screen.
+
+13
+00:00:31.680 --> 00:00:35.610
+We now have a welcome view. The tutorial is relatively the same. I've just
+
+14
+00:00:35.610 --> 00:00:35.960
+changed it
+
+15
+00:00:35.960 --> 00:00:40.560
+a little bit of logic, but like all the code will be in the app mafia document.
+
+16
+00:00:40.560 --> 00:00:40.720
+You guys
+
+17
+00:00:40.720 --> 00:00:47.010
+should be able to download this and you should be good to go. So skip quiz will
+
+18
+00:00:47.010 --> 00:00:47.880
+bring us to
+
+19
+00:00:47.880 --> 00:00:52.290
+a new page which asks your name. This is very important to make the app feel
+
+20
+00:00:52.290 --> 00:00:53.200
+more personal
+
+21
+00:00:53.200 --> 00:00:58.070
+and also your age. So this age is extremely important because we're going to be
+
+22
+00:00:58.070 --> 00:00:58.680
+sending
+
+23
+00:00:58.680 --> 00:01:02.980
+you to a different paywall or triggering a different paywall, depending on your
+
+24
+00:01:02.980 --> 00:01:03.280
+age
+
+25
+00:01:03.280 --> 00:01:08.020
+group. And as I explained previously, or maybe I explain it later on, yeah, it
+
+26
+00:01:08.020 --> 00:01:08.480
+might be a
+
+27
+00:01:08.480 --> 00:01:16.180
+few lessons ahead in the super lesson. But pushing a user down a different pay
+
+28
+00:01:16.180 --> 00:01:17.120
+wall shows
+
+29
+00:01:17.120 --> 00:01:20.130
+you the data on conversion rates full at demographic, which helps you make
+
+30
+00:01:20.130 --> 00:01:21.680
+better informed decisions
+
+31
+00:01:21.680 --> 00:01:25.640
+when it comes to marketing. Because if you can see under 18s are converting
+
+32
+00:01:25.640 --> 00:01:26.320
+like trash,
+
+33
+00:01:26.320 --> 00:01:30.080
+you're not going to work with creators or run ads towards people that under 18.
+
+34
+00:01:30.080 --> 00:01:30.200
+Whereas
+
+35
+00:01:30.200 --> 00:01:34.660
+like if you see that the demographic of 28 to 30 is doing extremely well, the
+
+36
+00:01:34.660 --> 00:01:35.360
+converter
+
+37
+00:01:35.360 --> 00:01:39.690
+converter is extremely high, you'll be more, it'll be more beneficial for you
+
+38
+00:01:39.690 --> 00:01:40.200
+to put more
+
+39
+00:01:40.200 --> 00:01:43.730
+eggs in that basket rather than under 18s. So collecting it here is very
+
+40
+00:01:43.730 --> 00:01:44.520
+important. I've
+
+41
+00:01:44.520 --> 00:01:49.200
+done all the logic for you, but we will, I will run through and explain how we
+
+42
+00:01:49.200 --> 00:01:49.720
+'ll set
+
+43
+00:01:49.720 --> 00:01:54.430
+up different campaigns for different age groups. So yeah, let's finish. I've
+
+44
+00:01:54.430 --> 00:01:55.240
+also added a choose
+
+45
+00:01:55.240 --> 00:01:59.920
+your goals thing. This just adds a little bit more friction, a little bit more
+
+46
+00:01:59.920 --> 00:02:01.000
+intentionality,
+
+47
+00:02:01.000 --> 00:02:04.730
+which helps conversion rate at the end. We calculate, I probably should add a
+
+48
+00:02:04.730 --> 00:02:05.200
+few more
+
+49
+00:02:05.200 --> 00:02:08.980
+slides and I probably will, you'll see in the GitHub, it might be slightly
+
+50
+00:02:08.980 --> 00:02:09.720
+different.
+
+51
+00:02:09.720 --> 00:02:13.240
+But again, I'm going to explain you the high, high revenue level pulling things
+
+52
+00:02:13.240 --> 00:02:14.440
+we can do
+
+53
+00:02:14.440 --> 00:02:17.360
+so you can make more money on your onboarding and we'll be building that out
+
+54
+00:02:17.360 --> 00:02:18.000
+together.
+
+55
+00:02:18.000 --> 00:02:23.160
+So now it says complete, you get a chart. This is very important, rate the app.
+
+56
+00:02:23.160 --> 00:02:23.400
+The more
+
+57
+00:02:23.400 --> 00:02:27.140
+five stars it has in the app store, the more trust you build. We also had this
+
+58
+00:02:27.140 --> 00:02:28.600
+screen now,
+
+59
+00:02:28.600 --> 00:02:31.760
+which is welcome to Kali Eye, your path to healthy eating. Based on your
+
+60
+00:02:31.760 --> 00:02:32.240
+answers, we've
+
+61
+00:02:32.240 --> 00:02:38.010
+built a plan just for you. It's designed to help you lose 25 pounds in 90 days.
+
+62
+00:02:38.010 --> 00:02:38.120
+So you're
+
+63
+00:02:38.120 --> 00:02:42.080
+setting the target and expectations straight away. Now it's time to invest in
+
+64
+00:02:42.080 --> 00:02:42.720
+yourself.
+
+65
+00:02:42.720 --> 00:02:47.400
+Boom, your custom plan is ready. And this get get started button should open
+
+66
+00:02:47.400 --> 00:02:47.960
+the paywall,
+
+67
+00:02:47.960 --> 00:02:52.930
+we haven't built the logic. So let's build the logic. So first off, when it
+
+68
+00:02:52.930 --> 00:02:54.280
+says Alex,
+
+69
+00:02:54.280 --> 00:03:02.960
+your custom plan is ready. I'm going to copy this stuff. Custom plan. So you
+
+70
+00:03:02.960 --> 00:03:06.680
+should come
+
+71
+00:03:06.680 --> 00:03:13.470
+people with you, right? People, people view. Okay, we'll put this here. And
+
+72
+00:03:13.470 --> 00:03:14.000
+instead of saying
+
+73
+00:03:14.000 --> 00:03:20.790
+Alex, I'm just going to make it say, I put bracket name, this should pull the
+
+74
+00:03:20.790 --> 00:03:21.840
+name from
+
+75
+00:03:21.840 --> 00:03:26.550
+whatever you put during the onboarding. So that's great. User name actually.
+
+76
+00:03:26.550 --> 00:03:27.080
+Okay. So
+
+77
+00:03:27.080 --> 00:03:30.270
+now instead of saying Alex, it'll dynamically change based on what the user put
+
+78
+00:03:30.270 --> 00:03:30.920
+in. Again,
+
+79
+00:03:30.920 --> 00:03:33.440
+this will all be in the GitHub code. But let's build the logic for the let's
+
+80
+00:03:33.440 --> 00:03:33.960
+get started
+
+81
+00:03:33.960 --> 00:03:39.150
+button. Let's get started. This triggers view controller, press button, and
+
+82
+00:03:39.150 --> 00:03:39.600
+then the
+
+83
+00:03:39.600 --> 00:03:45.650
+brackets. This links to a, like this links to back end logic where it checks
+
+84
+00:03:45.650 --> 00:03:46.400
+the user's
+
+85
+00:03:46.400 --> 00:03:51.460
+age based on what it inputted during the onboarding. And if it's, you know,
+
+86
+00:03:51.460 --> 00:03:53.040
+below 22,
+
+87
+00:03:53.040 --> 00:03:57.670
+it will put you in the 18 to 22 category. If it's below 28, or put you in the
+
+88
+00:03:57.670 --> 00:03:58.680
+23 to 28
+
+89
+00:03:58.680 --> 00:04:02.760
+category. If it's below 40, or put you in the 29 40 category. And you can
+
+90
+00:04:02.760 --> 00:04:03.520
+change this.
+
+91
+00:04:03.520 --> 00:04:08.210
+However, you like if I want to have a broader age range, I might go to 26 and
+
+92
+00:04:08.210 --> 00:04:09.000
+then change
+
+93
+00:04:09.000 --> 00:04:14.460
+will change this 24 and change this to 26. And that will capture a smaller and
+
+94
+00:04:14.460 --> 00:04:15.800
+more nuanced
+
+95
+00:04:15.800 --> 00:04:21.780
+age range. And of course, like the, the, that gives you better data on like
+
+96
+00:04:21.780 --> 00:04:22.920
+which age range
+
+97
+00:04:22.920 --> 00:04:27.970
+has the most revenue. You can even dumb it down to like the actual age. So
+
+98
+00:04:27.970 --> 00:04:28.800
+instead of
+
+99
+00:04:28.800 --> 00:04:35.520
+an age range, we can just go 18, 19, 20, 21, 22. And maybe 22 has a 5%
+
+100
+00:04:35.520 --> 00:04:36.680
+conversion rate
+
+101
+00:04:36.680 --> 00:04:42.930
+over 21. And so it actually makes more sense to invest in 22. But we'll keep it
+
+102
+00:04:42.930 --> 00:04:43.720
+how it
+
+103
+00:04:43.720 --> 00:04:50.030
+was before I think it was completely fine. Now, this is the most important part
+
+104
+00:04:50.030 --> 00:04:50.720
+. You see
+
+105
+00:04:50.720 --> 00:04:54.800
+versus placement. This is the event that you took on Superwall. So if you're
+
+106
+00:04:54.800 --> 00:04:55.240
+happy with
+
+107
+00:04:55.240 --> 00:04:57.940
+these age ranges, and we're going to do it for the sake of the tutorial, we're
+
+108
+00:04:57.940 --> 00:04:58.120
+just
+
+109
+00:04:58.120 --> 00:05:01.810
+going to copy these placement names, go into arc or whatever browser you're
+
+110
+00:05:01.810 --> 00:05:02.360
+using, go
+
+111
+00:05:02.360 --> 00:05:06.570
+into the Superwall, go into campaigns, and then start a new campaign. We're
+
+112
+00:05:06.570 --> 00:05:06.880
+going to
+
+113
+00:05:06.880 --> 00:05:11.100
+call this under 18, we'll start under 18s. And then top left by placements, you
+
+114
+00:05:11.100 --> 00:05:11.480
+click
+
+115
+00:05:11.480 --> 00:05:16.480
+the plus the blue plus button, you click select and you just paste in the name.
+
+116
+00:05:16.480 --> 00:05:17.800
+So under 18,
+
+117
+00:05:17.800 --> 00:05:23.540
+add placement. And then we'll go into payables, add a paywall. And then I guess
+
+118
+00:05:23.540 --> 00:05:24.200
+we'll just
+
+119
+00:05:24.200 --> 00:05:30.130
+do the example paywall for now. And then set this to 100% of users. Oh shit,
+
+120
+00:05:30.130 --> 00:05:31.920
+100% remove
+
+121
+00:05:31.920 --> 00:05:38.980
+this 100% from this one. Okay, great. Now, what we can do is we can just
+
+122
+00:05:38.980 --> 00:05:39.800
+believe we can
+
+123
+00:05:39.800 --> 00:05:47.300
+just duplicate it, right? duplicate. Shit. Okay, maybe not duplicate. We might
+
+124
+00:05:47.300 --> 00:05:47.640
+have to
+
+125
+00:05:47.640 --> 00:05:50.940
+manually do it every single time, which is totally fine. You just go to a new
+
+126
+00:05:50.940 --> 00:05:51.440
+campaign
+
+127
+00:05:51.440 --> 00:05:54.740
+again. By the way, this is the first one fully set up. So now if I set my ages
+
+128
+00:05:54.740 --> 00:05:55.600
+under 18,
+
+129
+00:05:55.600 --> 00:06:00.290
+I will be traded with a paywall. And we can test this right now as well. Let me
+
+130
+00:06:00.290 --> 00:06:01.160
+just uninstall
+
+131
+00:06:01.160 --> 00:06:05.530
+the app. I had I have a back end check to see if they've reached the paywall.
+
+132
+00:06:05.530 --> 00:06:06.080
+And if they
+
+133
+00:06:06.080 --> 00:06:08.880
+have reached the payroll, then it needs to be the onboarding again, which is
+
+134
+00:06:08.880 --> 00:06:09.560
+great.
+
+135
+00:06:09.560 --> 00:06:12.710
+Because if they skip all the questions, they usually log back in if they're
+
+136
+00:06:12.710 --> 00:06:13.240
+really high
+
+137
+00:06:13.240 --> 00:06:16.700
+tent. They're like, okay, I'm going to pay this time, tap the button pay. So
+
+138
+00:06:16.700 --> 00:06:17.240
+you don't
+
+139
+00:06:17.240 --> 00:06:19.990
+want to get into the onboarding again, because they might just quit and you'll
+
+140
+00:06:19.990 --> 00:06:20.520
+lose that on
+
+141
+00:06:20.520 --> 00:06:25.370
+that revenue. So I'll show you proof that this works now. So if I set my name
+
+142
+00:06:25.370 --> 00:06:25.920
+as, we'll
+
+143
+00:06:25.920 --> 00:06:33.900
+change it with click Billy. My age is 17. So this is under 18. I should be able
+
+144
+00:06:33.900 --> 00:06:34.360
+to see
+
+145
+00:06:34.360 --> 00:06:48.940
+the paywall now. All right. Not now next. Okay, that's also hate Alex, but I
+
+146
+00:06:48.940 --> 00:06:49.600
+don't think
+
+147
+00:06:49.600 --> 00:07:06.330
+I changed that. Hey, Alex will paste in the name here, same backward arrow,
+
+148
+00:07:06.330 --> 00:07:07.520
+user name,
+
+149
+00:07:07.520 --> 00:07:21.360
+and we'll just pull that from the, it will be. Okay, that should be good. This
+
+150
+00:07:21.360 --> 00:07:21.480
+should
+
+151
+00:07:21.480 --> 00:07:28.040
+say, hey, Billy now, okay, Billy, your custom plan is ready. All right, we'll
+
+152
+00:07:28.040 --> 00:07:28.880
+get back to
+
+153
+00:07:28.880 --> 00:07:32.600
+this. Sorry about that. Okay, so now I should be able to access the under 18
+
+154
+00:07:32.600 --> 00:07:33.120
+paywall because
+
+155
+00:07:33.120 --> 00:07:38.560
+I set my age of 17. So there we go. Now it's triggered and this data will be
+
+156
+00:07:38.560 --> 00:07:39.260
+transmuted
+
+157
+00:07:39.260 --> 00:07:43.310
+back to the Superwall platform. And it should, if I wasn't on a simulator, it
+
+158
+00:07:43.310 --> 00:07:43.960
+should say
+
+159
+00:07:43.960 --> 00:07:48.790
+one users. And if I were to pay, it would say $20 in proceeds. Now this is
+
+160
+00:07:48.790 --> 00:07:49.280
+great. And
+
+161
+00:07:49.280 --> 00:07:53.700
+I'll show you quit as breakdown right here. I'm going to go through this later
+
+162
+00:07:53.700 --> 00:07:54.760
+in a different
+
+163
+00:07:54.760 --> 00:08:00.490
+segment to, but if you see quit as breakdown, all the revenue for today is very
+
+164
+00:08:00.490 --> 00:08:01.320
+clear. Under
+
+165
+00:08:01.320 --> 00:08:05.330
+18s has likely the most traffic, but the least amount of proceeds. Okay, you
+
+166
+00:08:05.330 --> 00:08:06.120
+see that right
+
+167
+00:08:06.120 --> 00:08:13.420
+here, but the 23 to 28 range has the highest conversion rate. And like the most
+
+168
+00:08:13.420 --> 00:08:14.200
+revenue
+
+169
+00:08:14.200 --> 00:08:22.020
+per user. So it's very informative to do this. And look, we'll just set up the
+
+170
+00:08:22.020 --> 00:08:22.280
+rest of the
+
+171
+00:08:22.280 --> 00:08:27.390
+campaign so you guys are aware how to do it. Go back to paywall logic. And then
+
+172
+00:08:27.390 --> 00:08:28.720
+18 to 22.
+
+173
+00:08:28.720 --> 00:08:35.080
+By the way, you can call the campaign anything. I usually just do this. So 18
+
+174
+00:08:35.080 --> 00:08:36.880
+to 22, placements,
+
+175
+00:08:36.880 --> 00:08:44.890
+top left, paste 18 to 22. And then add the same paywall as before. Or you can
+
+176
+00:08:44.890 --> 00:08:45.440
+change
+
+177
+00:08:45.440 --> 00:08:50.150
+the paywall and change the pricing. This is very good when it comes to testing
+
+178
+00:08:50.150 --> 00:08:50.320
+how to
+
+179
+00:08:50.320 --> 00:08:57.240
+maximize revenue. And again, we go into this in a future segment. So save that.
+
+180
+00:08:57.240 --> 00:09:04.990
+Go back into new campaign. This one's 23 to 28. And we'll just copy the
+
+181
+00:09:04.990 --> 00:09:06.320
+placement is
+
+182
+00:09:06.320 --> 00:09:17.190
+23 to 28. Very simple stuff at the paywall again. By the way, I'm, I feel like
+
+183
+00:09:17.190 --> 00:09:17.880
+I'm the
+
+184
+00:09:17.880 --> 00:09:21.960
+first to do this, at least in the Super Bowl breakdown. A lot of people send
+
+185
+00:09:21.960 --> 00:09:22.440
+the traffic
+
+186
+00:09:22.440 --> 00:09:27.060
+to the said all the traffic to the same paywall and just hope for the best. And
+
+187
+00:09:27.060 --> 00:09:27.240
+I wish
+
+188
+00:09:27.240 --> 00:09:31.510
+I would have done this sooner because ever since I found out that 23 to 28 age
+
+189
+00:09:31.510 --> 00:09:31.920
+range
+
+190
+00:09:31.920 --> 00:09:36.240
+converted the best, all of our meta rads were shifted towards that age range.
+
+191
+00:09:36.240 --> 00:09:36.360
+We're
+
+192
+00:09:36.360 --> 00:09:41.160
+now super, super profitable. So you guys are loving the fucking secrets right
+
+193
+00:09:41.160 --> 00:09:41.640
+here.
+
+194
+00:09:41.640 --> 00:09:48.550
+Right. So 29 to 40 entries. This is extremely large gap. And maybe I recommend,
+
+195
+00:09:48.550 --> 00:09:49.320
+you know,
+
+196
+00:09:49.320 --> 00:09:58.260
+lowering this, but this is what we're going to do for now. Example paywall. All
+
+197
+00:09:58.260 --> 00:10:03.440
+right.
+
+198
+00:10:03.440 --> 00:10:25.950
+And then above 40 is the final one over 40. All right, guys, you are now fully
+
+199
+00:10:25.950 --> 00:10:27.960
+set up.
+
+200
+00:10:27.960 --> 00:10:32.060
+And the app will change the paywall and change the direction of data depending
+
+201
+00:10:32.060 --> 00:10:32.560
+on the age
+
+202
+00:10:32.560 --> 00:10:40.300
+you put in onboarding massive, massive progress. Good shit. So all right. That
+
+203
+00:10:40.300 --> 00:10:40.800
+'s the first thing
+
+204
+00:10:40.800 --> 00:10:47.450
+that helps you boost revenue. That's the first step. Let's see what else we got
+
+205
+00:10:47.450 --> 00:10:50.520
+. We also have
+
+206
+00:10:50.520 --> 00:10:53.890
+show notification off the five minutes. Okay, this is a really fun one. And I
+
+207
+00:10:53.890 --> 00:10:54.320
+love doing
+
+208
+00:10:54.320 --> 00:10:57.980
+this. Anytime someone reaches the paywall and they don't convert. And of course
+
+209
+00:10:57.980 --> 00:10:58.400
+, like
+
+210
+00:10:58.400 --> 00:11:02.000
+the majority will not convert. We'll just ping them with notification saying,
+
+211
+00:11:02.000 --> 00:11:02.480
+Hey,
+
+212
+00:11:02.480 --> 00:11:06.520
+Alex, whatever name they use during onboarding. Like we, like you made it so
+
+213
+00:11:06.520 --> 00:11:07.440
+far that you're
+
+214
+00:11:07.440 --> 00:11:11.660
+about to invest in yourself. You're about to invest in your new life. Here's 80
+
+215
+00:11:11.660 --> 00:11:12.400
+% off,
+
+216
+00:11:12.400 --> 00:11:16.440
+just in case you are on the edge of buying and you were like uncertain such
+
+217
+00:11:16.440 --> 00:11:17.000
+change your
+
+218
+00:11:17.000 --> 00:11:22.190
+mind last second. This code will copy from quitter. I believe 80% if I search
+
+219
+00:11:22.190 --> 00:11:24.000
+that. Here
+
+220
+00:11:24.000 --> 00:11:28.250
+we go. Yeah. So there's notification right here. So private funds schedule
+
+221
+00:11:28.250 --> 00:11:29.040
+notification.
+
+222
+00:11:29.040 --> 00:11:36.170
+This will be in the GitHub code. We will trigger this at the people. So we'll
+
+223
+00:11:36.170 --> 00:11:37.120
+send on appear.
+
+224
+00:11:37.120 --> 00:11:42.660
+The first let's build the funk. So funk right here. And then on appear schedule
+
+225
+00:11:42.660 --> 00:11:44.000
+notification.
+
+226
+00:11:44.000 --> 00:11:53.640
+Okay, we can remove this as firebase. We don't need that. And yeah, so it's, it
+
+227
+00:11:53.640 --> 00:11:55.120
+goes username.
+
+228
+00:11:55.120 --> 00:12:04.410
+We didn't give up on you limited time offer, get 80% off of Cal AI and become
+
+229
+00:12:04.410 --> 00:12:05.840
+the healthiest
+
+230
+00:12:05.840 --> 00:12:12.580
+version of yourself. And you can say we have an amazing community and 35 plus
+
+231
+00:12:12.580 --> 00:12:13.240
+features.
+
+232
+00:12:13.240 --> 00:12:16.820
+This is kind of fluff. Probably don't need that. But this will catch their
+
+233
+00:12:16.820 --> 00:12:17.400
+attention
+
+234
+00:12:17.400 --> 00:12:21.490
+and they will be like, okay, holy shit. I got a subscribe. I was so close to
+
+235
+00:12:21.490 --> 00:12:21.920
+being the
+
+236
+00:12:21.920 --> 00:12:25.560
+best version of myself. And I've just been reminded. I've just pushed this for
+
+237
+00:12:25.560 --> 00:12:25.880
+in the
+
+238
+00:12:25.880 --> 00:12:32.630
+user's mind that this is the key. I need Cal AI. And so that little nudge
+
+239
+00:12:32.630 --> 00:12:33.120
+really helps
+
+240
+00:12:33.120 --> 00:12:37.370
+conversion rates. And I can show you from my end what that looks like on the
+
+241
+00:12:37.370 --> 00:12:37.920
+bottom
+
+242
+00:12:37.920 --> 00:12:43.490
+line revenue side of things. We call this discount button. We show the button
+
+243
+00:12:43.490 --> 00:12:43.840
+after
+
+244
+00:12:43.840 --> 00:12:48.550
+five minutes. And it's right here. Of course, revenue super low today, but like
+
+245
+00:12:48.550 --> 00:12:48.920
+you can
+
+246
+00:12:48.920 --> 00:12:56.330
+just estimate. So discount button has a 10% conversion rate and 500 users of
+
+247
+00:12:56.330 --> 00:12:57.000
+the three
+
+248
+00:12:57.000 --> 00:13:03.620
+and a half K view this screen. So we make an extra 1000 a day or like almost 20
+
+249
+00:13:03.620 --> 00:13:04.280
+% extra
+
+250
+00:13:04.280 --> 00:13:08.960
+a day just by this notification is discount button. On that note, let's create
+
+251
+00:13:08.960 --> 00:13:09.520
+the discount
+
+252
+00:13:09.520 --> 00:13:15.080
+button. It's right here discount you. So we'll just copy the discount view.
+
+253
+00:13:15.080 --> 00:13:15.840
+Again, I'll
+
+254
+00:13:15.840 --> 00:13:24.110
+provide this code in GitHub. There's a lot of copy and pasting discount. So it
+
+255
+00:13:24.110 --> 00:13:26.840
+'s boring
+
+256
+00:13:26.840 --> 00:13:32.330
+because there's a lot of copy and pasting, but it's so worth it. Dot background
+
+257
+00:13:32.330 --> 00:13:34.240
+dot white.
+
+258
+00:13:34.240 --> 00:13:42.650
+Okay, cool. Looks good. And then I'm sure we just put the discount code viewed
+
+259
+00:13:42.650 --> 00:13:43.120
+discount
+
+260
+00:13:43.120 --> 00:13:50.100
+code view inside the payroll, right discount view. Okay, yeah, great. So we
+
+261
+00:13:50.100 --> 00:13:50.600
+just copied
+
+262
+00:13:50.600 --> 00:13:59.240
+this, go into the paywall and put it underneath the main target discount view.
+
+263
+00:13:59.240 --> 00:13:59.960
+Now what this
+
+264
+00:13:59.960 --> 00:14:04.190
+does is as soon as you view the page, it starts counting down from a five
+
+265
+00:14:04.190 --> 00:14:05.440
+minute timer. After
+
+266
+00:14:05.440 --> 00:14:11.380
+five minutes, you get hit the notification and you also get hit with a discount
+
+267
+00:14:11.380 --> 00:14:12.240
+button.
+
+268
+00:14:12.240 --> 00:14:16.790
+So very flawless logic. That's great. Boost revenue by a thousand dollars a day
+
+269
+00:14:16.790 --> 00:14:17.320
+for us.
+
+270
+00:14:17.320 --> 00:14:27.170
+So extra 30k month. No complaining, no complaining. Let's also go to what else?
+
+271
+00:14:27.170 --> 00:14:29.160
+Short cuts. So
+
+272
+00:14:29.160 --> 00:14:34.410
+I love shortcuts. And I'll explain why. Anytime you try and uninstall quitter,
+
+273
+00:14:34.410 --> 00:14:35.200
+there's two
+
+274
+00:14:35.200 --> 00:14:39.410
+buttons. There's one. Are you deleting? Like tell us why. Send your feedback.
+
+275
+00:14:39.410 --> 00:14:40.000
+Like let's
+
+276
+00:14:40.000 --> 00:14:44.240
+improve the app for you. Let's make this experience better. And we learned a
+
+277
+00:14:44.240 --> 00:14:45.760
+lot about how our
+
+278
+00:14:45.760 --> 00:14:51.500
+users feel about our product and continuously iterate and improve to the point
+
+279
+00:14:51.500 --> 00:14:52.280
+where the
+
+280
+00:14:52.280 --> 00:14:54.740
+conversion rate increases because we solve all the problems that people were
+
+281
+00:14:54.740 --> 00:14:55.200
+having in
+
+282
+00:14:55.200 --> 00:14:59.220
+the past. Now the main request we get is that we're too expensive and we
+
+283
+00:14:59.220 --> 00:15:00.440
+shouldn't be monetizing
+
+284
+00:15:00.440 --> 00:15:04.810
+the ditch and etc. But having this button shows you care. There is a second
+
+285
+00:15:04.810 --> 00:15:05.280
+button, but it
+
+286
+00:15:05.280 --> 00:15:10.010
+could be because I've already paid that I don't see it. But I can pull it up on
+
+287
+00:15:10.010 --> 00:15:11.160
+my phone.
+
+288
+00:15:11.160 --> 00:15:15.300
+And we'll be building it out. This is the important button. Let's see. Okay. I
+
+289
+00:15:15.300 --> 00:15:15.600
+can just
+
+290
+00:15:15.600 --> 00:15:23.330
+show you on my phone. So the second button, as you can see, is try for free. So
+
+291
+00:15:23.330 --> 00:15:24.440
+this button,
+
+292
+00:15:24.440 --> 00:15:29.560
+once you click it, and I'll click it right here, we'll open the app and trigger
+
+293
+00:15:29.560 --> 00:15:29.880
+the
+
+294
+00:15:29.880 --> 00:15:35.440
+payroll trigger a payroll that gives you a free trial to quit. Now all of our
+
+295
+00:15:35.440 --> 00:15:35.880
+apps,
+
+296
+00:15:35.880 --> 00:15:40.440
+Kali I quitter, you max, etc. are hard pay old, meaning that you can't access
+
+297
+00:15:40.440 --> 00:15:41.160
+anything
+
+298
+00:15:41.160 --> 00:15:45.590
+free. And it's just a funnel to convert you. The reason we offer a free trial
+
+299
+00:15:45.590 --> 00:15:46.360
+is because
+
+300
+00:15:46.360 --> 00:15:50.170
+people holding on the app and long pressing on the app are usually just going
+
+301
+00:15:50.170 --> 00:15:50.760
+to delete
+
+302
+00:15:50.760 --> 00:15:58.640
+it. So as a last ditch attempt, we give them free trial. And if they like the
+
+303
+00:15:58.640 --> 00:15:59.480
+product,
+
+304
+00:15:59.480 --> 00:16:02.570
+then they stick around and we make revenue from it. And I can show you the
+
+305
+00:16:02.570 --> 00:16:03.000
+revenue from
+
+306
+00:16:03.000 --> 00:16:07.530
+quit as in for what we make in free trials. As you can see right here, we had
+
+307
+00:16:07.530 --> 00:16:08.680
+200 people
+
+308
+00:16:08.680 --> 00:16:13.390
+that were about to uninstall, but saw the free trial button and then clicked it
+
+309
+00:16:13.390 --> 00:16:13.640
+. And
+
+310
+00:16:13.640 --> 00:16:17.140
+then from that, we have 20 conversions, so around a 10% conversion rate. And
+
+311
+00:16:17.140 --> 00:16:17.640
+today we've
+
+312
+00:16:17.640 --> 00:16:22.350
+made $81. Now doesn't seem like a lot. Again, there's also like a time
+
+313
+00:16:22.350 --> 00:16:24.040
+discrepancy on it.
+
+314
+00:16:24.040 --> 00:16:28.080
+We have to wait a week or three days. I'm not sure. But if I change this to the
+
+315
+00:16:28.080 --> 00:16:29.160
+last 90 days,
+
+316
+00:16:29.160 --> 00:16:34.680
+we can see how much bottom line revenue is generated. And it has done $12,000
+
+317
+00:16:34.680 --> 00:16:35.800
+in the last 90 days of
+
+318
+00:16:35.800 --> 00:16:40.670
+people that were about to uninstall, that ended up staying, giving us a try and
+
+319
+00:16:40.670 --> 00:16:42.280
+enjoying the product.
+
+320
+00:16:42.280 --> 00:16:46.520
+Now, of course, these people are the most, they are the lowest intent. They
+
+321
+00:16:46.520 --> 00:16:47.080
+didn't want to invest
+
+322
+00:16:47.080 --> 00:16:52.190
+themselves at first. They like hesitant, start a free trial. And usually they
+
+323
+00:16:52.190 --> 00:16:53.640
+probably have no money.
+
+324
+00:16:54.280 --> 00:17:00.080
+But like we still make thousands of dollars off of that small probability. So
+
+325
+00:17:00.080 --> 00:17:01.080
+at scale,
+
+326
+00:17:01.080 --> 00:17:04.390
+I do totally recommend it. I think it's a great idea. So let me show you how we
+
+327
+00:17:04.390 --> 00:17:05.080
+build that.
+
+328
+00:17:05.080 --> 00:17:11.730
+All right. So I've written GPT and I pretty much copied Quitters scene delegate
+
+329
+00:17:11.730 --> 00:17:13.400
+, where we trigger
+
+330
+00:17:13.400 --> 00:17:19.500
+the update quick actions button. So anytime the app is launched, it displays
+
+331
+00:17:19.500 --> 00:17:21.160
+these shortcuts.
+
+332
+00:17:21.960 --> 00:17:26.040
+I for instance, I did a GPT and it gave us like this complete mess of code,
+
+333
+00:17:26.040 --> 00:17:26.920
+which again will be
+
+334
+00:17:26.920 --> 00:17:31.800
+linked below. I just pasted it in and it's seemingly working. So if we hold
+
+335
+00:17:31.800 --> 00:17:33.560
+down the Kali I app now,
+
+336
+00:17:33.560 --> 00:17:37.610
+there's a deleting tell us why button and a try for free button, which is great
+
+337
+00:17:37.610 --> 00:17:38.600
+. Now we just need
+
+338
+00:17:38.600 --> 00:17:43.750
+to link this back to Superwall and get it fully set up. So this is Twitter. Let
+
+339
+00:17:43.750 --> 00:17:44.520
+'s get back to
+
+340
+00:17:44.520 --> 00:17:51.790
+TI. All right. So here, item dot append quick actions. So how do I do the
+
+341
+00:17:51.790 --> 00:17:53.640
+action? Is it down here?
+
+342
+00:17:53.640 --> 00:17:59.880
+Okay. So this is the action. So we're going to do Superwall dot shared dot
+
+343
+00:17:59.880 --> 00:18:11.010
+what was it? Superwall dot shared dot register. I don't know why it's called
+
+344
+00:18:11.010 --> 00:18:12.120
+registers with
+
+345
+00:18:12.120 --> 00:18:18.130
+placement. We'll pull this free underscore trial. And that should be good to go
+
+346
+00:18:18.130 --> 00:18:19.080
+. Okay, great.
+
+347
+00:18:19.080 --> 00:18:27.240
+And then for this one, you can do a link to a Google form. It's very simple. I
+
+348
+00:18:27.240 --> 00:18:27.560
+have to do that
+
+349
+00:18:27.560 --> 00:18:39.000
+online. I can show you how we do it for quitter.
+
+350
+00:18:39.000 --> 00:19:08.200
+Okay. So this is how we do it for quitter. When the actions performed, we do
+
+351
+00:19:08.200 --> 00:19:08.920
+open URL.
+
+352
+00:19:09.240 --> 00:19:14.400
+The code to open URL is right here. Just copy this line and we'll bring it over
+
+353
+00:19:14.400 --> 00:19:14.680
+to
+
+354
+00:19:14.680 --> 00:19:24.760
+Cal AI as well. Paste this at the top. Wait, maybe like this.
+
+355
+00:19:24.760 --> 00:19:30.190
+Okay, that works. And then when it comes to, oh, actually, it should be like
+
+356
+00:19:30.190 --> 00:19:30.840
+here.
+
+357
+00:19:33.160 --> 00:19:38.240
+And then when it comes to sending feedback, what you got to do is do open, open
+
+358
+00:19:38.240 --> 00:19:38.680
+URL,
+
+359
+00:19:38.680 --> 00:19:47.000
+and then link the URL. So it should be, I believe it's like URL underscore
+
+360
+00:19:47.000 --> 00:19:48.520
+value.
+
+361
+00:19:48.520 --> 00:19:52.920
+Let me pull the exact thing we do. Open URL.
+
+362
+00:19:52.920 --> 00:20:01.400
+So yeah, this is the code used for the URL. I guess we just paste this at the
+
+363
+00:20:01.400 --> 00:20:02.280
+top as well.
+
+364
+00:20:02.280 --> 00:20:05.480
+And then put in your Google form. So this is the one we use to collect feedback
+
+365
+00:20:05.480 --> 00:20:06.120
+for quitter.
+
+366
+00:20:06.120 --> 00:20:09.640
+You can make a Google form and put in whatever link you need to here as well.
+
+367
+00:20:09.640 --> 00:20:18.920
+And then just do open URL, website URL. And the quick, and then the annual plan
+
+368
+00:20:18.920 --> 00:20:19.560
+quick action
+
+369
+00:20:19.560 --> 00:20:24.790
+should register the free trial, which will set up a super right now. So we'll
+
+370
+00:20:24.790 --> 00:20:25.960
+set up a,
+
+371
+00:20:26.600 --> 00:20:33.150
+let's go to Cal AI. And we'll just go to templates. Or let's find a good free
+
+372
+00:20:33.150 --> 00:20:34.440
+trial ish template.
+
+373
+00:20:34.440 --> 00:20:39.800
+Something like this, actually like this is better. So we use this template.
+
+374
+00:20:39.800 --> 00:20:51.000
+We'll call it free trial. Free trial, you will never see this again, etc, etc.
+
+375
+00:20:51.000 --> 00:20:51.400
+We don't need to
+
+376
+00:20:51.400 --> 00:20:56.380
+add a product. You guys can add a product after the fact. And then we'll create
+
+377
+00:20:56.380 --> 00:20:57.640
+a brand new campaign.
+
+378
+00:20:57.640 --> 00:21:00.280
+We'll call this one free underscore trial.
+
+379
+00:21:00.280 --> 00:21:06.600
+And we'll also call the placement free underscore trial.
+
+380
+00:21:06.600 --> 00:21:14.360
+And then we'll add the brand new free trial paywall. So that is at the top
+
+381
+00:21:14.360 --> 00:21:17.080
+create changes to
+
+382
+00:21:17.080 --> 00:21:21.960
+a hundred percent change to zero percent, save, save,
+
+383
+00:21:21.960 --> 00:21:30.040
+re launch the app. So we use command or build succeeded. Good shit. Good shit.
+
+384
+00:21:30.040 --> 00:21:36.120
+And then if you hold down on the Cal AI app, just as you're about to delete it,
+
+385
+00:21:36.120 --> 00:21:40.600
+you're prompted with two things. One, are you deleting? Tell us why. And this
+
+386
+00:21:40.600 --> 00:21:42.120
+will open the website.
+
+387
+00:21:42.760 --> 00:21:47.880
+And they're try for free. Well, it's not fucking working. Are you serious?
+
+388
+00:21:47.880 --> 00:21:58.200
+Right, it's not working, but we'll fix this right now.
+
+389
+00:21:58.200 --> 00:22:03.280
+All right, you know what boys, I will just add the code to the GitHub that
+
+390
+00:22:03.280 --> 00:22:03.720
+works.
+
+391
+00:22:03.720 --> 00:22:08.600
+Chai GPT is having issues right now. But yeah, just down at the GitHub code,
+
+392
+00:22:08.600 --> 00:22:09.560
+everything is linked.
+
+393
+00:22:09.560 --> 00:22:13.400
+Just make sure you follow the suitable tutorial on how to set the campaigns.
+
+394
+00:22:13.400 --> 00:22:16.200
+And you should be all good out of the box. Peace out.

@@ -1,0 +1,24 @@
+[00:00:00] The most important part of running paper click ads is attribution.
+[00:00:07] The most important part in 2025 and on.
+[00:00:12] This is because the algorithm is so good at this point at finding people that
+[00:00:20] will pay for your product.
+[00:00:22] So the only two variables that you're really tweaking aside from your app you
+[00:00:29] 're pricing,
+[00:00:29] because that's all important are the creatives and the attribution.
+[00:00:36] The attribution, if done wrong, will fuck up everything.
+[00:00:41] If done right, then the algorithm will work amazingly, do what it's good at and
+[00:00:47] find new customers.
+[00:00:50] Adjust has a really good blog on what all these Apple privacy rules are.
+[00:00:56] So I suggest reading this, adjust.com/glosseries/scaddenetworks-scan.
+[00:01:02] This will teach you a bunch of stuff, basically how it works.
+[00:01:06] But let me go through this graph here.
+[00:01:11] So first I would say pause this video, go read that.
+[00:01:14] Once you've read that, come back here.
+[00:01:18] Go.
+[00:01:20] Okay, I'm assuming you've read that.
+[00:01:28] So these are the, this diagram right here shows us how Apple's scan SKAN, I don
+[00:01:42] what does scan stand for?
+[00:01:52] SCAD network, STORKET network.
+[00:01:55] Okay.
+[00:01:56] Lamb.
+[00:01:59] So, how it works is very, very strange, very, very strange.

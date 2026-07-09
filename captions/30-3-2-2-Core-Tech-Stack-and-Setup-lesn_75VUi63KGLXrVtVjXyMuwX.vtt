@@ -1,0 +1,181 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.640
+Alright, so now we're in a really good spot.
+
+2
+00:00:02.640 --> 00:00:05.280
+We've enrolled an Apple developer, we've set up Xcode.
+
+3
+00:00:05.280 --> 00:00:08.440
+Actually, there is one more thing in Xcode, I just forgot.
+
+4
+00:00:08.440 --> 00:00:14.390
+Make sure you drop this to like 17.0, because it was previously on 18.5, which
+
+5
+00:00:14.390 --> 00:00:15.040
+means anyone
+
+6
+00:00:15.040 --> 00:00:18.560
+that's not on iOS 18.5 cannot use your app.
+
+7
+00:00:18.560 --> 00:00:19.560
+So this is very crucial.
+
+8
+00:00:19.560 --> 00:00:24.000
+Drop it down to 17, 17 should be just fine, but remember to do this, very
+
+9
+00:00:24.000 --> 00:00:24.720
+important, don't
+
+10
+00:00:24.720 --> 00:00:25.720
+miss out.
+
+11
+00:00:25.720 --> 00:00:26.720
+Okay.
+
+12
+00:00:26.720 --> 00:00:31.090
+So this is the core tech stack, and I originally thought I would like run
+
+13
+00:00:31.090 --> 00:00:32.920
+through like going,
+
+14
+00:00:32.920 --> 00:00:35.800
+like setting up the accounts, like kind of go through the platforms.
+
+15
+00:00:35.800 --> 00:00:38.440
+But to be honest, I will do that later down the line.
+
+16
+00:00:38.440 --> 00:00:40.960
+I just want to show you guys what the tech stack would be.
+
+17
+00:00:40.960 --> 00:00:42.240
+For me, I use Firebase.
+
+18
+00:00:42.240 --> 00:00:45.520
+You can also use Superbase, but I'm not really qualified in that realm.
+
+19
+00:00:45.520 --> 00:00:47.800
+So I'm going to stick to Firebase, which is what I know.
+
+20
+00:00:47.800 --> 00:00:49.560
+We use Superwall for the Pails.
+
+21
+00:00:49.560 --> 00:00:50.560
+We use Mixpanel for Analytics.
+
+22
+00:00:50.560 --> 00:00:53.980
+And we also use Adjust for a bit of Analytics as well, but more on the traffic
+
+23
+00:00:53.980 --> 00:00:54.720
+side of things
+
+24
+00:00:54.720 --> 00:00:57.840
+for us, Mixpanel was like very usage based.
+
+25
+00:00:57.840 --> 00:01:01.040
+So we can see what users are doing on the app when they drop off, et cetera, et
+
+26
+00:01:01.040 --> 00:01:01.520
+cetera.
+
+27
+00:01:01.520 --> 00:01:06.020
+We are also going to use the chat GPT API to like rate the faces of people that
+
+28
+00:01:06.020 --> 00:01:07.120
+are scanning
+
+29
+00:01:07.120 --> 00:01:09.160
+their face on the UMAX clone.
+
+30
+00:01:09.160 --> 00:01:11.000
+So that's important to note.
+
+31
+00:01:11.000 --> 00:01:13.800
+And I'll run through installing about all of this, like when it comes to it.
+
+32
+00:01:13.800 --> 00:01:15.760
+I think that's way more helpful.
+
+33
+00:01:15.760 --> 00:01:19.840
+The only thing that you immediately need to download is SF symbols.
+
+34
+00:01:19.840 --> 00:01:21.200
+So go to this page.
+
+35
+00:01:21.200 --> 00:01:22.760
+It's linked.
+
+36
+00:01:22.760 --> 00:01:23.760
+This is by Apple.
+
+37
+00:01:23.760 --> 00:01:25.960
+There's a download button on the top right.
+
+38
+00:01:25.960 --> 00:01:30.550
+Again, I'd recommend downloading six instead of the beta because the beta is
+
+39
+00:01:30.550 --> 00:01:31.680
+unstable.
+
+40
+00:01:31.680 --> 00:01:35.360
+And I just personally wouldn't recommend it right now.
+
+41
+00:01:35.360 --> 00:01:38.840
+So then download six, and I'll show you what SF symbols looks like.
+
+42
+00:01:38.840 --> 00:01:42.440
+It just gives you access to a bunch of icons that you can use for your app,
+
+43
+00:01:42.440 --> 00:01:43.200
+which we will
+
+44
+00:01:43.200 --> 00:01:48.960
+also be using to create set up later down the line during this tutorial.
+
+45
+00:01:48.960 --> 00:01:55.480
+So that's all from this side, and we're ready to move on to architecture.

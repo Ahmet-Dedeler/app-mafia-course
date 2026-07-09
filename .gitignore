@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Secrets / local auth
+.env
+.env.*
+*.pem
+*cookies*
+*session*
+*auth*.json
+*debug*
+*.har
+
+# Extraction tooling (not needed in repo)
+scripts/
+
+# Redundant packaged archive (source files are tracked)
+*.zip

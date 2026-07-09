@@ -1,0 +1,1945 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.920
+What's up guys, Zach Yada-Gara here, co-founder and CEO of Cal AI.
+
+2
+00:00:04.920 --> 00:00:09.070
+You're going to hear about me more later in the distribution section especially
+
+3
+00:00:09.070 --> 00:00:09.280
+, but
+
+4
+00:00:09.280 --> 00:00:13.940
+I'm just going to jump in here and talk about some primary and secondary design
+
+5
+00:00:13.940 --> 00:00:14.720
+principles
+
+6
+00:00:14.720 --> 00:00:15.720
+for you to keep in mind.
+
+7
+00:00:15.720 --> 00:00:18.680
+I'm going to be picking off after Blake's.
+
+8
+00:00:18.680 --> 00:00:27.540
+So he put together this whole testosterone max app design and he showed you
+
+9
+00:00:27.540 --> 00:00:28.280
+guys how
+
+10
+00:00:28.280 --> 00:00:29.520
+to wire frame it.
+
+11
+00:00:29.520 --> 00:00:33.590
+He also showed you how to hire a designer to take these designs and make them
+
+12
+00:00:33.590 --> 00:00:34.280
+into something
+
+13
+00:00:34.280 --> 00:00:35.760
+beautiful.
+
+14
+00:00:35.760 --> 00:00:38.760
+We have not had a designer redesign it yet.
+
+15
+00:00:38.760 --> 00:00:43.410
+However, so I'm just going to jump in assume like by this point you should have
+
+16
+00:00:43.410 --> 00:00:44.440
+more beautiful
+
+17
+00:00:44.440 --> 00:00:49.290
+designs on well, I guess it doesn't actually you should honestly have this
+
+18
+00:00:49.290 --> 00:00:50.240
+stuff done in
+
+19
+00:00:50.240 --> 00:00:53.530
+your wire frame the stuff I'm about to go over to be honest and then you should
+
+20
+00:00:53.530 --> 00:00:54.040
+probably
+
+21
+00:00:54.040 --> 00:00:56.440
+send it to a designer.
+
+22
+00:00:56.440 --> 00:01:01.050
+So he showed the wire frame so you open the app and then it's going to tell you
+
+23
+00:01:01.050 --> 00:01:01.760
+complete
+
+24
+00:01:01.760 --> 00:01:03.120
+your first analysis.
+
+25
+00:01:03.120 --> 00:01:06.160
+You hit start.
+
+26
+00:01:06.160 --> 00:01:09.640
+This is a primary action the start.
+
+27
+00:01:09.640 --> 00:01:12.280
+You are doing your first analysis.
+
+28
+00:01:12.280 --> 00:01:14.560
+There are other buttons on the screen.
+
+29
+00:01:14.560 --> 00:01:18.600
+This is some kind of calendar you click and see past days.
+
+30
+00:01:18.600 --> 00:01:21.840
+It depends if you want to add that functionality to see past days, but then
+
+31
+00:01:21.840 --> 00:01:22.800
+maybe at the bottom
+
+32
+00:01:22.800 --> 00:01:27.300
+you'll have an app bar where you have multiple different tabs that they could
+
+33
+00:01:27.300 --> 00:01:27.960
+go to like
+
+34
+00:01:27.960 --> 00:01:31.840
+a home tab of a things little cut off.
+
+35
+00:01:31.840 --> 00:01:34.920
+My my full screen is actually not being shown.
+
+36
+00:01:34.920 --> 00:01:37.920
+Let me let me address this.
+
+37
+00:01:37.920 --> 00:01:44.240
+Okay, should be better now, but okay.
+
+38
+00:01:44.240 --> 00:01:47.360
+I don't know how much was cut off.
+
+39
+00:01:47.360 --> 00:01:49.400
+I'm just going to keep going.
+
+40
+00:01:49.400 --> 00:01:55.240
+So the primary action is the start because this is what you want your users to
+
+41
+00:01:55.240 --> 00:01:55.800
+do.
+
+42
+00:01:55.800 --> 00:01:59.880
+You basically want to spoon feed them the buttons to click.
+
+43
+00:01:59.880 --> 00:02:06.500
+You want to make sure that they clearly understand where to go in the flow of
+
+44
+00:02:06.500 --> 00:02:07.520
+the app.
+
+45
+00:02:07.520 --> 00:02:12.830
+And that's kind of what makes an intuitive design and intuitive design is when
+
+46
+00:02:12.830 --> 00:02:13.560
+you have
+
+47
+00:02:13.560 --> 00:02:16.920
+one clear action per screen.
+
+48
+00:02:16.920 --> 00:02:20.120
+So on this screen, the clear action is to start your analysis.
+
+49
+00:02:20.120 --> 00:02:22.080
+That's the big button.
+
+50
+00:02:22.080 --> 00:02:26.040
+And then you might have some secondary ones at the bottom where it's like, okay
+
+51
+00:02:26.040 --> 00:02:26.600
+, home,
+
+52
+00:02:26.600 --> 00:02:28.560
+settings.
+
+53
+00:02:28.560 --> 00:02:31.960
+There's not much content without having your first analysis you want to show.
+
+54
+00:02:31.960 --> 00:02:38.160
+Maybe you'll have like something like recommendations unavailable.
+
+55
+00:02:38.160 --> 00:02:40.400
+Something like this, the designer would make this look good.
+
+56
+00:02:40.400 --> 00:02:43.570
+And the reason they're unavailable, it's just to show the user, yeah, there is
+
+57
+00:02:43.570 --> 00:02:44.560
+more content.
+
+58
+00:02:44.560 --> 00:02:48.000
+But until you start your analysis, you're going to do that.
+
+59
+00:02:48.000 --> 00:02:52.750
+Maybe like recommendations, you could even put some recommendations here, but
+
+60
+00:02:52.750 --> 00:02:53.320
+then kind
+
+61
+00:02:53.320 --> 00:02:56.920
+of blur them out.
+
+62
+00:02:56.920 --> 00:02:59.720
+And that could actually be a cool thing.
+
+63
+00:02:59.720 --> 00:03:06.850
+It's like you put something over, make it kind of light, but add a blur effect
+
+64
+00:03:06.850 --> 00:03:07.720
+to it.
+
+65
+00:03:07.720 --> 00:03:08.720
+Layer blur.
+
+66
+00:03:08.720 --> 00:03:17.520
+I don't know if layer blur is the right, is what I'm looking for.
+
+67
+00:03:17.520 --> 00:03:21.280
+I think layer blur on this actually.
+
+68
+00:03:21.280 --> 00:03:25.080
+So recommendations needs to be separate.
+
+69
+00:03:25.080 --> 00:03:27.080
+Okay.
+
+70
+00:03:27.080 --> 00:03:28.080
+Look.
+
+71
+00:03:28.080 --> 00:03:30.080
+Get rid of this.
+
+72
+00:03:30.080 --> 00:03:34.240
+Take this stuff, get out of here.
+
+73
+00:03:34.240 --> 00:03:35.240
+Okay.
+
+74
+00:03:35.240 --> 00:03:42.240
+So I'm going to add a layer blur to.
+
+75
+00:03:42.240 --> 00:03:50.600
+I'm going to make two separate text elements.
+
+76
+00:03:50.600 --> 00:03:52.720
+Lucky, this is all part of the wireframe.
+
+77
+00:03:52.720 --> 00:03:56.930
+So I'm just like going off here, but I just think it's a cool idea to add a
+
+78
+00:03:56.930 --> 00:03:57.880
+layer blur.
+
+79
+00:03:57.880 --> 00:04:09.160
+It'd be like very blurry, and then you would put a button or it's like scan to
+
+80
+00:04:09.160 --> 00:04:12.040
+get recommendations.
+
+81
+00:04:12.040 --> 00:04:15.650
+Just to show them, honestly, this might not look good after having a designer
+
+82
+00:04:15.650 --> 00:04:16.640
+go over it.
+
+83
+00:04:16.640 --> 00:04:20.600
+Like a lot of the time you just want to put things out there.
+
+84
+00:04:20.600 --> 00:04:23.160
+And by the way, this is too long of a text for a call to action.
+
+85
+00:04:23.160 --> 00:04:24.960
+You always want it to be shorter.
+
+86
+00:04:24.960 --> 00:04:28.360
+But sometimes you'll want to just put stuff out there and just have designers
+
+87
+00:04:28.360 --> 00:04:28.760
+work on
+
+88
+00:04:28.760 --> 00:04:31.920
+it and then see what you like and what you don't like.
+
+89
+00:04:31.920 --> 00:04:36.320
+Don't be afraid to try things and then cut them if they are not good.
+
+90
+00:04:36.320 --> 00:04:40.640
+But this isn't, this isn't the worst of the world.
+
+91
+00:04:40.640 --> 00:04:41.640
+So something like this.
+
+92
+00:04:41.640 --> 00:04:44.320
+And then you click this basically just like the start button, but just more
+
+93
+00:04:44.320 --> 00:04:44.800
+content on
+
+94
+00:04:44.800 --> 00:04:46.200
+the page.
+
+95
+00:04:46.200 --> 00:04:49.780
+This is technically a secondary action, but it takes you to the same flow as
+
+96
+00:04:49.780 --> 00:04:50.560
+the primary.
+
+97
+00:04:50.560 --> 00:04:55.970
+So primary actions are everything that's, you only have typically one primary
+
+98
+00:04:55.970 --> 00:04:56.640
+action per
+
+99
+00:04:56.640 --> 00:04:59.200
+page and then everything else is secondary.
+
+100
+00:04:59.200 --> 00:05:04.420
+I mean, you could have like secondary tertiary and just keep going down the
+
+101
+00:05:04.420 --> 00:05:05.440
+list, but where
+
+102
+00:05:05.440 --> 00:05:07.760
+all that really matters, you don't need to over-complicate this.
+
+103
+00:05:07.760 --> 00:05:10.440
+So you want one clear button on every page.
+
+104
+00:05:10.440 --> 00:05:11.600
+Here is the start button.
+
+105
+00:05:11.600 --> 00:05:17.920
+Once you click this, then we're going to want to take them to a page where it
+
+106
+00:05:17.920 --> 00:05:18.760
+shows, where
+
+107
+00:05:18.760 --> 00:05:23.480
+it shows maybe a camera, for example, or not a camera, because what does he,
+
+108
+00:05:23.480 --> 00:05:24.160
+the input
+
+109
+00:05:24.160 --> 00:05:25.160
+is a selfie.
+
+110
+00:05:25.160 --> 00:05:26.160
+Okay, so camera.
+
+111
+00:05:26.160 --> 00:05:32.440
+So you want like a camera, a take picture button and the take picture.
+
+112
+00:05:32.440 --> 00:05:36.160
+Now is the primary action.
+
+113
+00:05:36.160 --> 00:05:37.160
+Take picture.
+
+114
+00:05:37.160 --> 00:05:39.200
+Obviously you don't want to have like a text label like this.
+
+115
+00:05:39.200 --> 00:05:43.690
+You'll actually want a real camera button, but again, this is the Zolt wire
+
+116
+00:05:43.690 --> 00:05:44.360
+frame.
+
+117
+00:05:44.360 --> 00:05:47.760
+I have not had a designer go over it.
+
+118
+00:05:47.760 --> 00:05:49.360
+So take picture.
+
+119
+00:05:49.360 --> 00:05:51.880
+You'll also want a back button.
+
+120
+00:05:51.880 --> 00:05:53.720
+Boom.
+
+121
+00:05:53.720 --> 00:05:56.280
+And this will, this is a camera.
+
+122
+00:05:56.280 --> 00:05:58.160
+So you'll see your face.
+
+123
+00:05:58.160 --> 00:05:59.160
+Great.
+
+124
+00:05:59.160 --> 00:06:01.200
+Big smile.
+
+125
+00:06:01.200 --> 00:06:04.360
+And so on this page, the primary action is taking a picture.
+
+126
+00:06:04.360 --> 00:06:07.760
+The secondary action is hitting the back arrow.
+
+127
+00:06:07.760 --> 00:06:09.520
+That's a good thing about this.
+
+128
+00:06:09.520 --> 00:06:12.490
+Once you take a picture, get the scan, you're going to enter your info, blah,
+
+129
+00:06:12.490 --> 00:06:12.960
+blah, you
+
+130
+00:06:12.960 --> 00:06:16.200
+have like, ideally a good thing to do.
+
+131
+00:06:16.200 --> 00:06:20.890
+You don't always have to do this by putting one input field per page makes it
+
+132
+00:06:20.890 --> 00:06:21.840
+very simple.
+
+133
+00:06:21.840 --> 00:06:26.600
+Like onboarding flows, for example, it's one question per page generally.
+
+134
+00:06:26.600 --> 00:06:28.000
+Sometimes they put multiple.
+
+135
+00:06:28.000 --> 00:06:30.760
+Like if things fit together, sometimes age, sorry.
+
+136
+00:06:30.760 --> 00:06:35.020
+So sometimes weight and height is put together because that, that is, that
+
+137
+00:06:35.020 --> 00:06:36.640
+flows and is typically
+
+138
+00:06:36.640 --> 00:06:38.560
+seen as something together.
+
+139
+00:06:38.560 --> 00:06:41.760
+It's also proportional effect each other.
+
+140
+00:06:41.760 --> 00:06:45.160
+But then if, if you're going to ask unrelated questions in a row, it's always
+
+141
+00:06:45.160 --> 00:06:45.880
+smoother to
+
+142
+00:06:45.880 --> 00:06:50.800
+just separate the screens to keep one primary action per screen.
+
+143
+00:06:50.800 --> 00:06:55.180
+So once you take the picture, go through all the questions that you'll design,
+
+144
+00:06:55.180 --> 00:06:55.880
+the homepage
+
+145
+00:06:55.880 --> 00:06:58.720
+will look something like this.
+
+146
+00:06:58.720 --> 00:07:01.680
+Five actions left for the day, you'll have all your actions.
+
+147
+00:07:01.680 --> 00:07:07.180
+And then you'll probably want something at the bottom where it's like new scan
+
+148
+00:07:07.180 --> 00:07:07.920
+or like,
+
+149
+00:07:07.920 --> 00:07:12.160
+I honestly would put like a picture frame here.
+
+150
+00:07:12.160 --> 00:07:20.740
+This is a picture of you when you scanned, you're like last scan, nine dash 21,
+
+151
+00:07:20.740 --> 00:07:23.440
+like some
+
+152
+00:07:23.440 --> 00:07:25.640
+date.
+
+153
+00:07:25.640 --> 00:07:28.360
+And then I'm honestly modeling this kind of after Kelly.
+
+154
+00:07:28.360 --> 00:07:29.800
+I right now can be anything.
+
+155
+00:07:29.800 --> 00:07:38.360
+But last scan, overall score, 99 out of 100.
+
+156
+00:07:38.360 --> 00:07:50.520
+And then maybe then like a view more button or like open.
+
+157
+00:07:50.520 --> 00:08:02.240
+Looky, this is pretty shitty.
+
+158
+00:08:02.240 --> 00:08:08.340
+But maybe you want all your scans and then like I honestly, so I would think
+
+159
+00:08:08.340 --> 00:08:09.240
+you don't
+
+160
+00:08:09.240 --> 00:08:12.040
+like scans section here.
+
+161
+00:08:12.040 --> 00:08:16.340
+So you have your recommendations section, you have your scan section and you'll
+
+162
+00:08:16.340 --> 00:08:17.080
+want a
+
+163
+00:08:17.080 --> 00:08:18.320
+new scan button.
+
+164
+00:08:18.320 --> 00:08:21.400
+Honestly, how this is all laid out may not be optimal.
+
+165
+00:08:21.400 --> 00:08:23.840
+You might want the new scan above your previous scan.
+
+166
+00:08:23.840 --> 00:08:27.920
+You might want to list it like all of your past scans.
+
+167
+00:08:27.920 --> 00:08:29.080
+That's a little bit more unclear.
+
+168
+00:08:29.080 --> 00:08:32.920
+You might want the scans above the actions that honestly could work too.
+
+169
+00:08:32.920 --> 00:08:35.200
+I can see how that could look good.
+
+170
+00:08:35.200 --> 00:08:36.480
+But you want a new scan button.
+
+171
+00:08:36.480 --> 00:08:41.800
+So on this page, the primary actions, although there's not necessarily one
+
+172
+00:08:41.800 --> 00:08:43.000
+clear button, the
+
+173
+00:08:43.000 --> 00:08:47.440
+primary action is to clear these actions.
+
+174
+00:08:47.440 --> 00:09:00.240
+Maybe it's like maybe these are check boxes and you're just ticking them off.
+
+175
+00:09:00.240 --> 00:09:03.160
+I don't like the auto layout stuff that Blake did.
+
+176
+00:09:03.160 --> 00:09:04.600
+I'm not good at this stuff.
+
+177
+00:09:04.600 --> 00:09:06.960
+That's what you should learn it though.
+
+178
+00:09:06.960 --> 00:09:10.400
+It's a good thing if you do something that I'm bad at.
+
+179
+00:09:10.400 --> 00:09:13.400
+So it's not drawing.
+
+180
+00:09:13.400 --> 00:09:15.480
+But whatever, you have like check boxes.
+
+181
+00:09:15.480 --> 00:09:17.480
+You could check off the actions as you complete them.
+
+182
+00:09:17.480 --> 00:09:20.350
+And technically, if you want to really break down the hierarchy of things, the
+
+183
+00:09:20.350 --> 00:09:21.000
+top action,
+
+184
+00:09:21.000 --> 00:09:22.240
+this would be the primary action.
+
+185
+00:09:22.240 --> 00:09:24.800
+This would be the secondary action tertiary blah, blah, blah.
+
+186
+00:09:24.800 --> 00:09:29.240
+And then new scan is like whatever the next after all of those.
+
+187
+00:09:29.240 --> 00:09:33.400
+See the user comes on and they do that.
+
+188
+00:09:33.400 --> 00:09:39.140
+Let's look at more examples of when you design how to think about the primary
+
+189
+00:09:39.140 --> 00:09:39.840
+and secondary
+
+190
+00:09:39.840 --> 00:09:40.840
+actions.
+
+191
+00:09:40.840 --> 00:09:48.280
+So let's open up actually Cal AI and the design here.
+
+192
+00:09:48.280 --> 00:09:56.080
+So in Cal AI, this is the main homepage and the primary action, can you guess
+
+193
+00:09:56.080 --> 00:09:56.760
+what it
+
+194
+00:09:56.760 --> 00:09:58.640
+is?
+
+195
+00:09:58.640 --> 00:10:01.520
+Primary action is clicking the plus.
+
+196
+00:10:01.520 --> 00:10:05.940
+And it's a little bit less clear here that this is the primary action because
+
+197
+00:10:05.940 --> 00:10:06.400
+there's
+
+198
+00:10:06.400 --> 00:10:08.560
+so much going on on the screen.
+
+199
+00:10:08.560 --> 00:10:12.860
+You see your calories left, you see a calendar at the top, you see a bar at the
+
+200
+00:10:12.860 --> 00:10:13.520
+bottom with
+
+201
+00:10:13.520 --> 00:10:14.520
+different pages.
+
+202
+00:10:14.520 --> 00:10:16.680
+You see a recently uploaded section.
+
+203
+00:10:16.680 --> 00:10:20.130
+The way you know it's the primary action and the way we show users that it is
+
+204
+00:10:20.130 --> 00:10:20.560
+to make
+
+205
+00:10:20.560 --> 00:10:24.890
+it easier is that we say you haven't uploaded any food and we have an arrow
+
+206
+00:10:24.890 --> 00:10:25.720
+pointing to
+
+207
+00:10:25.720 --> 00:10:29.120
+this big black button in the corner with a plus.
+
+208
+00:10:29.120 --> 00:10:33.760
+This entire section is just dedicated to someone clicking on the black button.
+
+209
+00:10:33.760 --> 00:10:37.400
+So that's how we kind of solve for so much going on on the screen.
+
+210
+00:10:37.400 --> 00:10:38.640
+Then they hit the plus.
+
+211
+00:10:38.640 --> 00:10:43.470
+Once they do it once they'll learn that that is it's all of this design really
+
+212
+00:10:43.470 --> 00:10:44.080
+is most
+
+213
+00:10:44.080 --> 00:10:48.490
+important for when a user first uses your app because you want it to be so easy
+
+214
+00:10:48.490 --> 00:10:48.720
+.
+
+215
+00:10:48.720 --> 00:10:49.720
+They don't need a manual.
+
+216
+00:10:49.720 --> 00:10:51.040
+They don't need a God to use it.
+
+217
+00:10:51.040 --> 00:10:53.680
+Video games, the first video game is ever invented.
+
+218
+00:10:53.680 --> 00:10:57.650
+You actually need it to read an entire manual in order to play them which
+
+219
+00:10:57.650 --> 00:10:58.760
+sucked obviously
+
+220
+00:10:58.760 --> 00:11:03.200
+that was way too much friction for most consumers to actually care enough to
+
+221
+00:11:03.200 --> 00:11:04.040
+want to learn
+
+222
+00:11:04.040 --> 00:11:05.680
+and play the game.
+
+223
+00:11:05.680 --> 00:11:08.880
+For apps we want to make sure you do not need any instructions.
+
+224
+00:11:08.880 --> 00:11:09.880
+You don't need any manual.
+
+225
+00:11:09.880 --> 00:11:14.680
+It should be so easy, so intuitive, so simple that they just jump in and know
+
+226
+00:11:14.680 --> 00:11:15.680
+exactly where
+
+227
+00:11:15.680 --> 00:11:16.680
+to go.
+
+228
+00:11:16.680 --> 00:11:19.320
+So you hit the plus.
+
+229
+00:11:19.320 --> 00:11:20.680
+That's the primary action.
+
+230
+00:11:20.680 --> 00:11:24.270
+There are a ton of other secondary actions like the pages clicking into this
+
+231
+00:11:24.270 --> 00:11:24.980
+clicking past
+
+232
+00:11:24.980 --> 00:11:27.440
+days in the calendar.
+
+233
+00:11:27.440 --> 00:11:33.330
+And how I would think about designing your app is the primary action by far is
+
+234
+00:11:33.330 --> 00:11:33.960
+what matters
+
+235
+00:11:33.960 --> 00:11:35.400
+especially for launch.
+
+236
+00:11:35.400 --> 00:11:41.240
+When we launched Cal AI, actually let me try to see if I can find this picture.
+
+237
+00:11:41.240 --> 00:12:00.200
+But when we launched Cal AI, it had one feature on it.
+
+238
+00:12:00.200 --> 00:12:02.600
+Trying to find it right now.
+
+239
+00:12:02.600 --> 00:12:06.480
+Actually here it is.
+
+240
+00:12:06.480 --> 00:12:08.040
+Sick.
+
+241
+00:12:08.040 --> 00:12:11.440
+Okay.
+
+242
+00:12:11.440 --> 00:12:14.440
+So Blake made this tweet.
+
+243
+00:12:14.440 --> 00:12:17.000
+This was Cal AI version 0.0.
+
+244
+00:12:17.000 --> 00:12:18.560
+This is what we launched with.
+
+245
+00:12:18.560 --> 00:12:22.080
+We literally launched with just the primary action.
+
+246
+00:12:22.080 --> 00:12:23.840
+Take a picture of your meal.
+
+247
+00:12:23.840 --> 00:12:26.200
+You hit the plus, it will take you to a camera.
+
+248
+00:12:26.200 --> 00:12:28.400
+You snap the picture.
+
+249
+00:12:28.400 --> 00:12:29.800
+Takes you back to the home screen.
+
+250
+00:12:29.800 --> 00:12:31.960
+We'll load and show you the calories.
+
+251
+00:12:31.960 --> 00:12:33.120
+That was it.
+
+252
+00:12:33.120 --> 00:12:35.120
+There are no secondary actions here.
+
+253
+00:12:35.120 --> 00:12:39.770
+The only other action there even is is clicking the calendar to go back to
+
+254
+00:12:39.770 --> 00:12:40.800
+yesterday.
+
+255
+00:12:40.800 --> 00:12:44.880
+That was the only other action even possible.
+
+256
+00:12:44.880 --> 00:12:45.920
+And this worked for us.
+
+257
+00:12:45.920 --> 00:12:47.440
+This was with this design.
+
+258
+00:12:47.440 --> 00:12:50.520
+We did $30,000 that month.
+
+259
+00:12:50.520 --> 00:12:53.040
+And so in the second month, we did $150,000.
+
+260
+00:12:53.040 --> 00:12:55.120
+And I think we were actually still in this design.
+
+261
+00:12:55.120 --> 00:12:56.760
+Maybe a little bit more built out.
+
+262
+00:12:56.760 --> 00:13:01.080
+But it was still very poor.
+
+263
+00:13:01.080 --> 00:13:04.840
+So that should show you that you don't need to overthink things.
+
+264
+00:13:04.840 --> 00:13:06.360
+You don't need to have too many features.
+
+265
+00:13:06.360 --> 00:13:10.520
+The primary action is truly all that really matters right away.
+
+266
+00:13:10.520 --> 00:13:15.400
+But you do want secondary actions to really build out the content of the app.
+
+267
+00:13:15.400 --> 00:13:18.800
+This is kind of where more of retention comes in.
+
+268
+00:13:18.800 --> 00:13:24.110
+Like obviously if they're downloading your app, they're doing it because of
+
+269
+00:13:24.110 --> 00:13:24.720
+your primary
+
+270
+00:13:24.720 --> 00:13:25.720
+action.
+
+271
+00:13:25.720 --> 00:13:27.080
+And that's what all your marketing's around.
+
+272
+00:13:27.080 --> 00:13:31.200
+The secondary actions should kind of help the primary action.
+
+273
+00:13:31.200 --> 00:13:34.680
+So for example, Kali Eye.
+
+274
+00:13:34.680 --> 00:13:37.480
+We're not just going to put random secondary actions.
+
+275
+00:13:37.480 --> 00:13:41.940
+Like it would be if the primary action was track your calories, track your food
+
+276
+00:13:41.940 --> 00:13:42.440
+, and
+
+277
+00:13:42.440 --> 00:13:49.840
+then the secondary action was create a workout plan.
+
+278
+00:13:49.840 --> 00:13:51.960
+That's somewhat related.
+
+279
+00:13:51.960 --> 00:13:57.960
+It's not close enough where it's not close enough where it's intuitive.
+
+280
+00:13:57.960 --> 00:14:03.800
+Instead, what we have is when you hit the plus, you're prompted with a few
+
+281
+00:14:03.800 --> 00:14:04.760
+things.
+
+282
+00:14:04.760 --> 00:14:10.480
+So you could scan food, log food from the database, log food from your saved
+
+283
+00:14:10.480 --> 00:14:11.560
+foods.
+
+284
+00:14:11.560 --> 00:14:13.120
+And you also can log in exercise.
+
+285
+00:14:13.120 --> 00:14:14.920
+All of this is related to calories.
+
+286
+00:14:14.920 --> 00:14:19.890
+Basically, you could say the core action is log either calories eaten or
+
+287
+00:14:19.890 --> 00:14:21.400
+calories burned.
+
+288
+00:14:21.400 --> 00:14:22.520
+Because that's all this is.
+
+289
+00:14:22.520 --> 00:14:23.520
+You're just logging calories.
+
+290
+00:14:23.520 --> 00:14:28.600
+You're either logging the food you ate or you're logging calories you burned.
+
+291
+00:14:28.600 --> 00:14:31.240
+We didn't have log exercise early on in Kali Eye.
+
+292
+00:14:31.240 --> 00:14:35.500
+We just had log food and logging exercise that is a secondary action that
+
+293
+00:14:35.500 --> 00:14:37.080
+benefits the user
+
+294
+00:14:37.080 --> 00:14:40.960
+and helps because it helps them track their calories more accurately.
+
+295
+00:14:40.960 --> 00:14:45.430
+That's how really I would look at secondary actions is that they are just
+
+296
+00:14:45.430 --> 00:14:46.440
+supporting to
+
+297
+00:14:46.440 --> 00:14:47.880
+the primary action.
+
+298
+00:14:47.880 --> 00:15:01.560
+They support a supporting role.
+
+299
+00:15:01.560 --> 00:15:08.480
+Make sure that you don't put too much into your designs and screens.
+
+300
+00:15:08.480 --> 00:15:13.130
+That was a big innovation we made going from Kali Eye to my fitness pal was
+
+301
+00:15:13.130 --> 00:15:14.440
+just simplifying
+
+302
+00:15:14.440 --> 00:15:15.440
+the entire app.
+
+303
+00:15:15.440 --> 00:15:26.120
+I'm actually going to find something right now that I have basically Kali Eye.
+
+304
+00:15:26.120 --> 00:15:29.860
+One of the best things about us that most people don't talk about is just how
+
+305
+00:15:29.860 --> 00:15:30.280
+we made
+
+306
+00:15:30.280 --> 00:15:33.840
+ourselves so easy to use.
+
+307
+00:15:33.840 --> 00:15:35.840
+Look at this.
+
+308
+00:15:35.840 --> 00:15:36.840
+So it's pretty blurry.
+
+309
+00:15:36.840 --> 00:15:39.160
+I just pulled this from Forbes article about us.
+
+310
+00:15:39.160 --> 00:15:40.920
+So it'll flex right there.
+
+311
+00:15:40.920 --> 00:15:43.440
+You have Kali Eye.
+
+312
+00:15:43.440 --> 00:15:44.440
+It's actually crazy.
+
+313
+00:15:44.440 --> 00:15:45.440
+You can build an app.
+
+314
+00:15:45.440 --> 00:15:47.950
+An app idea can just come out of your mind and then boom, you're in Forbes a
+
+315
+00:15:47.950 --> 00:15:48.440
+few months
+
+316
+00:15:48.440 --> 00:15:49.440
+later.
+
+317
+00:15:49.440 --> 00:15:51.680
+This could be you next.
+
+318
+00:15:51.680 --> 00:15:54.810
+So Kali Eye you can see on the left and you can see all the other ones even
+
+319
+00:15:54.810 --> 00:15:55.320
+though they're
+
+320
+00:15:55.320 --> 00:15:56.760
+super blurry next to it.
+
+321
+00:15:56.760 --> 00:16:00.360
+So my fitness pal, look at everything going on.
+
+322
+00:16:00.360 --> 00:16:02.040
+This is Kali Eye.
+
+323
+00:16:02.040 --> 00:16:04.080
+You can see everything fits in one page.
+
+324
+00:16:04.080 --> 00:16:05.640
+My fitness pal, it's already cut off.
+
+325
+00:16:05.640 --> 00:16:08.160
+You have to scroll and there's so much more content.
+
+326
+00:16:08.160 --> 00:16:11.280
+There are four different tabs here.
+
+327
+00:16:11.280 --> 00:16:14.200
+There are these things underneath for steps and exercises.
+
+328
+00:16:14.200 --> 00:16:15.200
+You have your weight graphs.
+
+329
+00:16:15.200 --> 00:16:17.640
+You have just so much shoved into one page.
+
+330
+00:16:17.640 --> 00:16:22.340
+The core action is searching food, but then they put so many secondary actions
+
+331
+00:16:22.340 --> 00:16:22.600
+that the
+
+332
+00:16:22.600 --> 00:16:24.800
+app is so hard to understand.
+
+333
+00:16:24.800 --> 00:16:25.880
+It's unintuitive.
+
+334
+00:16:25.880 --> 00:16:26.880
+You need a manual.
+
+335
+00:16:26.880 --> 00:16:28.880
+You need someone helping you legitimately.
+
+336
+00:16:28.880 --> 00:16:32.920
+When you download my fitness pal, you need a friend telling you how to really
+
+337
+00:16:32.920 --> 00:16:33.680
+onboard to
+
+338
+00:16:33.680 --> 00:16:34.680
+it.
+
+339
+00:16:34.680 --> 00:16:36.600
+There's a lot of friction.
+
+340
+00:16:36.600 --> 00:16:40.610
+There are some other apps here and I don't really know their names for all of
+
+341
+00:16:40.610 --> 00:16:40.920
+them, but
+
+342
+00:16:40.920 --> 00:16:45.520
+you can see they all also have a ton going on.
+
+343
+00:16:45.520 --> 00:16:46.520
+So much.
+
+344
+00:16:46.520 --> 00:16:47.760
+It's confusing.
+
+345
+00:16:47.760 --> 00:16:51.760
+When you look at a screen, you should instantly know what is the button I click
+
+346
+00:16:51.760 --> 00:16:52.400
+to perform
+
+347
+00:16:52.400 --> 00:16:57.040
+the desired action.
+
+348
+00:16:57.040 --> 00:17:05.230
+With my fitness pal, to be honest, it's very confusing to just know how to
+
+349
+00:17:05.230 --> 00:17:06.520
+track your
+
+350
+00:17:06.520 --> 00:17:10.440
+calories properly and all of these other apps as well.
+
+351
+00:17:10.440 --> 00:17:14.630
+Kalea, you can see way easier and obviously I'm biased, but you could see this
+
+352
+00:17:14.630 --> 00:17:15.200
+with your
+
+353
+00:17:15.200 --> 00:17:16.200
+own eyes.
+
+354
+00:17:16.200 --> 00:17:18.960
+It's fucking clear.
+
+355
+00:17:18.960 --> 00:17:23.240
+So primary action right here clearly, you could see it is hitting the plus.
+
+356
+00:17:23.240 --> 00:17:26.590
+With my fitness pal, it's a little bit less clear, but you can see it's
+
+357
+00:17:26.590 --> 00:17:27.440
+searching for
+
+358
+00:17:27.440 --> 00:17:28.600
+food.
+
+359
+00:17:28.600 --> 00:17:34.300
+The reason this is not great is because primary actions, a search bar is
+
+360
+00:17:34.300 --> 00:17:35.920
+usually not a primary
+
+361
+00:17:35.920 --> 00:17:36.920
+action.
+
+362
+00:17:36.920 --> 00:17:37.920
+That's a little bit unintuitive.
+
+363
+00:17:37.920 --> 00:17:42.190
+People are used to hitting a button, not hitting a search bar, but it's a
+
+364
+00:17:42.190 --> 00:17:44.400
+search for food after.
+
+365
+00:17:44.400 --> 00:17:46.740
+It's easy enough where you look at it the first time and then you're like, "
+
+366
+00:17:46.740 --> 00:17:47.160
+Okay, that's
+
+367
+00:17:47.160 --> 00:17:48.160
+how I do it."
+
+368
+00:17:48.160 --> 00:17:51.360
+But then with everything else going on, it's just so much.
+
+369
+00:17:51.360 --> 00:17:54.000
+It takes the user a while to even see the search bar there.
+
+370
+00:17:54.000 --> 00:17:55.160
+It's confusing.
+
+371
+00:17:55.160 --> 00:17:57.120
+A jumble of mess.
+
+372
+00:17:57.120 --> 00:18:00.760
+Here, this is honestly a lot less clear.
+
+373
+00:18:00.760 --> 00:18:02.280
+There's an orange plus at the bottom.
+
+374
+00:18:02.280 --> 00:18:06.360
+It's very small, but, and so much going on here, you can see it take the quiz
+
+375
+00:18:06.360 --> 00:18:07.000
+button.
+
+376
+00:18:07.000 --> 00:18:10.470
+If I'm looking at this, I think that the take the quiz might even be the call
+
+377
+00:18:10.470 --> 00:18:11.160
+to action.
+
+378
+00:18:11.160 --> 00:18:15.240
+That might be the primary action because it's the biggest button on the screen
+
+379
+00:18:15.240 --> 00:18:15.640
+and it's
+
+380
+00:18:15.640 --> 00:18:17.280
+bright orange.
+
+381
+00:18:17.280 --> 00:18:21.440
+To me, that's calling out to me, which obviously it's wrong.
+
+382
+00:18:21.440 --> 00:18:23.360
+Taking a quiz shouldn't be the core action.
+
+383
+00:18:23.360 --> 00:18:25.840
+It's logging your food.
+
+384
+00:18:25.840 --> 00:18:30.720
+This app, a little bit better because the button is bigger at the bottom.
+
+385
+00:18:30.720 --> 00:18:34.000
+I think it's the biggest bright green button in the app.
+
+386
+00:18:34.000 --> 00:18:37.280
+It's more clear, but still a ton going on.
+
+387
+00:18:37.280 --> 00:18:40.360
+It's not super obvious.
+
+388
+00:18:40.360 --> 00:18:41.520
+Life sum.
+
+389
+00:18:41.520 --> 00:18:43.760
+It does better, for sure.
+
+390
+00:18:43.760 --> 00:18:46.120
+It's a lot more simple.
+
+391
+00:18:46.120 --> 00:18:51.400
+They are much more intuitive and easy to understand.
+
+392
+00:18:51.400 --> 00:18:56.160
+However, they too are a little bit convoluted.
+
+393
+00:18:56.160 --> 00:18:59.720
+You could see you have to scroll down to see all of the content on the page.
+
+394
+00:18:59.720 --> 00:19:02.520
+I see four plus buttons on this app.
+
+395
+00:19:02.520 --> 00:19:03.520
+I'm confused.
+
+396
+00:19:03.520 --> 00:19:06.710
+I'm supposed to click the green one at the bottom or am I supposed to click the
+
+397
+00:19:06.710 --> 00:19:07.000
+one on
+
+398
+00:19:07.000 --> 00:19:09.760
+the side here.
+
+399
+00:19:09.760 --> 00:19:14.000
+Overall, they're probably better than the other ones besides Calli-i.
+
+400
+00:19:14.000 --> 00:19:20.000
+Calli-i is the best.
+
+401
+00:19:20.000 --> 00:19:25.520
+Going back and talking about your design, I would think about orienting
+
+402
+00:19:25.520 --> 00:19:27.040
+everything around
+
+403
+00:19:27.040 --> 00:19:31.240
+the primary action, making it very clear on every single page.
+
+404
+00:19:31.240 --> 00:19:34.400
+Not just the homepage, but every single page with the main button is.
+
+405
+00:19:34.400 --> 00:19:38.800
+Then you could have secondary buttons, but they should always be de-emphasized.
+
+406
+00:19:38.800 --> 00:19:44.390
+If you're going to have two buttons, for example, a take picture button, or if
+
+407
+00:19:44.390 --> 00:19:45.880
+you want the option
+
+408
+00:19:45.880 --> 00:19:49.780
+that less people do, but you want to offer it, be upload a picture, then what
+
+409
+00:19:49.780 --> 00:19:52.320
+you do is
+
+410
+00:19:52.320 --> 00:20:00.710
+you put the button somewhere, but you make it less big, less flashy, put it
+
+411
+00:20:00.710 --> 00:20:02.160
+underneath.
+
+412
+00:20:02.160 --> 00:20:05.320
+If I'm looking at this, it's clear the core action is take a picture, secondary
+
+413
+00:20:05.320 --> 00:20:05.800
+actions
+
+414
+00:20:05.800 --> 00:20:06.800
+upload.
+
+415
+00:20:06.800 --> 00:20:10.160
+Both are an option, but more people will gravitate towards take a picture.
+
+416
+00:20:10.160 --> 00:20:14.670
+If alternatively you want people to take more and upload less, then you just
+
+417
+00:20:14.670 --> 00:20:15.480
+flip them,
+
+418
+00:20:15.480 --> 00:20:19.400
+you put one upload, and then take at the bottom.
+
+419
+00:20:19.400 --> 00:20:22.980
+Consumer psychology will tell you that this will just cause more people to
+
+420
+00:20:22.980 --> 00:20:24.920
+click the bigger,
+
+421
+00:20:24.920 --> 00:20:30.520
+the bigger, more flashy button, nine times out of time.
+
+422
+00:20:30.520 --> 00:20:34.520
+Sick.
+
+423
+00:20:34.520 --> 00:20:36.920
+Not much more for me to say on this.
+
+424
+00:20:36.920 --> 00:20:42.000
+I think I really exhausted the terms, primary and secondary actions.
+
+425
+00:20:42.000 --> 00:20:47.480
+Something I do want to say though, for your design, just keep in mind that all
+
+426
+00:20:47.480 --> 00:20:48.360
+of this
+
+427
+00:20:48.360 --> 00:20:49.720
+can be iterated on it.
+
+428
+00:20:49.720 --> 00:20:51.640
+All of this can be changed.
+
+429
+00:20:51.640 --> 00:20:53.200
+Don't be a perfectionist.
+
+430
+00:20:53.200 --> 00:20:54.360
+Just launch.
+
+431
+00:20:54.360 --> 00:20:59.750
+Going back to the version of Kali I we initially launched with, it was fucking
+
+432
+00:20:59.750 --> 00:21:01.120
+embarrassing.
+
+433
+00:21:01.120 --> 00:21:04.650
+If you're not embarrassed with what you're launching with, then you launch too
+
+434
+00:21:04.650 --> 00:21:05.120
+late.
+
+435
+00:21:05.120 --> 00:21:06.120
+That's a quote.
+
+436
+00:21:06.120 --> 00:21:08.870
+It's not necessarily always the case, but I think generally it's a good
+
+437
+00:21:08.870 --> 00:21:09.480
+framework you
+
+438
+00:21:09.480 --> 00:21:11.640
+should launch earlier than you think.
+
+439
+00:21:11.640 --> 00:21:16.340
+You don't need to have everything perfect, but you need to have most
+
+440
+00:21:16.340 --> 00:21:17.560
+importantly the
+
+441
+00:21:17.560 --> 00:21:18.560
+core action.
+
+442
+00:21:18.560 --> 00:21:23.310
+It's also something in business, just in general, is that users are coming to
+
+443
+00:21:23.310 --> 00:21:26.880
+your app for the
+
+444
+00:21:26.880 --> 00:21:31.800
+one main action and the secondary actions aren't going to get them to leave.
+
+445
+00:21:31.800 --> 00:21:37.240
+They're not going to get them to stay unless you overdo them.
+
+446
+00:21:37.240 --> 00:21:38.760
+You really just should not have that.
+
+447
+00:21:38.760 --> 00:21:40.240
+You don't want too many features in your app.
+
+448
+00:21:40.240 --> 00:21:43.980
+You want one core feature and then you want some supporting features to the
+
+449
+00:21:43.980 --> 00:21:44.760
+core feature,
+
+450
+00:21:44.760 --> 00:21:47.680
+but you do not want all these random things baked in.
+
+451
+00:21:47.680 --> 00:21:49.400
+Keep your app simple.
+
+452
+00:21:49.400 --> 00:21:52.920
+Don't be the one stop shop for mediocre products.
+
+453
+00:21:52.920 --> 00:21:56.600
+Instead, be the single store shop for great products.
+
+454
+00:21:56.600 --> 00:22:01.000
+Everyone asks why we don't put workout plans into Kali I.
+
+455
+00:22:01.000 --> 00:22:03.360
+The answer is because it's going to convolute the app too much.
+
+456
+00:22:03.360 --> 00:22:05.200
+There's going to be way too much going on.
+
+457
+00:22:05.200 --> 00:22:06.200
+Sure.
+
+458
+00:22:06.200 --> 00:22:09.250
+People who track their calories probably want to work out as well and want
+
+459
+00:22:09.250 --> 00:22:09.960
+workout plans,
+
+460
+00:22:09.960 --> 00:22:11.720
+a good percentage of them.
+
+461
+00:22:11.720 --> 00:22:16.460
+But I would prefer to build a whole separate app under the same umbrella
+
+462
+00:22:16.460 --> 00:22:17.520
+company that is
+
+463
+00:22:17.520 --> 00:22:18.520
+all about fitness.
+
+464
+00:22:18.520 --> 00:22:23.130
+We could even have a link in Kali I to go download that app, but including them
+
+465
+00:22:23.130 --> 00:22:24.160
+together is too
+
+466
+00:22:24.160 --> 00:22:25.160
+much going on.
+
+467
+00:22:25.160 --> 00:22:26.160
+That's the point of the app store.
+
+468
+00:22:26.160 --> 00:22:28.520
+That's why we have multiple apps on our phones.
+
+469
+00:22:28.520 --> 00:22:30.920
+I think each app should serve a very specific purpose.
+
+470
+00:22:30.920 --> 00:22:33.720
+One app for tracking calories, one app for working out.
+
+471
+00:22:33.720 --> 00:22:36.880
+If you combine both, then it's mediocre on both fronts.
+
+472
+00:22:36.880 --> 00:22:40.320
+It gets convoluted, confusing.
+
+473
+00:22:40.320 --> 00:22:46.380
+It's just not what's intended by the fact that you could have multiple apps on
+
+474
+00:22:46.380 --> 00:22:46.800
+your
+
+475
+00:22:46.800 --> 00:22:47.800
+phones.
+
+476
+00:22:47.800 --> 00:22:51.260
+For a reason, also you're missing out on additional revenue because you could
+
+477
+00:22:51.260 --> 00:22:53.680
+charge two subscriptions.
+
+478
+00:22:53.680 --> 00:22:56.240
+Two for different apps.
+
+479
+00:22:56.240 --> 00:22:58.740
+That is actually more nuanced because some people say, "Okay, I want to build a
+
+480
+00:22:58.740 --> 00:22:59.040
+super
+
+481
+00:22:59.040 --> 00:23:00.040
+app for everything."
+
+482
+00:23:00.040 --> 00:23:02.240
+You just charge a higher price, but we don't want to do it.
+
+483
+00:23:02.240 --> 00:23:06.080
+We want to be simple, intuitive, straight to the point, and pump and print
+
+484
+00:23:06.080 --> 00:23:06.760
+fucking cash.
+
+485
+00:23:06.760 --> 00:23:08.760
+We're not the next WeChat.
+
+486
+00:23:08.760 --> 00:23:16.000
+I'm going to end this section here and see you guys in one of the later ones.

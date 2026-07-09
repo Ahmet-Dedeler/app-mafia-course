@@ -1,0 +1,75 @@
+[00:00:00] People are always asking about our tech stack and the different tools that we
+[00:00:03] use in the process of building and scaling apps.
+[00:00:06] So here it is. Quick disclaimer, we are sponsored by some of these apps.
+[00:00:11] But we first came up with the list of all the most important products that we
+[00:00:14] used.
+[00:00:15] And then we reached out to them and we said, "Hey, which of you guys want to
+[00:00:19] have an affiliate code?"
+[00:00:21] You do get a discount with some of them, so I would highly recommend using the
+[00:00:24] link provided or the code mafia at checkout.
+[00:00:28] All right, let's get started. So you'll notice that we don't have any for ide
+[00:00:32] ation.
+[00:00:33] I don't use any tools currently in the process of ideation.
+[00:00:37] For design, we use Figma. It's the only tool that you should be designing your
+[00:00:42] consumer apps in.
+[00:00:43] And then Zitlac Media, when we need additional design bandwidth for design
+[00:00:48] sprints.
+[00:00:50] Now, if I'm hiring a designer, I'll usually use Upwork or Dribble to source
+[00:00:55] them.
+[00:00:56] For development, for the front end, we use cursor, Xcode, and SwiftUI.
+[00:01:02] I've gone back and forth between SwiftUI and React Native, but I've pretty much
+[00:01:06] settled that.
+[00:01:07] Build first in SwiftUI, and then if you're at the successful, build an Android
+[00:01:12] version either in React Native and/or Kotlin.
+[00:01:17] For the back end, we use Superbase and OpenAI. Superbase is our database, and
+[00:01:23] then OpenAI for AI functionality.
+[00:01:26] Now, you can also use Firebase or AWS or Inthropic or Grock, but these two seem
+[00:01:32] to be the gold standard right now.
+[00:01:35] Superball, I cannot emphasize this enough. You should always use Superball.
+[00:01:40] I have been promoting them for the longest time, only just recently, instead of
+[00:01:44] a sponsorship deal with them,
+[00:01:47] but they're the most important product to use. I use it for every single app.
+[00:01:53] It is absolutely non-negotiable.
+[00:01:56] Mixpanel for analytics, appsfire for attribution of your paid ads.
+[00:02:02] For distribution, we've recently set up an exclusive deal with Creators Corner.
+[00:02:08] We are the only app sort of studio, I guess, that they will work with.
+[00:02:13] They are by far the best in the game. There's no contest. They've only been
+[00:02:17] doing TikTok Shop pretty much for the past couple of years,
+[00:02:20] because that's where Creators make more money. But I'm really good friends with
+[00:02:23] Jimmy Farley, one of the founders,
+[00:02:25] and he agreed to set up an exclusive deal. They will not work with everybody,
+[00:02:29] but if you are lucky enough to be able to hire their creators, they are no
+[00:02:32] question the best in the game.
+[00:02:36] They're the only UGC agency that I've ever worked with that actually produced
+[00:02:41] massive returns.
+[00:02:43] Every single other one, almost everyone that you see on Twitter, they don't do
+[00:02:47] it. They're not actually good Creators Corner is.
+[00:02:51] Grow-y, good for tracking, good for tracking the results of individual posts,
+[00:02:57] so influencer UGC gives you better data.
+[00:03:00] Founder's arm is so important. Founder's arm, you can hire VAs from them, they
+[00:03:07] source VAs.
+[00:03:09] Call AI, we have about 35 employees. Over half of them are VAs from Founder's
+[00:03:15] arm.
+[00:03:16] VAs are important for reaching out to influencers, managing UGC creators, and
+[00:03:21] almost any monotonous tasks that you have in your business,
+[00:03:24] like any other VA sourcing agency that I've used cannot compare to Founder's
+[00:03:29] arm.
+[00:03:30] Valid AI, it's paid out agency. Most I've worked with aren't good. They're
+[00:03:36] pretty good, so I'd recommend them.
+[00:03:39] Must-haves, so this is kind of like the tools that you're going to use in the
+[00:03:45] process of running your business.
+[00:03:49] Parker for banking, we're working with Parker to set up instant payouts at a
+[00:03:54] lower interest rate than anywhere else on the market for app developers.
+[00:03:58] If you've ever been paid out, you understand that the 45-day net payout cycle
+[00:04:02] sucks.
+[00:04:03] It's horrible, makes it almost impossible to scale in the early days. So,
+[00:04:07] highly-recommend Parker, alternatively, you can also use Mercury.
+[00:04:12] Stripe Atlas for setting up your LLC or C-Corp, Slack for managing your team.
+[00:04:18] You might want to use iMessage or Discord that's fine. You can use it in the
+[00:04:21] early days, but as you scale, I usually just recommend using Slack.
+[00:04:25] And then Rome as well. Rome, you definitely don't need unless you have a team
+[00:04:30] grid and 5-10 people, but Rome is essentially a virtual office.
+[00:04:36] It makes it a lot easier to manage your team as you scale.
+[00:04:40] So, please use the links attached here and/or use the code MAFIA.
+[00:04:46] But, yeah, this is our tech stack. If you have any questions, let us know. We
+[00:04:50] can update this as we move forward in the future.

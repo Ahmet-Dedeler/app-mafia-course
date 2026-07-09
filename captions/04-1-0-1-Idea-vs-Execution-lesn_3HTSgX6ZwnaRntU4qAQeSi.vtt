@@ -1,0 +1,1389 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.000
+All right, welcome back lesson 1.0.1 idea versus execution
+
+2
+00:00:06.000 --> 00:00:08.720
+quick note you might see that my
+
+3
+00:00:08.720 --> 00:00:14.070
+Camera is like might be a different size. I don't know there there might be
+
+4
+00:00:14.070 --> 00:00:16.920
+production inconsistencies throughout this course
+
+5
+00:00:16.920 --> 00:00:21.200
+Admittedly, I'm not an expert on production quality
+
+6
+00:00:21.200 --> 00:00:28.150
+But I am an expert on coming up with great ideas for apps. So let's talk about
+
+7
+00:00:28.150 --> 00:00:28.560
+that
+
+8
+00:00:29.760 --> 00:00:35.660
+idea verse execution is as classic and old a debate as chicken versus egg when
+
+9
+00:00:35.660 --> 00:00:36.720
+it comes to business
+
+10
+00:00:36.720 --> 00:00:39.080
+So what matters more?
+
+11
+00:00:39.080 --> 00:00:44.900
+My non-answer but the honest truth of it is that they matter equally. They're
+
+12
+00:00:44.900 --> 00:00:46.400
+honestly just different things
+
+13
+00:00:46.400 --> 00:00:52.800
+Your idea will determine the outcome curve of your applied execution
+
+14
+00:00:52.800 --> 00:00:58.560
+Whereas your execution will determine where you land on that curve
+
+15
+00:00:59.440 --> 00:01:05.280
+Execution is the input the idea is the structure of the equation itself
+
+16
+00:01:05.280 --> 00:01:10.170
+For those of you that aren't familiar with the term curve curve essentially
+
+17
+00:01:10.170 --> 00:01:13.400
+just means equation. It just means like what is the
+
+18
+00:01:13.400 --> 00:01:15.520
+sort of
+
+19
+00:01:15.520 --> 00:01:20.400
+Possible set of outcomes look like based on your amount of input
+
+20
+00:01:20.400 --> 00:01:25.200
+Okay, so good idea you will get more
+
+21
+00:01:25.960 --> 00:01:31.960
+outcome per unit of input or how well you execute relative to a bad idea
+
+22
+00:01:31.960 --> 00:01:35.640
+This should be pretty self-evident
+
+23
+00:01:35.640 --> 00:01:41.240
+But as usual there are virtually infinite shapes of this curve
+
+24
+00:01:41.240 --> 00:01:44.520
+It's not so one-dimensional
+
+25
+00:01:44.520 --> 00:01:47.000
+So you can work on ideas that are exponential
+
+26
+00:01:47.000 --> 00:01:52.510
+Social apps often take this form factor if you execute really well, you see
+
+27
+00:01:52.510 --> 00:01:53.960
+this like incredible
+
+28
+00:01:54.680 --> 00:01:58.990
+exponential outcome when you have higher attention high k factor, but if you
+
+29
+00:01:58.990 --> 00:01:59.960
+don't execute well
+
+30
+00:01:59.960 --> 00:02:02.760
+The outcome is most likely to be low
+
+31
+00:02:02.760 --> 00:02:07.000
+The thing that's often difficult here is it's pretty difficult to
+
+32
+00:02:07.000 --> 00:02:14.440
+See the difference between this curve right here for exponential and a bad idea
+
+33
+00:02:14.440 --> 00:02:18.200
+so you might think that you're in the early stages of
+
+34
+00:02:18.200 --> 00:02:21.080
+What will be exponential
+
+35
+00:02:21.960 --> 00:02:26.760
+Right so yet at four units of execution we see about the same sort of outcome
+
+36
+00:02:26.760 --> 00:02:30.200
+output
+
+37
+00:02:30.200 --> 00:02:36.440
+But you don't know if you're close to take off exponential growth or if you're
+
+38
+00:02:36.440 --> 00:02:38.120
+dead on arrival
+
+39
+00:02:38.120 --> 00:02:40.440
+um
+
+40
+00:02:40.440 --> 00:02:42.440
+in my experience
+
+41
+00:02:45.880 --> 00:02:49.080
+Man, it really depends but in my experience I
+
+42
+00:02:49.080 --> 00:02:54.520
+Try to target fast growth or at the very minimum these sort of good idea lin
+
+43
+00:02:54.520 --> 00:02:56.360
+early linearly tracking up
+
+44
+00:02:56.360 --> 00:03:01.800
+um as you become more skilled as an entrepreneur builder
+
+45
+00:03:01.800 --> 00:03:04.120
+just
+
+46
+00:03:04.120 --> 00:03:07.500
+Businessperson as a whole you'll be able to more easily recognize the
+
+47
+00:03:07.500 --> 00:03:09.560
+difference between exponential and bad
+
+48
+00:03:09.560 --> 00:03:11.000
+um
+
+49
+00:03:11.000 --> 00:03:15.240
+And so you'll be able to kind of work on products with a longer time horizon
+
+50
+00:03:15.880 --> 00:03:17.480
+and uh
+
+51
+00:03:17.480 --> 00:03:18.520
+larger
+
+52
+00:03:18.520 --> 00:03:20.520
+feedback loops
+
+53
+00:03:20.520 --> 00:03:24.110
+And so as you see here as with the most maximums in business, this is still an
+
+54
+00:03:24.110 --> 00:03:25.320
+oversimplification
+
+55
+00:03:25.320 --> 00:03:30.840
+Because it's just like your execution is so multi-dimensional
+
+56
+00:03:30.840 --> 00:03:34.630
+There's so many factors that go into it the amount of resources that you have
+
+57
+00:03:34.630 --> 00:03:35.080
+to play
+
+58
+00:03:35.080 --> 00:03:37.960
+uh, what your time horizon looks like
+
+59
+00:03:37.960 --> 00:03:40.520
+Which I think actually brings us to here
+
+60
+00:03:42.040 --> 00:03:45.320
+In coming up with the best possible idea. These are questions that are
+
+61
+00:03:45.320 --> 00:03:48.680
+extremely important to have very clear answers to
+
+62
+00:03:48.680 --> 00:03:51.400
+What is your desired outcome?
+
+63
+00:03:51.400 --> 00:03:56.870
+Do you care more about the problem that you are solving or the reward that you
+
+64
+00:03:56.870 --> 00:03:58.280
+get for solving it
+
+65
+00:03:58.280 --> 00:04:01.080
+a good litmus test here is
+
+66
+00:04:01.080 --> 00:04:04.760
+You know, if you worked on the problem for 10 years
+
+67
+00:04:04.760 --> 00:04:09.020
+And you never made much money from it. Maybe just enough to last would you be
+
+68
+00:04:09.020 --> 00:04:09.640
+happy?
+
+69
+00:04:11.240 --> 00:04:12.840
+Uh on the other hand
+
+70
+00:04:12.840 --> 00:04:16.560
+Like instead of doing that would you prefer to ignore that problem and just
+
+71
+00:04:16.560 --> 00:04:18.360
+take a million dollars right now?
+
+72
+00:04:18.360 --> 00:04:22.680
+If your answer is the latter you probably care a little bit more about the
+
+73
+00:04:22.680 --> 00:04:24.040
+reward that you get for solving it
+
+74
+00:04:24.040 --> 00:04:28.040
+It doesn't mean that you don't work on problems that you don't still care about
+
+75
+00:04:28.040 --> 00:04:30.200
+But just that
+
+76
+00:04:30.200 --> 00:04:35.250
+You know, maybe you do care about making a lot of money and that's like there's
+
+77
+00:04:35.250 --> 00:04:35.400
+no
+
+78
+00:04:35.400 --> 00:04:38.360
+There's no harm in that
+
+79
+00:04:39.160 --> 00:04:41.960
+The harm is when you know, you you may you sacrifice
+
+80
+00:04:41.960 --> 00:04:47.240
+Uh and take immoral action for the pursuit of it, right, but in and of itself
+
+81
+00:04:47.240 --> 00:04:50.200
+Wanting to make money is not a bad thing
+
+82
+00:04:50.200 --> 00:04:52.840
+What's your timeline?
+
+83
+00:04:52.840 --> 00:04:56.620
+Do you need to make the money in the next three months or can you work on it
+
+84
+00:04:56.620 --> 00:04:57.480
+for a year?
+
+85
+00:04:57.480 --> 00:05:00.280
+Two years before you make any cash
+
+86
+00:05:00.280 --> 00:05:05.550
+When I first got started off my timeline was zero dude like I needed to make
+
+87
+00:05:05.550 --> 00:05:06.920
+money as quickly as possible
+
+88
+00:05:07.320 --> 00:05:12.280
+I'd like two thousand dollars in my bank account, but all of that into riz gpt
+
+89
+00:05:12.280 --> 00:05:15.080
+My brother was giving me loans for groceries
+
+90
+00:05:15.080 --> 00:05:18.120
+There there was no runway
+
+91
+00:05:18.120 --> 00:05:21.400
+My entire goal with riz gpt
+
+92
+00:05:21.400 --> 00:05:24.120
+My entire goal was to make
+
+93
+00:05:24.120 --> 00:05:27.480
+$50,000 over the course of 12 months
+
+94
+00:05:27.480 --> 00:05:31.660
+Just so that I could continue to pay living expenses so that I could keep being
+
+95
+00:05:31.660 --> 00:05:32.600
+an entrepreneur
+
+96
+00:05:32.600 --> 00:05:35.560
+Uh actually have this like written down
+
+97
+00:05:36.360 --> 00:05:40.840
+Um, and there's I have a tweet about it on my uh twitter, uh, so
+
+98
+00:05:40.840 --> 00:05:45.080
+Anyways
+
+99
+00:05:45.080 --> 00:05:49.450
+What are your resources and constraints now similar to timeline? It's like do
+
+100
+00:05:49.450 --> 00:05:51.480
+you have a lot of capital to invest?
+
+101
+00:05:51.480 --> 00:05:53.400
+um
+
+102
+00:05:53.400 --> 00:05:55.240
+That might be uh
+
+103
+00:05:55.240 --> 00:05:59.420
+One of your resources your constraint might be that you only have three hours a
+
+104
+00:05:59.420 --> 00:05:59.880
+day free
+
+105
+00:05:59.880 --> 00:06:03.950
+Maybe you still have to work a full-time job. Maybe you have a family. Maybe
+
+106
+00:06:03.950 --> 00:06:04.920
+you're a student
+
+107
+00:06:05.720 --> 00:06:10.770
+Uh, so these are very very important problems to identify because these will
+
+108
+00:06:10.770 --> 00:06:11.720
+impact your
+
+109
+00:06:11.720 --> 00:06:15.560
+Problem identification or you want to consider these things ahead of time
+
+110
+00:06:15.560 --> 00:06:19.800
+If you want to build something that is technically very very very difficult
+
+111
+00:06:19.800 --> 00:06:24.350
+Um, then you're going to want more resources with regards to engineering
+
+112
+00:06:24.350 --> 00:06:25.320
+capabilities
+
+113
+00:06:25.320 --> 00:06:29.880
+Either you or a co-founder or whomever need to be very skilled
+
+114
+00:06:29.880 --> 00:06:34.040
+um, you know if if your resource is
+
+115
+00:06:34.360 --> 00:06:38.410
+Uh, you know, you have a lot of money. Maybe you can pursue problems that
+
+116
+00:06:38.410 --> 00:06:41.880
+generally require significantly more capital to to get going
+
+117
+00:06:41.880 --> 00:06:44.280
+And have a longer development timeline
+
+118
+00:06:44.280 --> 00:06:46.440
+Um
+
+119
+00:06:46.440 --> 00:06:50.050
+So yeah identify your resources and constraints and we'll touch on kind of
+
+120
+00:06:50.050 --> 00:06:51.560
+these specific things in a sec
+
+121
+00:06:51.560 --> 00:06:56.150
+And then additionally you want to consider what the curve looks like right
+
+122
+00:06:56.150 --> 00:06:57.320
+based on timeline
+
+123
+00:06:57.320 --> 00:07:01.450
+You might you might pursue different sort of outcome curves. Okay, so so let's
+
+124
+00:07:01.450 --> 00:07:02.360
+get tangible here
+
+125
+00:07:02.920 --> 00:07:07.560
+Riz GPT and umax grew fast but flatlined the goal with both of those products
+
+126
+00:07:07.560 --> 00:07:11.080
+was how do I start making money as quickly as possible because
+
+127
+00:07:11.080 --> 00:07:16.420
+I don't have cash to continue putting in or even cash to continue paying for my
+
+128
+00:07:16.420 --> 00:07:17.640
+living expenses
+
+129
+00:07:17.640 --> 00:07:23.480
+And so as a result, I identified problems that I thought I could solve very
+
+130
+00:07:23.480 --> 00:07:23.880
+easily
+
+131
+00:07:23.880 --> 00:07:28.070
+Both with regards to the amount of capital invested and the amount of
+
+132
+00:07:28.070 --> 00:07:29.720
+engineering difficulty
+
+133
+00:07:30.600 --> 00:07:36.680
+Riz GPT was a significantly easier engineering product than umax was
+
+134
+00:07:36.680 --> 00:07:40.920
+So as my capabilities as an engineer increased
+
+135
+00:07:40.920 --> 00:07:44.280
+I'd like to think that I was like one of the first vibe coders
+
+136
+00:07:44.280 --> 00:07:48.380
+Because ai actually wrote the vast majority of the code for both riz GPT and u
+
+137
+00:07:48.380 --> 00:07:48.680
+max
+
+138
+00:07:48.680 --> 00:07:53.620
+But as my technical abilities increased so did the technical complexity of the
+
+139
+00:07:53.620 --> 00:07:55.080
+products that I worked on
+
+140
+00:07:56.840 --> 00:08:00.280
+Now after umax had kind of blew up. It was doing really well
+
+141
+00:08:00.280 --> 00:08:03.800
+Zach came to me and he was like I want to build an app with you
+
+142
+00:08:03.800 --> 00:08:06.360
+and
+
+143
+00:08:06.360 --> 00:08:08.360
+He sent me a list of ideas
+
+144
+00:08:08.360 --> 00:08:12.280
+And so at this point in time I knew that I was going to make over a million
+
+145
+00:08:12.280 --> 00:08:14.040
+dollars in profit from my products
+
+146
+00:08:14.040 --> 00:08:16.680
+And so when he sent a list of ideas
+
+147
+00:08:16.680 --> 00:08:19.240
+Also, this should say plug sorry about that
+
+148
+00:08:19.240 --> 00:08:23.480
+But Zach sent me a list of ideas and I said to him I was like listen
+
+149
+00:08:23.960 --> 00:08:27.890
+I want to work on something that has more upside otherwise. It's not going to
+
+150
+00:08:27.890 --> 00:08:28.920
+be worth my time at all
+
+151
+00:08:28.920 --> 00:08:30.920
+And
+
+152
+00:08:30.920 --> 00:08:34.080
+So I went through his list of ideas and there were a number that were more
+
+153
+00:08:34.080 --> 00:08:37.480
+similar to Riz GPT and umax in total possible outcome
+
+154
+00:08:37.480 --> 00:08:42.520
+But I saw a i calorie tracker was included and I said I want to work on this
+
+155
+00:08:42.520 --> 00:08:45.560
+Or this is what we should work on together
+
+156
+00:08:45.560 --> 00:08:50.280
+I just want you to know that we're probably not going to see the same takeoff
+
+157
+00:08:50.840 --> 00:08:55.720
+As umax umax hit over $700,000 in monthly revenue within two months
+
+158
+00:08:55.720 --> 00:09:00.110
+Now I always kind of knew that that was possible given the state of that niche
+
+159
+00:09:00.110 --> 00:09:02.280
+and the virality of the product
+
+160
+00:09:02.280 --> 00:09:07.200
+With calai we were going against an incumbent. We were working with a
+
+161
+00:09:07.200 --> 00:09:09.160
+relatively rudimentary technology
+
+162
+00:09:09.160 --> 00:09:11.800
+We it required more capital
+
+163
+00:09:11.800 --> 00:09:18.120
+More engineering resources and more overall effort to get it to grow
+
+164
+00:09:18.840 --> 00:09:22.730
+But it had much higher upside because if we could get to the point of really
+
+165
+00:09:22.730 --> 00:09:24.280
+competing with my fitness pal
+
+166
+00:09:24.280 --> 00:09:27.160
+They were making I think $20
+
+167
+00:09:27.160 --> 00:09:30.200
+$20 million a month at the time and I think that they still are
+
+168
+00:09:30.200 --> 00:09:34.220
+I knew that it was a bigger market as a whole right a product that more people
+
+169
+00:09:34.220 --> 00:09:35.240
+are willing to pay for
+
+170
+00:09:35.240 --> 00:09:41.890
+um calorie tracking is just objectively bigger than like facial analysis looks
+
+171
+00:09:41.890 --> 00:09:42.280
+maxing
+
+172
+00:09:42.280 --> 00:09:46.440
+It might not be forever. Who knows but at the time that was the case
+
+173
+00:09:48.120 --> 00:09:51.710
+Um, and so these projects went exactly as I expected but with other projects I
+
+174
+00:09:51.710 --> 00:09:52.680
+miscalculated
+
+175
+00:09:52.680 --> 00:09:57.400
+A story I have not told too much was the college marketplace app that I built
+
+176
+00:09:57.400 --> 00:09:59.160
+before riz gpt
+
+177
+00:09:59.160 --> 00:10:03.800
+This was a grave and major miscalculation
+
+178
+00:10:03.800 --> 00:10:10.160
+Um, Alex liamon, um, I co-founder and I and then evan jay as well joined later
+
+179
+00:10:10.160 --> 00:10:11.000
+as a co-founder
+
+180
+00:10:11.000 --> 00:10:15.240
+Identify the problem on college campuses of the fact that students
+
+181
+00:10:15.800 --> 00:10:18.840
+Um, we're using group me do buy and sell used clothing
+
+182
+00:10:18.840 --> 00:10:24.120
+Now there were a number of I think false premises on which we operated
+
+183
+00:10:24.120 --> 00:10:30.550
+But not the least of which was that we were trying to build a local social
+
+184
+00:10:30.550 --> 00:10:31.800
+marketplace
+
+185
+00:10:31.800 --> 00:10:37.560
+This is one of the most common pitfalls of new app developers
+
+186
+00:10:37.560 --> 00:10:42.200
+Which is I identify this problem in my local community. So I will solve it for
+
+187
+00:10:42.200 --> 00:10:43.160
+my local community
+
+188
+00:10:44.360 --> 00:10:51.080
+But it's extremely hard so hard because not only is it social, but you're also
+
+189
+00:10:51.080 --> 00:10:53.720
+uh constrained by geography
+
+190
+00:10:53.720 --> 00:10:58.920
+So you have to create pervasive, um, sort of use
+
+191
+00:10:58.920 --> 00:11:01.960
+within individual bubbles
+
+192
+00:11:01.960 --> 00:11:06.350
+And then across bubbles as well. So so when you scale up at different schools
+
+193
+00:11:06.350 --> 00:11:08.360
+in this case for for our college marketplace
+
+194
+00:11:08.360 --> 00:11:12.280
+We had to go figure out how to solve the cold start problem again and again
+
+195
+00:11:13.000 --> 00:11:16.380
+Now there are benefits to this if you solve it, you know, you've got a strong
+
+196
+00:11:16.380 --> 00:11:16.600
+moat
+
+197
+00:11:16.600 --> 00:11:21.030
+But we didn't realize how difficult it would be so we put over a year into the
+
+198
+00:11:21.030 --> 00:11:21.640
+project
+
+199
+00:11:21.640 --> 00:11:24.840
+We launched at Tulane and went reasonably well
+
+200
+00:11:24.840 --> 00:11:29.240
+Then we went to other schools and it kind of was dead on arrival
+
+201
+00:11:29.240 --> 00:11:34.940
+It just didn't really grow. We didn't have the same level of connections. The
+
+202
+00:11:34.940 --> 00:11:36.520
+product didn't have higher attention
+
+203
+00:11:36.520 --> 00:11:39.240
+We did not have a high k-factor
+
+204
+00:11:39.880 --> 00:11:44.410
+It was solving a relatively minor problem, which I'm actually going to touch on
+
+205
+00:11:44.410 --> 00:11:45.640
+in the next section
+
+206
+00:11:45.640 --> 00:11:50.760
+Miscalculations can cause you years of your life
+
+207
+00:11:50.760 --> 00:11:56.140
+Seriously, it's like you pick the wrong product. You don't identify this curve.
+
+208
+00:11:56.140 --> 00:11:56.920
+Well, right?
+
+209
+00:11:56.920 --> 00:12:00.520
+We were operating within either exponential or bad idea curve
+
+210
+00:12:00.520 --> 00:12:05.060
+In retrospect, it was clearly bad idea. We kept telling ourselves that it was
+
+211
+00:12:05.060 --> 00:12:05.720
+exponential
+
+212
+00:12:05.720 --> 00:12:07.960
+so
+
+213
+00:12:07.960 --> 00:12:09.800
+um
+
+214
+00:12:09.800 --> 00:12:14.190
+This lesson is very theoretical about determining what idea is to work on but
+
+215
+00:12:14.190 --> 00:12:14.520
+it is
+
+216
+00:12:14.520 --> 00:12:18.440
+overwhelmingly important
+
+217
+00:12:18.440 --> 00:12:20.760
+I like
+
+218
+00:12:20.760 --> 00:12:25.000
+I actually experienced this problem a decent amount when people come to me and
+
+219
+00:12:25.000 --> 00:12:26.760
+they're like hey, I have this idea for an app
+
+220
+00:12:26.760 --> 00:12:29.000
+Can I get your thoughts?
+
+221
+00:12:29.000 --> 00:12:32.580
+And I want to support them and be a positive influence and be like you got it,
+
+222
+00:12:32.580 --> 00:12:32.760
+man
+
+223
+00:12:32.760 --> 00:12:36.220
+You're gonna you're gonna fucking you know, you're gonna succeed and they start
+
+224
+00:12:36.220 --> 00:12:36.920
+working on it
+
+225
+00:12:37.480 --> 00:12:40.120
+And they think that it's going to be exponential
+
+226
+00:12:40.120 --> 00:12:43.960
+But the whole time i'm like it's not a good idea
+
+227
+00:12:43.960 --> 00:12:47.160
+and
+
+228
+00:12:47.160 --> 00:12:50.900
+It's hard because that you know, I don't really know how to how to say it
+
+229
+00:12:50.900 --> 00:12:51.320
+straight
+
+230
+00:12:51.320 --> 00:12:54.280
+Be like dude, you should work on something else, but I try my best to do that
+
+231
+00:12:54.280 --> 00:12:57.320
+I'm actually really grateful for the college marketplace app that we built
+
+232
+00:12:57.320 --> 00:13:00.720
+Someone told that to us when everyone else is just positive like you're gonna
+
+233
+00:13:00.720 --> 00:13:02.120
+do it, bro. We believe in you
+
+234
+00:13:02.120 --> 00:13:06.920
+A successful entrepreneur harry just stetner. He was a good friend great guy
+
+235
+00:13:07.400 --> 00:13:09.320
+he was like
+
+236
+00:13:09.320 --> 00:13:14.030
+Guys, I would uh, I would fucking move on and we moved on and i'm actually like
+
+237
+00:13:14.030 --> 00:13:15.160
+it was one of the best decisions
+
+238
+00:13:15.160 --> 00:13:18.600
+Of my life because it led to everything else that occurred after the fact
+
+239
+00:13:18.600 --> 00:13:21.480
+building risk gpt and then all the of the future products
+
+240
+00:13:21.480 --> 00:13:27.690
+Um, okay, so these are all important questions to kind of ask yourself and I
+
+241
+00:13:27.690 --> 00:13:29.240
+think I started touching to this but
+
+242
+00:13:29.240 --> 00:13:33.600
+Uh, as you come up with the idea, uh, you start brainstorming you got to ask
+
+243
+00:13:33.600 --> 00:13:37.000
+yourself like what's what is the execution going to tangibly look like here?
+
+244
+00:13:37.640 --> 00:13:41.840
+So similar to the resources and constraints in terms of you know, the tangible
+
+245
+00:13:41.840 --> 00:13:42.600
+resources
+
+246
+00:13:42.600 --> 00:13:45.400
+Time money whatever it may be
+
+247
+00:13:45.400 --> 00:13:49.450
+Um, you need to look at the subset of skills that are required. Right. What
+
+248
+00:13:49.450 --> 00:13:53.560
+does your team have? What do you have and what does the product require?
+
+249
+00:13:53.560 --> 00:13:55.880
+Okay, so for social apps
+
+250
+00:13:55.880 --> 00:14:00.040
+Um, as I gave the example of the college marketplace app I built called holly
+
+251
+00:14:00.040 --> 00:14:05.960
+Uh, to be honest, Alex evan and I we were all very very good at distribution
+
+252
+00:14:06.120 --> 00:14:08.680
+As has become evident with the products that we've built since
+
+253
+00:14:08.680 --> 00:14:13.920
+Specifically social media distribution, but what we weren't very good at was,
+
+254
+00:14:13.920 --> 00:14:15.480
+uh, design and development
+
+255
+00:14:15.480 --> 00:14:20.200
+I actually kind of forgot this but I have this stuff written out here
+
+256
+00:14:20.200 --> 00:14:21.800
+Um
+
+257
+00:14:21.800 --> 00:14:25.670
+So so we weren't very good at design development, which are extremely important
+
+258
+00:14:25.670 --> 00:14:26.360
+for social apps
+
+259
+00:14:26.360 --> 00:14:29.940
+You might think that social apps are distribution, uh, heavy, but that's
+
+260
+00:14:29.940 --> 00:14:30.760
+actually not the case
+
+261
+00:14:30.760 --> 00:14:34.840
+Uh, a properly built social app will have high k-factor and higher attention
+
+262
+00:14:35.160 --> 00:14:38.860
+Which are design and development challenges rather than distribution if you
+
+263
+00:14:38.860 --> 00:14:39.960
+build the social app, right?
+
+264
+00:14:39.960 --> 00:14:43.880
+Uh, and you advertise it correctly. It'll kind of continue to grow on its own
+
+265
+00:14:43.880 --> 00:14:50.070
+Now emerging markets are largely just design and distribution heavy. So this
+
+266
+00:14:50.070 --> 00:14:51.320
+was umax and riz gpt
+
+267
+00:14:51.320 --> 00:14:53.000
+Um
+
+268
+00:14:53.000 --> 00:14:57.120
+The reason that they're not development heavy is because I mean it's a new you
+
+269
+00:14:57.120 --> 00:14:58.200
+'re building a new product
+
+270
+00:14:58.200 --> 00:15:00.360
+Sure, you need to get it to work
+
+271
+00:15:00.360 --> 00:15:03.470
+And sometimes it will be development heavy if it's like leveraging a very very
+
+272
+00:15:03.470 --> 00:15:04.120
+new technology
+
+273
+00:15:04.200 --> 00:15:08.280
+It's technically sophisticated but more often than not in this consumer domain
+
+274
+00:15:08.280 --> 00:15:11.160
+It's design heavy
+
+275
+00:15:11.160 --> 00:15:14.440
+Not in that you need amazing ui but you need great ux, right?
+
+276
+00:15:14.440 --> 00:15:18.760
+If it's an emerging market if it's a new product where there does not exist
+
+277
+00:15:18.760 --> 00:15:23.000
+Exist precedent on how to build it and what it should look like
+
+278
+00:15:23.000 --> 00:15:27.890
+You have to kind of pioneer that on your own. So this was once again riz gpt
+
+279
+00:15:27.890 --> 00:15:28.440
+and umax
+
+280
+00:15:28.440 --> 00:15:31.320
+We we pioneered the the ux
+
+281
+00:15:32.440 --> 00:15:35.610
+Um, there was a little bit of precedent that we borrowed on but it was more
+
+282
+00:15:35.610 --> 00:15:36.280
+design heavy
+
+283
+00:15:36.280 --> 00:15:41.800
+ux specifically and then distribution should be obvious for emerging sectors
+
+284
+00:15:41.800 --> 00:15:46.100
+Um specifically for like utility apps is what i'm referring to with like
+
+285
+00:15:46.100 --> 00:15:47.960
+emergency and legacy social being its own
+
+286
+00:15:47.960 --> 00:15:50.760
+utility meaning single player
+
+287
+00:15:50.760 --> 00:15:52.200
+um
+
+288
+00:15:52.200 --> 00:15:55.950
+Distribution heavy because you know you're producing a product that nobody
+
+289
+00:15:55.950 --> 00:15:59.160
+really knows about so you're gonna have to figure out how to convince people
+
+290
+00:15:59.720 --> 00:16:03.430
+Um, why they should download it first you need to figure out how to put it in
+
+291
+00:16:03.430 --> 00:16:04.040
+front of their face
+
+292
+00:16:04.040 --> 00:16:08.190
+Make it interesting enough for people to engage with on social media or other
+
+293
+00:16:08.190 --> 00:16:09.000
+platforms
+
+294
+00:16:09.000 --> 00:16:12.100
+And then second you have to figure out how to convert them to actually download
+
+295
+00:16:12.100 --> 00:16:12.520
+and pet
+
+296
+00:16:12.520 --> 00:16:16.280
+Now legacy sectors. This would be an example of calai
+
+297
+00:16:16.280 --> 00:16:20.980
+Um calai was a mix between legacy and emerging so like the market itself of cal
+
+298
+00:16:20.980 --> 00:16:22.360
+orie tracking was legacy
+
+299
+00:16:22.360 --> 00:16:25.640
+But then the ai component was emerging so it was new
+
+300
+00:16:25.640 --> 00:16:27.400
+um
+
+301
+00:16:27.400 --> 00:16:31.950
+But if you're competing with incumbents, it's often development or engineering
+
+302
+00:16:31.950 --> 00:16:32.360
+heavy
+
+303
+00:16:32.360 --> 00:16:36.380
+Because you need to build a really great product, right if there are already
+
+304
+00:16:36.380 --> 00:16:39.160
+existing products on the market and yours isn't
+
+305
+00:16:39.160 --> 00:16:42.440
+At least as good on a product side of things
+
+306
+00:16:42.440 --> 00:16:44.920
+um
+
+307
+00:16:44.920 --> 00:16:47.560
+It's not going to not going to grow usually
+
+308
+00:16:47.560 --> 00:16:52.640
+It's less design heavy because you have precedent you can go find that
+
+309
+00:16:52.640 --> 00:16:54.280
+comparable product
+
+310
+00:16:55.000 --> 00:16:58.200
+Take the screenshots put it in figma and um
+
+311
+00:16:58.200 --> 00:17:02.080
+There's less innovation required if you're just competing with already existing
+
+312
+00:17:02.080 --> 00:17:02.680
+companies
+
+313
+00:17:02.680 --> 00:17:05.320
+This is kind of like the idea of like second movers advantage
+
+314
+00:17:05.320 --> 00:17:08.600
+I do not recommend being a copycat
+
+315
+00:17:08.600 --> 00:17:12.440
+And there are a lot of reasons for that that will likely touch on in the future
+
+316
+00:17:12.440 --> 00:17:15.080
+but um
+
+317
+00:17:15.080 --> 00:17:18.440
+If you are going to be competing with incumbents
+
+318
+00:17:18.440 --> 00:17:22.640
+Your development does have to be on point and then of course distribution has
+
+319
+00:17:22.640 --> 00:17:23.480
+to be on point because
+
+320
+00:17:24.040 --> 00:17:26.680
+People probably already know about the existing product
+
+321
+00:17:26.680 --> 00:17:28.840
+um
+
+322
+00:17:28.840 --> 00:17:31.320
+And so you have to figure out how to kind of out distribute them
+
+323
+00:17:31.320 --> 00:17:37.960
+Um finish up on the story about the college marketplace app and rich gpt
+
+324
+00:17:37.960 --> 00:17:40.760
+Uh, you know wrong subset of skills
+
+325
+00:17:40.760 --> 00:17:43.320
+uh wrong product idea
+
+326
+00:17:43.320 --> 00:17:48.710
+This I think genuinely just shows the power of working on the right idea and
+
+327
+00:17:48.710 --> 00:17:50.600
+properly determining expectations
+
+328
+00:17:52.600 --> 00:17:56.500
+Uh and and resources constraints timeline outcome these these sort of questions
+
+329
+00:17:56.500 --> 00:17:58.680
+are so incredibly important
+
+330
+00:17:58.680 --> 00:18:02.560
+I cannot emphasize them enough. You might be like, this is bullshit. I can't
+
+331
+00:18:02.560 --> 00:18:04.120
+believe I paid for this course
+
+332
+00:18:04.120 --> 00:18:08.050
+He's just talking about idea for his execution, but it's so real. It's so
+
+333
+00:18:08.050 --> 00:18:10.440
+important. I spent over a year of my life
+
+334
+00:18:10.440 --> 00:18:15.480
+Working on the wrong thing because I did not really understand
+
+335
+00:18:15.480 --> 00:18:18.040
+all of what I just spoke about
+
+336
+00:18:18.280 --> 00:18:22.280
+And then I changed and I hit 80k MRR in three fucking days
+
+337
+00:18:22.280 --> 00:18:26.680
+Please, please please whatever you do
+
+338
+00:18:26.680 --> 00:18:30.120
+Take this message to heart take this unit to heart
+
+339
+00:18:30.120 --> 00:18:33.720
+This is the the very foundation
+
+340
+00:18:33.720 --> 00:18:39.560
+Of uh the framework that you should use when determining what idea is to work
+
+341
+00:18:39.560 --> 00:18:39.720
+on
+
+342
+00:18:39.720 --> 00:18:43.000
+All right in the next section we're going to get into human psychology
+
+343
+00:18:43.000 --> 00:18:46.520
+And how to actually begin
+
+344
+00:18:47.000 --> 00:18:52.440
+Identifying the ideas with which you can apply these frameworks to
+
+345
+00:18:52.440 --> 00:18:55.720
+Peace out
+
+346
+00:18:55.720 --> 00:18:57.720
+So
+
+347
+00:18:57.720 --> 00:19:07.720
+[BLANK_AUDIO]

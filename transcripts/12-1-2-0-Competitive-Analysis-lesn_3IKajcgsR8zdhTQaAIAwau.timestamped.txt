@@ -1,0 +1,190 @@
+[00:00:00] All right.
+[00:00:02] All right.
+[00:00:07] Second final lesson of ideation.
+[00:00:10] We've got competitive analysis.
+[00:00:13] Why is competitive analysis important?
+[00:00:16] Well, as we know from our unit on case studies,
+[00:00:19] or rather lesson on case studies, I should say,
+[00:00:22] it's important to understand the space that you're working in.
+[00:00:27] So the case studies that I provided earlier are to provide a general holistic
+[00:00:32] representation
+[00:00:33] of this domain of consumer apps.
+[00:00:37] Now, when it comes to competitive analysis,
+[00:00:42] if you have begun the process of ideation, seeking to solve your problems
+[00:00:47] and scrolling social media, once your ideas become slightly more fully formed,
+[00:00:53] it's very important to look at what other apps or what similar products in the
+[00:00:58] space are doing.
+[00:01:00] Honestly, I almost considered including this in the unit on ideation.
+[00:01:07] The reason that I didn't is the majority of ideas that I have ever come up with
+[00:01:13] that have been successful
+[00:01:15] were based on idea/problem first, and then we compare what already exists in
+[00:01:24] the space,
+[00:01:25] rather than looking at products that exist and then choosing the app to build.
+[00:01:32] To be honest, I actually have employed that strategy a number of times,
+[00:01:39] and every single time it has failed.
+[00:01:42] On the flip side, I do know other people that use that strategy, and it works.
+[00:01:51] And it also borders on being a copycat, right?
+[00:01:56] There's one way which is to look at apps that exist in the space,
+[00:01:59] and to use that to build an adjacent product, which I think that there's
+[00:02:04] nothing wrong with.
+[00:02:05] And then you look at other apps in the space and you just build a complete copy
+[00:02:08] cat,
+[00:02:09] and you don't innovate at all.
+[00:02:12] And I find that to be very uninspiring.
+[00:02:17] All right.
+[00:02:19] So I'm actually going to switch these around.
+[00:02:22] We're going to do app store rankings plus sensor tower, and I'll explain why in
+[00:02:26] a moment.
+[00:02:27] But let's get right into it.
+[00:02:31] Okay, so during this lesson, I'm going to just kind of scroll through without a
+[00:02:36] very specific idea in mind that I'm looking to analyze the competitors for it,
+[00:02:45] but you can employ really any sort of strategy here.
+[00:02:49] I usually do this on my phone, but I'm on the computer, so we'll do it here
+[00:02:55] today.
+[00:02:57] So if you search up app store, iOS app store charts, you'll come somewhere like
+[00:03:03] , you'll get somewhere like here, I think.
+[00:03:08] Yeah, so I just searched up quitter.
+[00:03:10] I pressed this 68 in health and fitness.
+[00:03:14] And then I changed to lifestyle to start the first app I built, Rizzed GPT was
+[00:03:20] in lifestyle, but you can really go through any category, but we'll start here
+[00:03:25] arbitrarily.
+[00:03:26] Okay, so when I come here, the big things that I'm looking for are new products
+[00:03:33] .
+[00:03:34] Now, the reason that that's important is as I explained in case studies, right,
+[00:03:38] we're not looking to try to copy Pinterest or hinge or, you know, Zilla, like
+[00:03:45] these are all multi multi billion dollar companies that received a ton of
+[00:03:50] funding and took years and years to find any level of success.
+[00:03:55] T dating advice is interesting to me because T, I believe the company may have
+[00:04:00] received some funding, but it kind of came out of nowhere, right? It's a very
+[00:04:06] new product.
+[00:04:08] Keep scrolling through deep search AI. I think this is similar.
+[00:04:13] Now, if when you want to see how old one of these products is, you just get a
+[00:04:17] version history, scroll down. So deep search AI came out in March of 2025.
+[00:04:25] All right, so we'll start with this product as an example. Let's see if they do
+[00:04:27] in app purchases. Yeah, they do. All right, now let's take a look.
+[00:04:33] So we'll go, you search up sensor tower top charts on Google.
+[00:04:38] The reason I do this is if you just go to sensor tower.com.
+[00:04:42] So actually, like you don't really know where to go. So what I do is I search
+[00:04:47] up sensor tower top charts.
+[00:04:50] Now, guys, like I don't even have an account. I don't even pay for sensor tower
+[00:04:54] .
+[00:04:55] So here we'll see that we see the little icons here. This is Android. This is
+[00:05:06] iOS. Deep search AI came out in March and is doing over $300,000 a month post
+[00:05:13] Apple tax.
+[00:05:15] Now, these numbers aren't perfect, but they're in my experience very, very
+[00:05:20] accurate.
+[00:05:21] See if they build any other apps. They build a phone cleaner product.
+[00:05:27] Interesting. Cool, cool.
+[00:05:31] So this product seems pretty basic. You enter someone's name gives you all the
+[00:05:36] links. It's actually very clear value add.
+[00:05:39] I think that most current LLMs will not, will not actually tell you about
+[00:05:46] people.
+[00:05:47] So one of the key learnings here is like if there's too much risk liability or
+[00:05:56] maybe even political backlash that companies like OpenAI and Thoropic, XAI
+[00:06:01] would receive for a feature here being getting information on real life people,
+[00:06:08] then maybe there's an opportunity to build it yourself. Okay, let's keep going.
+[00:06:19] Here we got NGL, which we're all familiar with. I wonder what this is.
+[00:06:27] This is like a find a weed app. That's funny. So this is always interesting
+[00:06:38] seeing an app that is number 45 in lifestyle, but as 38 ratings, meaning it's
+[00:06:39] either extremely new or it just went viral.
+[00:06:43] So this being a little bit of both came out a number months ago, probably just
+[00:06:50] had its first viral moment.
+[00:06:53] Astra, one of our case studies. Okay, we'll keep going pretty quickly. Oh,
+[00:07:01] candle. This is pretty interesting. It's like playing games for couples.
+[00:07:06] Definitely viral domain. We got a UMAX copycat right here. Love to see it.
+[00:07:17] Cool. All right, let's move forward. Let's go to health and fitness.
+[00:07:24] Well, we got Cal AI beating out my fitness pal. It's fucking sick to see we
+[00:07:31] just did a Mr. Beast promo. So that's exciting.
+[00:07:36] These apps are super interesting. This sort of like brain training game apps.
+[00:07:44] I think I'll provide a concrete example here within fitness. Okay, so AI
+[00:07:50] calorie tracking would be a terrible space to build in right now on the unless
+[00:07:54] you have some like clear distribution edge on the basis of the fact that they
+[00:08:00] 're just like
+[00:08:01] their thousands and thousands of products that you're competing with. However,
+[00:08:15] one space that I think actually has a lot of opportunity is sort of weight,
+[00:08:15] weightlifting planning. Most of the apps aren't very good.
+[00:08:19] So what I would do is I would find apps like this. Apps that help you plan your
+[00:08:26] workout.
+[00:08:27] You go through find them and then so okay, let's say, let's say this one.
+[00:08:33] First step in my eyes is like find comparables and then find out how much they
+[00:08:37] 're making. Like, are they making a lot? Do they get a lot of downloads?
+[00:08:42] So strong workout tracker, which is obviously very generic product, is making
+[00:08:47] over $500,000 a month after Apple's tax on just $200,000 downloads, which
+[00:08:54] indicates relatively high user intent.
+[00:08:58] Okay, let's go back.
+[00:09:02] And to be honest, you can apply this to pretty much any domain. Like any idea
+[00:09:06] that you have, go find the products, toss them in, see how much they're making.
+[00:09:11] So I mentioned impulse, right? These apps are insane.
+[00:09:16] At face value, it's a freemium app and it just teaches you, you know, you're
+[00:09:20] literally just playing like these little brain games, but they make over $3
+[00:09:25] million a month after Apple's tax, which is bananas.
+[00:09:30] To put that into perspective, Cal AI also makes $3 million. They've got the
+[00:09:37] number. Well, actually, after Apple tax, it's under $3 million. So that's why
+[00:09:41] they would round down to two.
+[00:09:42] But it's a great product. That was a little self brag there. It's meant to be a
+[00:09:48] little bit ironic. The joke came across well.
+[00:09:53] Okay, what are some other interesting domains productivity? You've sometimes
+[00:09:59] find some some very, yeah, okay, here we've got one focused friend Hank green.
+[00:10:05] I guess he is produced some little like app to help people stay focused.
+[00:10:13] Speechify awesome app, founded by Cliff Weitzman. Good friend.
+[00:10:21] I'm not seeing too much interesting here right now. We do see all of the AI
+[00:10:25] note taking apps. So.
+[00:10:29] As an example here, we mentioned minutes as a case study minutes makes $300,000
+[00:10:35] a month on just 20,000 downloads, which is insane. Absolutely bananas.
+[00:10:44] The AI note taking apps when you market it to to high intent students as well
+[00:10:52] as professionals, you can make a lot of money per download.
+[00:11:06] Let's go business now. Let's see. Look. Not too much is interesting. So once
+[00:11:16] again, as I mentioned earlier, like when I'm taking a look here, what I'm
+[00:11:20] seeing is indeed.
+[00:11:24] Complex product. You need both both applicants and and companies looking to
+[00:11:34] hire Microsoft teams. It's like, okay, it's Microsoft zoom. It's zoom, right
+[00:11:39] video chat. I'm not going to encourage people to build that LinkedIn
+[00:11:43] professional networking site door dash.
+[00:11:46] So most of these products, I'm taking a look at them and I'm like, all right,
+[00:11:50] these are built by major corporations and are very complex products, which is
+[00:11:55] why I kind of skipped through them.
+[00:11:57] And I'm like, you know what, this, there's not much for me to teach on most of
+[00:12:01] this. This scanner app. This is actually something that you could theoretically
+[00:12:07] build, right?
+[00:12:08] And maybe not as viral, not as not really in line with what with this sort of
+[00:12:15] ethos of the majority of products and consumer apps that that I provided in the
+[00:12:23] case studies and that are you have any any amount of reasonable chance to make
+[00:12:29] highly profitable within just a few months.
+[00:12:33] So, I'm not actually making that much. So they may be either under monetize or
+[00:12:40] they're pursuing a more freemium route where the strategy is to make a
+[00:12:45] difference.
+[00:12:47] And that can increase retention, K factor, and enable them to sort of scale
+[00:12:55] over time, as opposed to trying to rip right now.
+[00:13:02] Reference is always a great, great space. You'll see even in reference, you
+[00:13:18] have like these coin scanners and whatnot. The reason is because reference is
+[00:13:21] arguably the easiest category in the app sort of climb the ranks.
+[00:13:23] And so people that are kind of hacking ASO will put their product in reference,
+[00:13:33] but reference is primarily for, you know, religious slash, I guess, cultural.
+[00:13:46] So maybe that's also why the coin scanners here never really understood the
+[00:13:53] reference category all that well.
+[00:13:57] Yeah, cool. Okay.
+[00:14:00] I think that's pretty much it from now for this video. In the next module in
+[00:14:19] design, you'll learn a little bit about what to actually do with these apps
+[00:14:19] once you identify them going through their flows, taking the screenshots,
+[00:14:19] pacing and figma.
+[00:14:19] But, yeah, that that will come next.
+[00:14:23] Yeah, download the app analyzes onboarding paywall core functionality. Honestly
+[00:14:28] , you can do that now to some extent.
+[00:14:30] Just use the app, see what it feels like, and this will help inform your sort
+[00:14:35] of understanding of the problem that you are solving when you download these
+[00:14:40] apps that are that are similar to to your product.
+[00:14:45] And then additionally, something that I guess two other points I didn't touch
+[00:14:50] on.
+[00:14:51] I would cross reference the app with its social media presence so you'll learn
+[00:14:55] more about how to do that in distribution, but you can just search it up on
+[00:15:00] Instagram, TikTok, try to find its meta ads library, see what the hooks are
+[00:15:05] that's working, put yourself in the mind of the customer as you use, you know,
+[00:15:11] the market landscape to
+[00:15:14] make your idea more fully formed. And then finally, scroll these rankings daily
+[00:15:20] , just stay up to date.
+[00:15:22] Sensor Tower also has some interesting data, but you guys can go play around
+[00:15:26] with that platform. But as you see here, like I can also just scroll the
+[00:15:31] rankings within Sensor Tower.
+[00:15:34] Cool. All right. That's it for this video.
+[00:15:37] I will see you guys in my final lesson of the module of ideation, which will be
+[00:15:43] finalizing your idea. Peace out, guys.

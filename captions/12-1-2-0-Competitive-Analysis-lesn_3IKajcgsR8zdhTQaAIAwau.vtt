@@ -1,0 +1,761 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.000
+All right.
+
+2
+00:00:02.000 --> 00:00:07.000
+All right.
+
+3
+00:00:07.000 --> 00:00:10.000
+Second final lesson of ideation.
+
+4
+00:00:10.000 --> 00:00:13.000
+We've got competitive analysis.
+
+5
+00:00:13.000 --> 00:00:16.000
+Why is competitive analysis important?
+
+6
+00:00:16.000 --> 00:00:19.000
+Well, as we know from our unit on case studies,
+
+7
+00:00:19.000 --> 00:00:22.000
+or rather lesson on case studies, I should say,
+
+8
+00:00:22.000 --> 00:00:27.000
+it's important to understand the space that you're working in.
+
+9
+00:00:27.000 --> 00:00:32.000
+So the case studies that I provided earlier are to provide a general holistic
+
+10
+00:00:32.000 --> 00:00:33.000
+representation
+
+11
+00:00:33.000 --> 00:00:37.000
+of this domain of consumer apps.
+
+12
+00:00:37.000 --> 00:00:42.000
+Now, when it comes to competitive analysis,
+
+13
+00:00:42.000 --> 00:00:47.000
+if you have begun the process of ideation, seeking to solve your problems
+
+14
+00:00:47.000 --> 00:00:53.000
+and scrolling social media, once your ideas become slightly more fully formed,
+
+15
+00:00:53.000 --> 00:00:58.470
+it's very important to look at what other apps or what similar products in the
+
+16
+00:00:58.470 --> 00:01:00.000
+space are doing.
+
+17
+00:01:00.000 --> 00:01:07.000
+Honestly, I almost considered including this in the unit on ideation.
+
+18
+00:01:07.000 --> 00:01:13.540
+The reason that I didn't is the majority of ideas that I have ever come up with
+
+19
+00:01:13.540 --> 00:01:15.000
+that have been successful
+
+20
+00:01:15.000 --> 00:01:24.090
+were based on idea/problem first, and then we compare what already exists in
+
+21
+00:01:24.090 --> 00:01:25.000
+the space,
+
+22
+00:01:25.000 --> 00:01:32.000
+rather than looking at products that exist and then choosing the app to build.
+
+23
+00:01:32.000 --> 00:01:39.000
+To be honest, I actually have employed that strategy a number of times,
+
+24
+00:01:39.000 --> 00:01:42.000
+and every single time it has failed.
+
+25
+00:01:42.000 --> 00:01:51.000
+On the flip side, I do know other people that use that strategy, and it works.
+
+26
+00:01:51.000 --> 00:01:56.000
+And it also borders on being a copycat, right?
+
+27
+00:01:56.000 --> 00:01:59.000
+There's one way which is to look at apps that exist in the space,
+
+28
+00:01:59.000 --> 00:02:04.040
+and to use that to build an adjacent product, which I think that there's
+
+29
+00:02:04.040 --> 00:02:05.000
+nothing wrong with.
+
+30
+00:02:05.000 --> 00:02:08.770
+And then you look at other apps in the space and you just build a complete copy
+
+31
+00:02:08.770 --> 00:02:09.000
+cat,
+
+32
+00:02:09.000 --> 00:02:12.000
+and you don't innovate at all.
+
+33
+00:02:12.000 --> 00:02:17.000
+And I find that to be very uninspiring.
+
+34
+00:02:17.000 --> 00:02:19.000
+All right.
+
+35
+00:02:19.000 --> 00:02:22.000
+So I'm actually going to switch these around.
+
+36
+00:02:22.000 --> 00:02:26.320
+We're going to do app store rankings plus sensor tower, and I'll explain why in
+
+37
+00:02:26.320 --> 00:02:27.000
+a moment.
+
+38
+00:02:27.000 --> 00:02:31.000
+But let's get right into it.
+
+39
+00:02:31.000 --> 00:02:36.660
+Okay, so during this lesson, I'm going to just kind of scroll through without a
+
+40
+00:02:36.660 --> 00:02:45.000
+very specific idea in mind that I'm looking to analyze the competitors for it,
+
+41
+00:02:45.000 --> 00:02:49.000
+but you can employ really any sort of strategy here.
+
+42
+00:02:49.000 --> 00:02:55.550
+I usually do this on my phone, but I'm on the computer, so we'll do it here
+
+43
+00:02:55.550 --> 00:02:57.000
+today.
+
+44
+00:02:57.000 --> 00:03:03.810
+So if you search up app store, iOS app store charts, you'll come somewhere like
+
+45
+00:03:03.810 --> 00:03:08.000
+, you'll get somewhere like here, I think.
+
+46
+00:03:08.000 --> 00:03:10.000
+Yeah, so I just searched up quitter.
+
+47
+00:03:10.000 --> 00:03:14.000
+I pressed this 68 in health and fitness.
+
+48
+00:03:14.000 --> 00:03:20.990
+And then I changed to lifestyle to start the first app I built, Rizzed GPT was
+
+49
+00:03:20.990 --> 00:03:25.070
+in lifestyle, but you can really go through any category, but we'll start here
+
+50
+00:03:25.070 --> 00:03:26.000
+arbitrarily.
+
+51
+00:03:26.000 --> 00:03:33.550
+Okay, so when I come here, the big things that I'm looking for are new products
+
+52
+00:03:33.550 --> 00:03:34.000
+.
+
+53
+00:03:34.000 --> 00:03:38.000
+Now, the reason that that's important is as I explained in case studies, right,
+
+54
+00:03:38.000 --> 00:03:45.250
+we're not looking to try to copy Pinterest or hinge or, you know, Zilla, like
+
+55
+00:03:45.250 --> 00:03:50.430
+these are all multi multi billion dollar companies that received a ton of
+
+56
+00:03:50.430 --> 00:03:55.000
+funding and took years and years to find any level of success.
+
+57
+00:03:55.000 --> 00:04:00.210
+T dating advice is interesting to me because T, I believe the company may have
+
+58
+00:04:00.210 --> 00:04:06.350
+received some funding, but it kind of came out of nowhere, right? It's a very
+
+59
+00:04:06.350 --> 00:04:08.000
+new product.
+
+60
+00:04:08.000 --> 00:04:13.000
+Keep scrolling through deep search AI. I think this is similar.
+
+61
+00:04:13.000 --> 00:04:17.700
+Now, if when you want to see how old one of these products is, you just get a
+
+62
+00:04:17.700 --> 00:04:25.000
+version history, scroll down. So deep search AI came out in March of 2025.
+
+63
+00:04:25.000 --> 00:04:27.960
+All right, so we'll start with this product as an example. Let's see if they do
+
+64
+00:04:27.960 --> 00:04:33.000
+in app purchases. Yeah, they do. All right, now let's take a look.
+
+65
+00:04:33.000 --> 00:04:38.000
+So we'll go, you search up sensor tower top charts on Google.
+
+66
+00:04:38.000 --> 00:04:42.000
+The reason I do this is if you just go to sensor tower.com.
+
+67
+00:04:42.000 --> 00:04:47.070
+So actually, like you don't really know where to go. So what I do is I search
+
+68
+00:04:47.070 --> 00:04:50.000
+up sensor tower top charts.
+
+69
+00:04:50.000 --> 00:04:54.760
+Now, guys, like I don't even have an account. I don't even pay for sensor tower
+
+70
+00:04:54.760 --> 00:04:55.000
+.
+
+71
+00:04:55.000 --> 00:05:06.480
+So here we'll see that we see the little icons here. This is Android. This is
+
+72
+00:05:06.480 --> 00:05:13.650
+iOS. Deep search AI came out in March and is doing over $300,000 a month post
+
+73
+00:05:13.650 --> 00:05:15.000
+Apple tax.
+
+74
+00:05:15.000 --> 00:05:20.140
+Now, these numbers aren't perfect, but they're in my experience very, very
+
+75
+00:05:20.140 --> 00:05:21.000
+accurate.
+
+76
+00:05:21.000 --> 00:05:27.010
+See if they build any other apps. They build a phone cleaner product.
+
+77
+00:05:27.010 --> 00:05:31.000
+Interesting. Cool, cool.
+
+78
+00:05:31.000 --> 00:05:36.570
+So this product seems pretty basic. You enter someone's name gives you all the
+
+79
+00:05:36.570 --> 00:05:39.000
+links. It's actually very clear value add.
+
+80
+00:05:39.000 --> 00:05:46.230
+I think that most current LLMs will not, will not actually tell you about
+
+81
+00:05:46.230 --> 00:05:47.000
+people.
+
+82
+00:05:47.000 --> 00:05:56.000
+So one of the key learnings here is like if there's too much risk liability or
+
+83
+00:05:56.000 --> 00:06:01.570
+maybe even political backlash that companies like OpenAI and Thoropic, XAI
+
+84
+00:06:01.570 --> 00:06:08.000
+would receive for a feature here being getting information on real life people,
+
+85
+00:06:08.000 --> 00:06:19.000
+then maybe there's an opportunity to build it yourself. Okay, let's keep going.
+
+86
+00:06:19.000 --> 00:06:27.000
+Here we got NGL, which we're all familiar with. I wonder what this is.
+
+87
+00:06:27.000 --> 00:06:38.490
+This is like a find a weed app. That's funny. So this is always interesting
+
+88
+00:06:38.490 --> 00:06:39.590
+seeing an app that is number 45 in lifestyle, but as 38 ratings, meaning it's
+
+89
+00:06:39.590 --> 00:06:43.000
+either extremely new or it just went viral.
+
+90
+00:06:43.000 --> 00:06:50.090
+So this being a little bit of both came out a number months ago, probably just
+
+91
+00:06:50.090 --> 00:06:53.000
+had its first viral moment.
+
+92
+00:06:53.000 --> 00:07:01.230
+Astra, one of our case studies. Okay, we'll keep going pretty quickly. Oh,
+
+93
+00:07:01.230 --> 00:07:06.000
+candle. This is pretty interesting. It's like playing games for couples.
+
+94
+00:07:06.000 --> 00:07:17.000
+Definitely viral domain. We got a UMAX copycat right here. Love to see it.
+
+95
+00:07:17.000 --> 00:07:24.000
+Cool. All right, let's move forward. Let's go to health and fitness.
+
+96
+00:07:24.000 --> 00:07:31.220
+Well, we got Cal AI beating out my fitness pal. It's fucking sick to see we
+
+97
+00:07:31.220 --> 00:07:36.000
+just did a Mr. Beast promo. So that's exciting.
+
+98
+00:07:36.000 --> 00:07:44.000
+These apps are super interesting. This sort of like brain training game apps.
+
+99
+00:07:44.000 --> 00:07:50.220
+I think I'll provide a concrete example here within fitness. Okay, so AI
+
+100
+00:07:50.220 --> 00:07:54.860
+calorie tracking would be a terrible space to build in right now on the unless
+
+101
+00:07:54.860 --> 00:08:00.570
+you have some like clear distribution edge on the basis of the fact that they
+
+102
+00:08:00.570 --> 00:08:01.000
+'re just like
+
+103
+00:08:01.000 --> 00:08:15.100
+their thousands and thousands of products that you're competing with. However,
+
+104
+00:08:15.100 --> 00:08:15.760
+one space that I think actually has a lot of opportunity is sort of weight,
+
+105
+00:08:15.760 --> 00:08:19.000
+weightlifting planning. Most of the apps aren't very good.
+
+106
+00:08:19.000 --> 00:08:26.070
+So what I would do is I would find apps like this. Apps that help you plan your
+
+107
+00:08:26.070 --> 00:08:27.000
+workout.
+
+108
+00:08:27.000 --> 00:08:33.000
+You go through find them and then so okay, let's say, let's say this one.
+
+109
+00:08:33.000 --> 00:08:37.240
+First step in my eyes is like find comparables and then find out how much they
+
+110
+00:08:37.240 --> 00:08:42.000
+'re making. Like, are they making a lot? Do they get a lot of downloads?
+
+111
+00:08:42.000 --> 00:08:47.590
+So strong workout tracker, which is obviously very generic product, is making
+
+112
+00:08:47.590 --> 00:08:54.870
+over $500,000 a month after Apple's tax on just $200,000 downloads, which
+
+113
+00:08:54.870 --> 00:08:58.000
+indicates relatively high user intent.
+
+114
+00:08:58.000 --> 00:09:02.000
+Okay, let's go back.
+
+115
+00:09:02.000 --> 00:09:06.250
+And to be honest, you can apply this to pretty much any domain. Like any idea
+
+116
+00:09:06.250 --> 00:09:11.130
+that you have, go find the products, toss them in, see how much they're making.
+
+117
+00:09:11.130 --> 00:09:16.000
+So I mentioned impulse, right? These apps are insane.
+
+118
+00:09:16.000 --> 00:09:20.550
+At face value, it's a freemium app and it just teaches you, you know, you're
+
+119
+00:09:20.550 --> 00:09:25.790
+literally just playing like these little brain games, but they make over $3
+
+120
+00:09:25.790 --> 00:09:30.000
+million a month after Apple's tax, which is bananas.
+
+121
+00:09:30.000 --> 00:09:37.570
+To put that into perspective, Cal AI also makes $3 million. They've got the
+
+122
+00:09:37.570 --> 00:09:41.280
+number. Well, actually, after Apple tax, it's under $3 million. So that's why
+
+123
+00:09:41.280 --> 00:09:42.000
+they would round down to two.
+
+124
+00:09:42.000 --> 00:09:48.850
+But it's a great product. That was a little self brag there. It's meant to be a
+
+125
+00:09:48.850 --> 00:09:53.000
+little bit ironic. The joke came across well.
+
+126
+00:09:53.000 --> 00:09:59.220
+Okay, what are some other interesting domains productivity? You've sometimes
+
+127
+00:09:59.220 --> 00:10:05.000
+find some some very, yeah, okay, here we've got one focused friend Hank green.
+
+128
+00:10:05.000 --> 00:10:13.000
+I guess he is produced some little like app to help people stay focused.
+
+129
+00:10:13.000 --> 00:10:21.000
+Speechify awesome app, founded by Cliff Weitzman. Good friend.
+
+130
+00:10:21.000 --> 00:10:25.460
+I'm not seeing too much interesting here right now. We do see all of the AI
+
+131
+00:10:25.460 --> 00:10:29.000
+note taking apps. So.
+
+132
+00:10:29.000 --> 00:10:35.950
+As an example here, we mentioned minutes as a case study minutes makes $300,000
+
+133
+00:10:35.950 --> 00:10:44.000
+a month on just 20,000 downloads, which is insane. Absolutely bananas.
+
+134
+00:10:44.000 --> 00:10:52.350
+The AI note taking apps when you market it to to high intent students as well
+
+135
+00:10:52.350 --> 00:11:06.000
+as professionals, you can make a lot of money per download.
+
+136
+00:11:06.000 --> 00:11:16.460
+Let's go business now. Let's see. Look. Not too much is interesting. So once
+
+137
+00:11:16.460 --> 00:11:20.920
+again, as I mentioned earlier, like when I'm taking a look here, what I'm
+
+138
+00:11:20.920 --> 00:11:24.000
+seeing is indeed.
+
+139
+00:11:24.000 --> 00:11:34.630
+Complex product. You need both both applicants and and companies looking to
+
+140
+00:11:34.630 --> 00:11:39.650
+hire Microsoft teams. It's like, okay, it's Microsoft zoom. It's zoom, right
+
+141
+00:11:39.650 --> 00:11:43.400
+video chat. I'm not going to encourage people to build that LinkedIn
+
+142
+00:11:43.400 --> 00:11:46.000
+professional networking site door dash.
+
+143
+00:11:46.000 --> 00:11:50.640
+So most of these products, I'm taking a look at them and I'm like, all right,
+
+144
+00:11:50.640 --> 00:11:55.510
+these are built by major corporations and are very complex products, which is
+
+145
+00:11:55.510 --> 00:11:57.000
+why I kind of skipped through them.
+
+146
+00:11:57.000 --> 00:12:01.330
+And I'm like, you know what, this, there's not much for me to teach on most of
+
+147
+00:12:01.330 --> 00:12:07.010
+this. This scanner app. This is actually something that you could theoretically
+
+148
+00:12:07.010 --> 00:12:08.000
+build, right?
+
+149
+00:12:08.000 --> 00:12:15.440
+And maybe not as viral, not as not really in line with what with this sort of
+
+150
+00:12:15.440 --> 00:12:23.310
+ethos of the majority of products and consumer apps that that I provided in the
+
+151
+00:12:23.310 --> 00:12:29.760
+case studies and that are you have any any amount of reasonable chance to make
+
+152
+00:12:29.760 --> 00:12:33.000
+highly profitable within just a few months.
+
+153
+00:12:33.000 --> 00:12:40.750
+So, I'm not actually making that much. So they may be either under monetize or
+
+154
+00:12:40.750 --> 00:12:45.720
+they're pursuing a more freemium route where the strategy is to make a
+
+155
+00:12:45.720 --> 00:12:47.000
+difference.
+
+156
+00:12:47.000 --> 00:12:55.940
+And that can increase retention, K factor, and enable them to sort of scale
+
+157
+00:12:55.940 --> 00:13:02.000
+over time, as opposed to trying to rip right now.
+
+158
+00:13:02.000 --> 00:13:18.920
+Reference is always a great, great space. You'll see even in reference, you
+
+159
+00:13:18.920 --> 00:13:21.030
+have like these coin scanners and whatnot. The reason is because reference is
+
+160
+00:13:21.030 --> 00:13:23.000
+arguably the easiest category in the app sort of climb the ranks.
+
+161
+00:13:23.000 --> 00:13:33.660
+And so people that are kind of hacking ASO will put their product in reference,
+
+162
+00:13:33.660 --> 00:13:46.000
+but reference is primarily for, you know, religious slash, I guess, cultural.
+
+163
+00:13:46.000 --> 00:13:53.300
+So maybe that's also why the coin scanners here never really understood the
+
+164
+00:13:53.300 --> 00:13:57.000
+reference category all that well.
+
+165
+00:13:57.000 --> 00:14:00.000
+Yeah, cool. Okay.
+
+166
+00:14:00.000 --> 00:14:19.000
+I think that's pretty much it from now for this video. In the next module in
+
+167
+00:14:19.000 --> 00:14:19.000
+design, you'll learn a little bit about what to actually do with these apps
+
+168
+00:14:19.000 --> 00:14:19.000
+once you identify them going through their flows, taking the screenshots,
+
+169
+00:14:19.000 --> 00:14:19.000
+pacing and figma.
+
+170
+00:14:19.000 --> 00:14:23.000
+But, yeah, that that will come next.
+
+171
+00:14:23.000 --> 00:14:28.390
+Yeah, download the app analyzes onboarding paywall core functionality. Honestly
+
+172
+00:14:28.390 --> 00:14:30.000
+, you can do that now to some extent.
+
+173
+00:14:30.000 --> 00:14:35.270
+Just use the app, see what it feels like, and this will help inform your sort
+
+174
+00:14:35.270 --> 00:14:40.890
+of understanding of the problem that you are solving when you download these
+
+175
+00:14:40.890 --> 00:14:45.000
+apps that are that are similar to to your product.
+
+176
+00:14:45.000 --> 00:14:50.520
+And then additionally, something that I guess two other points I didn't touch
+
+177
+00:14:50.520 --> 00:14:51.000
+on.
+
+178
+00:14:51.000 --> 00:14:55.400
+I would cross reference the app with its social media presence so you'll learn
+
+179
+00:14:55.400 --> 00:15:00.050
+more about how to do that in distribution, but you can just search it up on
+
+180
+00:15:00.050 --> 00:15:05.000
+Instagram, TikTok, try to find its meta ads library, see what the hooks are
+
+181
+00:15:05.000 --> 00:15:11.000
+that's working, put yourself in the mind of the customer as you use, you know,
+
+182
+00:15:11.000 --> 00:15:14.000
+the market landscape to
+
+183
+00:15:14.000 --> 00:15:20.390
+make your idea more fully formed. And then finally, scroll these rankings daily
+
+184
+00:15:20.390 --> 00:15:22.000
+, just stay up to date.
+
+185
+00:15:22.000 --> 00:15:26.530
+Sensor Tower also has some interesting data, but you guys can go play around
+
+186
+00:15:26.530 --> 00:15:31.370
+with that platform. But as you see here, like I can also just scroll the
+
+187
+00:15:31.370 --> 00:15:34.000
+rankings within Sensor Tower.
+
+188
+00:15:34.000 --> 00:15:37.000
+Cool. All right. That's it for this video.
+
+189
+00:15:37.000 --> 00:15:43.680
+I will see you guys in my final lesson of the module of ideation, which will be
+
+190
+00:15:43.680 --> 00:15:48.000
+finalizing your idea. Peace out, guys.

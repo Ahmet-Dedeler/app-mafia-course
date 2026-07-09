@@ -1,0 +1,191 @@
+[00:00:00] Alright boys, we're back, minimal cuts, let's get straight back into business.
+[00:00:04] So in this module, we'll be going through onboarding and onboarding logic.
+[00:00:09] This is the lead up to getting someone to pay for your subscription.
+[00:00:12] And in my opinion, this is the most important step for consumer apps that are
+[00:00:16] utility and
+[00:00:17] subscription based.
+[00:00:18] For social apps, you want to reduce, and I suppose dating, oh well, I'm not
+[00:00:21] dating apps,
+[00:00:22] but social apps for sure, you want to reduce the amount of friction because
+[00:00:27] every screen
+[00:00:27] reduces the amount of people that will convert to the end.
+[00:00:32] And if I pull up my data, sorry, my mixed panel, and we will get more into this
+[00:00:37] later,
+[00:00:38] but you can see this is my onboarding funnel.
+[00:00:41] And yeah, you can see there is drop off, only 95% of people converted to the
+[00:00:47] fifth screen
+[00:00:48] from the fourth screen.
+[00:00:52] So usually in most cases, you don't want to add this friction, but when it
+[00:00:55] comes to trying
+[00:00:56] to prep someone to pay, the more time they spend doing the onboarding,
+[00:01:00] answering questions,
+[00:01:01] and finding out more about the product, the more likely they are to pay.
+[00:01:05] Whereas like if it was a one or two screen, then you hit with the paywall, it's
+[00:01:07] super
+[00:01:08] easy to close the app, uninstall, and just not end up paying.
+[00:01:12] So the friction is incredibly necessary.
+[00:01:15] Also, wow, that's a massive drop off.
+[00:01:18] Oh, I know why that is.
+[00:01:19] No worries.
+[00:01:20] It's not actually about how it's just been the last four days.
+[00:01:22] I introduced a new page, so all the previous guys didn't see it.
+[00:01:25] That's fine.
+[00:01:26] Okay, back to it.
+[00:01:28] So how do we build this from a technical point of view?
+[00:01:31] Now we want a list of questions and answers, and we want the flow for the
+[00:01:36] screen to move
+[00:01:38] on to the next question after you answer the previous question.
+[00:01:41] And then at the end of it, there should be the paywall trigger.
+[00:01:45] And then the paywall trigger after you pay, you should enter the app.
+[00:01:48] So let's dive straight into the logic.
+[00:01:50] What I'm going to do is make a new file.
+[00:01:52] I'm going to do command N, and I'm going to click switch like U. I'm going to
+[00:01:56] call this
+[00:01:57] onboarding U.
+[00:01:58] Okay.
+[00:01:59] So now I'm going to copy this file.
+[00:02:02] Actually, what I'm going to do instead, I'm going to open the preview so you
+[00:02:06] guys can
+[00:02:06] see, make it very clear.
+[00:02:09] So it's hello world.
+[00:02:10] Now I'm going to go back into chat GBT, and I'm going to context with, is that
+[00:02:16] the
+[00:02:16] word, context, or communicate, or whatever, which I GBT and try and build this
+[00:02:20] file.
+[00:02:20] So hi, chat GBT.
+[00:02:22] I'm building an onboarding funnel that asks the user questions about their
+[00:02:30] calorie tracking
+[00:02:32] process and goals.
+[00:02:38] Please make every question somewhat different and build a nurture, a
+[00:02:47] relationship, so they
+[00:02:49] can convert pay at the end of the funnel.
+[00:02:58] Once all screens are answered, display a loading screen, a calculating loading
+[00:03:10] screen, and
+[00:03:11] then trigger, then trigger, if empty funk that I will build into later.
+[00:03:20] Okay.
+[00:03:21] Then I'm going to send it my code.
+[00:03:24] This is the kind of top I would ask.
+[00:03:25] Again, it's not probably the most optimal and Blake probably has better prompts
+[00:03:30] , but
+[00:03:30] I want to be raw and transparent on how I do it.
+[00:03:32] And a little bit about me.
+[00:03:34] I have a successful app.
+[00:03:35] I own Twitter.
+[00:03:36] We do half a million dollars a month.
+[00:03:38] I coded a lot of it myself, so I know what I'm doing for the most part.
+[00:03:42] And even if it seems like I don't know what I'm doing, well look how far it got
+[00:03:45] me, so
+[00:03:45] I'm going to share it anyway.
+[00:03:47] Okay.
+[00:03:48] Well, that was a very quick one.
+[00:03:49] I'm about to sip some water, but I guess not.
+[00:03:54] This is great.
+[00:03:55] I can already tell.
+[00:03:57] This is great.
+[00:04:03] This first question is asked though.
+[00:04:05] Maybe later, you don't want to ever give the option to do it later.
+[00:04:12] That sucks.
+[00:04:13] We'll change it to a different question.
+[00:04:17] Do, do, progress bar.
+[00:04:19] Okay.
+[00:04:20] Progress bar at the top.
+[00:04:21] Question view.
+[00:04:23] This is great.
+[00:04:27] The functions.
+[00:04:30] So this function just like pushes you to the next step to the next question.
+[00:04:34] It just adds an animation.
+[00:04:36] I don't know what the kind is.
+[00:04:44] Again it's doing it all in one file, which I think for this tutorial was really
+[00:04:49] simple.
+[00:04:50] Long term you want to switch to the MVVM structure, which is model view, view
+[00:04:54] model, and they
+[00:04:55] have three separate files.
+[00:04:59] But again, this isn't like a technical masterclass.
+[00:05:03] This is how to build an app from scratch and how to build something that's been
+[00:05:06] successful
+[00:05:07] in the past.
+[00:05:08] And then just as soon as you built it, just go out there and do some marketing
+[00:05:12] because
+[00:05:12] you can market and make money from almost anything.
+[00:05:15] Although of course, make sure you're putting out good quality stuff.
+[00:05:20] I don't suggest you just putting out slop and trying to make money.
+[00:05:23] I suggest you try and help people or help the niche.
+[00:05:26] And that is like the key to being successful.
+[00:05:28] Okay.
+[00:05:29] So we're just going to copy and paste this in.
+[00:05:32] Hopefully this works.
+[00:05:36] First try baby.
+[00:05:38] Okay.
+[00:05:39] Welcome to Kaliite.
+[00:05:40] I'll tell you YouTube this sounds good.
+[00:05:42] Let's do it.
+[00:05:43] Continue.
+[00:05:44] Bro, this is amazing.
+[00:05:45] This is great.
+[00:05:46] Let me see if you click this.
+[00:05:48] Okay.
+[00:05:49] It doesn't matter.
+[00:05:50] Let's do it.
+[00:05:51] I'm just going to change this to...
+[00:05:54] I can't wait.
+[00:05:56] Let's go.
+[00:05:58] Just for simplicity, obviously I won't actually put this.
+[00:06:00] I can't wait.
+[00:06:02] Let's go.
+[00:06:04] Alright.
+[00:06:05] So the whole point of this, oh, should I do a load?
+[00:06:12] Bro.
+[00:06:14] Wow.
+[00:06:22] That is crazy long.
+[00:06:25] I'm just going to run this myself.
+[00:06:31] My bad.
+[00:06:33] Okay.
+[00:06:34] So, as I was saying, the whole point on boarding is to like, answer the user's
+[00:06:39] questions because
+[00:06:40] you need to convince them on why paying for Kaliite is a good idea before they
+[00:06:44] get hit
+[00:06:45] the screen and then they're like, should I, if I can pay or should I leave?
+[00:06:49] So you're supposed to answer all of his questions beforehand and convince them.
+[00:06:53] So when they do get hit with the payroll, they're like, but actually I answered
+[00:06:56] a bunch
+[00:06:56] of questions and I believe in this and I really want to get started and I'm
+[00:06:59] super motivated.
+[00:07:00] Boom impulse buy.
+[00:07:01] I'm a subscriber.
+[00:07:02] Let me use this product.
+[00:07:04] So we'll go through this.
+[00:07:05] Boom.
+[00:07:06] Where are you starting from?
+[00:07:08] Total beginner.
+[00:07:09] What's your primary goal?
+[00:07:10] Lose fat.
+[00:07:11] Can I just select multiple?
+[00:07:12] Okay.
+[00:07:13] No.
+[00:07:14] Oh, primary goal.
+[00:07:15] Okay.
+[00:07:16] Cool.
+[00:07:17] What's your target pace?
+[00:07:18] Boom.
+[00:07:19] Simple.
+[00:07:20] How do you want to track photo estimate?
+[00:07:22] This is great.
+[00:07:25] How many workouts a week?
+[00:07:26] It's a bit of a random question.
+[00:07:29] But hey, when you can input stuff, I love pizza, but I know I shouldn't.
+[00:07:39] Boom.
+[00:07:40] Finish.
+[00:07:43] Calculating your plan.
+[00:07:44] This is the key.
+[00:07:46] You need to have the app think about the answers and results because that makes
+[00:07:53] it look more
+[00:07:54] legit.
+[00:07:56] That is the key.
+[00:07:57] That is the key.
+[00:07:58] Okay.
+[00:07:59] And at this point, after it's calculated, the plan should pump the payroll,
+[00:08:01] which goes
+[00:08:02] onto our next topic, which is Superwall.
+[00:08:05] So let's get into Superwall and we will show you how to make money from your
+[00:08:10] product.
+[00:08:11] [BLANK_AUDIO]

@@ -1,0 +1,313 @@
+[00:00:00] All right, let's get into some ASO, also known as Apple Search Optimization.
+[00:00:06] I know personally, people that run studios, where their apps, the only
+[00:00:11] advertising they
+[00:00:13] do is Apple Search ads and Apple Search Optimization.
+[00:00:17] And together, because they work together very closely, they are doing six
+[00:00:22] figures a month.
+[00:00:23] And it's extremely, extremely profitable, extremely profitable.
+[00:00:27] Because ASO is pretty much completely profitable, and then Apple Search ads,
+[00:00:31] that's the only
+[00:00:32] money they're spending.
+[00:00:33] But that's really profitable, too.
+[00:00:37] So the power, this is not something you should sleep on.
+[00:00:39] A lot of people sleep on it, but ASO, honestly, I look at it as a pre-do
+[00:00:44] principle type of
+[00:00:45] thing.
+[00:00:46] The 80/20 rule, do 20% of work that will account for 80% of the results.
+[00:00:52] How it works is everything you do in your apps title, description, mostly title
+[00:01:00] , subtitle
+[00:01:01] keywords, that will affect its rankings on the app store.
+[00:01:05] It will affect it when you look up your apps name.
+[00:01:07] Is it number one?
+[00:01:08] Is it number two?
+[00:01:09] Is it number three?
+[00:01:10] It will, if your app is in a specific category, like Calli is a Calli tracker,
+[00:01:13] and you look
+[00:01:14] up Calli tracker, we are the fourth one that comes up.
+[00:01:17] And this all comes down to Apple Search Optimization.
+[00:01:20] You could keep refining this and month after month, do all these little tweaks
+[00:01:25] that will
+[00:01:26] help you improve and go up on the rankings for these different keywords over
+[00:01:32] time.
+[00:01:33] And a lot of people do that.
+[00:01:34] Like the studio I mentioned, they're obsessed with their rankings, and they're
+[00:01:40] always adapting,
+[00:01:41] always doing these little tweaks, changing keywords, all the stuff that I'll
+[00:01:46] get into
+[00:01:46] in order to rank higher.
+[00:01:49] For me, I look at it as something when you set up the app once, do it, do it
+[00:01:53] right, that
+[00:01:54] will account for 80% of the results you'll get, and then just leave it,
+[00:01:58] honestly, don't
+[00:01:58] spend more time, focus on more scalable channels.
+[00:02:02] So Apple Search Optimization.
+[00:02:06] How does it work?
+[00:02:07] Well, have you ever wondered why we named Calli I, Calli I Dash, Calli tracker?
+[00:02:15] It's not because we want people to know that Calli I is a Calli tracker.
+[00:02:19] It's because the name is the most important part to Apple categorizing your app
+[00:02:26] .
+[00:02:26] If we put Calli tracker in the subtitle instead of in the name, then we would
+[00:02:33] drop a few places
+[00:02:35] on app store rankings when you look up Calli tracker right now.
+[00:02:41] Your main keywords you want to include in your name.
+[00:02:45] Essentially, how it goes is there's a hierarchy of importance.
+[00:02:49] So a lot of people think that the keyword sections, the keyword section on your
+[00:02:54] app,
+[00:02:55] and sorry to jump around them, I'll go back to this in a second.
+[00:03:00] But a lot of people think the keywords for your app are, and I actually hate
+[00:03:06] that whatever,
+[00:03:07] okay.
+[00:03:08] People think the keywords for your app is very important for the, I'm just
+[00:03:16] thinking like,
+[00:03:16] is it sensitive to show this because competitors may watch this and they see
+[00:03:20] our keywords?
+[00:03:21] Is that bad?
+[00:03:23] I don't think they can do much with it.
+[00:03:33] We'll see.
+[00:03:35] We'll see what happens.
+[00:03:36] I think we're okay.
+[00:03:39] Yes, I think most of these keywords are actually public.
+[00:03:45] Whatever.
+[00:03:49] So a lot of people see these keywords and they think, okay, keywords are the
+[00:03:52] only thing
+[00:03:53] that matters for app store rankings.
+[00:03:57] That's not true.
+[00:03:58] Keywords are pretty important, but they're the third most important thing.
+[00:04:03] First is your name, second is your subtitle, and last is your keywords.
+[00:04:09] And what you essentially want to do is figure out a list of all the keywords
+[00:04:15] that are closest
+[00:04:17] to your niche, rank them, and then start putting them into most relevant to
+[00:04:23] your name,
+[00:04:23] least relevant to the keywords.
+[00:04:25] But it's not just about relevancy.
+[00:04:27] It's also about how saturated each keyword is because some keywords have so
+[00:04:33] many, so
+[00:04:34] many apps, but in calorie tracker, for example, in the name.
+[00:04:38] And so it's very difficult to rank.
+[00:04:40] Whereas if we did something like, I don't know, food counter in the name, it's
+[00:04:45] less,
+[00:04:46] less people are doing that.
+[00:04:47] And so it would be easier for us to rank on the app store charts.
+[00:04:52] And by rank, I literally mean, I'll show you.
+[00:04:56] I literally mean if you look up calorie tracker, look up calorie tracker alone,
+[00:05:04] scroll down,
+[00:05:05] one my fitness pal, two some other app, three, lose it, and four, Cal AI.
+[00:05:12] And that is driving us many downloads a day.
+[00:05:18] I think probably like a few hundred, honestly, it's not that many.
+[00:05:22] That's why this isn't so scalable, but those few hundred downloads are making
+[00:05:26] us a few
+[00:05:26] hundred dollars a day, completely profitable, completely, profitably, all just
+[00:05:31] because we
+[00:05:32] set this up early on.
+[00:05:34] So what you'll want to do when you're setting up your app is one, it would be
+[00:05:39] sick if within
+[00:05:40] your actual apps name, you are strategic and include some keywords that will
+[00:05:45] help you.
+[00:05:45] So for us, putting AI in Cal AI is actually fucking incredible because if we,
+[00:05:51] if our app
+[00:05:52] was called like, I don't know, calorie, like calorie pro, and we wanted our app
+[00:05:59] to come
+[00:06:00] up when you look up AI calorie tracker, we couldn't write calorie pro dash,
+[00:06:03] calorie
+[00:06:03] tracker, we would have to write calorie pro dash AI, calorie tracker.
+[00:06:07] And I don't even think that fits.
+[00:06:08] There's a limit of like 30 characters here.
+[00:06:11] And so it's very important that all of the space is very utilized.
+[00:06:17] You want to basically hit everything.
+[00:06:20] I think the more keywords you fit, actually the less impactful each one will be
+[00:06:25] .
+[00:06:25] These are some things I've, I've learned.
+[00:06:27] So that's why we don't fit like another one in here.
+[00:06:30] Also just look stupid, cal or jever fit.
+[00:06:34] So there definitely is a balance when creating the name of your app between
+[00:06:38] actually sounding
+[00:06:39] cool, looking like a brand and then also packing keywords in.
+[00:06:45] So okay, hierarchy, you want your top keyword up there with your name.
+[00:06:49] So a lot of people will do the name of their app dash their main keywords.
+[00:06:53] Subtitle, second best keywords, food and macro counter.
+[00:06:59] Like that's kind of related to calorie.
+[00:07:01] It is what it is.
+[00:07:02] It's a food and macro counter.
+[00:07:04] But I think in the past we had like fitness, like counter, I don't know,
+[00:07:09] tracker, all
+[00:07:10] the stuff, but we realized those keywords actually weren't, they weren't as,
+[00:07:16] they didn't get
+[00:07:17] as many searches.
+[00:07:18] And by the way, all of this, you can check in app tweak.com.
+[00:07:24] It has some kind of, so keywords, you can for different keywords, you like
+[00:07:33] search them.
+[00:07:35] I have to cost money.
+[00:07:36] I think there's a free trial, but you can see the volume of how many people are
+[00:07:39] searching
+[00:07:39] it per month.
+[00:07:41] So calorie tracker, 100, 100,000 people search that every single month.
+[00:07:48] The difficulty is 43, which is pretty high.
+[00:07:50] A lot of people use it.
+[00:07:54] And Cali is rank is number four.
+[00:07:56] Okay.
+[00:07:57] It's estimating that Cali, we get 2,700 downloads from calorie tracker every
+[00:08:02] single month and
+[00:08:03] 4,640 from calorie counter.
+[00:08:07] So we make about $3 in profit per download.
+[00:08:11] So that is like almost 20K in just pure profit just because we have these terms
+[00:08:19] .
+[00:08:20] So great.
+[00:08:21] We have our title subtitle.
+[00:08:23] And by the way, you do not want to use the same keywords over and over.
+[00:08:27] If you put, if I put calorie tracker in subtitle, it will assume it will act as
+[00:08:32] if it wasn't
+[00:08:33] in name, it will act as if it was only in the subtitle.
+[00:08:36] So it would lower the importance.
+[00:08:38] So you only want to say a keyword and each word is used as a keyword.
+[00:08:44] So how it works is within this, you might only think there's like one, two,
+[00:08:51] three, four,
+[00:08:53] five, six, seven different keyword pairs.
+[00:08:56] There's just seven different words, but how it actually works is it matches up
+[00:09:00] all these
+[00:09:01] words.
+[00:09:02] So if you look up food calorie tracker, that will, we will be in that rank.
+[00:09:06] If you look up macro calorie tracker, we will be in that ranking.
+[00:09:09] If you look up counter calorie, we'll be in that ranking.
+[00:09:12] If you look up Cal AI macro counter, it essentially just like merges all the
+[00:09:17] possible permutations
+[00:09:18] of your keywords, placing preference to name, then subtitle and keywords.
+[00:09:26] So you'll want to fit not necessarily as many as you can, but you'll want to
+[00:09:30] keep it clean
+[00:09:31] for the nice, brand aesthetic while putting your most important ones in the
+[00:09:35] name and subtitle.
+[00:09:36] You should honestly try to fill it mostly.
+[00:09:39] I feel like 10 spaces left over.
+[00:09:42] We may actually want to add another one for Cal AI.
+[00:09:44] It seems like I'm going to stop opportunity.
+[00:09:48] So then the last place is your keywords and here.
+[00:09:51] It's very important.
+[00:09:52] You don't want to put a space in between each one.
+[00:09:55] You want to put a comma in between each word to be because that's how you
+[00:10:02] separate it.
+[00:10:03] You separate it with commas, but a lot of people will do comma space and then
+[00:10:06] that just loses
+[00:10:07] you a character.
+[00:10:08] So don't put spaces and you'll get more keywords.
+[00:10:12] And then you just want to squeeze as many.
+[00:10:13] And remember, do not repeat from the subtitle or the title.
+[00:10:17] Just fit as many as you can.
+[00:10:18] If you're looking for keywords, app tweak is a great place to find some
+[00:10:22] keywords to use.
+[00:10:23] You can look at your competitors, see what keywords they use and that's pretty
+[00:10:31] helpful.
+[00:10:31] Or you can just raw it out of your head, but that's, I mean, if you're just
+[00:10:34] trying to
+[00:10:35] launch and get it out quick and sure, but I would go back.
+[00:10:38] I would look at, I would use some of these keyword tools.
+[00:10:40] You could also use search out optimization, which I showed in one of the
+[00:10:44] previous modules
+[00:10:44] and that has a keyword finder as well.
+[00:10:51] So that's a very important step of ASO is the title subtitle and keywords.
+[00:10:58] Consider that the next important thing is the app icon and app source
+[00:11:07] screenshots.
+[00:11:08] What we just went through the title subtitle keywords, this will help your app
+[00:11:12] rank for
+[00:11:12] these different keywords.
+[00:11:13] This will help your app show up.
+[00:11:16] Once someone actually looks up, once someone looks up, Callard Tracker, what
+[00:11:19] will make them
+[00:11:20] click on yours rather than someone else's?
+[00:11:23] This primarily comes down to the icon and screenshots.
+[00:11:28] So for us, our screenshots are honestly not the best in my opinion.
+[00:11:37] The thing is, these are literally the screenshots we started the app with or
+[00:11:42] maybe like a month
+[00:11:43] after launching we changed to these.
+[00:11:45] However, we haven't been able to beat them for some reason.
+[00:11:49] We've done all these iterations.
+[00:11:51] I think it's partially a problem with Apple's A/B testing software for A/B
+[00:11:56] testing screenshots.
+[00:11:58] What you could do, by the way, in the product page optimization, which is all
+[00:12:02] about app
+[00:12:02] store optimization, you could run some tests where you A/B tested and run
+[00:12:06] screenshots and
+[00:12:07] we tried all this stuff like putting AI Callard Tracker really big because
+[00:12:11] essentially theories
+[00:12:13] say you want like three words max really big at the top, then some visuals and
+[00:12:20] just big
+[00:12:21] catchy headlines for every screenshot.
+[00:12:25] But for us, for some reason, our more raw screenshots that we built very early
+[00:12:31] on have
+[00:12:31] just been winning every single test.
+[00:12:35] And we're still working on improving it.
+[00:12:38] But I would keep in mind that even these, they're not bad screenshots.
+[00:12:42] What you want is usually a visual of the app show clearly what it does and try
+[00:12:48] to make
+[00:12:48] it short and snappy.
+[00:12:49] This is too long in my opinion.
+[00:12:51] It's working right now, but we're working on fixing the headlines.
+[00:12:56] Make Callard tracking easy with AI.
+[00:12:58] Just have a picture of your food.
+[00:12:59] Then let's do the rest.
+[00:13:00] Only three screenshots are shown until someone clicks into your app.
+[00:13:05] So the first are the most important and ideally they can kind of tell a story
+[00:13:10] together.
+[00:13:11] Just have a picture, then let us do the rest.
+[00:13:13] Tells a story.
+[00:13:15] They need each other.
+[00:13:16] They can't really stand alone.
+[00:13:19] So that's important.
+[00:13:22] You could actually see your app store your conversion rate in the analytics
+[00:13:31] page.
+[00:13:32] And the conversion rate means how many people see your app and then we'll click
+[00:13:36] on it.
+[00:13:37] Leave the conversion rate.
+[00:13:39] Yeah.
+[00:13:40] So the hours out of the people that see it about 21% will click into the page.
+[00:13:47] Not necessarily download it, but just click into the page.
+[00:13:50] Oh, okay.
+[00:13:53] It's actually downloads out of people that clicked into it.
+[00:13:56] So my bad.
+[00:13:57] 21% of people go to the Cali ad page and download it.
+[00:14:01] All of these numbers that we've actually had are very skewed, I've noticed,
+[00:14:04] because of
+[00:14:04] influencer marketing.
+[00:14:05] Most people that run paid ads have different numbers.
+[00:14:08] They're like, "Wow, our numbers are really bad or really good to these people,
+[00:14:14] but it's
+[00:14:15] just all skewed and a little different because we have influencers promoting it
+[00:14:18] and it's
+[00:14:19] not paid ads going directly to the page with maybe higher intent or lower
+[00:14:25] intent sometimes."
+[00:14:27] So the last thing that's important is the icon.
+[00:14:37] Super, super important.
+[00:14:38] So just up here.
+[00:14:42] The icon and the screenshots both can have a significant effect on the
+[00:14:46] conversion rate.
+[00:14:47] This icon, we used to just have the apple.
+[00:14:51] We used to just have it.
+[00:14:53] You can look in our, okay, can you see this?
+[00:15:03] Metadata history.
+[00:15:04] So our old logo was just the apple.
+[00:15:08] And then we added the scan lines because we hypothesized, all right, if we add
+[00:15:12] the scan
+[00:15:13] lines, it will tell the user that you're actually taking the picture.
+[00:15:18] It's scanning something.
+[00:15:19] It's not just an apple.
+[00:15:21] You understand more of what the app may be doing.
+[00:15:25] And that alone boosted the conversion rate 7%, which is huge.
+[00:15:30] It's massive.
+[00:15:32] So do not underestimate the power of your icons and screenshots in these small
+[00:15:37] tweaks.
+[00:15:38] You want to try to show what the app does in the most clean way possible.
+[00:15:45] Okay.
+[00:15:47] So this is very high level.
+[00:15:49] App Store optimization, breakdown of it.
+[00:15:54] If you're interested in learning more, I actually attached, there are all kinds
+[00:16:00] of great articles
+[00:16:01] by app tweak on this topic.
+[00:16:06] And if you go to their start, so section, they break down so much about best
+[00:16:10] practices
+[00:16:11] for screenshots, how to a B test, app icon design, keywords.
+[00:16:17] And I would definitely recommend reading them.
+[00:16:19] It's definitely worth it to get a deeper understanding.
+[00:16:24] But with this, you should be able to start making money.
+[00:16:29] This is, yeah, this is the app store optimization section.
+[00:16:33] It's a quick one, not too much involved, not as complicated as the other ones.
+[00:16:38] But it's very, very profitable.
+[00:16:40] So with that, I'm up.
+[00:16:42] [BLANK_AUDIO]

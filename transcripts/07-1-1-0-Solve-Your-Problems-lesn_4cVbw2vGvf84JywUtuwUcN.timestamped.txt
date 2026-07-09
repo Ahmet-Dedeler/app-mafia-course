@@ -1,0 +1,353 @@
+[00:00:00] Lesson 4 or less than 1.1.0, this is module 1, unit 1, less than 0.
+[00:00:14] Solve your own problems.
+[00:00:16] Okay, this unit will be about solving problems.
+[00:00:21] This is an actual tangible problem identification, not to be confused with the
+[00:00:26] previous unit
+[00:00:27] which was an introduction.
+[00:00:30] Going over case studies, the trade-offs of idea versus execution and the underp
+[00:00:35] innings
+[00:00:35] of human psychology, right?
+[00:00:37] This is all to line up for this being the sort of main unit of this module 1
+[00:00:46] that is
+[00:00:47] ideation.
+[00:00:49] After this we'll go over deeper analysis.
+[00:00:53] Once you have an idea, going into seeing how much other apps in the category
+[00:00:58] make, scrolling
+[00:00:59] the app store.
+[00:01:02] But for now, let's talk about solving problems.
+[00:01:05] Okay, so previously I stated that the closer you are, or your product is to the
+[00:01:11] biological
+[00:01:12] imperative, the more likely you are to succeed.
+[00:01:17] Now the closer your product is to your own problems, some of the problems that
+[00:01:24] you experience,
+[00:01:25] the more likely you are to succeed.
+[00:01:29] Now this should be intuitive, this should be obvious.
+[00:01:32] When you build for other people, you do not fully understand the pain points.
+[00:01:37] You have experienced them yourself.
+[00:01:40] The more empathetic and emotionally intelligent you are, the more you can make
+[00:01:44] up for this.
+[00:01:46] But there is no better observer than the individual that experiences the
+[00:01:53] problem.
+[00:01:54] You rely on secondhand feedback, which is incomplete or misleading.
+[00:01:58] So if you try to practice empathy or speak to people that experience the
+[00:02:05] problem, you
+[00:02:07] are just one level of abstraction away from experiencing the problem itself.
+[00:02:15] Now this is very key for founders to understand.
+[00:02:18] Most people are very, very poor at articulating their problems and in fact have
+[00:02:23] actually no
+[00:02:24] idea what the serious or biggest problems that they experience in their life
+[00:02:30] are.
+[00:02:30] Now sometimes they subconsciously or almost always subconsciously know, but
+[00:02:34] make consciously
+[00:02:35] articulated as being something else.
+[00:02:38] This is also an issue with user feedback, which I will get into later.
+[00:02:44] So speaking to others is helpful, but it's best to solve your own problems.
+[00:02:53] Finally, you will lack the emotional urgency necessary to push through the hard
+[00:02:58] moments.
+[00:02:58] In the journey of building any product, there will be difficult moments where
+[00:03:03] it's easier
+[00:03:03] to take the path of least resistance and give up and move on to something else.
+[00:03:08] Now when you care about the problem, it will make it easier to push through and
+[00:03:12] continue
+[00:03:13] working on it.
+[00:03:15] I mentioned earlier that it's okay to build for money.
+[00:03:18] Do you want to build a product because it's going to make cash and at the end
+[00:03:21] of the day
+[00:03:21] you want cash?
+[00:03:23] That can simultaneously be true while it also being the case that it's better
+[00:03:27] to build around
+[00:03:28] things that you care about.
+[00:03:30] So if you do care about money, figure out how to build something that makes
+[00:03:34] money and
+[00:03:35] solves something that you care about.
+[00:03:38] Now a very, very, very important caveat is that an individual only experiences
+[00:03:42] so many problems.
+[00:03:44] So the next best option is to solve the problems that are experienced by your
+[00:03:48] close friends
+[00:03:49] or family.
+[00:03:50] Okay, let's get tangible.
+[00:03:54] When I was building a holly, the College of Marketplace app, the problem that I
+[00:03:59] identified
+[00:03:59] was that girls specifically were buying and selling clothing in group meets on
+[00:04:05] college
+[00:04:06] campuses.
+[00:04:08] Now I had some friends that experienced this as well and so the first thing
+[00:04:11] that I did
+[00:04:12] was I spoke to my friends, both guys and girls and just other girls that I knew
+[00:04:16] were
+[00:04:16] very active in these group meets to hear about the problems that they
+[00:04:20] experienced.
+[00:04:21] I thought that I was doing the right thing.
+[00:04:22] I was like, okay, this is how you solve problems.
+[00:04:24] Now there were a lot of other factors that made it difficult.
+[00:04:29] But one thing that we kept running into was I was constantly trying to put
+[00:04:33] myself in the
+[00:04:33] shoes of a girl who wants to figure out what's going to look best for her date
+[00:04:38] nights and
+[00:04:39] sorority parties and whatnot.
+[00:04:42] But that's not who I am and I've actually never really cared about clothing to
+[00:04:45] begin
+[00:04:46] with.
+[00:04:49] Now as we're working on it, senior year is coming to an end.
+[00:04:53] This is the spring.
+[00:04:54] I'm like, man, I kind of see writing was on the wall.
+[00:04:57] It's not going to work.
+[00:04:59] So I started thinking about other things that I want to solve.
+[00:05:01] And at this time, I actually began working on a few different projects.
+[00:05:04] One that I started working on was a sort of science-based hypertrophy maxim
+[00:05:09] ization software.
+[00:05:11] I actually know the founders of many of the most popular ones like Fitness AI
+[00:05:15] and whatnot
+[00:05:15] on the market.
+[00:05:17] And the algorithms that they, the ML, they're essentially solver algorithms
+[00:05:21] that they use
+[00:05:22] are pretty rudimentary as well as they don't account for some of the more
+[00:05:27] complex variables
+[00:05:29] in regards to maximizing hypertrophy.
+[00:05:32] Not to get too granular, but just to give an example, the way that a lot of
+[00:05:35] these software's
+[00:05:36] work is we have some threshold that we look to hit on weekly volume for the
+[00:05:41] number of
+[00:05:42] sets targeting chest.
+[00:05:44] Okay.
+[00:05:45] So, exercise like bench, they might call that one set for chest stimulus.
+[00:05:50] The issue with that is a compound exercise like bench also works your triceps
+[00:05:54] and your
+[00:05:55] shoulders or front delts.
+[00:05:59] But it also incurs significantly more fatigue.
+[00:06:01] So when you say that a set of benches, one set for chest and a set of tricep
+[00:06:06] extensions
+[00:06:06] is one set for triceps, that is an over massive oversimplification with regards
+[00:06:14] to comprehensive,
+[00:06:16] total fatigue accumulated as well as relative hypertraffic stimulus across
+[00:06:20] different muscle
+[00:06:21] groups.
+[00:06:22] So, that was one thing that I was working on.
+[00:06:28] And so that was a problem that I intimately experienced myself wanting to know
+[00:06:32] what I
+[00:06:32] can do in the gym to make sure that I'm maximizing my gains.
+[00:06:36] Now a problem that people very close to me experienced was what to say on
+[00:06:42] dating apps.
+[00:06:43] I experienced it myself too, right?
+[00:06:45] The point here isn't that I don't know how to talk to girls, but that sometimes
+[00:06:49] you receive
+[00:06:50] a message and you're like, "Hmm, what's the proper amount of flirtyness versus
+[00:06:54] straight
+[00:06:55] forwardness to respond to maximize my probability of developing a connection
+[00:07:01] with this girl?"
+[00:07:02] That's some people's objective.
+[00:07:04] Other people's objective is how to have sex with her, right?
+[00:07:07] We can call us beta-spade.
+[00:07:08] Different people have different objectives.
+[00:07:12] So given that chat GPT had just come out, we were like, "This can easily be
+[00:07:18] solved."
+[00:07:19] So we built an app where we can upload the screenshot, slide the spiciness,
+[00:07:22] essentially
+[00:07:23] according to whether or not you want to be a little bit more tame or more
+[00:07:27] straightforward
+[00:07:28] with your response.
+[00:07:31] Now given our deep knowledge, so I want to say our, I mean me and my co-found
+[00:07:36] ers, given
+[00:07:37] our deep knowledge of this topic, we were able to figure out the proper user
+[00:07:42] experience.
+[00:07:43] So what features actually matter to guys that are trying to figure out what to
+[00:07:47] say to girls
+[00:07:48] on dating apps, as well as what the correct distribution channels are going to
+[00:07:53] be because
+[00:07:53] we had seen that content ourselves.
+[00:07:58] So once again, the closer that you are to the problem, the easier that it will
+[00:08:02] be to
+[00:08:02] solve.
+[00:08:03] Now if you're not solving for yourself, try to solve for your friends, your
+[00:08:07] family, or
+[00:08:08] people very close to your demographic.
+[00:08:12] Okay, as I mentioned earlier, speaking to users, so this is touching a little
+[00:08:19] bit on
+[00:08:20] the future, but this is a very important note.
+[00:08:23] As you scale, user feedback will be able to inform your product direction, but
+[00:08:27] early
+[00:08:27] on, it's more likely to cloud your judgment.
+[00:08:31] The world is a deeply inefficient place.
+[00:08:34] I think that humans are deeply inefficient and unintelligent relative to the
+[00:08:39] intelligence
+[00:08:40] of the collective.
+[00:08:42] But when you venture off to try to solve a problem on your own, most advice is
+[00:08:50] going
+[00:08:50] to be noise.
+[00:08:51] If we think about this from a machine learning perspective, signal versus noise
+[00:08:56] , the reason
+[00:08:57] that the vast majority of entrepreneurs are not successful, or one of the key
+[00:09:02] reasons,
+[00:09:02] in my opinion, is the inability to distinguish signal from noise.
+[00:09:08] The act of coming up with a good idea, especially one that's novel and presents
+[00:09:13] significant
+[00:09:14] upside, is very, very, very difficult.
+[00:09:18] And you can't outsource that.
+[00:09:20] So you can speak to people and get their opinions, and you can use that as
+[00:09:24] overall data, but
+[00:09:27] don't expect others to do the work for you.
+[00:09:30] Just because someone tells you that they want something in your product doesn't
+[00:09:32] mean
+[00:09:32] that that's the right move.
+[00:09:34] There's a reason that Steve Jobs and Elon Musk do not go to daily focus groups.
+[00:09:41] They're artists.
+[00:09:44] They're more than artists, they're businessmen.
+[00:09:46] But being an artist is a component of building an amazing product.
+[00:09:49] So do not over index on others' opinions think freely and from first principles
+[00:09:58] .
+[00:09:58] So we have these overarching ideas about the fact that you should solve your
+[00:10:02] own problem.
+[00:10:03] Why do you actually identify them?
+[00:10:06] The short answer is there is no magic trick, but there are general frameworks
+[00:10:11] that I and
+[00:10:12] others apply that tend to work.
+[00:10:15] The creative act, a way of being, is an amazing book.
+[00:10:20] It's by Rick Rubin, who works with music artists.
+[00:10:26] He provides a lot of great frameworks here, so I would recommend that.
+[00:10:30] But personally, even before Rick Rubin, or before I had read his book, I spoke
+[00:10:35] extensively
+[00:10:35] about this, which is that I'm a massive believer in disconnection.
+[00:10:40] Go for a walk, run, hike, meditate, do whatever you want, do it for extended
+[00:10:46] periods for over
+[00:10:48] an hour.
+[00:10:49] I find that if I go on a 10 minute walk, my mind's still super cluttered from
+[00:10:54] everything
+[00:10:54] that we experience in day to day life.
+[00:10:58] If you really want to come up with good new ideas, you need to give your mind
+[00:11:02] room to breathe.
+[00:11:04] The same way that if you go and you start, you haven't played basketball in a
+[00:11:10] while.
+[00:11:11] You go start to shoot.
+[00:11:12] The first few minutes, you're rusty.
+[00:11:15] You got to work those muscles and build back those sort of mind-muscled
+[00:11:23] connection and
+[00:11:24] your body's muscle memory into remembering how to properly shoot with finesse
+[00:11:31] and in
+[00:11:31] a smooth manner.
+[00:11:32] I think that the same applies to disconnecting and giving your mind space to
+[00:11:37] breathe.
+[00:11:38] Within the book, he has a great concept, which is that if you want to come up
+[00:11:41] with truly
+[00:11:42] novel ideas, they don't come from within, but they come from the out, from
+[00:11:48] external.
+[00:11:49] They come from the universe.
+[00:11:51] You need to make yourself into somewhat of an antenna, an individual that will
+[00:11:56] receive
+[00:11:56] the ideas that permeate our universe.
+[00:12:01] Different people are going to be operating on different sort of wavelengths,
+[00:12:03] different
+[00:12:04] frequencies.
+[00:12:07] Given your demographic and what sort of group you belong to and who you are,
+[00:12:11] you will be
+[00:12:12] more receptive and have a higher probability of receiving some different subset
+[00:12:19] of ideas.
+[00:12:20] There's a reason that my apps are all kind of in the same domain.
+[00:12:26] RizGPT, talk to girls.
+[00:12:28] UMAX, scan your face, find out how attractive you are.
+[00:12:33] Cal AI, achieve your fitness goals, become more attractive.
+[00:12:37] This is something that I think I have pretty deep knowledge on, personal
+[00:12:41] development, self-improvement.
+[00:12:44] Even 10x, which I didn't actually mention during this, it was a recently failed
+[00:12:50] project
+[00:12:50] of mine, but 10x was designed to teach people how to learn different AI tools.
+[00:12:56] Once again, within the domain of self-improvement, this is something that I
+[00:13:00] very, very deeply
+[00:13:01] understand.
+[00:13:02] If you're a very religious individual, you might be more inclined to build
+[00:13:06] something
+[00:13:06] like Bible chat.
+[00:13:08] I consider myself religious, Christian, Presbyterian specifically, but I don't
+[00:13:14] think that I have
+[00:13:15] domain expertise significantly beyond that of the average Christian.
+[00:13:21] If you are a very studious individual, I didn't list this company here, but it
+[00:13:25] 's similar to
+[00:13:26] Minnitz AI, Turbo Learn, a company that I am an advisor of actually, I pretty
+[00:13:32] much never
+[00:13:32] advised.
+[00:13:33] They're one of the only ones specifically because Sartic, one of the co-found
+[00:13:37] ers was my
+[00:13:37] CTO for UMAX.
+[00:13:39] Now Sartic and Rudy were very, very diligent studiers and test takers.
+[00:13:46] Like Sartic got a 36 on his ACT and had a 4-0, I think it was valedictorian of
+[00:13:50] high school.
+[00:13:51] So note taking specifically for education, high school college is a domain that
+[00:13:58] they
+[00:13:59] very, very deeply understand.
+[00:14:01] Hunter had been interested in social products for years before building NGL.
+[00:14:10] The quitter guys, right?
+[00:14:12] Connor and Alex were deeply, deeply addicted to pornography.
+[00:14:16] I'm sorry, that's a joke.
+[00:14:22] There are more so in the, in the, in the like your friends, right?
+[00:14:27] People of our demographic, they're young guys.
+[00:14:29] You guys are taking the point.
+[00:14:33] Oh, I don't even think I mentioned Raised during the case study.
+[00:14:39] I can't believe I missed that.
+[00:14:41] Anyways, Raised, built by Anastasia and Tamara Tran, Raised is actually no
+[00:14:45] longer on the
+[00:14:46] App Store.
+[00:14:47] So here I have a copycat from them.
+[00:14:51] They got banned.
+[00:14:52] But Raised, this was, you know, not coincidentally built by girls who
+[00:14:56] understand how important
+[00:14:58] tanning is to other girls.
+[00:15:01] That's an idea that guys would never come up with.
+[00:15:04] Me building UMAX, like most other software engineers are not going to see looks
+[00:15:09] maxing
+[00:15:10] at its absolute peak and also understand the Vision API coming out and being in
+[00:15:15] the correct
+[00:15:16] position to solve that problem.
+[00:15:21] So you should ask yourself, what are the problems that you intimately
+[00:15:26] understand?
+[00:15:27] What are the problems that you understand that other people don't understand?
+[00:15:33] What are the problems that you care about?
+[00:15:36] Do you care about self improvement?
+[00:15:39] Do you care about career?
+[00:15:41] Do you care about religion and spirituality?
+[00:15:45] Do you care about meditation?
+[00:15:51] If you have listened to what I've said throughout this unit thus far, you go,
+[00:15:55] well, I still
+[00:15:56] don't, you know, I still don't have any ideas.
+[00:16:01] My suggestion would be to become a more interesting person.
+[00:16:07] If you don't have things that you care about, if you look through life in a
+[00:16:13] very monotonous,
+[00:16:14] black and white lens, you're not going to be the person that ideas come to.
+[00:16:24] So study the fundamentals of human psychology, understand what your
+[00:16:27] expectations are for
+[00:16:28] the projects that you build, figure out what your problems are and the things
+[00:16:33] that you care
+[00:16:33] about and then use that in conjunction with disconnection, right?
+[00:16:41] Remove all of the other noise that exists within your life, take what I just
+[00:16:46] repeated,
+[00:16:47] these principles that I've taught up to this point, go for a long walk,
+[00:16:52] disconnect, remove
+[00:16:53] everything, keep that and let it ruminate.
+[00:16:58] I have no doubt that so long as you are an interesting person that experiences
+[00:17:08] anything
+[00:17:09] of any relative importance in life that you will begin to come up with new
+[00:17:18] ideas.
+[00:17:19] And beyond the disconnection, I want you to hold this in the back of your mind
+[00:17:23] and it
+[00:17:23] should begin to impact everything that you do.
+[00:17:26] Every place that you go, every interaction that you have, you should be
+[00:17:31] thinking and
+[00:17:32] any entrepreneur, to be honest, beyond just building up should be thinking
+[00:17:35] about this.
+[00:17:35] But I want you to look at it through the lens of like, what are the problems
+[00:17:38] that these
+[00:17:39] people experience in life and is there an app that can help them solve that and
+[00:17:43] help
+[00:17:43] them inch forward?
+[00:17:45] Okay, in the next lesson, I will dive into social media and forums.
+[00:17:52] So here I talk about kind of diving inside, receiving from the universe,
+[00:17:58] disconnecting.
+[00:18:00] But now we're going to go through social media and the idea of actually
+[00:18:03] stimulation and new
+[00:18:04] data, as opposed to removing everything else out, we're going to talk about
+[00:18:09] what's the
+[00:18:09] stuff that we should bring in.
+[00:18:11] And how do we go through Instagram, TikTok, Reddit, X.com and other forums to
+[00:18:16] identify
+[00:18:17] problems that people experience and have actually made obvious for us on the
+[00:18:23] internet.
+[00:18:24] So I'll see you in the next lesson.
+[00:18:26] [BLANK_AUDIO]

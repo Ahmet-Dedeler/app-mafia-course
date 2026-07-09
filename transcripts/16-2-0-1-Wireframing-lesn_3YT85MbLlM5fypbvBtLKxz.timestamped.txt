@@ -1,0 +1,359 @@
+[00:00:00] All right, lesson two of design.
+[00:00:03] We are going to dive into wire framing.
+[00:00:06] So the term wire framing is essentially to put in the bones or the skeleton of
+[00:00:15] your app.
+[00:00:16] Now in the previous lesson we went over the basics of Figma, now we're going to
+[00:00:21] get into
+[00:00:21] actual app design.
+[00:00:24] So there are three primary steps here that I employ.
+[00:00:27] The first one is to define the core actions and user journey.
+[00:00:30] You should have done some of this already in the process of ideation, but it's
+[00:00:35] worth
+[00:00:35] doing again as you begin wire framing.
+[00:00:40] Next a core element of wire framing is to start with low fidelity.
+[00:00:44] Wire frames are low fidelity.
+[00:00:46] Low fidelity means that you're not worried about colors or corner radiuses and
+[00:00:51] whatnot,
+[00:00:53] even though I showed you that in the previous lesson, unimportant.
+[00:00:56] What we're really focused on is what goes where, right?
+[00:01:00] User experience.
+[00:01:03] What elements go and what spots and what they lead to and the sort of actions
+[00:01:07] and transformations
+[00:01:08] that are performed by the software on the user input data, whatever it may be.
+[00:01:14] The third is kits.
+[00:01:16] I love this term.
+[00:01:18] I try to remind myself of it every single day, which is keep it simple, stupid.
+[00:01:25] This is an acronym that applies to so much in life.
+[00:01:30] I was, we were filming a podcast today and I made the remark that it's
+[00:01:38] interesting to
+[00:01:39] see how many indie hackers and software developers employ very complex app
+[00:01:45] store optimization
+[00:01:47] and sort of, you know, hacky, not hacky, but complex design techniques and
+[00:01:57] engineering,
+[00:01:59] and yet they're at $400 in MRR or monthly recurring revenue.
+[00:02:04] Meanwhile when I launched RizGPT, we hit over $80,000 a month within just three
+[00:02:14] days because
+[00:02:14] we kept it super simple and we focused on the things that mattered, which at
+[00:02:18] the time was
+[00:02:19] distribution and going viral and getting money in the door so that we could use
+[00:02:23] that cash
+[00:02:24] to deploy for future growth.
+[00:02:27] So the same way that it applies to how you operate your business, it really
+[00:02:31] applies to
+[00:02:32] the start of design and wireframing.
+[00:02:36] Complexity will only increase as you go throughout the process of designing
+[00:02:39] your app.
+[00:02:40] You're going to continue to add and add and add screens.
+[00:02:43] It's a lot easier to start simple and slowly expand than to start complex and
+[00:02:49] then make
+[00:02:50] it simple.
+[00:02:51] I see people all the time, they start with this incredibly complicated app.
+[00:02:54] I'm like, dude, I don't even fucking know how to use this, right?
+[00:02:57] It should be like a three year old should be able to use your product or, you
+[00:03:02] know, maybe
+[00:03:03] more realistically, I think a term I've used is your product should be able to
+[00:03:08] be used
+[00:03:09] by a seven and a 70 year old.
+[00:03:13] So for many reasons, keep it simple.
+[00:03:20] One reason that it's really important to begin wireframing as quickly as
+[00:03:24] possible is
+[00:03:25] in my opinion, it is required if you want people to actually believe in your
+[00:03:28] vision.
+[00:03:29] If people hit me up all the time to say, hey, man, can you review my idea?
+[00:03:33] Like I want to build this app, blah, blah, blah.
+[00:03:34] I go, yes, send me the Figma file and it's silence, right?
+[00:03:39] They don't have it.
+[00:03:40] I'm like, man, wireframing should take you no more than a couple of minutes.
+[00:03:46] If you're really just trying to move as quickly as possible and it will make
+[00:03:50] the vision much
+[00:03:51] more clear for anyone that sees it, right?
+[00:03:54] So more data means more informed decision making, both for yourself and others.
+[00:03:59] All right.
+[00:04:01] Enough of the background.
+[00:04:02] Let's get into it.
+[00:04:03] All right.
+[00:04:05] So context real quick.
+[00:04:06] I'm coming into this with pretty much no preconceived notions.
+[00:04:09] I want this to be raw and authentic rather than planned out.
+[00:04:14] And so I'm going to try to walk you guys through my thought process.
+[00:04:17] What this means is I'm not going to design an entire application within these
+[00:04:22] lessons,
+[00:04:22] but I'm going to share you with you guys how I think about the design.
+[00:04:25] Okay.
+[00:04:26] So honestly, here I want to start with text.
+[00:04:28] I almost always do this.
+[00:04:30] I'm going to increase the size of this so it's a little bit more visible.
+[00:04:37] Let's go even more honestly.
+[00:04:39] Okay.
+[00:04:40] So later on, we're going to define it in the, I think, two lessons from now, we
+[00:04:45] 're going
+[00:04:46] to go deeper into core or primary and secondary actions.
+[00:04:50] But for now, as we begin wireframing, I'm just going to kind of jot down a
+[00:04:54] couple of
+[00:04:55] actions.
+[00:04:57] So this might be a little bit too big.
+[00:05:00] Yeah, I like this actions.
+[00:05:04] All right.
+[00:05:06] So if we're trying to help people increase their testosterone, right, this is
+[00:05:10] the problem
+[00:05:11] that we're solving, we should first think about what do we need from the
+[00:05:15] individual,
+[00:05:16] right?
+[00:05:19] One of the major advantages of applications as a whole is that they're
+[00:05:23] interactive, right?
+[00:05:25] It's not just text or an article where you come into this product and then it's
+[00:05:28] just
+[00:05:29] everything's prepackaged, right?
+[00:05:30] We can add interactions.
+[00:05:33] And so for here, I think that the first thing is getting data from the
+[00:05:36] individual.
+[00:05:37] So we want to improve testosterone.
+[00:05:39] I think I'm going to jot down some things that are valuable.
+[00:05:43] I might make this even smaller.
+[00:05:45] So I'm going to be typing and get them out.
+[00:05:50] Uh, self, selfie of face, picture of body.
+[00:06:02] Um, demographic.
+[00:06:07] And then so demographic, meaning age, gender, I think that this will be pretty
+[00:06:12] much all
+[00:06:13] men.
+[00:06:14] So we're not going to, we're just going to assume that their male, their female
+[00:06:17] that
+[00:06:17] wants to optimize their testosterone for whatever reason that, you know, maybe
+[00:06:22] that won't be
+[00:06:23] great for them.
+[00:06:25] So so we can just chop this down to age, race, race.
+[00:06:29] I don't know the degree to which testosterone is correlated with race, but
+[00:06:35] could be important.
+[00:06:37] And then let's see, like a lifestyle, right?
+[00:06:41] So how often do you exercise?
+[00:06:51] What sort of food do you eat?
+[00:06:55] Okay, I think this is kind of like the core information that we want to get
+[00:06:59] from the individual.
+[00:07:04] So you know, these aren't actions themselves.
+[00:07:07] So the action here would be, um, receive in analysis, um, or input your data.
+[00:07:20] Okay.
+[00:07:21] Now anytime that we have an action that the user takes, we should think about
+[00:07:25] what, what
+[00:07:25] is the result, right?
+[00:07:27] Here we're getting the, the inputs from the user.
+[00:07:30] So what is the output going to be?
+[00:07:34] Mm.
+[00:07:36] Um, we can do UMAX style.
+[00:07:40] So UMAX you get, you get face ratings and recommendations.
+[00:07:43] So we'll do, um, what are some things that people are interested in, right?
+[00:07:47] We're probably interested in, uh, so now we'll do output, um, of the data.
+[00:07:58] So this will be the analysis.
+[00:07:59] People are interested in estimated testosterone.
+[00:08:04] I think that that is the most obvious one to start, um, maybe biological age,
+[00:08:09] depending
+[00:08:10] on the questions that we ask that could be pretty interesting.
+[00:08:13] Um, so these are the more predictive components.
+[00:08:23] Maybe like a masculinity score, but that's just kind of an estimated
+[00:08:26] testosterone.
+[00:08:33] Percentile, we should add that in the estimated testosterone percentile
+[00:08:39] relative to age.
+[00:08:41] Okay.
+[00:08:44] I think that that, hmm.
+[00:08:48] Yeah.
+[00:08:50] So this is like the sort of like rating, right?
+[00:08:53] These are like the predictions that we're making, the scores that we're giving
+[00:08:55] to the
+[00:08:55] individual and next we have recommendations.
+[00:08:59] So one component here to think about is like, how do we make the
+[00:09:04] recommendations personalized
+[00:09:07] rather than just like, how often do you exercise one time per week?
+[00:09:11] And then the recommendation is just exercise more, you know, that's kind of
+[00:09:15] obvious.
+[00:09:16] Um, so I think that this is where the selfie and body come into play.
+[00:09:22] Oh, so we should do, uh, we should do, um, physique rating.
+[00:09:29] You can even do facial rating.
+[00:09:32] So beyond just the estimated testosterone, right?
+[00:09:34] This is all encompassing.
+[00:09:37] These would be more specific.
+[00:09:38] All right.
+[00:09:39] So we're going to take all this and we're actually going to all nest this under
+[00:09:42] .
+[00:09:43] Um, this will be the analysis, we'll say.
+[00:09:47] So that within the output, we have the analysis and we have the recommendations
+[00:09:50] .
+[00:09:51] Okay.
+[00:09:52] So recommendations, um, based on body slash.
+[00:10:06] So actually we don't have to explain the methodology of how we produce it, but
+[00:10:10] exercise
+[00:10:11] frequency sleep improvement.
+[00:10:19] Um, you know, when we make this beyond just test max, like maybe we make this
+[00:10:26] like a holistic
+[00:10:28] version of UMAX, right?
+[00:10:29] This is what UMAX was always kind of intended to be.
+[00:10:35] All right.
+[00:10:37] Um, obviously sleep, but the, yeah, yeah.
+[00:10:43] Yeah.
+[00:10:44] Oh, yeah.
+[00:10:45] Okay.
+[00:10:50] Something that you might notice is that like while I'm explaining and going
+[00:10:53] through this
+[00:10:53] process, I'm significantly less, um, structured or clear thinking as I usually
+[00:11:05] am, or at
+[00:11:06] least strive to be part of that reason is because this is inherently very, it's
+[00:11:12] a very
+[00:11:13] creative endeavor and there's going to be a lot of iteration in trying to
+[00:11:17] figure out
+[00:11:17] what the correct inputs and outputs look like as well as a sort of
+[00:11:22] functionality.
+[00:11:23] Okay.
+[00:11:25] And so once you get this output, I think the important component here is
+[00:11:28] something along
+[00:11:29] the lines of habit tracking and accountability.
+[00:11:36] So accountability plus tracking.
+[00:11:41] So, um, this is why it's very important to get screenshots of comparable apps.
+[00:11:49] Once again, like I would have way more, I'd have like 100 plus screenshots.
+[00:11:53] If I were actually going through the full process of building that myself.
+[00:11:57] Um, but I really like what quitter has here.
+[00:12:00] And I think Opal has something similar to, which is like the core functionality
+[00:12:04] , like
+[00:12:04] the first fucking thing that you see when you open the app is your streak.
+[00:12:10] And I think that that's, that's pretty important here and valuable.
+[00:12:14] Okay.
+[00:12:16] So in the previous lesson, we did some basic, uh, sort of mocking of resigning
+[00:12:23] UMAX.
+[00:12:24] We're going to do somewhat similar design here, but it's going to be different,
+[00:12:28] right?
+[00:12:29] We're not just redesigning UMAX.
+[00:12:31] So I think I kind of want to merge UMAX and quitter.
+[00:12:35] All right.
+[00:12:38] I'm not certain what I want the core UI displayed to be right here.
+[00:12:48] I don't know if it's the streak or your current estimated testosterone or maybe
+[00:12:58] both.
+[00:12:59] Maybe it could be actions remaining for the day.
+[00:13:02] So maybe we go more habit tracker style.
+[00:13:11] It could be interesting to have percent completion and we show that through the
+[00:13:16] previous days
+[00:13:17] and we can fill it up.
+[00:13:33] I want to do this right.
+[00:13:36] And yet at the same time.
+[00:13:43] I want to move relatively quickly.
+[00:13:45] Okay, let's do this.
+[00:13:48] So at the top, we're going to do the streak.
+[00:13:52] We'll just do pretty basic.
+[00:13:53] Um, here I'm going to create a component or a frame so that I can auto layout
+[00:13:58] and then
+[00:13:59] just bang, bang, bang, bang.
+[00:14:02] That should be seven.
+[00:14:04] We'll maybe increase the size of this a little bit.
+[00:14:07] And I'll add a note here and this is, um, a week layout.
+[00:14:20] So I'll add these comments.
+[00:14:21] If I'm working with someone, either a designer or a co-founder, it's very
+[00:14:26] important to have
+[00:14:27] comments here as you're going through the process of wireframing so they know
+[00:14:30] what you're
+[00:14:31] actually building out.
+[00:14:34] Now I think maybe some text along the lines of like, maybe we say like you, um,
+[00:14:43] maybe we
+[00:14:43] give like a percent score.
+[00:14:45] This could be interesting.
+[00:14:48] Let me, um, bring this in a little bit.
+[00:14:54] All right, let's do a little percent score.
+[00:15:09] I know like more common is streak, right?
+[00:15:12] And I think that streak is good, but I want something that's like, uh, you know
+[00:15:23] , maybe
+[00:15:23] it's, um, I want like a number, you know, I want something where you're like, I
+[00:15:39] need
+[00:15:39] to ensure that I'm hitting this every single day.
+[00:15:43] So right.
+[00:15:44] So for quitter, they have the amount of time that you've been free from porn
+[00:15:50] for Cal AI.
+[00:15:50] We have your daily calories.
+[00:15:52] For UMAX, I actually think that this was a major shortcoming, which was that we
+[00:15:56] did not
+[00:15:57] have a sort of core action to return to.
+[00:15:59] We had this daily tab here, which was kind of a routine, but the fact that that
+[00:16:02] wasn't
+[00:16:03] on the first page, it was a major issue.
+[00:16:07] Okay, we'll leave this for now.
+[00:16:12] This will, um, I'll just add a note.
+[00:16:15] I'll be like, want something catchy here.
+[00:16:21] Okay.
+[00:16:24] And then your actual actions will be your routine.
+[00:16:26] Right.
+[00:16:27] So we'll have here, uh, so that, uh, whoa, what did I do here?
+[00:16:41] Action one.
+[00:16:48] Action two and so forth.
+[00:16:55] Man.
+[00:16:58] Cool.
+[00:17:00] Don't worry about the like little thing myself that I'm doing with the
+[00:17:12] components and what
+[00:17:14] not.
+[00:17:15] You don't know how to do it, no worries, you'll learn with time.
+[00:17:19] I'm not elected with Figma, right?
+[00:17:22] Okay.
+[00:17:23] All right.
+[00:17:24] So the core sort of habits here.
+[00:17:29] Maybe I should have named these habits and cares.
+[00:17:37] And then I kind of like what quitter does here with like the panic button at
+[00:17:43] the bottom.
+[00:17:44] Um, we want the analysis to be obvious enough.
+[00:17:50] So this will probably be when the individual has already, when the individual
+[00:17:58] has already
+[00:17:59] sort of, uh, perform their first analysis because that will set their habits.
+[00:18:11] But if they have not completed their habits, we'll say, well, maybe do the UMAX
+[00:18:31] style.
+[00:18:32] Repeat your first analysis.
+[00:18:45] All right.
+[00:19:02] So we'll change this.
+[00:19:19] This will just be like button.
+[00:19:26] Cool.
+[00:19:27] One more thing.
+[00:19:28] Oops.
+[00:19:29] Okay.
+[00:19:37] So when you have not performed your first analysis, it'll ask you to start.
+[00:19:41] Once you have performed it, the core action will be the number of habits that
+[00:19:45] you have.
+[00:19:46] Um, we'll just rename this to actions, the number of actions that you have
+[00:19:50] remaining
+[00:19:51] for the day.
+[00:19:52] You can go ahead and frame this, so I'll make it nice and pretty.
+[00:20:00] And then I'm just going to center that real quick.
+[00:20:06] Sorry, I'm being a little bit of a perfectionist here, uh, which is somewhat
+[00:20:10] ironic because
+[00:20:11] wireframing is obviously imperfect.
+[00:20:14] Um, great.
+[00:20:18] Now what I have here is I'd like the basic skeleton for the core functionality
+[00:20:23] of the
+[00:20:23] app.
+[00:20:24] We have the homepage where if you haven't scanned it prompts you to start, we
+[00:20:30] would then have
+[00:20:31] some sort of upload flow, right?
+[00:20:33] So that would come in between these two.
+[00:20:35] So move this on over insert upload flow.
+[00:20:43] And then we have this.
+[00:20:46] And to be honest, like this is all that you really need to know when it comes
+[00:20:50] to wireframing.
+[00:20:51] Uh, there's a good amount of theory and we'll touch on that a little bit more
+[00:20:55] in the next
+[00:20:56] unit of this module for design.
+[00:20:59] Um, but I think that it covers the high level.
+[00:21:06] Take screenshots of other apps, clearly define what your actions are within the
+[00:21:11] product and
+[00:21:11] keep it as simple as possible to start and then whip up your first couple of
+[00:21:18] screens.
+[00:21:20] In the next lesson, we're going to go over hiring a designer.
+[00:21:22] So honestly, screens like this are more than enough to begin, uh, working with
+[00:21:29] a designer.
+[00:21:30] I've worked on a working with the designers with screen much less than this
+[00:21:34] before, to
+[00:21:35] be honest, like as little as this, honestly.
+[00:21:38] Um, now the reason that I try to hire a designer pretty quickly in the pro
+[00:21:43] project is if you
+[00:21:44] want to move as fast as possible and you're not constrained by capital, I'm
+[00:21:48] sure some people
+[00:21:49] here are that's fine.
+[00:21:50] We did not hire one for plug AI actually ever.
+[00:21:54] Um, then as soon as you, as soon as you figure out what the kind of like, uh,
+[00:22:03] even just one
+[00:22:04] screen of the app is going to look like, you explain the project to a bunch of
+[00:22:08] designers.
+[00:22:09] You can start testing, figuring out who's best.
+[00:22:11] Um, once again, we're going to go over this in the next lesson, but yep, this
+[00:22:17] is essentially
+[00:22:18] my process for wireframing.
+[00:22:20] See you guys, uh, see you guys later.

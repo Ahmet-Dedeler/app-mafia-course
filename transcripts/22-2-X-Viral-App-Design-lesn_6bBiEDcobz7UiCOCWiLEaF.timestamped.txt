@@ -1,0 +1,1072 @@
+[00:00:00] What's up everybody? This is module two, Viral App Design. My name is Hunter. A
+[00:00:09] little
+[00:00:09] bit of background on myself. I have been designing Viral Consumer Apps since
+[00:00:15] 2017. My apps have
+[00:00:19] done over 300 million downloads. Currently have over 150 million monthly active
+[00:00:25] users.
+[00:00:26] I have generated over 100 million dollars in revenue across social, dating,
+[00:00:32] lifestyle,
+[00:00:33] fintech, many categories of apps. I've been in the game for eight years. I'm 26
+[00:00:40] now. I
+[00:00:41] started when I was just high school. So if you're a young guy or a young girl
+[00:00:46] watching
+[00:00:47] this, I was at the beginning not too long ago. It's definitely an industry that
+[00:00:55] you cut your
+[00:00:56] teeth on and you call through the mud, but it's worth it. Today I'm really
+[00:01:02] excited because
+[00:01:04] I'm going to get to talk about my favorite part of building an app, which is
+[00:01:09] the design.
+[00:01:12] We're not going to just have a Figma how-to. We're really going to talk about
+[00:01:16] frameworks,
+[00:01:18] key terms, methodologies, and really general mindset of how to build a Viral
+[00:01:25] App. I'm going
+[00:01:26] to try to get you into that mindset and you can apply these lessons and these
+[00:01:31] frameworks
+[00:01:32] across your apps and your ideas in any niche. I'm going to talk about really
+[00:01:41] what makes
+[00:01:42] an app go viral. That's the first question. What makes an app go viral? There's
+[00:01:50] a number
+[00:01:50] of things that make an app go viral. The way that I've broken it down is like
+[00:01:56] this. There
+[00:01:56] are emotional hooks and core human drivers. There's something called the Maslow
+[00:02:01] 's hierarchy
+[00:02:02] of needs. This is something that you're concept in psychology. You have the
+[00:02:06] bottom needs, which
+[00:02:07] are more basic. As you go up the pyramid, you reach self-actualization. These
+[00:02:14] are the
+[00:02:15] highest level of needs, the highest vibration needs. Apps that go viral are
+[00:02:21] usually targeting
+[00:02:22] one of these needs. Belongingness and love. That's a great example. There's a
+[00:02:29] lot of
+[00:02:29] apps that target that. A lot of dating apps that target that. Esteem needs,
+[00:02:35] prestige,
+[00:02:36] feeling of accomplishment. I would say an app like Duolingo, where you're
+[00:02:39] hitting streaks
+[00:02:41] or Kalei. You're logging your meals and maintaining your consistency. Safety
+[00:02:47] needs
+[00:02:48] could be other kinds of social apps. Social apps like GAS from 2022. People
+[00:02:55] wanted to
+[00:02:56] know, do people think I'm cool? Do people think I'm nice? Do people think I'm
+[00:03:02] funny?
+[00:03:02] NGL would follow that as well. What do my friends think about me? These are
+[00:03:09] core human
+[00:03:09] drivers. These are core human needs. Maslow's hierarchy of needs is a great
+[00:03:14] thing to look
+[00:03:15] at whenever you're building apps. Always just remember that this is why people
+[00:03:19] do things.
+[00:03:20] I think it's really important to remember that. When you're looking at your
+[00:03:24] apps and
+[00:03:24] you're looking at what is my app doing, what is it providing to people in terms
+[00:03:29] of a core
+[00:03:29] human driver and a core need. I would take a look at this and try to figure out
+[00:03:35] where
+[00:03:35] you plot on the pyramid. Depending on where you are, it will inform things like
+[00:03:41] you're
+[00:03:41] onboarding, like how much user investment you want in the product prior to
+[00:03:46] coming in.
+[00:03:46] It will also inform what is the core action of the product. I think this is an
+[00:03:53] important
+[00:03:54] thing to look at and something I've used for many years.
+[00:03:59] Some examples of this, this is one of my apps. I co-founded NGL. This did over
+[00:04:03] 300 million
+[00:04:05] downloads. The core human driver in this app is what do people think about me?
+[00:04:11] Everybody
+[00:04:11] wants to know what their friends think about them, especially when there's no
+[00:04:18] filter or
+[00:04:18] it's anonymous. People want to know. This is a very effective driver because
+[00:04:25] people
+[00:04:26] will jump through hoops and go down a somewhat complicated UX route in order to
+[00:04:33] satisfy this
+[00:04:35] drive. That's NGL's core driver. Gas, another viral app from 2022, was really
+[00:04:44] about who
+[00:04:44] likes me. Gas was about sending anonymous compliments. It was about who likes
+[00:04:49] me, who
+[00:04:49] thinks I have nice hair, who thinks I have nice eyes, who thinks that I'm a
+[00:04:53] great person.
+[00:04:55] That's a fundamental need. Who likes me? We have what do people think about me
+[00:05:01] and who
+[00:05:01] likes me? Then we have T. This is a newer app. It's blown up. This is really
+[00:05:11] what are they
+[00:05:12] saying about me? If I'm a guy, I want to know what they're saying about me
+[00:05:15] because it's
+[00:05:16] a women's only app. Or if I'm a girl, what are they saying about someone? This
+[00:05:21] app is
+[00:05:21] extremely effective at getting a core human need, wanting to know what people
+[00:05:27] are saying
+[00:05:28] about you or somebody else. Really struck a chord and that's why they went
+[00:05:34] number one.
+[00:05:36] Be real. I don't remember it's be real. The core human driver in be real, it
+[00:05:40] was like
+[00:05:41] you would open the app because you get notification. Your friend posted. You
+[00:05:45] wanted to see what
+[00:05:46] your friend posted. You wanted to see it. You were willing to take a picture.
+[00:05:52] What
+[00:05:52] pictured in my friend post? This is another really core human driver. All these
+[00:05:56] apps
+[00:05:57] went number one on the app store. That's why we talked about them. These are
+[00:06:00] apps that
+[00:06:01] went super viral, number one on the app store, millions and millions of
+[00:06:07] downloads. That's
+[00:06:08] really what I look at when it comes to emotional hooks and core human drivers.
+[00:06:15] The next thing
+[00:06:15] we're going to talk about is K-factor. I wrote it out right here. It's super
+[00:06:23] simple. It's
+[00:06:23] the average number of new users, each user invites. Pretty simple. I'm a
+[00:06:28] believer that
+[00:06:29] when you build a product, you should have the product really serve as the
+[00:06:34] marketing as well.
+[00:06:36] I like product-led growth. I love to encourage users to share. I love to get a
+[00:06:42] certain percentage
+[00:06:43] of users as many as possible to do specific actions to share or invite contacts
+[00:06:50] , share
+[00:06:50] an asset on social media. I really always like to aim for a K-factor greater
+[00:06:56] than one.
+[00:06:57] This is a big part of my methodology. I'm always thinking about how can we get
+[00:07:02] a pile
+[00:07:02] of users, bring them into the product, and then we know that at minimum, they
+[00:07:07] 're going to
+[00:07:08] bring back everybody plus 10%, or everybody plus 50%, or in the case of an app
+[00:07:14] like NGL,
+[00:07:15] everybody times two, three, five. K-factor is extremely important and something
+[00:07:22] to think
+[00:07:23] about. This is a term you're going to hear a lot across viral apps, not just in
+[00:07:27] design,
+[00:07:28] but across everything. Great. This is a little story time. This was when NGL
+[00:07:39] went number
+[00:07:39] one in the App Store, which was an awesome experience that was super grateful.
+[00:07:45] This is
+[00:07:46] really when I talk about K-factor. This is what I'm really talking about. This
+[00:07:51] is the
+[00:07:51] hourly downloads for NGL. This was one of our highest hours. You see how it
+[00:07:59] just goes
+[00:08:00] straight up. This is what's called having really a high K-factor. When you go
+[00:08:06] from 1,000 downloads,
+[00:08:08] this was about a week or so later, two weeks later, not even. Now we have a
+[00:08:12] million users
+[00:08:13] in the last 30 minutes. I think it's really important. Use unique trackable
+[00:08:20] links, very
+[00:08:21] very important because you want to know where the growth is coming from. I tell
+[00:08:26] this to
+[00:08:26] founders. These are just some tips. You have to implement data, mix panel,
+[00:08:32] amplitude,
+[00:08:33] track every user event because we want to know what's going on in every facet
+[00:08:39] of the
+[00:08:40] app because this is going to help us maximize K-factor. This is just an
+[00:08:45] important tip.
+[00:08:46] But when you have good traction, this is a little meme that we've said to run
+[00:08:53] at one
+[00:08:53] of my companies, that makes panel and amplitude these services, they want their
+[00:08:58] money. I guess
+[00:09:00] a good problem to have when it works. But yes, unique trackable links, make
+[00:09:05] sure that
+[00:09:06] I love using reflinks for users. I'm a big fan of that so I can track
+[00:09:09] everything and
+[00:09:10] know which users coming from which user. I'm a big fan of that. Okay, so the
+[00:09:16] next thing
+[00:09:17] we're going to talk about is social proof. So queues showing the apps
+[00:09:22] popularity and acceptance
+[00:09:24] as socially normative. This loose user trust and engagement. The way that I see
+[00:09:30] social
+[00:09:31] proof is it really establishes comfort. At the end of the day, you want to see
+[00:09:36] that other
+[00:09:36] people are doing the thing that the app is asking you to do. For apps like NGL,
+[00:09:44] social
+[00:09:44] proof was critical to our success. The reason that the app succeeded is enough
+[00:09:49] people saw
+[00:09:50] their friends doing it. So then they decided to do it because it was socially
+[00:09:56] normal. This
+[00:09:57] can also be not just people posting links and participating in loops like NGL.
+[00:10:03] This could
+[00:10:04] be just having a lot of views on TikTok videos for your app. Having lots of
+[00:10:09] people see your
+[00:10:10] app, lots of eyeballs creates a sense of social proof and knowing that people
+[00:10:14] know that this
+[00:10:15] app does this thing and it's known and it's widely accepted and understood.
+[00:10:21] Social proof
+[00:10:21] really is kind of it's about enough users have comprehended the purpose of your
+[00:10:27] app and
+[00:10:29] expressed it, shared it, amplified it to the point where people don't feel
+[00:10:35] weird for using
+[00:10:36] it or posting it. And I think social proof is something that you just really
+[00:10:40] always have
+[00:10:40] to be thinking about because certain apps have different ways of implementing
+[00:10:45] social proof.
+[00:10:46] And we'll obviously talk about that. So I love to talk about the bandalagging
+[00:10:52] effect,
+[00:10:53] right? Classic human behavior, right? We are more willing to like a video with
+[00:11:01] more likes or more
+[00:11:02] willing to engage with something that is perceived as more popular. Humans have
+[00:11:09] a tendency to really
+[00:11:10] like, as I say, arbitrary big numbers, right? They put a power into it and it
+[00:11:18] makes sense, right?
+[00:11:19] It's the wisdom of the crowd, right? If the crowd has deemed it this video or
+[00:11:26] this piece of content
+[00:11:27] or this app or whatever it is, if it's perceived as a lot of people are using
+[00:11:33] it, then somehow
+[00:11:34] it's perceived as once again socially normative, right? Like we talked about up
+[00:11:38] here with social
+[00:11:39] proof. So bandalagging effect is super important and a lot of apps, especially
+[00:11:44] viral apps that are
+[00:11:45] in consumer social really thrive on creating bandalagging effect. And this is
+[00:11:50] something that I really
+[00:11:51] work on creating with my apps is really getting everybody to do the same thing
+[00:11:57] at the same time,
+[00:11:58] because everybody is doing it and they all hop on the bandwagon because they
+[00:12:03] see everybody doing
+[00:12:04] it, right? And it comes down to really knowing how to just activate that pocket
+[00:12:09] of users to
+[00:12:10] initiate the bandwagon effect. But when you're designing the apps, you really
+[00:12:14] have to think about
+[00:12:15] how do you get someone to hop on this bandwagon? How do you get them to join in
+[00:12:20] with the fun?
+[00:12:21] And that really comes down to social proof as a big thing there, right? You
+[00:12:25] want them to feel
+[00:12:26] comfortable and confident to do the thing that you're asking them to do. So
+[00:12:30] yeah, make people feel
+[00:12:33] socially acceptable by sharing or inviting. Sharing should maintain or boost
+[00:12:40] social capital. Totally
+[00:12:42] agree with you know, and I think certain apps cannot be shared like this, right
+[00:12:47] ? You know,
+[00:12:48] I'm really talking about your some apps can be shared, right? Some apps you
+[00:12:51] could share,
+[00:12:51] you know, your streak on dual lingo, right? You can share, you know, your, your
+[00:12:56] NGL link, right?
+[00:12:58] You can share in someone, sent you a compliment on gas, right? You could, you
+[00:13:03] know, you could share
+[00:13:04] a TikTok over iMessage to your friend, right? Like there's, there's, you know,
+[00:13:11] sharing should
+[00:13:12] not decrease social capital, right? So sharing a dating app is pretty difficult
+[00:13:18] , right? That's
+[00:13:19] a more difficult one. Getting someone to post if they're on a dating app, that
+[00:13:22] 's really difficult,
+[00:13:23] right? So, you know, always keep in mind like there is something about boosting
+[00:13:28] social capital
+[00:13:29] that's very important and it, and it, it all comes back to, you know, comfort
+[00:13:34] and security,
+[00:13:35] which we talked about earlier with, you know, Maslow's hierarchy of needs,
+[00:13:38] and then sharing on different platforms, right? There's different motivations.
+[00:13:43] The things that
+[00:13:44] you share on Instagram are different than the things that you would share on
+[00:13:47] Snapchat or the
+[00:13:48] things you share on X. This is especially true when targeting younger users,
+[00:13:53] right? Most of my apps
+[00:13:54] have been used in the core demo of, you know, 18 to 30. So really, you have to
+[00:14:02] look at what are
+[00:14:04] people posting on their Instagram? What are they willing to post on their
+[00:14:07] Instagram? You know,
+[00:14:08] some things are better posted on Snapchat. You know, I had an app called Wink
+[00:14:12] that I was a designer
+[00:14:13] of. We did 70 million downloads. I built that with my first mentor who created
+[00:14:19] Musically,
+[00:14:20] he was the president of the company, and we learned a lot in that app. That app
+[00:14:25] used to,
+[00:14:25] you know, a old, you know, growth loop on Snapchat, right? And it worked on
+[00:14:31] Snapchat really well,
+[00:14:32] because the app was too, you know, about making friends on Snapchat. NGL really
+[00:14:38] worked off of
+[00:14:38] Instagram. You know, there had never been an anonymous app that had been built
+[00:14:41] on Instagram
+[00:14:42] prior to NGL. We were the first. And when we took off on Instagram, it then
+[00:14:49] permeated to other
+[00:14:50] platforms, right? X, for example, I've launched things exclusively on X. My Fin
+[00:14:56] Tech platform,
+[00:14:57] DAGS, was exclusively on X. We used X as the primary driver of organic viral
+[00:15:03] growth with sharing
+[00:15:05] links similar to NGL sharing link with this timeline X. The point of what I'm
+[00:15:12] saying is that
+[00:15:14] sharing on IG, sharing on Snap, sharing on X all have different motivations,
+[00:15:22] and there's a different
+[00:15:23] quality filter. So I always like to think about what is postable on these
+[00:15:30] platforms.
+[00:15:32] And it's just something to think about, right? You won't post the same thing on
+[00:15:37] X that you post
+[00:15:38] on Instagram or Snapchat or any other platform, or you won't send the same
+[00:15:43] things over text that
+[00:15:44] you would post on your story, right? So you have to understand the context in
+[00:15:48] which your app can
+[00:15:50] be shared in order to optimize for that virality. Great. So virality. Now we're
+[00:16:00] going to talk about
+[00:16:02] viral growth loops. This is a word I use a lot. This is a word I tweet a lot.
+[00:16:07] This is where I say a lot.
+[00:16:09] You're going to hear me say this a lot. The way that I summed it up is a viral
+[00:16:15] growth loop
+[00:16:15] is a self-sustaining cycle where a user's action triggers new users to join,
+[00:16:21] which creates a hockey
+[00:16:23] stick growth, right? I showed earlier in the previous section on K-factor
+[00:16:30] examples of hockey stick growth,
+[00:16:32] that growth came from a viral loop. So I also like to say if loops are strong
+[00:16:39] enough,
+[00:16:39] they will reengage users who have churned, right? So you can get people to
+[00:16:43] share your app or share
+[00:16:45] content from your app and push it out more and more, or create UGC videos for
+[00:16:51] your app,
+[00:16:51] then ultimately users that have already encountered your app and downloaded it
+[00:16:55] will be
+[00:16:56] brought in again through the net and reactivated. So that's something just to
+[00:17:01] always consider
+[00:17:02] with building these kinds of loops is yes, it's a self-sustaining growth of new
+[00:17:06] users,
+[00:17:07] but also it's bringing users in that have already churned because you're still
+[00:17:12] getting those users,
+[00:17:13] still having lots of users engage, the fly reel is still including the people
+[00:17:17] that have churned.
+[00:17:19] Keep that in mind that that's really one of the major things about viral loops
+[00:17:23] that I like to
+[00:17:24] think about is how do you make sure you reengage existing users, right? So we
+[00:17:28] 'll talk more about
+[00:17:29] that later of course. Right now I'm going to talk about explicit loops, right?
+[00:17:38] So this is the NGL
+[00:17:41] flow right here. We're going to walk through the flow and I'm going to explain
+[00:17:46] exactly how it works
+[00:17:47] and why I designed the way I did it. So this is the share asset. You can just
+[00:17:52] post the link by itself,
+[00:17:54] you know, and put any photo you want, but this is the main share asset that we
+[00:17:57] direct people to
+[00:17:58] post. We tried many different share assets. So we tried share assets that were
+[00:18:02] very bright colored,
+[00:18:05] we tried share assets with different size profile pictures, we tried different
+[00:18:10] call to actions
+[00:18:12] with the text. This is ultimately the one that won because it was the most
+[00:18:16] direct. It was directly
+[00:18:18] talking at the user, send me anonymous messages. The link was very easily
+[00:18:22] framed there. Your eye
+[00:18:24] goes exactly where it needs to go. So this is the initial touch point for every
+[00:18:28] user in NGL.
+[00:18:29] Every user that comes into NGL discovers it by encountering it in the wild on
+[00:18:35] their friend's
+[00:18:36] Instagram story. So your initial touch point essentially is your friend
+[00:18:41] endorsing this product,
+[00:18:42] which is very powerful, right? So once you tap on the link, you go to a website
+[00:18:50] inside of Instagram
+[00:18:52] where you can send a message. You can tap on the dice to get example messages
+[00:18:57] and these also,
+[00:18:58] you know, change every second or so. So you can send a message. When you send
+[00:19:05] it,
+[00:19:05] we tell you to get your own messages or send another message. When you get your
+[00:19:11] own messages,
+[00:19:12] you are sent to the app store where you download the app. Then pretend it's
+[00:19:20] your profile picture
+[00:19:20] not mine. Then you come to the app, you follow the instructions and keep in
+[00:19:28] mind, you came from
+[00:19:29] your friend doing this. Right? So when I talked about earlier the notion of
+[00:19:33] getting people through,
+[00:19:35] you know, getting earlier, you came from your friend. Your friend posted this.
+[00:19:42] You sent a message.
+[00:19:45] You did that core action that you now know your friends are going to do. So
+[00:19:54] this is one of the
+[00:19:55] key learnings that I found because the motivation was so strong, we were able
+[00:19:59] to get users through
+[00:20:01] a four step tutorial. So you follow the instructions, copy your link, share
+[00:20:05] your link in your story,
+[00:20:06] and then these four steps right here where you click on this ticker button,
+[00:20:12] click on link,
+[00:20:13] we tell you to paste your link, we tell you to frame your link, and then you go
+[00:20:17] and do it for
+[00:20:17] 10 noms, this is your PFP not mine. Then you get messages. Remember, you sent a
+[00:20:25] message to your
+[00:20:25] friend at the beginning of this loop. Now you get messages. So notifications
+[00:20:30] are super important,
+[00:20:32] super, super important. Then here's your messages in your app. You open the
+[00:20:39] messages,
+[00:20:41] you can reply by putting it on your story, and then you can type your response.
+[00:20:47] So really what this is
+[00:20:50] in summed up is clear expectation, minimal actions, and a variable reward
+[00:20:58] formula. That's what's
+[00:20:59] happening here. You're starting with seeing what's going to happen to you,
+[00:21:05] right? You're starting
+[00:21:07] with seeing your friend posted a link and your friend got replies, right?
+[00:21:11] Because you'll see
+[00:21:12] your friend posted a link and maybe they put in, they got a couple replies as
+[00:21:15] well. In many cases,
+[00:21:16] actually, we found that users wouldn't actually send messages until where the
+[00:21:21] bulk of users
+[00:21:22] wouldn't send messages until their friend had already shared a reply. Because
+[00:21:27] sometimes your
+[00:21:28] friend posted a link, you're like, oh, but nobody replied to it. So there was a
+[00:21:32] user comfort there,
+[00:21:33] too, by getting a user to share just the link and share the replies, then more
+[00:21:39] people sent replies,
+[00:21:41] because those people felt comfortable to do it. So it's an interesting kind of
+[00:21:45] comfort level on both
+[00:21:46] sides. And this is something that I think about in viral design. So this is the
+[00:21:52] NGL case study,
+[00:21:55] which was I said an explicit, explicit loop, right? Tap on my NGL links, any
+[00:22:01] messages, and then maybe
+[00:22:03] you'll get your own messages. Then there are implicit loops, right? So for
+[00:22:12] example, TikTok.
+[00:22:15] TikTok, whenever you export a video and send it to your friend, there's always
+[00:22:21] a watermark. And the
+[00:22:23] watermark bounces around the screen, so you can't really crop it out. And there
+[00:22:26] are sites where you
+[00:22:27] literally crop out the TikTok watermark, or they take the watermark off because
+[00:22:32] people don't like it.
+[00:22:33] But it was a very effective growth loop, because what TikTok did is just had
+[00:22:37] videos from TikTok
+[00:22:38] posted on Instagram, posted onto various platforms, posted on YouTube, and then
+[00:22:43] people would see,
+[00:22:44] oh, this is a funny video, it's an energy video of TikTok. I'm going to go
+[00:22:47] download TikTok. And
+[00:22:48] then once they had TikTok, and they see more funny TikToks, they think about,
+[00:22:52] oh, I should
+[00:22:53] probably open up TikTok, right? So this is an implicit one, implicit growth
+[00:22:57] loop here,
+[00:22:58] because you're seeing the TikTok logo, you're registering the content came from
+[00:23:03] there,
+[00:23:03] but it's not asking you to tap a link, it's not asking you to do some kind of
+[00:23:07] core action,
+[00:23:08] it's simply reminding you that this piece of content came from this app, so you
+[00:23:12] should maybe
+[00:23:13] open that app at some point, maybe now or maybe later. And this is really a big
+[00:23:20] strategy of how
+[00:23:20] TikTok was able to take over over the last, you know, five, six years.
+[00:23:25] So to review, we have four major terms that we define emotional hooks in core
+[00:23:40] human drivers,
+[00:23:41] right? This is what gets people into a viral app, and it's important to think
+[00:23:45] about this with
+[00:23:46] the viral design aspect. How do we carry in the emotional hook from that ad,
+[00:23:52] from that UGC content,
+[00:23:54] or from your friend posting something on their social media, or your friend
+[00:24:00] sending you something,
+[00:24:01] how do we carry that emotional hook into the design? How do we target the right
+[00:24:06] core,
+[00:24:06] even driver? K-factor, right? K-factor like we talked about is super important
+[00:24:13] for, you know,
+[00:24:15] maintaining and tracking how viral your app actually is. So I am also really
+[00:24:24] making sure that you
+[00:24:25] orient your decisions around K-factor. It's very important. So like I said,
+[00:24:30] always track
+[00:24:31] everything and figure out where your users are coming from. We also talked
+[00:24:35] about social proof,
+[00:24:36] right? And how social proof is really important, establishing comfort.
+[00:24:42] And comfort is essential to create a viral growth loop, right?
+[00:24:48] Virile growth loops, something that have been used to grow massive apps across
+[00:24:55] multiple sectors,
+[00:24:56] right? We talked about TikTok with an implicit, you know, growth loop with the
+[00:25:00] watermark,
+[00:25:01] Vine did that, X is now doing that. That's a very common practice. NGL with
+[00:25:07] link sharing,
+[00:25:08] you know, many other apps use link sharing as well now. And yeah, really, that
+[00:25:16] 's the main bulk of
+[00:25:18] kind of this first module. These are the, I think, very important terms that I
+[00:25:24] 'm always thinking
+[00:25:25] about when I'm designing. And, you know, before we jump into Figma, before we
+[00:25:29] talk about branding,
+[00:25:31] and we talk about, you know, colors and fonts and, you know, that fun stuff
+[00:25:35] that like flows and user
+[00:25:37] journeys and on-boarding and, you know, what to ask for. Like, I really think
+[00:25:41] it's important to
+[00:25:42] just remember what makes an app go viral and why we are going to design things
+[00:25:47] the way we're
+[00:25:48] going to design them and how we're going to think about these things. So, yeah,
+[00:25:57] one thing I'm going
+[00:25:58] to, I'm going to talk about now. I'm going to kind of just kick off the next
+[00:26:02] section right now.
+[00:26:05] Okay, so this is going to be like a rough draft of me talking about curating
+[00:26:12] the first session.
+[00:26:13] So, section two of my viral app design module is called curating the first
+[00:26:25] session.
+[00:26:27] A lot of people think about apps in terms of D1, D7, D30, etc. I think of apps
+[00:26:38] more in terms of
+[00:26:39] section one, session two, etc. I think this makes decision making much easier
+[00:26:48] because we're focused
+[00:26:49] on sessions. We're not focused on more of the long tail retentive type features
+[00:26:54] . I like to focus
+[00:26:56] first on like, what are they doing in session one? Section one is the most
+[00:26:59] important, right? So,
+[00:27:01] we're going to talk about onboarding. That's going to be part of this section.
+[00:27:06] We're going to talk
+[00:27:07] about core actions, right? What are the things that you're doing on the app?
+[00:27:14] You know, like I said,
+[00:27:16] we're talking about onboarding the initial experience. What questions are we
+[00:27:20] asking the users?
+[00:27:23] What do they have to provide and sign up as far as information building
+[00:27:27] profiles?
+[00:27:27] Long onboarding versus short onboarding. We're going to talk about what the
+[00:27:32] benefits are
+[00:27:33] for long versus short versus long. And we're going to talk about everything in
+[00:27:40] onboarding.
+[00:27:41] I'm going to show examples of onboarding of my own apps, as well as apps of
+[00:27:46] other members of
+[00:27:47] Amafia. We're also talking about core actions. Core actions is the action that
+[00:27:53] people are taking
+[00:27:54] on your app the majority of the time. This is the most important essential
+[00:27:59] action that users are
+[00:28:00] taking. In the example of Snapchat, it's sending snaps, right? Pretty simple.
+[00:28:05] For TikTok, it's scrolling
+[00:28:07] the for you. For NGL, it's posting a link and getting replies from your
+[00:28:13] followers.
+[00:28:14] Figuring out your core action is essential for also figuring out short versus
+[00:28:25] medium versus long
+[00:28:27] onboarding. And your core action dictates what information you're going to ask
+[00:28:32] people to do,
+[00:28:32] because you may not need all the permissions, right? We're going to talk about
+[00:28:35] permission,
+[00:28:36] about notification permissions, camera permissions, contact permissions, how to
+[00:28:40] prompt them correctly,
+[00:28:41] right? Because you have to figure out what the core action is going to be to
+[00:28:46] know what the
+[00:28:46] onboarding is going to require. And then it kind of all becomes this self-sust
+[00:28:51] aining cycle, right?
+[00:28:53] So don't think of these as things in direct order. We're going to be figuring
+[00:28:57] this out at the same time.
+[00:29:01] So we're talking about single player versus multiplayer experiences, right?
+[00:29:06] Designing a single player
+[00:29:08] app versus designing a multiplayer app and what that means. We're talking about
+[00:29:12] magic moments,
+[00:29:13] right? How do we deliver a dopamine hit in the app? How do we get people
+[00:29:19] excited?
+[00:29:20] What's that moment where they feel the app's value and they lock in that
+[00:29:27] comprehension
+[00:29:29] of the app and its purpose for Tinder, it's getting a match, right? For NGL, it
+[00:29:36] 's getting a message on
+[00:29:37] your link for, you know, Duolingo, it's hitting a streak for Snapchat. It's
+[00:29:44] also maintaining a streak,
+[00:29:46] right? I like to use notifications, confetti, haptics, excitement, right?
+[00:29:53] Making magic moments,
+[00:29:54] truly magic. And we're going to show a few examples of magic moments.
+[00:29:58] Inwright, share, and paywalls, right? We're going to talk about walls and walls
+[00:30:06] versus hurdles.
+[00:30:08] You were going to talk about what a hard gate is, hard gate for sharing, hard
+[00:30:14] gate for inviting,
+[00:30:16] hard, you know, a hard paywall. We're going to talk about various examples of
+[00:30:21] these and we're
+[00:30:21] going to show them. North Star Metrics. The North Star metric is the key metric
+[00:30:30] reflecting user value in viral success, which guides design choices. Users
+[00:30:35] funding wallets on
+[00:30:37] bags is a North Star metric. NGL posting is a North Star metric. North Star
+[00:30:44] metrics affect
+[00:30:46] every other metric. It's the main driver of success for the app. And it should
+[00:30:51] be very obvious to
+[00:30:52] identify, right? What that North Star is. For Zoom University, my viral double
+[00:30:58] dating app,
+[00:30:59] the North Star metric was number of minutes per average call time. We found
+[00:31:06] when the call time
+[00:31:07] was higher, people had better conversations with one another, which led to more
+[00:31:12] magic moments of
+[00:31:13] people connecting and getting dropped into group chats, right? Having that
+[00:31:17] match experience.
+[00:31:18] And so we wanted to maximize quality of call.
+[00:31:21] This is this section and I'm really excited to dive into this section because
+[00:31:29] there's a lot of great things to talk about. So let's start with onboarding.
+[00:31:36] Alright, welcome back. We're going to do the next round. This is titled cur
+[00:31:54] ating the first
+[00:31:55] session. One of the questions I get asked extremely often is always about
+[00:32:03] people ask about
+[00:32:03] retention. People ask about, you know, D1, D7 retention, D30, and we talked, we
+[00:32:09] had these
+[00:32:10] conversations about retention. I like to have those conversations, but really
+[00:32:14] the conversation I
+[00:32:15] enjoy more than I think is more impactful to the success of the viral app is
+[00:32:19] talking about
+[00:32:20] sessions, not talking in terms of days, talking in terms of sessions, because
+[00:32:27] users can churn out
+[00:32:29] very, very quickly. If you don't have a great session one, session two, etc,
+[00:32:37] etc. experience.
+[00:32:38] So we're going to talk about curating the first session. Now we're going to
+[00:32:42] talk about what it is
+[00:32:43] that we're going to be doing to curate the first session. So we're going to hop
+[00:32:49] in now with onboarding.
+[00:32:53] So onboarding is, you know, the way I define it is the initial experience that
+[00:32:57] conveys value in
+[00:32:58] hooks users. So short onboarding and long onboarding, this is the biggest
+[00:33:04] question I get as well.
+[00:33:06] People ask me, Hunter, should I have short onboarding or long onboarding? What
+[00:33:10] is the correct answer?
+[00:33:11] So I say there is no correct answer. It just depends what you're maximizing for
+[00:33:16] it. So I have
+[00:33:17] it here. So short maximizes for speed and virality, right, because you want to
+[00:33:21] get them into the
+[00:33:22] product quickly, right, you want to get them to hit the end of onboarding, get
+[00:33:26] in there fast,
+[00:33:27] and do whatever core actions the app requires them to do. But long onboarding,
+[00:33:34] it does risk
+[00:33:35] that friction, but it creates investment by it creates some cost. If you spend
+[00:33:39] a lot of time in
+[00:33:40] onboarding, filling out personal information for a profile like a dating app,
+[00:33:45] or, you know,
+[00:33:47] going through a long, you know, offer wall, you know, ending in some kind of
+[00:33:51] hard pay wall,
+[00:33:53] where you're answering questions and quizzing and what have you, that creates
+[00:33:58] investment.
+[00:33:59] So both are correct. It just depends what you want to optimize for.
+[00:34:04] So I said the word core action, only to find this one real quick. So core
+[00:34:11] action is the primary
+[00:34:12] user behavior on the app. So it's really easy to spot this. If you don't know
+[00:34:21] the core action of
+[00:34:22] your app, you're probably overthinking the question. So I have some examples
+[00:34:27] here of apps.
+[00:34:29] So TikTok, the core action of TikTok, I would say is scrolling and watching
+[00:34:39] content, right,
+[00:34:41] getting you on the four new page. That's the core action. You know, 1% of the
+[00:34:46] people are
+[00:34:46] creating content, but the 99% are consuming content. So I'd say the core action
+[00:34:51] of an app
+[00:34:51] like TikTok is scrolling, right? So TikTok would want to maximize for how fast
+[00:34:59] and at what
+[00:35:00] rate do we drop them into the core action, right? With TikTok, you open the app
+[00:35:07] and you can immediately
+[00:35:08] start swiping. And then you have to sign up when you interact with various tab
+[00:35:12] icons, right? They
+[00:35:13] want you to get right into the action. They want you to be immediately immersed
+[00:35:16] . So that's one core
+[00:35:18] action. Instagram, I'd say similar, right, photos, create, I'm originally
+[00:35:23] taking photos, applying
+[00:35:25] filters, you know, messaging, obviously, expanded a lot. But I'd say like the
+[00:35:30] core of Instagram is
+[00:35:31] the feed. And I'd say stories, right? Most people are absorbing content in the
+[00:35:36] feed, whether it's
+[00:35:37] the real feed or it's the main feed, or they're watching their friends stories.
+[00:35:42] That's, I think,
+[00:35:43] where the main core action is on an app like Instagram, or so an app like
+[00:35:47] Instagram want to
+[00:35:48] maximize getting you into the app to get to that core action. You know,
+[00:35:53] Snapchat, right? Snapchat.
+[00:35:56] Core action Snapchat is taking pictures, right? Snapping and chatting. The core
+[00:36:03] action of an app
+[00:36:03] like bags this is my FinTech app is trading and creating meme coins, right?
+[00:36:07] That's the core action
+[00:36:09] of the app. That's what we get everybody to do. You know, at the end of onboard
+[00:36:11] ing, we prompt you
+[00:36:12] to fund your wallet. And we have you do that with Apple Pay or we have just
+[00:36:18] crypto. And our goal is
+[00:36:19] just to get you into the app so you can start trading with NGL, one of my other
+[00:36:24] apps. The core
+[00:36:25] action is posting a link, posting replies, and just having fun on your story,
+[00:36:31] right? That's the core
+[00:36:33] action. So we want to get you into the app and want to get you to that core
+[00:36:36] action as quickly as
+[00:36:38] possible and at the right rate and have the user be in the right mindset, right
+[00:36:42] ? The user needs to be
+[00:36:44] primed and programmed and ready for that core action. You know, so chat GPT,
+[00:36:49] another great example,
+[00:36:51] prime, you know, the core action of chat GPT is prompting chat GPT, right? So,
+[00:36:57] typing.
+[00:36:58] Hinge, primary action would be, you know, sending likes, right? To various
+[00:37:07] profiles.
+[00:37:08] That's what they want you to do. They want you to spend time in the feed. What
+[00:37:13] 's app?
+[00:37:13] Obviously is texting and messaging and the original free texting, free
+[00:37:18] messaging. That's the core action
+[00:37:20] and calioc, core action, calioc is obviously scanning food, scanning your items
+[00:37:27] ,
+[00:37:27] figuring out what's in it, based on calories and various nutrients, and then
+[00:37:34] logging your food,
+[00:37:36] having streak and being healthy, right? That's the core action of calioc. So
+[00:37:41] these are the core
+[00:37:42] actions and I always like to think about the core actions of an app when I go
+[00:37:46] into designing
+[00:37:47] them because we have to think about what is the core action and when do we want
+[00:37:51] the user to do it
+[00:37:52] and what do we want them to see before they do it? How are they primed? So we
+[00:37:58] 're going to continue
+[00:37:58] talking about this. But some notes here. So figure out what the core action
+[00:38:03] will be at the end of
+[00:38:05] onboarding and depending on the action you can optimize for short or long
+[00:38:08] onboarding. So
+[00:38:10] core actions and onboarding length have a direct relationship. I always keep
+[00:38:16] them in mind, right?
+[00:38:18] Because this is going to inform also the next thing I'm going to talk about,
+[00:38:20] which is the things
+[00:38:21] that we're going to get into sign up during onboarding and how that correlates
+[00:38:25] to the core
+[00:38:26] action of the app as well. So with NGL, it's a short sign up for the sharing
+[00:38:31] prompt, right?
+[00:38:32] Maximizes for our outing sharing. It's multiplayer, variable reward, and it's
+[00:38:38] primarily an external
+[00:38:39] motivator, right? You want to post an NGL because you want to get other people
+[00:38:44] to send you messages.
+[00:38:46] Maybe you saw your friend do it. You want the external motivation, external
+[00:38:51] validation. You want
+[00:38:52] to feel cool. You want to feel socially accepted. So we have a short sign up,
+[00:38:57] right? We want to
+[00:38:58] get you in there fast to get you into this multiplayer experience. So Kali-i as
+[00:39:10] another example,
+[00:39:11] long sign up flow with a hard paywall. This drives investment, right? Because
+[00:39:19] you go down this
+[00:39:21] long journey and we're going to show it in a second and it creates some cost.
+[00:39:26] And it's a single
+[00:39:28] player experience, more of an internal motivator, right? So different ways of
+[00:39:36] looking at the apps
+[00:39:37] and that way you can see, well, a short onboarding works for this, but a long
+[00:39:40] onboarding actually
+[00:39:41] works for this, right? And that's the purpose of me bringing these up. Yeah, so
+[00:39:47] multiplayer,
+[00:39:48] variable rewards, NGL messages, Instagram likes, single player consistency,
+[00:39:54] dual lingo streaks, Kali-i streaks. You get the purpose. This is the different
+[00:40:00] iator here.
+[00:40:00] But both are correct, ultimately. Long or short onboarding is correct. So next,
+[00:40:07] we're going to talk about this.
+[00:40:09] So, depending on the type of app that you're building, you're going to want to
+[00:40:13] what do you need,
+[00:40:21] ask for different
+[00:40:24] information in sign up. This, I think, really comes down to what is required,
+[00:40:34] and what's a nice to have, right? So a great example of this in the context of
+[00:40:39] a dating app,
+[00:40:40] having your age, very important, right? In the context of an app to share
+[00:40:49] recipes,
+[00:40:49] maybe your age isn't as important, right? So figuring out what is essential,
+[00:40:56] what is vital,
+[00:40:56] what information do I need as the creator of this app, as the designer of this
+[00:41:01] app, in order to make
+[00:41:02] sure that I have all the information I need to deliver the user to that core
+[00:41:07] action, right?
+[00:41:08] To bring them in, and we have everything we need so they can do their thing,
+[00:41:11] right? So in the case
+[00:41:12] of, you know, dating app, how do we get all their information in sign up so we
+[00:41:16] can build their
+[00:41:17] profile, and then we can take their profile, and we can push it out to our
+[00:41:21] users and they can start
+[00:41:22] swiping, right? So think about what you need to get from the user. So what kind
+[00:41:28] of authentication,
+[00:41:29] right? What kind of auth? You could auth with phone, and then a 2FA text code,
+[00:41:37] you could
+[00:41:38] auth with email, you could do Apple, Google, X, various single sign on options.
+[00:41:44] There's many,
+[00:41:46] many options. The way that I see it is that in absolute lean, I like to lean
+[00:41:53] away personally,
+[00:41:54] from complicating the auth unless the user wants to, right? So a great example
+[00:41:59] of this is in my
+[00:42:01] FinTech app bags, our auth, we offer basically every option, right? Apple,
+[00:42:06] Google, X, email, phone,
+[00:42:08] everything. But we have 2FA as well. So you can, you know, if you want to go
+[00:42:14] deeper, you can add
+[00:42:15] even an authentication app, right? If you want to go deeper, it works for that
+[00:42:20] kind of app,
+[00:42:21] because it's a FinTech app, right? An app like NGL had no auth when we first
+[00:42:26] released it. There
+[00:42:27] was no auth at all. It was simply Asta, and I'm going to show you in a second,
+[00:42:30] but it hadn't
+[00:42:31] absolutely no auth. Agent birthday, you know, that's important for certain apps
+[00:42:36] . Definitely in social
+[00:42:37] apps, definitely in, you know, various marketplaces, things involving money,
+[00:42:40] you know, all of that,
+[00:42:42] of course, gender. That's also very important, right? Dating, of course, super
+[00:42:45] important,
+[00:42:47] you know, health and fitness. That's also important. Profile picture, you know,
+[00:42:51] the thing with profile
+[00:42:52] pictures, profile picture. So the thing with profile pictures is, I think that
+[00:42:59] it depends on the app.
+[00:43:01] I'll say that a lot of the times, unless it makes sense in the right context,
+[00:43:06] users don't really care
+[00:43:08] to upload a profile picture and they'll either skip it or they'll upload a
+[00:43:11] photo that's not them.
+[00:43:12] So I would just really think about the context in which they're uploading the
+[00:43:16] profile picture.
+[00:43:17] You know, I like to grab the profile picture from the social account, right? If
+[00:43:23] they log in with
+[00:43:23] X, log in with Instagram, log in with other various methods, I like to just
+[00:43:27] grab their profile picture
+[00:43:28] to their PFP at that point and not have them have to upload it. That's just my
+[00:43:34] preference.
+[00:43:35] You could also use iCloud.
+[00:43:43] You could also use iCloud to pull PFP. But I think it works with certain
+[00:43:50] contexts,
+[00:43:50] you know, use that with discretion. But I am an interest, very much social
+[00:43:56] dating,
+[00:43:57] marketplaces, those types of apps, interactive quizzes. This is a lot,
+[00:44:02] something I've seen a lot
+[00:44:03] in apps, you know, apps like Headspace, I've seen in, it's an app like Quitter
+[00:44:08] that we're going to
+[00:44:09] talk about soon. Calli, I had these interactive quizzes. This is, you know, a
+[00:44:13] great feature of
+[00:44:14] onboarding as like, as a way to prime the user for a paywall. Permissions,
+[00:44:20] permissions are super
+[00:44:20] important as well and onboarding. What permissions do we need to grab, any new
+[00:44:23] grant notifications,
+[00:44:24] photos, contacts, camera, mic, etc. We need to think about what we're going to
+[00:44:29] grab because
+[00:44:29] as you're watching this, you should be thinking about how many things do you
+[00:44:34] need to grab and
+[00:44:35] how many screens is that going to be? Right. You're just going to have to have
+[00:44:38] a photo upload screen,
+[00:44:39] screen to, you know, confirm the photo. You need the contact prompt. You're
+[00:44:44] going to need the,
+[00:44:45] you know, the contact states when they've been invited. You're going to need to
+[00:44:48] have the
+[00:44:48] open graph images. So when you, you know, invite your friend over iMessage, it
+[00:44:54] has a nice, you know,
+[00:44:55] link image and a nice, you know, piece of text with some good copy. Right.
+[00:44:59] These are all the things
+[00:45:00] you got to think about. So I like to start this right when we do onboarding. We
+[00:45:05] think about what
+[00:45:05] do we need from the user? So this is NGL. When the app went viral in June of
+[00:45:20] 2022, this was our
+[00:45:23] onboarding. So as you can see, it is a very, very fast onboarding. In the
+[00:45:31] previous section,
+[00:45:32] we talked about how users that came into NGL came in from their friend's
+[00:45:38] Instagram story.
+[00:45:40] So it came from their friend's Instagram story. They went on the website, sent
+[00:45:46] a message,
+[00:45:46] downloaded the app. Now they're here. So we have an influx of millions of
+[00:45:51] people trying to get into
+[00:45:52] this app and participate in the thing that their friends are doing. And they've
+[00:45:56] gotten the stamp
+[00:45:57] of approval by all their friends that it's socially acceptable to do. So our
+[00:46:01] goal was to get them as
+[00:46:02] quickly as possible into the app and to the core action. With NGL, it was
+[00:46:09] simply a one question
+[00:46:11] onboarding. What is your Instagram handle? That's it. That's all we asked for.
+[00:46:19] No off, nothing.
+[00:46:22] Since then, we've added a few steps. But this was the core flow that made it
+[00:46:27] viral.
+[00:46:28] When you think about the core action on NGL, the only thing that's really
+[00:46:33] required is to just
+[00:46:35] know the person's Instagram and to know in order to access their PFP.
+[00:46:43] So because the NGL core action was sharing something and we wanted to get the
+[00:47:00] user in quickly,
+[00:47:05] and we also knew we needed very little information from the user. This is why
+[00:47:11] we made the decision
+[00:47:13] to have onboarding be this sparse. I said earlier, I'm going to show you things
+[00:47:20] that are very
+[00:47:20] unorthodox. But this is what maximizes virality because remember, we have this
+[00:47:26] screen, but then
+[00:47:27] we have copying the link and we have the four step tutorial where the user has
+[00:47:33] to manually
+[00:47:35] add the link. And this was before you could automatically copy links on the
+[00:47:41] stories.
+[00:47:42] This was before anyone knew how to use the Instagram link feature, right? In
+[00:47:47] August of 2021,
+[00:47:49] I co-founded NGL with a couple of friends. This was right when Instagram had
+[00:47:55] released
+[00:47:55] the link feature for all users. You used to have to have 10,000 followers in
+[00:48:02] order to post the link.
+[00:48:03] So the second that happened, we immediately started working on NGL. At the time
+[00:48:09] , it was
+[00:48:10] called something different. I later rebranded it NGL. But ultimately, this
+[00:48:16] onboarding worked
+[00:48:17] because of the core action that we required the user to do. And we knew that it
+[00:48:23] was a complicated
+[00:48:24] multi-step core action. So we wanted to minimize the time onboarding. The user
+[00:48:30] was already sold.
+[00:48:31] We didn't have to sell them. And that's a stark contrast from the next app we
+[00:48:36] 're going to talk about.
+[00:48:37] So now we're going to talk about another app, which is Cali and I, an app with
+[00:48:45] over 10 million
+[00:48:46] downloads and multi-seven figure monthly revenue. Built by a very talented team
+[00:48:53] , I also add.
+[00:48:56] And let's dive into this one. Very different onboarding flow than what we just
+[00:49:01] did with NGL.
+[00:49:02] So I want to zoom out here, just kind of get like a one of a bird's eye view.
+[00:49:08] As we can see,
+[00:49:10] this is a much longer flow, much longer flow, than NGL when it comes to onboard
+[00:49:17] ing.
+[00:49:19] So this is a moving GIF. I went to start the beginning, which I think is
+[00:49:25] awesome because it
+[00:49:26] demonstrates what the app does. It's showing you what it does. So it shows this
+[00:49:32] game of food and
+[00:49:33] a little pop-up coming up. And I think it's a phenomenal way of explaining what
+[00:49:38] the app does
+[00:49:39] in a visual way. So definitely very impressive with the onboarding video. So
+[00:49:46] then you can get
+[00:49:47] started. We have a few authentication options, Apple, Google, email, pretty
+[00:49:52] standard. I think
+[00:49:53] with Cali's demo, it makes a lot of sense to do Apple, Google, and email versus
+[00:49:58] leading with phone
+[00:50:00] number. It does make sense to me. I think that this really just comes down to
+[00:50:06] one information
+[00:50:07] you want. So if the phone number is important to you, for some reason inside
+[00:50:11] the app, sure,
+[00:50:12] grab the phone number. In more social apps, I'd say it makes sense to have
+[00:50:16] phone number.
+[00:50:17] But they've opted for these three authentication options. Then we have, this is
+[00:50:23] if you were to
+[00:50:23] choose email with the code, then there's a gender option. Really simple, like a
+[00:50:30] little quiz. How
+[00:50:32] many workouts do you do per week? So people could really feel like they're
+[00:50:37] investing into this
+[00:50:39] app as they're going down this little quiz. We'll progress far at the top, big
+[00:50:45] back button,
+[00:50:45] great UI here. And if you really notice what I love about this onboarding is
+[00:50:51] you know exactly
+[00:50:52] where to look. The text is really big at the top. We have a clear progression.
+[00:50:58] So you don't feel
+[00:50:59] like you're going to be here forever and you do see progress. And you just know
+[00:51:04] exactly where
+[00:51:05] to look. The buttons are big. There's haptics. It's very clear. It's really a
+[00:51:09] very simple onboarding.
+[00:51:10] And I think that's really the key. And we're going to see that with all the
+[00:51:14] really all the
+[00:51:15] onboarding is I'm going to show they are quite simple. As long as they are, the
+[00:51:20] UI is very clean
+[00:51:21] and the UX is very simple and it's a recognizable pattern. Right? So these are
+[00:51:26] very simple patterns
+[00:51:27] to recognize. So we're showing where did you hear about us? Then we moved to
+[00:51:35] asking a question
+[00:51:36] about trying competitors. As I'm sure many people have. Right? So this is this
+[00:51:43] is a very relevant
+[00:51:44] question for for Kali because at the end of the onboarding, you guys are going
+[00:51:48] to see that we have
+[00:51:49] a hard paywall. Right? So this is really about understanding who are these
+[00:51:54] people that are coming
+[00:51:55] into the product. How they try to their apps? Where do they hear about us? And
+[00:52:00] selling them
+[00:52:01] on why the product is superior. So we have a really nice animation here
+[00:52:08] with a great stat. Very clean UI. You just know exactly where it's a look. We
+[00:52:17] have height and weight.
+[00:52:19] You know, so people can input that. Obviously it's a calorie tracking app.
+[00:52:23] Height and weight is important.
+[00:52:25] When were you born? This is also important, right? The example of asking for
+[00:52:32] birthday.
+[00:52:33] We talked about above, you know, why do you ask for certain things and not
+[00:52:37] others? Right? So for
+[00:52:39] an app like NGL, you know, we're not going to ask for height and weight. Right?
+[00:52:46] For an app like Kali Eye, yes, knowing when someone's born is important.
+[00:52:50] What is your goal? Right? So this is very interesting here. And this is used, I
+[00:52:58] 'm assuming,
+[00:52:59] to create some kind of split path where you show, yeah, losing weight. And I'm
+[00:53:10] sure there's
+[00:53:11] instances for gaining weight and this whole section.
+[00:53:16] So then we have this question, what is your goal? Right? Another important
+[00:53:30] question.
+[00:53:34] Losing weight, maintaining, or gaining weight. So what I like about this
+[00:53:40] onboarding is we have
+[00:53:41] a good mix of user is giving information, right? Gender, workouts,
+[00:53:50] asking these questions to the user, the user's answering. The user is on a
+[00:53:58] journey of giving
+[00:53:59] information and sharing yes and no's kind of answering, you know, A or B type
+[00:54:07] questions,
+[00:54:08] while getting sold and continuing to input information, continuing to input
+[00:54:15] information,
+[00:54:16] then being asked another quiz question, do you see how it's moving? Do you see
+[00:54:21] how you're not
+[00:54:21] stuck in the same format? This is a very, very smart onboarding. So I feel like
+[00:54:26] when it comes
+[00:54:26] along onboarding, that requires lots of information up front, like Calli does,
+[00:54:32] right? Because this is
+[00:54:33] important. You need to have your height away, you need to have where you're
+[00:54:35] born. We need to know
+[00:54:36] the goals. These are all important things. We move from goals to what is your
+[00:54:43] desired weight.
+[00:54:45] Then we have a screen here that is, you know, programmatic depending on losing
+[00:54:52] or gaining from
+[00:54:52] the step here. I like this one a lot, this slider of how fast you want to reach
+[00:54:58] your goal. I really
+[00:55:00] like that because that's a question everybody has, right? Think of you're a
+[00:55:06] user and you want to
+[00:55:08] lose five pounds, you want to gain five pounds. Question you're going to have
+[00:55:11] for this, you know,
+[00:55:13] Calli app is AI app that's going to help me lose weight and help me track my
+[00:55:16] calories is like,
+[00:55:17] how quickly can I do it? That's a valid question. So what I like about this
+[00:55:20] onboarding is that
+[00:55:21] we're really jumping around into different types of, you know, really nice
+[00:55:26] interactions, sliders,
+[00:55:29] buttons, scrolls. It's very dynamic, but at the same time it's very simple
+[00:55:34] onboarding experience.
+[00:55:36] So I would definitely look at this one when you're doing your apps and noticing
+[00:55:40] how there's really
+[00:55:40] only one accent color, right? It's very mild, chromatic, very simple. And we
+[00:55:46] move from, you know,
+[00:55:48] answering a question to being sold again, right? Lose twice as much weight with
+[00:55:52] Calli versus on
+[00:55:53] your own. Right? So we got sold a little bit back here. We answered more
+[00:55:58] questions. We had some fun
+[00:56:00] with some cool interactions and some haptics. And then now we're here lose
+[00:56:03] twice as much weight
+[00:56:04] with Calli on versus on your own. So notice the weaving and how we're filling
+[00:56:09] out information,
+[00:56:10] we're answering questions and we're being sold at the same time. Asking about
+[00:56:15] another,
+[00:56:16] you ask me other question, following diet, what do you want to accomplish?
+[00:56:20] Right? And then another
+[00:56:23] screen of really just positive enforcement, which sometimes really important,
+[00:56:27] people need
+[00:56:28] positive enforcement. I love this, you know, this, this, this hand, this, this
+[00:56:33] high five.
+[00:56:34] And I love this. Now we have another screen that, you know, really is a
+[00:56:43] positive reinforcement
+[00:56:45] type screen. So you go from answering questions to positive reinforcement, you
+[00:56:49] know, selling the
+[00:56:50] user that the user, you know, can have that weight transition that they want to
+[00:56:55] have.
+[00:56:56] Then we have another screen here for privacy and security, which is just great
+[00:57:01] for trust factor.
+[00:57:02] And really, a lot of this is also, you know, it's about gaining trust. It's
+[00:57:08] about filling this
+[00:57:09] information out, educating the user on what the app is doing and how the app
+[00:57:14] can help. And, you know,
+[00:57:16] really focusing on building trust. We have integrations connecting into your
+[00:57:21] apps, you know,
+[00:57:22] skippable, you know, being able to, you know, add these extra things answering
+[00:57:27] yes and no's,
+[00:57:28] right? So it's a very interactive, very, very interactive flow. You know, we
+[00:57:33] asked, we have a,
+[00:57:38] it's a very interactive flow, which I think is what makes it really good.
+[00:57:43] Because you're moving
+[00:57:45] pretty quick through it. The questions are very simple. And the UI interactions
+[00:57:52] and animations
+[00:57:53] are very delightful. So it helps push you through this experience. As many
+[00:57:59] screens as it is, it actually
+[00:58:01] feels very fast. And there's not really a moment where you don't know where to
+[00:58:08] look or what to do,
+[00:58:10] which I really like. Then we have four screens here asking questions, yes and
+[00:58:20] no, right? We've
+[00:58:21] switched from the buttons and the swipes and the taps into the yes and no
+[00:58:26] buttons. We have a,
+[00:58:29] give us a rating screen, getting a rating screen in onboarding.
+[00:58:35] It's not something I've personally done. But I do think that it's very valid if
+[00:58:44] you have a medium
+[00:58:46] to long onboarding to add that in. Yes. I'll be honest, I haven't really done
+[00:58:58] that with my apps.
+[00:58:59] I've really asked for ratings after some kind of magic moment, which we're
+[00:59:07] going to talk about.
+[00:59:12] So this is not something that I've done in my own apps. But I think in an app
+[00:59:17] like Calli
+[00:59:17] Eye and other apps, it makes a lot of sense. Right? Because the more five star
+[00:59:22] ratings we have.
+[00:59:40] I think for an app like Calli Eye, having a rating prompt makes a lot of sense
+[00:59:45] in onboarding.
+[00:59:46] Really, the way I see ratings is at the end of the day, on your app store page,
+[00:59:53] it will build trust.
+[00:59:54] So asking for an onboarding makes a lot of sense if you have a medium to long
+[00:59:59] onboarding.
+[01:00:01] That's just my opinion. It's not something that I've tried with my apps too
+[01:00:06] often. But I think it's
+[01:00:09] very valid for a medium onboarding app, especially like the one you're seeing
+[01:00:15] right here. This is
+[01:00:16] a great, give us a rating screen. We've ref code screen. And now we have kind
+[01:00:23] of this satisfying,
+[01:00:25] okay, we're done. Let's generate a plan. And now we have the AI, you know, have
+[01:00:31] this really delightful
+[01:00:32] moment of the AI, you know, generating the plan and having the progress bar
+[01:00:38] fill up.
+[01:00:39] Now we have this really nice, delightful screen of, you know, counting up to
+[01:00:47] 100.
+[01:00:48] And we're setting it up for you, right? So this is a great screen. This is a
+[01:00:53] great screen. If you
+[01:00:54] need some time to do things, I love creating delays. And you know, it's
+[01:01:00] something I've done in other
+[01:01:01] apps as well, but having something where you weigh a few seconds for the user
+[01:01:07] to get excited and
+[01:01:08] to build in dissipation. So I love screens like this. And it's animated. Then
+[01:01:14] we have that your plan
+[01:01:16] is ready. Right. So we have this like delivery of something great, like this is
+[01:01:21] what the AI thinks
+[01:01:22] you should be doing every day, right? Super simple screen and a very delightful
+[01:01:30] experience from
+[01:01:32] here to here. So now the user is here. The next stream would be a paywall. And
+[01:01:42] I have a couple
+[01:01:42] different paywalls here. This is the current paywall. So it's very simple and
+[01:01:50] clean. We're going to
+[01:01:52] talk about paywalls in the next section, but I'm just going to pop this up here
+[01:01:55] . This is a trial
+[01:01:57] paywall. Soltisser. We'll talk about that soon. But this is the call AI onboard
+[01:02:04] ing. And this is
+[01:02:04] the NGL onboarding. Both of them are correct. Right. Like I said, both are
+[01:02:10] correct. It just depends
+[01:02:12] on what the purpose of the app is. What is the core action? What do we need
+[01:02:16] from the user for
+[01:02:17] the core action? Right. Call AI, you need a lot of information in order to when
+[01:02:22] you scan the food
+[01:02:23] and you provide these insights, then you can share insights of, Oh, maybe you
+[01:02:27] should eat more of
+[01:02:28] this or eat less of this. We have to know your height and your weight. And we
+[01:02:32] have to know your
+[01:02:32] gender. We have to know all these things about you versus NGL, which requires
+[01:02:38] very little information
+[01:02:39] from the user in order for the core action to be effective. Right. Just sharing
+[01:02:43] a link on your story.
+[01:02:44] So I hope that answers the question of what is the right answer. I get this DM
+[01:02:51] all the time.
+[01:02:52] What is the right answer? Short or long onboarding. And the answer is both.
+[01:03:01] [BLANK_AUDIO]

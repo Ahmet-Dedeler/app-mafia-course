@@ -1,0 +1,33 @@
+[00:00:00] Okay, great. Now we've caught up. It's time to get into nitty-gritty of the
+[00:00:05] technical things we'll be using to build this application.
+[00:00:09] I will start by saying the language we'll be using is SwiftUI, which is a
+[00:00:14] language developed by Apple.
+[00:00:17] And I generally recommend it for building apps. There are other platforms like
+[00:00:21] React Native or Expo or Flutter,
+[00:00:24] but they aren't as smooth as SwiftUI. And so I would totally recommend that.
+[00:00:31] That's all I coded with.
+[00:00:33] Now the problem with it is that it's limited to iOS and iPhones for now.
+[00:00:38] I know they are working on like an Android version, but for now it's only
+[00:00:41] iPhones, which means you won't be able to sell your app on Android.
+[00:00:44] But in my opinion, it doesn't really matter in the early days because most of
+[00:00:49] the revenue is generated from Apple devices in the US specifically.
+[00:00:53] Well, because the US is so rich and the US's market penetration with iPhones is
+[00:01:00] 99%.
+[00:01:02] So you shouldn't really worry about Android too much.
+[00:01:06] Also, all of these massive apps like Instagram, for example, they're built on
+[00:01:10] SwiftUI for iOS and then they're built on something else for Android.
+[00:01:14] I think it's Kotlin. So it's just like very, like it's optimizing for the
+[00:01:18] platform that it's sold on.
+[00:01:20] So I wouldn't think about multi-platform right now.
+[00:01:23] Yeah, and like even my friend Blake Anderson, he built, I think it was 10x or
+[00:01:30] it was Apex or something on React Native during PMF or Die.
+[00:01:36] And then rebuilt it from scratch because it wasn't that smooth on iOS and he
+[00:01:40] like optimized for things being smooth.
+[00:01:43] And the reason you optimize for things being smooth, intuitive and natural, etc
+[00:01:47] . is because it's easier to sell.
+[00:01:50] Whereas if something's jittery or you can feel it like not really being
+[00:01:54] designed for you, people are more likely to churn or not actually pay for a
+[00:01:59] subscription.
+[00:02:00] So these are some things to keep in mind when it comes to choosing the language
+[00:02:02] , but this tutorial will be in SwiftUI because that's what I'm most comfortable
+[00:02:06] with and that's all I know how to code in.

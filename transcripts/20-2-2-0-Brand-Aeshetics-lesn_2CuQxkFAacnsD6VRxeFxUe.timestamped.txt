@@ -1,0 +1,312 @@
+[00:00:00] Hey everyone, welcome back to the design module and today we're going to be
+[00:00:03] talking about brand aesthetic.
+[00:00:05] Now this is personally my favorite thing to do when I start walking on a new
+[00:00:10] app or a new project.
+[00:00:12] A brand brings a business to life and so I usually always start with that.
+[00:00:18] Counter-intuitively, we started this design module with wireframing and I
+[00:00:22] suppose that's how most people do things.
+[00:00:24] But for me it's always about brand first. So I'd love to do this little deep
+[00:00:29] dive into what makes Quitter so good and successful in its own niche,
+[00:00:33] how to build an app for your niche and how to get inspired by other brands that
+[00:00:38] you like.
+[00:00:38] So let's start.
+[00:00:40] The most important thing to know is that you need your brand to resonate with
+[00:00:47] your target demographic.
+[00:00:48] You can't just build something that you think is cool if it doesn't appeal to
+[00:00:53] the people you are targeting.
+[00:00:55] For example, UBO, they have a great and very clean UI.
+[00:00:59] It's a bit like Snapchat, you know, it's yellow, it's color-force, popping.
+[00:01:04] But like, this doesn't feel very professional. This doesn't feel very serious.
+[00:01:09] This feels a bit like a joke or a school project, which is great when you're
+[00:01:14] targeting Gen Z or younger individuals, which they do.
+[00:01:17] But let's say this is an app to find a lawyer, right?
+[00:01:23] Lawyer and law is a very serious topic.
+[00:01:27] And so these bright colors and these lowercase lettering and these big fonts,
+[00:01:35] et cetera, and these emojis specifically as well,
+[00:01:38] it isn't professional. No one's going to take you seriously if you're trying to
+[00:01:44] be a lawyer app.
+[00:01:46] I'm trying to find the plural version of that, but I can't.
+[00:01:49] So yeah, there's another example.
+[00:01:52] So if I want to build a calorie tracking app for everyone, I'm going to use
+[00:01:57] very simple colors.
+[00:01:59] And I'm not going to pull any demographic in one way.
+[00:02:03] And it's going to be like all inclusive. So it's hard to really like explain
+[00:02:12] what I mean by that.
+[00:02:13] But Kali Eyes shows no humans. It shows no faces.
+[00:02:17] As soon as they do that, they're pushing a demographic onto you.
+[00:02:21] Whereas with Yibo, you can see young people, or at least relatively young, will
+[00:02:26] make this bigger for the sake of the video.
+[00:02:28] You can see relatively young people. These are all under like 25 years old and
+[00:02:33] like mostly females.
+[00:02:34] Actually, almost everyone's a female funny enough. So that's pushing that app
+[00:02:43] towards a certain demographic.
+[00:02:45] Whereas for a calorie tracking app, they are not showing any humans.
+[00:02:49] So anyone that's watching it feels like this could be for them.
+[00:02:53] They're not influenced by other factors like an image of a human that is older
+[00:02:59] or is, you know, got a family or kids, whatever.
+[00:03:02] Very important when it comes to appealing to your niche.
+[00:03:06] Next, we have Quitter.
+[00:03:09] And like, why is Quitter successful? So we targeted Gen Z and younger people
+[00:03:16] specifically.
+[00:03:17] And the traditional Quitting Point apps weren't cool.
+[00:03:22] They put you in a box. They made you feel like you had this serious issue.
+[00:03:26] They had like these intensive programs. They were showing pictures of older men
+[00:03:31] .
+[00:03:31] I'll show you in a second what I mean. And it didn't really appeal to younger
+[00:03:37] people.
+[00:03:38] So they were underserved and they had nowhere to go.
+[00:03:42] And they just suffered with this addiction pretty much the entire time. They
+[00:03:48] had no solutions.
+[00:03:49] And so look at our competitor now.
+[00:03:53] So this is a really bad competitor. And straight away, you can tell there's a
+[00:03:59] massive difference.
+[00:04:00] This feels super engaging. This feels really cool. And this makes me want to
+[00:04:04] download the app.
+[00:04:05] As a young guy, I see a lot of colors. I see orbs. I see streaks. I see a gam
+[00:04:11] ified weird quip.
+[00:04:12] I'm like hell fucking yeah.
+[00:04:14] Whereas here, I see an old guy maybe in his like 30s, mid 30s.
+[00:04:19] This is quip porn and masturbation. That language itself is a bit vulgar and
+[00:04:24] like, it's just a bit cringe.
+[00:04:25] Whereas with us, we just make it like simple. Just quip porn now.
+[00:04:29] Just quip porn for life. Like, instead of quip porn and master. Like, come on
+[00:04:34] bro.
+[00:04:34] No one really appeals to that. Next track time and money saved.
+[00:04:39] This doesn't really appeal to Gen Z. I don't think Gen Z are spending money on
+[00:04:43] porn.
+[00:04:44] They're just like watching it for free. So this is completely missing the mark
+[00:04:49] when it comes to the younger demographic.
+[00:04:51] But as you can see, they still have 400 ratings. So whatever niche and sorry,
+[00:04:55] whatever demographic they are targeting is working.
+[00:04:57] But, you know, the most important thing to pull from this, it doesn't feel cool
+[00:05:02] . It feels like a chore.
+[00:05:03] And, you know, no young person. You're never going to see a young person using
+[00:05:09] this for sure or not.
+[00:05:10] And like, we'll get right into the details. Like, the data doesn't lie.
+[00:05:17] Most of our downloads come from under 18 year olds.
+[00:05:22] Now, sure, not everyone has a credit card to paying and actually use our app.
+[00:05:26] But most of the traffic comes from people that are under 18.
+[00:05:30] So whatever messaging we're doing is working. And I bet if we compare the data
+[00:05:34] to this, and of course it's not open source,
+[00:05:36] so we can't confirm. But I bet no one under like 25 is downloading this.
+[00:05:44] But yeah, that's like the whole point with niches and brand aesthetics.
+[00:05:48] Like maybe Quiddo won't appeal to older people because they're like, what the
+[00:05:51] fuck is this?
+[00:05:52] I want something actually serious and tangible. This feels like an actual
+[00:05:55] program. This feels like a program pretty much.
+[00:06:01] Whereas this is like, this feels like a game.
+[00:06:05] So super important to note when it comes to brand aesthetics, like understand
+[00:06:09] your demographic, understand who you are targeting.
+[00:06:11] Because if you get the messaging wrong, you're not going to succeed in who you
+[00:06:16] 're targeting.
+[00:06:18] Or you won't target the right people. So yeah, I'm going to show you how to
+[00:06:22] build a brand and how I would start building a brand based on the example
+[00:06:28] design, which is a test on Storone Max app.
+[00:06:32] Now, there are obviously two ways to spend this. You could be targeting older
+[00:06:36] gym guys who are like in their 30s who take steroids that want to be super,
+[00:06:40] super test test.
+[00:06:40] Test, test Oster Roned to the max. I've never used this macro so my apologies.
+[00:06:46] But they want to be tested to the max. They want to be fucking ripped. They
+[00:06:50] want to be super masculine, et cetera, et cetera.
+[00:06:52] So that is one way, one demographic that we can target.
+[00:06:55] The other is just young people that listen to Andrew Tate, for example, and
+[00:06:59] they're like, oh, I want to get my test Oster and up.
+[00:07:01] I think that would be really cool. Like maybe I would attract girls.
+[00:07:04] So I'm going to show you two versions of how I would build this for an older
+[00:07:08] demographic and for younger demographic.
+[00:07:10] So one of the core principles when it comes to younger is use things that are
+[00:07:16] relatable.
+[00:07:17] One of those things could be emojis. So as you can see, I'm probably going to
+[00:07:22] start this with an emoji.
+[00:07:23] Now, there are a few apps that do this.
+[00:07:28] Is it super professional? No, but that's the point. You're targeting a far
+[00:07:34] younger demographic.
+[00:07:35] So this is just less important. So here's the emoji we're going to use. We're
+[00:07:40] going to make it a little bit smaller.
+[00:07:42] There we go.
+[00:07:46] And then I'm going to change this background to be, yeah, that feels, or maybe
+[00:07:53] like a slated gray.
+[00:07:54] Like that. And then maybe I have text saying test max.
+[00:08:02] Max is a very mu age word. So it works for the younger demographic.
+[00:08:07] And we'll just do enter. That's fine. And I'll make this about 300, maybe 225.
+[00:08:14] Cool. And then I'll give it a stroke, a black stroke. We'll make it a bit
+[00:08:19] larger, maybe 10.
+[00:08:21] There we go. We'll just make this stroke green.
+[00:08:26] Or we make the text green and stroke black. Stroke black. Text green.
+[00:08:34] Yeah. This is honestly solid. Now, of course, you can say from a design
+[00:08:39] standpoint, this isn't very clean.
+[00:08:44] But it is definitely polarizing and you need to be capturing young people's
+[00:08:50] attentions.
+[00:08:51] So this would low key actually work. Maybe the stroke makes it look un
+[00:08:57] professional.
+[00:08:58] Maybe I'll just do a drop shadow instead.
+[00:09:03] Maybe a black stroke slightly. Five. Okay. That low key works.
+[00:09:17] So again, not super professional. We can make another version of this as well.
+[00:09:22] Probably without a chop as the main. We'll center this, make it about 350.
+[00:09:34] And then the spacing between, I believe that is this way.
+[00:09:43] Minus 50. Oh shit. What about vertical scaling though?
+[00:09:53] You know what is fine, I guess for now. I don't know how to use that well.
+[00:09:58] But this could work.
+[00:10:03] As a younger demographic or for younger demographic, this could totally,
+[00:10:26] totally work.
+[00:10:31] Seems really stupid, but you get the vibe I'm trying to go for.
+[00:10:36] Now, let me show you how to build a very serious older demographic.
+[00:10:42] Let me show you how to build a brand aesthetic for an older demographic based
+[00:10:48] on the same idea.
+[00:10:50] So this is going to be feeling a little bit more professional.
+[00:10:54] And maybe we get like a syringe or some test. Like something like, I can't have
+[00:11:01] emojis.
+[00:11:08] I also wouldn't put text in. Yeah, like I would probably do something like this
+[00:11:27] , honestly.
+[00:11:34] This feels more legit. All the older guys will know exactly what this means.
+[00:11:43] Maybe just TM.
+[00:12:09] And that's in the center. And then we'll just lower the opacity of this by like
+[00:12:15] 50%.
+[00:12:16] Maybe even more 30. 15. There we go.
+[00:12:24] Loki, this feels more professional and this feels more like a school project.
+[00:12:33] So I would design the TM.
+[00:12:47] Alright everyone, so now I'm going to show you how I would design the brand
+[00:12:50] aesthetics for the two different demographics of the test Austro Maxing app.
+[00:12:56] So I've already started this a little bit, but for the older demographic, we
+[00:13:00] want it to feel more professional and more serious and more like get shit done.
+[00:13:04] Because that's like these older guys motto is like I'm fueled with testosterone
+[00:13:09] , I'm jacked, I'm ripped, I'm massive, I'm scary and I want to scare you in the
+[00:13:14] process.
+[00:13:15] So all of these massive fonts and like bolded text and all caps, very
+[00:13:22] intentional.
+[00:13:24] It literally appeals to that demographic so much that they're like okay holy
+[00:13:29] shit, this is for me.
+[00:13:31] Even the app icon, it isn't that engaging, but if you know you know.
+[00:13:36] And these big testosterone heads, they know that they're symbol behind,
+[00:13:42] signifies testosterone.
+[00:13:45] So they're like okay whoever made this app knows what they're doing.
+[00:13:48] And this feels again very serious and very legit.
+[00:13:52] Whereas if we want to target a younger demographic, maybe they don't really
+[00:13:55] care as much, but they want to test it out and they want to do it in a fun way.
+[00:13:59] They don't want to destroy the competition like we say here.
+[00:14:02] They maybe want to subtly increase testosterone by playing a few games, but
+[00:14:08] they want to increase their testosterone in a game and fight away.
+[00:14:11] They want to have fun, like they're young people at the end of the day, they
+[00:14:14] don't want to go all in.
+[00:14:15] So for the younger demographic, we choose emojis and this is because emojis are
+[00:14:21] very relatable and yeah, young people use them a lot.
+[00:14:25] So it makes sense to leverage that kind of cultural significance within our app
+[00:14:31] icon and our branding.
+[00:14:33] So look at the difference here.
+[00:14:36] Test Max become manly.
+[00:14:38] It's way more passive, it's way more you know, it's easier to be a part of.
+[00:14:44] And then the line is like get jacked with easy steps.
+[00:14:48] People, young people want to cut corners, they don't really want to go all in.
+[00:14:52] So this makes more sense to them.
+[00:14:55] And a gamified weight increase testosterone.
+[00:14:58] Again, super super passive, but it also explains what the app does.
+[00:15:02] So young people will be like, okay, you know, this, I see the emoji, I see the
+[00:15:07] green font.
+[00:15:08] This seems like everything I want to achieve out of getting testosterone, I'm
+[00:15:12] going to try it.
+[00:15:13] Whereas like if I was an old guy and I saw this, I'd be like, okay, like I
+[00:15:17] bought too much fucking testosterone to weight around and get jacked with easy
+[00:15:22] steps.
+[00:15:23] I want to go fucking hard.
+[00:15:25] So when they read this, become the ultimate you, destroy the competition.
+[00:15:30] This is the one that will download and this is the one that will pay for.
+[00:15:33] This feels like a school project, but low key, if you are targeting a young dem
+[00:15:37] ographically, that's what you want.
+[00:15:38] Of course, this is a little bit difficult because we're talking about
+[00:15:42] testosterone maxing out and like our young people super interested in that.
+[00:15:47] Not sure.
+[00:15:49] If this was a social app, again, this would be really easy to sell to with emoj
+[00:15:55] is and big fonts, et cetera.
+[00:15:57] So a thing to note is
+[00:16:16] to reiterate, the most important thing about a brand is how much you appeal to
+[00:16:22] whatever demographic you're targeting.
+[00:16:25] And so you need to get these things right.
+[00:16:29] And my best advice when it comes to designing a brand, designing a product that
+[00:16:35] you end up selling and making money from and building a brand from, is just be
+[00:16:39] the consumer yourself.
+[00:16:41] For example, Zach, well, actually, I'm going to use me as an example, but I don
+[00:16:46] 't want to, it's not like I'm fucking joking off every day.
+[00:16:49] I'm just saying like, I'm going to use me as an example.
+[00:16:52] I went down self improvement and, you know, quitting porn is a part of that.
+[00:16:58] The reason it's so difficult in self improvement is because it's so accessible.
+[00:17:02] The algorithms are filled with this soft, cool, porn material because that gets
+[00:17:10] the most engagement.
+[00:17:12] And so anyone that's trying to quit kind of just battles with themselves, there
+[00:17:16] 's no real good solution.
+[00:17:18] So I was like, okay, what if I made it fun, made it cutting edge, and I made it
+[00:17:22] cool to actually begin quitting?
+[00:17:23] So I was that person.
+[00:17:27] So I knew exactly what I would pay for and what I would use. So I just built it
+[00:17:33] .
+[00:17:33] Now, of course, this isn't like super tangible advice because you could be the
+[00:17:38] demographic and it could still, like the brand said this could still suck.
+[00:17:42] But the most important things to know are if it's for younger people, just try
+[00:17:48] and make it a bit more cool and a little bit more relaxed and laid back.
+[00:17:52] And if it's for older people, kind of just make it seem more professional, more
+[00:17:58] serious and more like a program.
+[00:18:02] And it could be more boring as well.
+[00:18:09] And so, yeah, another big advice.
+[00:18:15] And you know what, I'll close this by saying anything you do when it comes to
+[00:18:20] your color scheme, your font sizes and your language, don't switch it up at all
+[00:18:24] throughout your app.
+[00:18:25] Make sure your brand is cohesive and it's representing itself in almost
+[00:18:30] everything you do.
+[00:18:31] As soon as you start mixing fonts together, you lose that brand aura.
+[00:18:36] Now, it is fine if the font isn't completely the same. Like maybe I want to do
+[00:18:42] this Canada.
+[00:18:43] I think this is low key fine, but any more than three different fonts, it won't
+[00:18:49] work.
+[00:18:50] It just feels sloppy.
+[00:18:53] And brands gain respect because you fill the time, the dedication, the
+[00:18:58] messaging throughout it.
+[00:19:00] Quitter is such a strong brand because we've been here around for a year, we've
+[00:19:04] put a bunch of cool stunts, we're on a mission to take down the porn industry,
+[00:19:08] the UI is super fucking clean, the app works really well.
+[00:19:12] And that's how we built our brand.
+[00:19:14] But if we started using all these brand different colors and didn't represent
+[00:19:21] the brand as true to itself and always try to do different shit, it was hard to
+[00:19:25] pretend to be explained what I mean by that.
+[00:19:27] But stick to your core messaging and don't switch it up.
+[00:19:32] Actually, I can give a great example.
+[00:19:34] And this is so off topic, but it kind of works.
+[00:19:37] This is my profile picture.
+[00:19:39] It's me looking up the sky blue background from a year ago.
+[00:19:44] This has built a brand.
+[00:19:45] I've built a brand in myself by repping this profile picture.
+[00:19:51] As soon as I change my profile picture, I'm going to need to build my brand
+[00:19:55] again.
+[00:19:56] Now of course it's going to be easier because I'm using the Alex Slater name,
+[00:20:00] but it's generally a bad strategy to switch up branding.
+[00:20:07] And even Quitter, Quitter's logo has not changed since the beginning.
+[00:20:12] Our mission has not changed since the beginning.
+[00:20:15] And so one of my greatest advice is just stick to what you have, as long as you
+[00:20:20] 're happy with it of course, and keep growing that.
+[00:20:25] Don't change things around.
+[00:20:27] You can change the App Store screenshots.
+[00:20:28] They aren't really that important.
+[00:20:31] If you want to use the language, the fonts, the logo, try to keep that uniform
+[00:20:35] throughout everything you do.
+[00:20:37] And so if I went into this app, maybe I would copy the font that I just used
+[00:20:43] from my super serious version.
+[00:20:45] So what font is this?
+[00:20:47] Can it?
+[00:20:48] So go into this.
+[00:20:49] And instead of "inter", we use "can it".
+[00:20:52] There you go.
+[00:20:53] And maybe we want to make this all caps.
+[00:20:55] Facial analysis.
+[00:20:56] There we go.
+[00:20:58] And then we'll have the logo, "TM", right?
+[00:21:01] We'll copy this.
+[00:21:03] "TM", or "testo".
+[00:21:06] Or maybe we want this to be the "can it" off one, which also works.
+[00:21:14] So having a different font for the logo and like different font for the text,
+[00:21:18] for the text, works well too.
+[00:21:20] We see this with Instagram, we see this with Twitter, etc.
+[00:21:23] And that's how you build a brand.
+[00:21:26] 101, how you build a brand.
+[00:21:30] But yeah.
+[00:21:32] I'm going to move this down a copy here just so you guys are aware.
+[00:21:36] Shit.
+[00:21:39] But yeah.
+[00:21:41] Peace out boys.

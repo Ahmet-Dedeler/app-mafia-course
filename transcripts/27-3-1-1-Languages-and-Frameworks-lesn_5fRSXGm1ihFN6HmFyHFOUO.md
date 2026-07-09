@@ -1,0 +1,10 @@
+# 3.1.1 - Languages and Frameworks
+
+Chapter: Module 3 - Development
+Lesson ID: lesn_5fRSXGm1ihFN6HmFyHFOUO
+Duration: 2:08
+Captions: English (en)
+
+## Transcript
+
+Okay, great. Now we've caught up. It's time to get into nitty-gritty of the technical things we'll be using to build this application. I will start by saying the language we'll be using is SwiftUI, which is a language developed by Apple. And I generally recommend it for building apps. There are other platforms like React Native or Expo or Flutter, but they aren't as smooth as SwiftUI. And so I would totally recommend that. That's all I coded with. Now the problem with it is that it's limited to iOS and iPhones for now. I know they are working on like an Android version, but for now it's only iPhones, which means you won't be able to sell your app on Android. But in my opinion, it doesn't really matter in the early days because most of the revenue is generated from Apple devices in the US specifically. Well, because the US is so rich and the US's market penetration with iPhones is 99%. So you shouldn't really worry about Android too much. Also, all of these massive apps like Instagram, for example, they're built on SwiftUI for iOS and then they're built on something else for Android. I think it's Kotlin. So it's just like very, like it's optimizing for the platform that it's sold on. So I wouldn't think about multi-platform right now. Yeah, and like even my friend Blake Anderson, he built, I think it was 10x or it was Apex or something on React Native during PMF or Die. And then rebuilt it from scratch because it wasn't that smooth on iOS and he like optimized for things being smooth. And the reason you optimize for things being smooth, intuitive and natural, etc. is because it's easier to sell. Whereas if something's jittery or you can feel it like not really being designed for you, people are more likely to churn or not actually pay for a subscription. So these are some things to keep in mind when it comes to choosing the language, but this tutorial will be in SwiftUI because that's what I'm most comfortable with and that's all I know how to code in.

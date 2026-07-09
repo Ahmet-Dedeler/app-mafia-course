@@ -1,0 +1,301 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.960
+People are always asking about our tech stack and the different tools that we
+
+2
+00:00:03.960 --> 00:00:06.000
+use in the process of building and scaling apps.
+
+3
+00:00:06.000 --> 00:00:11.000
+So here it is. Quick disclaimer, we are sponsored by some of these apps.
+
+4
+00:00:11.000 --> 00:00:14.720
+But we first came up with the list of all the most important products that we
+
+5
+00:00:14.720 --> 00:00:15.000
+used.
+
+6
+00:00:15.000 --> 00:00:19.410
+And then we reached out to them and we said, "Hey, which of you guys want to
+
+7
+00:00:19.410 --> 00:00:21.000
+have an affiliate code?"
+
+8
+00:00:21.000 --> 00:00:24.400
+You do get a discount with some of them, so I would highly recommend using the
+
+9
+00:00:24.400 --> 00:00:28.000
+link provided or the code mafia at checkout.
+
+10
+00:00:28.000 --> 00:00:32.620
+All right, let's get started. So you'll notice that we don't have any for ide
+
+11
+00:00:32.620 --> 00:00:33.000
+ation.
+
+12
+00:00:33.000 --> 00:00:37.000
+I don't use any tools currently in the process of ideation.
+
+13
+00:00:37.000 --> 00:00:42.010
+For design, we use Figma. It's the only tool that you should be designing your
+
+14
+00:00:42.010 --> 00:00:43.000
+consumer apps in.
+
+15
+00:00:43.000 --> 00:00:48.940
+And then Zitlac Media, when we need additional design bandwidth for design
+
+16
+00:00:48.940 --> 00:00:50.000
+sprints.
+
+17
+00:00:50.000 --> 00:00:55.290
+Now, if I'm hiring a designer, I'll usually use Upwork or Dribble to source
+
+18
+00:00:55.290 --> 00:00:56.000
+them.
+
+19
+00:00:56.000 --> 00:01:02.000
+For development, for the front end, we use cursor, Xcode, and SwiftUI.
+
+20
+00:01:02.000 --> 00:01:06.070
+I've gone back and forth between SwiftUI and React Native, but I've pretty much
+
+21
+00:01:06.070 --> 00:01:07.000
+settled that.
+
+22
+00:01:07.000 --> 00:01:12.650
+Build first in SwiftUI, and then if you're at the successful, build an Android
+
+23
+00:01:12.650 --> 00:01:17.000
+version either in React Native and/or Kotlin.
+
+24
+00:01:17.000 --> 00:01:23.410
+For the back end, we use Superbase and OpenAI. Superbase is our database, and
+
+25
+00:01:23.410 --> 00:01:26.000
+then OpenAI for AI functionality.
+
+26
+00:01:26.000 --> 00:01:32.310
+Now, you can also use Firebase or AWS or Inthropic or Grock, but these two seem
+
+27
+00:01:32.310 --> 00:01:35.000
+to be the gold standard right now.
+
+28
+00:01:35.000 --> 00:01:40.000
+Superball, I cannot emphasize this enough. You should always use Superball.
+
+29
+00:01:40.000 --> 00:01:44.960
+I have been promoting them for the longest time, only just recently, instead of
+
+30
+00:01:44.960 --> 00:01:47.000
+a sponsorship deal with them,
+
+31
+00:01:47.000 --> 00:01:53.000
+but they're the most important product to use. I use it for every single app.
+
+32
+00:01:53.000 --> 00:01:56.000
+It is absolutely non-negotiable.
+
+33
+00:01:56.000 --> 00:02:02.000
+Mixpanel for analytics, appsfire for attribution of your paid ads.
+
+34
+00:02:02.000 --> 00:02:08.080
+For distribution, we've recently set up an exclusive deal with Creators Corner.
+
+35
+00:02:08.080 --> 00:02:13.000
+We are the only app sort of studio, I guess, that they will work with.
+
+36
+00:02:13.000 --> 00:02:17.970
+They are by far the best in the game. There's no contest. They've only been
+
+37
+00:02:17.970 --> 00:02:20.000
+doing TikTok Shop pretty much for the past couple of years,
+
+38
+00:02:20.000 --> 00:02:23.680
+because that's where Creators make more money. But I'm really good friends with
+
+39
+00:02:23.680 --> 00:02:25.000
+Jimmy Farley, one of the founders,
+
+40
+00:02:25.000 --> 00:02:29.000
+and he agreed to set up an exclusive deal. They will not work with everybody,
+
+41
+00:02:29.000 --> 00:02:32.990
+but if you are lucky enough to be able to hire their creators, they are no
+
+42
+00:02:32.990 --> 00:02:36.000
+question the best in the game.
+
+43
+00:02:36.000 --> 00:02:41.600
+They're the only UGC agency that I've ever worked with that actually produced
+
+44
+00:02:41.600 --> 00:02:43.000
+massive returns.
+
+45
+00:02:43.000 --> 00:02:47.670
+Every single other one, almost everyone that you see on Twitter, they don't do
+
+46
+00:02:47.670 --> 00:02:51.000
+it. They're not actually good Creators Corner is.
+
+47
+00:02:51.000 --> 00:02:57.000
+Grow-y, good for tracking, good for tracking the results of individual posts,
+
+48
+00:02:57.000 --> 00:03:00.000
+so influencer UGC gives you better data.
+
+49
+00:03:00.000 --> 00:03:07.740
+Founder's arm is so important. Founder's arm, you can hire VAs from them, they
+
+50
+00:03:07.740 --> 00:03:09.000
+source VAs.
+
+51
+00:03:09.000 --> 00:03:15.480
+Call AI, we have about 35 employees. Over half of them are VAs from Founder's
+
+52
+00:03:15.480 --> 00:03:16.000
+arm.
+
+53
+00:03:16.000 --> 00:03:21.160
+VAs are important for reaching out to influencers, managing UGC creators, and
+
+54
+00:03:21.160 --> 00:03:24.000
+almost any monotonous tasks that you have in your business,
+
+55
+00:03:24.000 --> 00:03:29.400
+like any other VA sourcing agency that I've used cannot compare to Founder's
+
+56
+00:03:29.400 --> 00:03:30.000
+arm.
+
+57
+00:03:30.000 --> 00:03:36.650
+Valid AI, it's paid out agency. Most I've worked with aren't good. They're
+
+58
+00:03:36.650 --> 00:03:39.000
+pretty good, so I'd recommend them.
+
+59
+00:03:39.000 --> 00:03:45.780
+Must-haves, so this is kind of like the tools that you're going to use in the
+
+60
+00:03:45.780 --> 00:03:49.000
+process of running your business.
+
+61
+00:03:49.000 --> 00:03:54.210
+Parker for banking, we're working with Parker to set up instant payouts at a
+
+62
+00:03:54.210 --> 00:03:58.000
+lower interest rate than anywhere else on the market for app developers.
+
+63
+00:03:58.000 --> 00:04:02.360
+If you've ever been paid out, you understand that the 45-day net payout cycle
+
+64
+00:04:02.360 --> 00:04:03.000
+sucks.
+
+65
+00:04:03.000 --> 00:04:07.450
+It's horrible, makes it almost impossible to scale in the early days. So,
+
+66
+00:04:07.450 --> 00:04:12.000
+highly-recommend Parker, alternatively, you can also use Mercury.
+
+67
+00:04:12.000 --> 00:04:18.000
+Stripe Atlas for setting up your LLC or C-Corp, Slack for managing your team.
+
+68
+00:04:18.000 --> 00:04:21.580
+You might want to use iMessage or Discord that's fine. You can use it in the
+
+69
+00:04:21.580 --> 00:04:25.000
+early days, but as you scale, I usually just recommend using Slack.
+
+70
+00:04:25.000 --> 00:04:30.110
+And then Rome as well. Rome, you definitely don't need unless you have a team
+
+71
+00:04:30.110 --> 00:04:36.000
+grid and 5-10 people, but Rome is essentially a virtual office.
+
+72
+00:04:36.000 --> 00:04:40.000
+It makes it a lot easier to manage your team as you scale.
+
+73
+00:04:40.000 --> 00:04:46.000
+So, please use the links attached here and/or use the code MAFIA.
+
+74
+00:04:46.000 --> 00:04:50.330
+But, yeah, this is our tech stack. If you have any questions, let us know. We
+
+75
+00:04:50.330 --> 00:04:53.000
+can update this as we move forward in the future.

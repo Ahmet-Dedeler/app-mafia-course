@@ -1,0 +1,142 @@
+[00:00:00] Okay, so I just wanted to touch briefly now on Apple search ads.
+[00:00:06] Prior to this, everything we went through, that's pretty applicable to all
+[00:00:10] major pay-per-click
+[00:00:11] ad platforms.
+[00:00:12] Google, Snapchat ads, Facebook, which includes Instagram and, well, meta, which
+[00:00:19] includes
+[00:00:19] Instagram and Facebook and TikTok ads, basically all run in a very similar way
+[00:00:23] where it's campaign
+[00:00:24] and ad set ads.
+[00:00:26] And so, Apple search ads is very different.
+[00:00:32] Apple search ads are ads in places like shown here.
+[00:00:36] You can see, oops, okay, so you can see ads that come up in the suggested area
+[00:00:44] when you
+[00:00:45] first go on the App Store.
+[00:00:46] When you look up a keyword, something will come up at the top.
+[00:00:50] In today, you can see an ad.
+[00:00:52] So at the bottom of other apps, you will see other recommended apps.
+[00:00:57] So when you look up, for example, Cal AI, at the top, there is an ad that comes
+[00:01:08] up because
+[00:01:09] people bid on our keywords.
+[00:01:11] So there's actually this app that's super annoying, a clone app called CalDIAi
+[00:01:17] that is
+[00:01:17] bidding on the word Cal AI.
+[00:01:19] Now we bid on it too.
+[00:01:20] We have it about 50 to 60% of the time.
+[00:01:25] You, it's very hard to get it 100% of the time.
+[00:01:29] If you want to be like somewhat reasonably, like break even or anything.
+[00:01:35] But yeah, it's like these things turn into bidding wars and dog fights over
+[00:01:40] inventory very,
+[00:01:41] very quickly.
+[00:01:42] So the two websites that you'll really need for this is the Apple search ads.
+[00:01:49] And they have an advanced mode.
+[00:01:51] They also have a basic mode.
+[00:01:53] I'm not going to go too in depth or really that in depth at all, really into
+[00:01:58] setting
+[00:01:58] this up.
+[00:01:59] I'd suggest if you want to just get off the ground running, maybe just do the
+[00:02:02] basic mode,
+[00:02:03] you can look into how to get more advanced yourself.
+[00:02:07] But if you do actually want to run the strategy and start running up a lot of
+[00:02:13] downloads from
+[00:02:14] Apple search ads, I would recommend, I would definitely recommend the platform
+[00:02:18] search ad
+[00:02:18] optimization.com.
+[00:02:21] And essentially it helps with AI and all kinds of stuff to help you optimize
+[00:02:28] your bids.
+[00:02:30] We're actually on the website because we use them.
+[00:02:32] And I really like the founder.
+[00:02:34] It's a cool guy.
+[00:02:35] Spent a lot of time and care building out this platform.
+[00:02:37] He's also always willing to help people on it.
+[00:02:39] So it's a small, it's a small team.
+[00:02:41] Not that many people use it right now.
+[00:02:44] The platform is great.
+[00:02:46] It helps you do keyword research and helps you with a lot of research insights,
+[00:02:54] anything
+[00:02:55] you need in order to basically figure out which keywords you should start
+[00:03:00] bidding on.
+[00:03:01] Basically the whole strategy comes down to grouping keywords into different
+[00:03:08] groups, grouping
+[00:03:09] keywords and then bidding on those keywords together.
+[00:03:13] So for example, here we are bidding, and this is unprofitable in calorie
+[00:03:17] tracker and calorie
+[00:03:18] counter.
+[00:03:19] We are, the reason we are doing this and spending 2.5k a day, I'm zoomed in
+[00:03:25] right now,
+[00:03:26] I'm ID you guys.
+[00:03:27] So we are bidding on these two words, calorie counter and calorie tracker, un
+[00:03:32] profitable
+[00:03:33] right now.
+[00:03:34] We only have about a 50% ROAS because we're trying to get higher on the ranks
+[00:03:38] when you
+[00:03:38] look up calorie tracker or calorie counter.
+[00:03:40] Honestly, I think we're bidding a little too high, I just sent a message to the
+[00:03:43] guy on
+[00:03:44] our team who runs this and we're going to try to be more profitable on this.
+[00:03:49] You can see the green is the revenue, the blue is what we're spending.
+[00:03:52] I'm making it a little more clear.
+[00:03:56] It's three days late because we have the three day free trial, but then you'll
+[00:03:59] see like we're
+[00:04:00] losing, we're definitely losing money on this a few hundred dollars a day.
+[00:04:04] And we have our brand keywords and this is the brand protection element we were
+[00:04:07] talking
+[00:04:07] about.
+[00:04:08] We're bidding on the term Kalei and our impression here is only 50% of the time
+[00:04:12] .
+[00:04:13] So the other 50, it's like these random clone apps that are just copying us.
+[00:04:17] We're spending 2k a day on this.
+[00:04:18] We could spend more and protect it more, get more than 50%.
+[00:04:21] But honestly, I don't think like the long, long term we're going to be hurt by
+[00:04:27] these
+[00:04:28] low quality clones bidding on us.
+[00:04:31] And they're definitely not profitable.
+[00:04:32] So it's not a big risk for us.
+[00:04:34] But then there's discovery broad groups where I believe it actually goes out
+[00:04:38] and finds keywords
+[00:04:39] for you.
+[00:04:41] And this is great because then you just give it a budget, it will find keywords
+[00:04:45] and it
+[00:04:45] will spend.
+[00:04:47] And this whole thing, it like has an AI optimizer.
+[00:04:51] So every three days, this will automatically change our budgets for everything
+[00:04:56] to make
+[00:04:56] sure that we are profitable, which is very cool.
+[00:04:59] I heavily recommend this platform.
+[00:05:01] I am just like really quick, there's like two features here on how to do it.
+[00:05:06] I'm not going to do a full guide.
+[00:05:08] But the two core things you need to know is scaling up or down the max cost per
+[00:05:14] tap,
+[00:05:14] the max you're willing to bid for someone to click on your app.
+[00:05:18] And then also changing the price.
+[00:05:21] And it's this or not the price, but how much you're willing to spend per day.
+[00:05:24] And it's this balance of daily budget versus the max cost per tap that first of
+[00:05:31] all, give
+[00:05:31] you the impression share and gives you the impression share and the ROAS that
+[00:05:37] you want.
+[00:05:38] If your max cost per tap is too low, then you actually will just not spend any
+[00:05:43] of this.
+[00:05:44] And you could see if the budget is too low, like you will, you'll see right
+[00:05:50] here, our max
+[00:05:51] cost per tap is a dollar and 11 cents and other people are bidding more than us
+[00:05:54] .
+[00:05:55] So we are, we are barely spending.
+[00:05:58] We said you're allowed to spend up to 2.2k, but it's only spending $462.
+[00:06:06] Definitely look more into this.
+[00:06:07] If you're interested, it's a, I think Apple search ads are definitely worth the
+[00:06:13] investment.
+[00:06:14] Early on, I would be careful with, I showed a bunch of different distribution
+[00:06:18] platforms
+[00:06:18] through this con or showed some as well.
+[00:06:20] I would pick one and go hard on it.
+[00:06:23] If you try to do all of them at once, you're more likely to fail at each one
+[00:06:29] individually.
+[00:06:30] I think we're good here.
+[00:06:32] I think we are anything else I'm missing, maybe not.
+[00:06:36] I mean, I know I didn't go that in depth in this, but I'm honestly not too much
+[00:06:42] of
+[00:06:42] an expert.
+[00:06:43] Otherwise I would have.
+[00:06:44] It's just about finding the right keywords and then bidding.
+[00:06:46] Okay.
+[00:06:47] So you guys in the next section.

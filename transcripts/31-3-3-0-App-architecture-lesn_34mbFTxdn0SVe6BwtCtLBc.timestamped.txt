@@ -1,0 +1,24 @@
+[00:00:00] Now, if you're pretty serious about coding long term, this is very important to
+[00:00:04] know.
+[00:00:05] Whereas if you're just following this tutorial, it's fine.
+[00:00:07] I will match this architecture anyway.
+[00:00:10] But the most optimal way to structure code in SwiftUI is model, view, model,
+[00:00:16] and view.
+[00:00:18] So the view model kind of acts as the back end and that back end works with the
+[00:00:22] front
+[00:00:23] end and also the models to make a very cohesive app.
+[00:00:27] That was might be confusing, there's a little diagram on the screen that
+[00:00:30] explains how it
+[00:00:31] works, like user actions from the view, go back to the view model and that
+[00:00:34] transmutes
+[00:00:35] back to the model and then the view.
+[00:00:37] It's a pretty simple structure, but I generally recommend knowing or
+[00:00:40] understanding this before
+[00:00:42] we get started instead of overcomplicating code, et cetera, et cetera.
+[00:00:45] But as I said, during this tutorial, I will stick to this architecture anyway,
+[00:00:49] so you have
+[00:00:50] nothing to worry about.
+[00:00:51] But longer term, it's important to know this is very fundamental in a long
+[00:00:57] lasting app.
+[00:00:57] We'll say that.
+[00:00:58] [BLANK_AUDIO]

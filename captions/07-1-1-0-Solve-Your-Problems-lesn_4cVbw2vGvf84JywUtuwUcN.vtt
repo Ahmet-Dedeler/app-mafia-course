@@ -1,0 +1,1413 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:14.660
+Lesson 4 or less than 1.1.0, this is module 1, unit 1, less than 0.
+
+2
+00:00:14.660 --> 00:00:16.820
+Solve your own problems.
+
+3
+00:00:16.820 --> 00:00:21.640
+Okay, this unit will be about solving problems.
+
+4
+00:00:21.640 --> 00:00:26.560
+This is an actual tangible problem identification, not to be confused with the
+
+5
+00:00:26.560 --> 00:00:27.520
+previous unit
+
+6
+00:00:27.520 --> 00:00:30.000
+which was an introduction.
+
+7
+00:00:30.000 --> 00:00:35.400
+Going over case studies, the trade-offs of idea versus execution and the underp
+
+8
+00:00:35.400 --> 00:00:35.760
+innings
+
+9
+00:00:35.760 --> 00:00:37.160
+of human psychology, right?
+
+10
+00:00:37.160 --> 00:00:46.330
+This is all to line up for this being the sort of main unit of this module 1
+
+11
+00:00:46.330 --> 00:00:47.380
+that is
+
+12
+00:00:47.380 --> 00:00:49.840
+ideation.
+
+13
+00:00:49.840 --> 00:00:53.360
+After this we'll go over deeper analysis.
+
+14
+00:00:53.360 --> 00:00:58.400
+Once you have an idea, going into seeing how much other apps in the category
+
+15
+00:00:58.400 --> 00:00:59.280
+make, scrolling
+
+16
+00:00:59.280 --> 00:01:02.080
+the app store.
+
+17
+00:01:02.080 --> 00:01:05.880
+But for now, let's talk about solving problems.
+
+18
+00:01:05.880 --> 00:01:11.160
+Okay, so previously I stated that the closer you are, or your product is to the
+
+19
+00:01:11.160 --> 00:01:12.000
+biological
+
+20
+00:01:12.000 --> 00:01:17.120
+imperative, the more likely you are to succeed.
+
+21
+00:01:17.120 --> 00:01:24.070
+Now the closer your product is to your own problems, some of the problems that
+
+22
+00:01:24.070 --> 00:01:25.920
+you experience,
+
+23
+00:01:25.920 --> 00:01:29.040
+the more likely you are to succeed.
+
+24
+00:01:29.040 --> 00:01:32.000
+Now this should be intuitive, this should be obvious.
+
+25
+00:01:32.000 --> 00:01:37.080
+When you build for other people, you do not fully understand the pain points.
+
+26
+00:01:37.080 --> 00:01:40.240
+You have experienced them yourself.
+
+27
+00:01:40.240 --> 00:01:44.800
+The more empathetic and emotionally intelligent you are, the more you can make
+
+28
+00:01:44.800 --> 00:01:46.000
+up for this.
+
+29
+00:01:46.000 --> 00:01:53.590
+But there is no better observer than the individual that experiences the
+
+30
+00:01:53.590 --> 00:01:54.880
+problem.
+
+31
+00:01:54.880 --> 00:01:58.640
+You rely on secondhand feedback, which is incomplete or misleading.
+
+32
+00:01:58.640 --> 00:02:05.820
+So if you try to practice empathy or speak to people that experience the
+
+33
+00:02:05.820 --> 00:02:07.520
+problem, you
+
+34
+00:02:07.520 --> 00:02:15.080
+are just one level of abstraction away from experiencing the problem itself.
+
+35
+00:02:15.080 --> 00:02:18.280
+Now this is very key for founders to understand.
+
+36
+00:02:18.280 --> 00:02:23.890
+Most people are very, very poor at articulating their problems and in fact have
+
+37
+00:02:23.890 --> 00:02:24.680
+actually no
+
+38
+00:02:24.680 --> 00:02:30.010
+idea what the serious or biggest problems that they experience in their life
+
+39
+00:02:30.010 --> 00:02:30.600
+are.
+
+40
+00:02:30.600 --> 00:02:34.720
+Now sometimes they subconsciously or almost always subconsciously know, but
+
+41
+00:02:34.720 --> 00:02:35.560
+make consciously
+
+42
+00:02:35.560 --> 00:02:38.720
+articulated as being something else.
+
+43
+00:02:38.720 --> 00:02:44.760
+This is also an issue with user feedback, which I will get into later.
+
+44
+00:02:44.760 --> 00:02:53.080
+So speaking to others is helpful, but it's best to solve your own problems.
+
+45
+00:02:53.080 --> 00:02:58.760
+Finally, you will lack the emotional urgency necessary to push through the hard
+
+46
+00:02:58.760 --> 00:02:58.840
+moments.
+
+47
+00:02:58.840 --> 00:03:03.270
+In the journey of building any product, there will be difficult moments where
+
+48
+00:03:03.270 --> 00:03:03.920
+it's easier
+
+49
+00:03:03.920 --> 00:03:08.480
+to take the path of least resistance and give up and move on to something else.
+
+50
+00:03:08.480 --> 00:03:12.670
+Now when you care about the problem, it will make it easier to push through and
+
+51
+00:03:12.670 --> 00:03:13.240
+continue
+
+52
+00:03:13.240 --> 00:03:15.640
+working on it.
+
+53
+00:03:15.640 --> 00:03:18.560
+I mentioned earlier that it's okay to build for money.
+
+54
+00:03:18.560 --> 00:03:21.040
+Do you want to build a product because it's going to make cash and at the end
+
+55
+00:03:21.040 --> 00:03:21.400
+of the day
+
+56
+00:03:21.400 --> 00:03:23.120
+you want cash?
+
+57
+00:03:23.120 --> 00:03:27.600
+That can simultaneously be true while it also being the case that it's better
+
+58
+00:03:27.600 --> 00:03:28.440
+to build around
+
+59
+00:03:28.440 --> 00:03:30.360
+things that you care about.
+
+60
+00:03:30.360 --> 00:03:34.840
+So if you do care about money, figure out how to build something that makes
+
+61
+00:03:34.840 --> 00:03:35.560
+money and
+
+62
+00:03:35.560 --> 00:03:38.440
+solves something that you care about.
+
+63
+00:03:38.440 --> 00:03:42.580
+Now a very, very, very important caveat is that an individual only experiences
+
+64
+00:03:42.580 --> 00:03:44.360
+so many problems.
+
+65
+00:03:44.360 --> 00:03:48.620
+So the next best option is to solve the problems that are experienced by your
+
+66
+00:03:48.620 --> 00:03:49.440
+close friends
+
+67
+00:03:49.440 --> 00:03:50.440
+or family.
+
+68
+00:03:50.440 --> 00:03:54.120
+Okay, let's get tangible.
+
+69
+00:03:54.120 --> 00:03:59.020
+When I was building a holly, the College of Marketplace app, the problem that I
+
+70
+00:03:59.020 --> 00:03:59.880
+identified
+
+71
+00:03:59.880 --> 00:04:05.530
+was that girls specifically were buying and selling clothing in group meets on
+
+72
+00:04:05.530 --> 00:04:06.200
+college
+
+73
+00:04:06.200 --> 00:04:08.200
+campuses.
+
+74
+00:04:08.200 --> 00:04:11.640
+Now I had some friends that experienced this as well and so the first thing
+
+75
+00:04:11.640 --> 00:04:12.120
+that I did
+
+76
+00:04:12.120 --> 00:04:16.430
+was I spoke to my friends, both guys and girls and just other girls that I knew
+
+77
+00:04:16.430 --> 00:04:16.800
+were
+
+78
+00:04:16.800 --> 00:04:20.330
+very active in these group meets to hear about the problems that they
+
+79
+00:04:20.330 --> 00:04:21.400
+experienced.
+
+80
+00:04:21.400 --> 00:04:22.560
+I thought that I was doing the right thing.
+
+81
+00:04:22.560 --> 00:04:24.960
+I was like, okay, this is how you solve problems.
+
+82
+00:04:24.960 --> 00:04:29.840
+Now there were a lot of other factors that made it difficult.
+
+83
+00:04:29.840 --> 00:04:33.240
+But one thing that we kept running into was I was constantly trying to put
+
+84
+00:04:33.240 --> 00:04:33.840
+myself in the
+
+85
+00:04:33.840 --> 00:04:38.620
+shoes of a girl who wants to figure out what's going to look best for her date
+
+86
+00:04:38.620 --> 00:04:39.960
+nights and
+
+87
+00:04:39.960 --> 00:04:42.680
+sorority parties and whatnot.
+
+88
+00:04:42.680 --> 00:04:45.970
+But that's not who I am and I've actually never really cared about clothing to
+
+89
+00:04:45.970 --> 00:04:46.320
+begin
+
+90
+00:04:46.320 --> 00:04:49.240
+with.
+
+91
+00:04:49.240 --> 00:04:53.360
+Now as we're working on it, senior year is coming to an end.
+
+92
+00:04:53.360 --> 00:04:54.360
+This is the spring.
+
+93
+00:04:54.360 --> 00:04:57.800
+I'm like, man, I kind of see writing was on the wall.
+
+94
+00:04:57.800 --> 00:04:59.440
+It's not going to work.
+
+95
+00:04:59.440 --> 00:05:01.440
+So I started thinking about other things that I want to solve.
+
+96
+00:05:01.440 --> 00:05:04.800
+And at this time, I actually began working on a few different projects.
+
+97
+00:05:04.800 --> 00:05:09.640
+One that I started working on was a sort of science-based hypertrophy maxim
+
+98
+00:05:09.640 --> 00:05:11.640
+ization software.
+
+99
+00:05:11.640 --> 00:05:15.230
+I actually know the founders of many of the most popular ones like Fitness AI
+
+100
+00:05:15.230 --> 00:05:15.960
+and whatnot
+
+101
+00:05:15.960 --> 00:05:17.280
+on the market.
+
+102
+00:05:17.280 --> 00:05:21.580
+And the algorithms that they, the ML, they're essentially solver algorithms
+
+103
+00:05:21.580 --> 00:05:22.800
+that they use
+
+104
+00:05:22.800 --> 00:05:27.950
+are pretty rudimentary as well as they don't account for some of the more
+
+105
+00:05:27.950 --> 00:05:29.440
+complex variables
+
+106
+00:05:29.440 --> 00:05:32.160
+in regards to maximizing hypertrophy.
+
+107
+00:05:32.160 --> 00:05:35.600
+Not to get too granular, but just to give an example, the way that a lot of
+
+108
+00:05:35.600 --> 00:05:36.360
+these software's
+
+109
+00:05:36.360 --> 00:05:41.760
+work is we have some threshold that we look to hit on weekly volume for the
+
+110
+00:05:41.760 --> 00:05:42.560
+number of
+
+111
+00:05:42.560 --> 00:05:44.360
+sets targeting chest.
+
+112
+00:05:44.360 --> 00:05:45.360
+Okay.
+
+113
+00:05:45.360 --> 00:05:50.160
+So, exercise like bench, they might call that one set for chest stimulus.
+
+114
+00:05:50.160 --> 00:05:54.840
+The issue with that is a compound exercise like bench also works your triceps
+
+115
+00:05:54.840 --> 00:05:55.360
+and your
+
+116
+00:05:55.360 --> 00:05:59.280
+shoulders or front delts.
+
+117
+00:05:59.280 --> 00:06:01.600
+But it also incurs significantly more fatigue.
+
+118
+00:06:01.600 --> 00:06:06.050
+So when you say that a set of benches, one set for chest and a set of tricep
+
+119
+00:06:06.050 --> 00:06:06.960
+extensions
+
+120
+00:06:06.960 --> 00:06:14.880
+is one set for triceps, that is an over massive oversimplification with regards
+
+121
+00:06:14.880 --> 00:06:16.040
+to comprehensive,
+
+122
+00:06:16.040 --> 00:06:20.080
+total fatigue accumulated as well as relative hypertraffic stimulus across
+
+123
+00:06:20.080 --> 00:06:21.080
+different muscle
+
+124
+00:06:21.080 --> 00:06:22.240
+groups.
+
+125
+00:06:22.240 --> 00:06:28.040
+So, that was one thing that I was working on.
+
+126
+00:06:28.040 --> 00:06:32.300
+And so that was a problem that I intimately experienced myself wanting to know
+
+127
+00:06:32.300 --> 00:06:32.680
+what I
+
+128
+00:06:32.680 --> 00:06:36.440
+can do in the gym to make sure that I'm maximizing my gains.
+
+129
+00:06:36.440 --> 00:06:42.010
+Now a problem that people very close to me experienced was what to say on
+
+130
+00:06:42.010 --> 00:06:43.320
+dating apps.
+
+131
+00:06:43.320 --> 00:06:45.800
+I experienced it myself too, right?
+
+132
+00:06:45.800 --> 00:06:49.710
+The point here isn't that I don't know how to talk to girls, but that sometimes
+
+133
+00:06:49.710 --> 00:06:50.280
+you receive
+
+134
+00:06:50.280 --> 00:06:54.660
+a message and you're like, "Hmm, what's the proper amount of flirtyness versus
+
+135
+00:06:54.660 --> 00:06:55.240
+straight
+
+136
+00:06:55.240 --> 00:07:01.280
+forwardness to respond to maximize my probability of developing a connection
+
+137
+00:07:01.280 --> 00:07:02.760
+with this girl?"
+
+138
+00:07:02.760 --> 00:07:04.480
+That's some people's objective.
+
+139
+00:07:04.480 --> 00:07:07.120
+Other people's objective is how to have sex with her, right?
+
+140
+00:07:07.120 --> 00:07:08.920
+We can call us beta-spade.
+
+141
+00:07:08.920 --> 00:07:12.360
+Different people have different objectives.
+
+142
+00:07:12.360 --> 00:07:18.030
+So given that chat GPT had just come out, we were like, "This can easily be
+
+143
+00:07:18.030 --> 00:07:19.040
+solved."
+
+144
+00:07:19.040 --> 00:07:22.360
+So we built an app where we can upload the screenshot, slide the spiciness,
+
+145
+00:07:22.360 --> 00:07:23.040
+essentially
+
+146
+00:07:23.040 --> 00:07:27.350
+according to whether or not you want to be a little bit more tame or more
+
+147
+00:07:27.350 --> 00:07:28.440
+straightforward
+
+148
+00:07:28.440 --> 00:07:31.800
+with your response.
+
+149
+00:07:31.800 --> 00:07:36.470
+Now given our deep knowledge, so I want to say our, I mean me and my co-found
+
+150
+00:07:36.470 --> 00:07:37.000
+ers, given
+
+151
+00:07:37.000 --> 00:07:42.190
+our deep knowledge of this topic, we were able to figure out the proper user
+
+152
+00:07:42.190 --> 00:07:43.240
+experience.
+
+153
+00:07:43.240 --> 00:07:47.930
+So what features actually matter to guys that are trying to figure out what to
+
+154
+00:07:47.930 --> 00:07:48.640
+say to girls
+
+155
+00:07:48.640 --> 00:07:53.000
+on dating apps, as well as what the correct distribution channels are going to
+
+156
+00:07:53.000 --> 00:07:53.680
+be because
+
+157
+00:07:53.680 --> 00:07:58.160
+we had seen that content ourselves.
+
+158
+00:07:58.160 --> 00:08:02.060
+So once again, the closer that you are to the problem, the easier that it will
+
+159
+00:08:02.060 --> 00:08:02.320
+be to
+
+160
+00:08:02.320 --> 00:08:03.400
+solve.
+
+161
+00:08:03.400 --> 00:08:07.510
+Now if you're not solving for yourself, try to solve for your friends, your
+
+162
+00:08:07.510 --> 00:08:08.120
+family, or
+
+163
+00:08:08.120 --> 00:08:12.320
+people very close to your demographic.
+
+164
+00:08:12.320 --> 00:08:19.740
+Okay, as I mentioned earlier, speaking to users, so this is touching a little
+
+165
+00:08:19.740 --> 00:08:20.320
+bit on
+
+166
+00:08:20.320 --> 00:08:23.520
+the future, but this is a very important note.
+
+167
+00:08:23.520 --> 00:08:27.260
+As you scale, user feedback will be able to inform your product direction, but
+
+168
+00:08:27.260 --> 00:08:27.560
+early
+
+169
+00:08:27.560 --> 00:08:31.440
+on, it's more likely to cloud your judgment.
+
+170
+00:08:31.440 --> 00:08:34.400
+The world is a deeply inefficient place.
+
+171
+00:08:34.400 --> 00:08:39.240
+I think that humans are deeply inefficient and unintelligent relative to the
+
+172
+00:08:39.240 --> 00:08:40.200
+intelligence
+
+173
+00:08:40.200 --> 00:08:42.800
+of the collective.
+
+174
+00:08:42.800 --> 00:08:50.700
+But when you venture off to try to solve a problem on your own, most advice is
+
+175
+00:08:50.700 --> 00:08:50.880
+going
+
+176
+00:08:50.880 --> 00:08:51.960
+to be noise.
+
+177
+00:08:51.960 --> 00:08:56.940
+If we think about this from a machine learning perspective, signal versus noise
+
+178
+00:08:56.940 --> 00:08:57.680
+, the reason
+
+179
+00:08:57.680 --> 00:09:02.060
+that the vast majority of entrepreneurs are not successful, or one of the key
+
+180
+00:09:02.060 --> 00:09:02.800
+reasons,
+
+181
+00:09:02.800 --> 00:09:08.200
+in my opinion, is the inability to distinguish signal from noise.
+
+182
+00:09:08.200 --> 00:09:13.480
+The act of coming up with a good idea, especially one that's novel and presents
+
+183
+00:09:13.480 --> 00:09:14.360
+significant
+
+184
+00:09:14.360 --> 00:09:18.480
+upside, is very, very, very difficult.
+
+185
+00:09:18.480 --> 00:09:20.160
+And you can't outsource that.
+
+186
+00:09:20.160 --> 00:09:24.360
+So you can speak to people and get their opinions, and you can use that as
+
+187
+00:09:24.360 --> 00:09:27.600
+overall data, but
+
+188
+00:09:27.600 --> 00:09:30.400
+don't expect others to do the work for you.
+
+189
+00:09:30.400 --> 00:09:32.650
+Just because someone tells you that they want something in your product doesn't
+
+190
+00:09:32.650 --> 00:09:32.880
+mean
+
+191
+00:09:32.880 --> 00:09:34.480
+that that's the right move.
+
+192
+00:09:34.480 --> 00:09:41.520
+There's a reason that Steve Jobs and Elon Musk do not go to daily focus groups.
+
+193
+00:09:41.520 --> 00:09:44.160
+They're artists.
+
+194
+00:09:44.160 --> 00:09:46.280
+They're more than artists, they're businessmen.
+
+195
+00:09:46.280 --> 00:09:49.840
+But being an artist is a component of building an amazing product.
+
+196
+00:09:49.840 --> 00:09:58.020
+So do not over index on others' opinions think freely and from first principles
+
+197
+00:09:58.020 --> 00:09:58.160
+.
+
+198
+00:09:58.160 --> 00:10:02.430
+So we have these overarching ideas about the fact that you should solve your
+
+199
+00:10:02.430 --> 00:10:03.400
+own problem.
+
+200
+00:10:03.400 --> 00:10:06.000
+Why do you actually identify them?
+
+201
+00:10:06.000 --> 00:10:11.950
+The short answer is there is no magic trick, but there are general frameworks
+
+202
+00:10:11.950 --> 00:10:12.640
+that I and
+
+203
+00:10:12.640 --> 00:10:15.600
+others apply that tend to work.
+
+204
+00:10:15.600 --> 00:10:20.560
+The creative act, a way of being, is an amazing book.
+
+205
+00:10:20.560 --> 00:10:26.560
+It's by Rick Rubin, who works with music artists.
+
+206
+00:10:26.560 --> 00:10:30.120
+He provides a lot of great frameworks here, so I would recommend that.
+
+207
+00:10:30.120 --> 00:10:35.070
+But personally, even before Rick Rubin, or before I had read his book, I spoke
+
+208
+00:10:35.070 --> 00:10:35.880
+extensively
+
+209
+00:10:35.880 --> 00:10:40.480
+about this, which is that I'm a massive believer in disconnection.
+
+210
+00:10:40.480 --> 00:10:46.810
+Go for a walk, run, hike, meditate, do whatever you want, do it for extended
+
+211
+00:10:46.810 --> 00:10:48.120
+periods for over
+
+212
+00:10:48.120 --> 00:10:49.440
+an hour.
+
+213
+00:10:49.440 --> 00:10:54.140
+I find that if I go on a 10 minute walk, my mind's still super cluttered from
+
+214
+00:10:54.140 --> 00:10:54.880
+everything
+
+215
+00:10:54.880 --> 00:10:58.240
+that we experience in day to day life.
+
+216
+00:10:58.240 --> 00:11:02.470
+If you really want to come up with good new ideas, you need to give your mind
+
+217
+00:11:02.470 --> 00:11:04.480
+room to breathe.
+
+218
+00:11:04.480 --> 00:11:10.420
+The same way that if you go and you start, you haven't played basketball in a
+
+219
+00:11:10.420 --> 00:11:11.000
+while.
+
+220
+00:11:11.000 --> 00:11:12.600
+You go start to shoot.
+
+221
+00:11:12.600 --> 00:11:15.360
+The first few minutes, you're rusty.
+
+222
+00:11:15.360 --> 00:11:23.160
+You got to work those muscles and build back those sort of mind-muscled
+
+223
+00:11:23.160 --> 00:11:24.400
+connection and
+
+224
+00:11:24.400 --> 00:11:31.130
+your body's muscle memory into remembering how to properly shoot with finesse
+
+225
+00:11:31.130 --> 00:11:31.720
+and in
+
+226
+00:11:31.720 --> 00:11:32.720
+a smooth manner.
+
+227
+00:11:32.720 --> 00:11:37.450
+I think that the same applies to disconnecting and giving your mind space to
+
+228
+00:11:37.450 --> 00:11:38.280
+breathe.
+
+229
+00:11:38.280 --> 00:11:41.580
+Within the book, he has a great concept, which is that if you want to come up
+
+230
+00:11:41.580 --> 00:11:42.200
+with truly
+
+231
+00:11:42.200 --> 00:11:48.750
+novel ideas, they don't come from within, but they come from the out, from
+
+232
+00:11:48.750 --> 00:11:49.960
+external.
+
+233
+00:11:49.960 --> 00:11:51.440
+They come from the universe.
+
+234
+00:11:51.440 --> 00:11:56.360
+You need to make yourself into somewhat of an antenna, an individual that will
+
+235
+00:11:56.360 --> 00:11:56.920
+receive
+
+236
+00:11:56.920 --> 00:12:01.000
+the ideas that permeate our universe.
+
+237
+00:12:01.000 --> 00:12:03.990
+Different people are going to be operating on different sort of wavelengths,
+
+238
+00:12:03.990 --> 00:12:04.480
+different
+
+239
+00:12:04.480 --> 00:12:07.080
+frequencies.
+
+240
+00:12:07.080 --> 00:12:11.490
+Given your demographic and what sort of group you belong to and who you are,
+
+241
+00:12:11.490 --> 00:12:12.160
+you will be
+
+242
+00:12:12.160 --> 00:12:19.480
+more receptive and have a higher probability of receiving some different subset
+
+243
+00:12:19.480 --> 00:12:20.640
+of ideas.
+
+244
+00:12:20.640 --> 00:12:26.040
+There's a reason that my apps are all kind of in the same domain.
+
+245
+00:12:26.040 --> 00:12:28.600
+RizGPT, talk to girls.
+
+246
+00:12:28.600 --> 00:12:33.000
+UMAX, scan your face, find out how attractive you are.
+
+247
+00:12:33.000 --> 00:12:37.680
+Cal AI, achieve your fitness goals, become more attractive.
+
+248
+00:12:37.680 --> 00:12:41.950
+This is something that I think I have pretty deep knowledge on, personal
+
+249
+00:12:41.950 --> 00:12:44.360
+development, self-improvement.
+
+250
+00:12:44.360 --> 00:12:50.350
+Even 10x, which I didn't actually mention during this, it was a recently failed
+
+251
+00:12:50.350 --> 00:12:50.720
+project
+
+252
+00:12:50.720 --> 00:12:56.960
+of mine, but 10x was designed to teach people how to learn different AI tools.
+
+253
+00:12:56.960 --> 00:13:00.090
+Once again, within the domain of self-improvement, this is something that I
+
+254
+00:13:00.090 --> 00:13:01.000
+very, very deeply
+
+255
+00:13:01.000 --> 00:13:02.480
+understand.
+
+256
+00:13:02.480 --> 00:13:06.110
+If you're a very religious individual, you might be more inclined to build
+
+257
+00:13:06.110 --> 00:13:06.760
+something
+
+258
+00:13:06.760 --> 00:13:08.280
+like Bible chat.
+
+259
+00:13:08.280 --> 00:13:14.240
+I consider myself religious, Christian, Presbyterian specifically, but I don't
+
+260
+00:13:14.240 --> 00:13:15.640
+think that I have
+
+261
+00:13:15.640 --> 00:13:21.080
+domain expertise significantly beyond that of the average Christian.
+
+262
+00:13:21.080 --> 00:13:25.470
+If you are a very studious individual, I didn't list this company here, but it
+
+263
+00:13:25.470 --> 00:13:26.040
+'s similar to
+
+264
+00:13:26.040 --> 00:13:32.200
+Minnitz AI, Turbo Learn, a company that I am an advisor of actually, I pretty
+
+265
+00:13:32.200 --> 00:13:32.680
+much never
+
+266
+00:13:32.680 --> 00:13:33.680
+advised.
+
+267
+00:13:33.680 --> 00:13:37.230
+They're one of the only ones specifically because Sartic, one of the co-found
+
+268
+00:13:37.230 --> 00:13:37.760
+ers was my
+
+269
+00:13:37.760 --> 00:13:39.840
+CTO for UMAX.
+
+270
+00:13:39.840 --> 00:13:46.320
+Now Sartic and Rudy were very, very diligent studiers and test takers.
+
+271
+00:13:46.320 --> 00:13:50.000
+Like Sartic got a 36 on his ACT and had a 4-0, I think it was valedictorian of
+
+272
+00:13:50.000 --> 00:13:51.200
+high school.
+
+273
+00:13:51.200 --> 00:13:58.710
+So note taking specifically for education, high school college is a domain that
+
+274
+00:13:58.710 --> 00:13:59.240
+they
+
+275
+00:13:59.240 --> 00:14:01.840
+very, very deeply understand.
+
+276
+00:14:01.840 --> 00:14:10.240
+Hunter had been interested in social products for years before building NGL.
+
+277
+00:14:10.240 --> 00:14:12.200
+The quitter guys, right?
+
+278
+00:14:12.200 --> 00:14:16.000
+Connor and Alex were deeply, deeply addicted to pornography.
+
+279
+00:14:16.000 --> 00:14:22.480
+I'm sorry, that's a joke.
+
+280
+00:14:22.480 --> 00:14:27.800
+There are more so in the, in the, in the like your friends, right?
+
+281
+00:14:27.800 --> 00:14:29.480
+People of our demographic, they're young guys.
+
+282
+00:14:29.480 --> 00:14:33.240
+You guys are taking the point.
+
+283
+00:14:33.240 --> 00:14:39.280
+Oh, I don't even think I mentioned Raised during the case study.
+
+284
+00:14:39.280 --> 00:14:41.080
+I can't believe I missed that.
+
+285
+00:14:41.080 --> 00:14:45.590
+Anyways, Raised, built by Anastasia and Tamara Tran, Raised is actually no
+
+286
+00:14:45.590 --> 00:14:46.360
+longer on the
+
+287
+00:14:46.360 --> 00:14:47.360
+App Store.
+
+288
+00:14:47.360 --> 00:14:51.480
+So here I have a copycat from them.
+
+289
+00:14:51.480 --> 00:14:52.480
+They got banned.
+
+290
+00:14:52.480 --> 00:14:56.520
+But Raised, this was, you know, not coincidentally built by girls who
+
+291
+00:14:56.520 --> 00:14:58.080
+understand how important
+
+292
+00:14:58.080 --> 00:15:01.040
+tanning is to other girls.
+
+293
+00:15:01.040 --> 00:15:04.600
+That's an idea that guys would never come up with.
+
+294
+00:15:04.600 --> 00:15:09.960
+Me building UMAX, like most other software engineers are not going to see looks
+
+295
+00:15:09.960 --> 00:15:10.520
+maxing
+
+296
+00:15:10.520 --> 00:15:15.900
+at its absolute peak and also understand the Vision API coming out and being in
+
+297
+00:15:15.900 --> 00:15:16.520
+the correct
+
+298
+00:15:16.520 --> 00:15:21.000
+position to solve that problem.
+
+299
+00:15:21.000 --> 00:15:26.740
+So you should ask yourself, what are the problems that you intimately
+
+300
+00:15:26.740 --> 00:15:27.560
+understand?
+
+301
+00:15:27.560 --> 00:15:33.720
+What are the problems that you understand that other people don't understand?
+
+302
+00:15:33.720 --> 00:15:36.720
+What are the problems that you care about?
+
+303
+00:15:36.720 --> 00:15:39.280
+Do you care about self improvement?
+
+304
+00:15:39.280 --> 00:15:41.560
+Do you care about career?
+
+305
+00:15:41.560 --> 00:15:45.360
+Do you care about religion and spirituality?
+
+306
+00:15:45.360 --> 00:15:51.120
+Do you care about meditation?
+
+307
+00:15:51.120 --> 00:15:55.490
+If you have listened to what I've said throughout this unit thus far, you go,
+
+308
+00:15:55.490 --> 00:15:56.200
+well, I still
+
+309
+00:15:56.200 --> 00:16:01.720
+don't, you know, I still don't have any ideas.
+
+310
+00:16:01.720 --> 00:16:07.440
+My suggestion would be to become a more interesting person.
+
+311
+00:16:07.440 --> 00:16:13.330
+If you don't have things that you care about, if you look through life in a
+
+312
+00:16:13.330 --> 00:16:14.800
+very monotonous,
+
+313
+00:16:14.800 --> 00:16:24.000
+black and white lens, you're not going to be the person that ideas come to.
+
+314
+00:16:24.000 --> 00:16:27.580
+So study the fundamentals of human psychology, understand what your
+
+315
+00:16:27.580 --> 00:16:28.760
+expectations are for
+
+316
+00:16:28.760 --> 00:16:33.120
+the projects that you build, figure out what your problems are and the things
+
+317
+00:16:33.120 --> 00:16:33.960
+that you care
+
+318
+00:16:33.960 --> 00:16:41.840
+about and then use that in conjunction with disconnection, right?
+
+319
+00:16:41.840 --> 00:16:46.360
+Remove all of the other noise that exists within your life, take what I just
+
+320
+00:16:46.360 --> 00:16:47.560
+repeated,
+
+321
+00:16:47.560 --> 00:16:52.640
+these principles that I've taught up to this point, go for a long walk,
+
+322
+00:16:52.640 --> 00:16:53.520
+disconnect, remove
+
+323
+00:16:53.520 --> 00:16:58.480
+everything, keep that and let it ruminate.
+
+324
+00:16:58.480 --> 00:17:08.260
+I have no doubt that so long as you are an interesting person that experiences
+
+325
+00:17:08.260 --> 00:17:09.600
+anything
+
+326
+00:17:09.600 --> 00:17:18.450
+of any relative importance in life that you will begin to come up with new
+
+327
+00:17:18.450 --> 00:17:19.760
+ideas.
+
+328
+00:17:19.760 --> 00:17:23.800
+And beyond the disconnection, I want you to hold this in the back of your mind
+
+329
+00:17:23.800 --> 00:17:23.960
+and it
+
+330
+00:17:23.960 --> 00:17:26.320
+should begin to impact everything that you do.
+
+331
+00:17:26.320 --> 00:17:31.170
+Every place that you go, every interaction that you have, you should be
+
+332
+00:17:31.170 --> 00:17:32.080
+thinking and
+
+333
+00:17:32.080 --> 00:17:35.390
+any entrepreneur, to be honest, beyond just building up should be thinking
+
+334
+00:17:35.390 --> 00:17:35.960
+about this.
+
+335
+00:17:35.960 --> 00:17:38.810
+But I want you to look at it through the lens of like, what are the problems
+
+336
+00:17:38.810 --> 00:17:39.520
+that these
+
+337
+00:17:39.520 --> 00:17:43.550
+people experience in life and is there an app that can help them solve that and
+
+338
+00:17:43.550 --> 00:17:43.880
+help
+
+339
+00:17:43.880 --> 00:17:45.680
+them inch forward?
+
+340
+00:17:45.680 --> 00:17:52.120
+Okay, in the next lesson, I will dive into social media and forums.
+
+341
+00:17:52.120 --> 00:17:58.610
+So here I talk about kind of diving inside, receiving from the universe,
+
+342
+00:17:58.610 --> 00:18:00.040
+disconnecting.
+
+343
+00:18:00.040 --> 00:18:03.630
+But now we're going to go through social media and the idea of actually
+
+344
+00:18:03.630 --> 00:18:04.720
+stimulation and new
+
+345
+00:18:04.720 --> 00:18:09.060
+data, as opposed to removing everything else out, we're going to talk about
+
+346
+00:18:09.060 --> 00:18:09.480
+what's the
+
+347
+00:18:09.480 --> 00:18:11.600
+stuff that we should bring in.
+
+348
+00:18:11.600 --> 00:18:16.670
+And how do we go through Instagram, TikTok, Reddit, X.com and other forums to
+
+349
+00:18:16.670 --> 00:18:17.360
+identify
+
+350
+00:18:17.360 --> 00:18:23.230
+problems that people experience and have actually made obvious for us on the
+
+351
+00:18:23.230 --> 00:18:24.320
+internet.
+
+352
+00:18:24.320 --> 00:18:26.600
+So I'll see you in the next lesson.
+
+353
+00:18:26.600 --> 00:18:36.600
+[BLANK_AUDIO]

@@ -1,0 +1,309 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.220
+Alright, so now that you've enrolled into Apple Developer, let's get the IDE
+
+2
+00:00:04.220 --> 00:00:05.720
+and start coding.
+
+3
+00:00:05.720 --> 00:00:10.400
+Very simple again, just click the blue Xcode button and then there's a blue
+
+4
+00:00:10.400 --> 00:00:10.960
+download button
+
+5
+00:00:10.960 --> 00:00:11.960
+on the top right.
+
+6
+00:00:11.960 --> 00:00:15.360
+You click that, make sure you download the original Xcode and not the beta.
+
+7
+00:00:15.360 --> 00:00:19.170
+The beta is unstable and it also doesn't let you push new apps to the app store
+
+8
+00:00:19.170 --> 00:00:19.560
+, so just
+
+9
+00:00:19.560 --> 00:00:22.160
+make sure you get the original Xcode, click on it.
+
+10
+00:00:22.160 --> 00:00:25.680
+It will then pop up the Mac App Store.
+
+11
+00:00:25.680 --> 00:00:26.680
+Really simple again.
+
+12
+00:00:26.680 --> 00:00:32.020
+Download, install, once that's done, make sure you've thought this is where it
+
+13
+00:00:32.020 --> 00:00:32.480
+gets
+
+14
+00:00:32.480 --> 00:00:34.640
+a little bit intricate.
+
+15
+00:00:34.640 --> 00:00:38.200
+Once that's installed, open it, you'll get prompted with this screen.
+
+16
+00:00:38.200 --> 00:00:42.810
+Go in the top left of your Mac, you see where it says Xcode up here, you click
+
+17
+00:00:42.810 --> 00:00:43.520
+settings
+
+18
+00:00:43.520 --> 00:00:48.140
+and in accounts, click the bottom left plus icon as you can see and log into
+
+19
+00:00:48.140 --> 00:00:49.000
+the account
+
+20
+00:00:49.000 --> 00:00:52.640
+that you just enrolled Apple Developer subscription onto.
+
+21
+00:00:52.640 --> 00:00:55.080
+Very crucial step.
+
+22
+00:00:55.080 --> 00:00:57.840
+Once you've done that, let's get ready to set the project.
+
+23
+00:00:57.840 --> 00:00:59.880
+This is where the fun starts happening.
+
+24
+00:00:59.880 --> 00:01:01.120
+Get excited boys.
+
+25
+00:01:01.120 --> 00:01:05.400
+You click create new project, make sure it's an app.
+
+26
+00:01:05.400 --> 00:01:09.560
+You can call us whatever you want for, simply as you say, clinical is UMAX
+
+27
+00:01:09.560 --> 00:01:10.240
+clone.
+
+28
+00:01:10.240 --> 00:01:13.520
+Organization identifier is very important and the team.
+
+29
+00:01:13.520 --> 00:01:16.110
+I have two teams because I'm also in the Coder account, but I'll just add it to
+
+30
+00:01:16.110 --> 00:01:16.560
+the Coder
+
+31
+00:01:16.560 --> 00:01:17.560
+account.
+
+32
+00:01:17.560 --> 00:01:20.880
+For the organization identifier, you can do whatever you want.
+
+33
+00:01:20.880 --> 00:01:23.280
+I have com.slader because that's my last name.
+
+34
+00:01:23.280 --> 00:01:27.360
+You can do com.anderson for Blake, for example, or your company name.
+
+35
+00:01:27.360 --> 00:01:28.800
+Let's just say super health.
+
+36
+00:01:28.800 --> 00:01:31.160
+So now it's com.superhealth.umexclone.
+
+37
+00:01:31.160 --> 00:01:35.680
+This is one of one people can't copy it, but this just helps Apple identify
+
+38
+00:01:35.680 --> 00:01:36.400
+your app on
+
+39
+00:01:36.400 --> 00:01:38.480
+the app store.
+
+40
+00:01:38.480 --> 00:01:41.820
+This is by the way, you can't change it if you've already put, yeah, just is
+
+41
+00:01:41.820 --> 00:01:42.480
+permanent,
+
+42
+00:01:42.480 --> 00:01:43.840
+so just make sure it's right.
+
+43
+00:01:43.840 --> 00:01:44.840
+But it doesn't really matter.
+
+44
+00:01:44.840 --> 00:01:45.840
+It's very backend.
+
+45
+00:01:45.840 --> 00:01:49.080
+It's not front and facing.
+
+46
+00:01:49.080 --> 00:01:54.400
+Next, choose a place for your folder with your code to be.
+
+47
+00:01:54.400 --> 00:01:57.560
+For example, mine's in the GitHub folder, which I'm happy with.
+
+48
+00:01:57.560 --> 00:01:58.560
+Click create.
+
+49
+00:01:58.560 --> 00:02:01.840
+Well, I've already got one called UMAX clone.
+
+50
+00:02:01.840 --> 00:02:02.840
+My bad.
+
+51
+00:02:02.840 --> 00:02:04.000
+UMAX clone too.
+
+52
+00:02:04.000 --> 00:02:06.560
+Next, create and bomb.
+
+53
+00:02:06.560 --> 00:02:08.160
+Now your app has built.
+
+54
+00:02:08.160 --> 00:02:09.800
+You can see a preview on the right side.
+
+55
+00:02:09.800 --> 00:02:12.400
+It's about to load.
+
+56
+00:02:12.400 --> 00:02:19.520
+Just give it a second.
+
+57
+00:02:19.520 --> 00:02:20.520
+And there you go.
+
+58
+00:02:20.520 --> 00:02:23.760
+Now you can see a preview of the app.
+
+59
+00:02:23.760 --> 00:02:28.040
+And now things are starting to get excited.
+
+60
+00:02:28.040 --> 00:02:29.840
+But yeah, that's the Ace code setup.
+
+61
+00:02:29.840 --> 00:02:31.440
+One more thing I'd recommend.
+
+62
+00:02:31.440 --> 00:02:32.880
+Go into here.
+
+63
+00:02:32.880 --> 00:02:39.400
+So click on this tab in the blue top left and then go to general and targets.
+
+64
+00:02:39.400 --> 00:02:41.920
+Make sure this is all selected as a mine.
+
+65
+00:02:41.920 --> 00:02:45.600
+Remove iPad, remove Mac and remove Apple vision.
+
+66
+00:02:45.600 --> 00:02:46.760
+This just complicates things.
+
+67
+00:02:46.760 --> 00:02:50.270
+And if you push your app to the app store with those checked, you can't then
+
+68
+00:02:50.270 --> 00:02:50.680
+remove
+
+69
+00:02:50.680 --> 00:02:51.680
+them.
+
+70
+00:02:51.680 --> 00:02:55.120
+So you need to permanently keep supporting iPad, making sure everything's like
+
+71
+00:02:55.120 --> 00:02:55.560
+fitting
+
+72
+00:02:55.560 --> 00:02:57.960
+on the screen for iPad.
+
+73
+00:02:57.960 --> 00:03:02.120
+And annoys us that could have a lot because we can't do anything about it.
+
+74
+00:03:02.120 --> 00:03:03.960
+So I'd remove that straight away.
+
+75
+00:03:03.960 --> 00:03:07.360
+But yeah, that should be the very simple Ace code setup.
+
+76
+00:03:07.360 --> 00:03:11.400
+In the next section, we'll go through kind of building things.
+
+77
+00:03:11.400 --> 00:03:12.520
+And yeah, good shit guys.

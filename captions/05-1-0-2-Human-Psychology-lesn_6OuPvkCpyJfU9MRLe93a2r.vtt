@@ -1,0 +1,1161 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.000
+All right, lesson three or lesson 1.0.2,
+
+2
+00:00:05.000 --> 00:00:08.520
+we're going over human psychology.
+
+3
+00:00:08.520 --> 00:00:10.900
+So previously we went through some case studies
+
+4
+00:00:10.900 --> 00:00:14.160
+that can serve as inspiration in your process
+
+5
+00:00:14.160 --> 00:00:16.900
+of coming up with ideas and building apps.
+
+6
+00:00:16.900 --> 00:00:19.220
+And then we went over the tradeoffs of idea
+
+7
+00:00:19.220 --> 00:00:22.720
+versus execution and using that framework
+
+8
+00:00:22.720 --> 00:00:24.840
+with when you're coming up with ideas,
+
+9
+00:00:24.840 --> 00:00:28.740
+determining which are worth working on and pursuing.
+
+10
+00:00:28.740 --> 00:00:29.840
+I wanted to start with that
+
+11
+00:00:29.840 --> 00:00:34.280
+because that will kind of narrow down the set of ideas
+
+12
+00:00:34.280 --> 00:00:36.200
+that you looked to work on.
+
+13
+00:00:36.200 --> 00:00:39.160
+But in the process of actually uncovering the ideas
+
+14
+00:00:39.160 --> 00:00:44.140
+that are valuable and are going to work within that set,
+
+15
+00:00:44.140 --> 00:00:48.260
+I think the best place to start is human psychology.
+
+16
+00:00:48.260 --> 00:00:52.440
+Now this is probably the last very theoretical framework
+
+17
+00:00:52.440 --> 00:00:53.440
+that we are going to go over
+
+18
+00:00:53.440 --> 00:00:57.820
+before we jump into the actual tangible identification
+
+19
+00:00:57.820 --> 00:00:59.900
+of problems and ideas to work on.
+
+20
+00:00:59.900 --> 00:01:04.600
+So to start here, I want you to ignore everything
+
+21
+00:01:04.600 --> 00:01:06.500
+that you have learned up to this point
+
+22
+00:01:06.500 --> 00:01:08.300
+about human psychology.
+
+23
+00:01:08.300 --> 00:01:12.500
+And I want to begin and sort of reteach everything
+
+24
+00:01:12.500 --> 00:01:14.720
+from a first principle perspective.
+
+25
+00:01:14.720 --> 00:01:16.680
+Now if you already have a very deep understanding
+
+26
+00:01:16.680 --> 00:01:20.740
+of psychology, this unit may not be all that important for you.
+
+27
+00:01:20.740 --> 00:01:24.280
+But I think that it's always very valuable
+
+28
+00:01:24.280 --> 00:01:26.840
+to go back to the very basics.
+
+29
+00:01:27.680 --> 00:01:30.640
+What is the biological imperative?
+
+30
+00:01:30.640 --> 00:01:33.000
+The biological imperative asserts
+
+31
+00:01:33.000 --> 00:01:37.760
+that every living being exists to pass on its genes.
+
+32
+00:01:37.760 --> 00:01:43.160
+This drives all biological human
+
+33
+00:01:43.160 --> 00:01:45.460
+and other life form behavior.
+
+34
+00:01:45.460 --> 00:01:49.760
+As we see here, this is the fundamental
+
+35
+00:01:49.760 --> 00:01:53.040
+unit of action that drives every living being.
+
+36
+00:01:53.040 --> 00:01:56.200
+From single cell organisms, to multi-cell,
+
+37
+00:01:56.200 --> 00:01:59.900
+to complex life, we all exist to pass on our genes.
+
+38
+00:01:59.900 --> 00:02:04.000
+Everything that we know about human psychology
+
+39
+00:02:04.000 --> 00:02:06.720
+and more importantly for building apps,
+
+40
+00:02:06.720 --> 00:02:11.720
+consumer behavior is just an abstraction of this concept.
+
+41
+00:02:11.720 --> 00:02:16.120
+Now we see this truth in its most extreme form
+
+42
+00:02:16.120 --> 00:02:19.560
+through the fact that animals will literally sacrifice
+
+43
+00:02:19.560 --> 00:02:24.040
+their own survival to reproduce or protect their offspring.
+
+44
+00:02:24.040 --> 00:02:27.960
+Some animals will die in the process of reproduction.
+
+45
+00:02:27.960 --> 00:02:31.560
+Like I think salmon is one classic example.
+
+46
+00:02:31.560 --> 00:02:34.840
+And then others will die to protect their offspring.
+
+47
+00:02:34.840 --> 00:02:37.600
+This is, this should not come as a surprise
+
+48
+00:02:37.600 --> 00:02:39.280
+to any of us that are humans.
+
+49
+00:02:39.280 --> 00:02:41.560
+You know, very classic mythology.
+
+50
+00:02:41.560 --> 00:02:45.080
+You die, you take the bullet to protect your child.
+
+51
+00:02:45.080 --> 00:02:47.560
+I would do it, I'm sure most people watching do it.
+
+52
+00:02:47.560 --> 00:02:48.400
+This would do it.
+
+53
+00:02:48.400 --> 00:02:50.320
+It's because we want to pass on our genes.
+
+54
+00:02:50.320 --> 00:02:51.600
+Now this is complex.
+
+55
+00:02:51.600 --> 00:02:54.640
+It extends beyond just passing on our children.
+
+56
+00:02:54.640 --> 00:02:57.160
+We want our children to survive and grow up healthy
+
+57
+00:02:57.160 --> 00:03:00.640
+to continue to pass it down generation after generation.
+
+58
+00:03:00.640 --> 00:03:03.280
+I think that Maslow's hierarchy of needs
+
+59
+00:03:03.280 --> 00:03:06.600
+is a very culturally popular,
+
+60
+00:03:06.600 --> 00:03:11.560
+but also more nuanced representation of this principle.
+
+61
+00:03:11.560 --> 00:03:13.640
+Biological imperative is very simple.
+
+62
+00:03:13.640 --> 00:03:15.320
+Maslow's hierarchy of needs
+
+63
+00:03:15.320 --> 00:03:17.720
+brings this up a couple of levels of abstraction
+
+64
+00:03:19.160 --> 00:03:22.880
+and develops it further beyond just live and reproduce,
+
+65
+00:03:22.880 --> 00:03:25.520
+but it says, okay, physiological needs
+
+66
+00:03:25.520 --> 00:03:27.360
+to continue surviving are most important.
+
+67
+00:03:27.360 --> 00:03:29.880
+And then safety, security.
+
+68
+00:03:29.880 --> 00:03:32.880
+And then we get into intimate relationship,
+
+69
+00:03:32.880 --> 00:03:35.800
+friends, prestige, feelings of accomplishment
+
+70
+00:03:35.800 --> 00:03:38.040
+and self-actualization at the very top.
+
+71
+00:03:38.040 --> 00:03:42.560
+The key takeaway here is that survival is solved.
+
+72
+00:03:42.560 --> 00:03:44.240
+Okay, for the biological imperative,
+
+73
+00:03:44.240 --> 00:03:45.480
+we exist to pass on our genes.
+
+74
+00:03:45.480 --> 00:03:48.840
+That means we exist to continue living and to reproduce.
+
+75
+00:03:48.840 --> 00:03:51.680
+Continue living is solved largely.
+
+76
+00:03:51.680 --> 00:03:54.680
+Now this isn't true for all humans,
+
+77
+00:03:54.680 --> 00:03:55.720
+but if you're watching this,
+
+78
+00:03:55.720 --> 00:03:58.080
+it's solved for you and it's solved for the majority of people
+
+79
+00:03:58.080 --> 00:04:00.400
+who you are going to target as your customers.
+
+80
+00:04:00.400 --> 00:04:03.680
+So, since survival is solved,
+
+81
+00:04:03.680 --> 00:04:08.200
+we should seek to increase the health, status,
+
+82
+00:04:08.200 --> 00:04:12.320
+meaning and quality/quantity of romantic partners
+
+83
+00:04:12.320 --> 00:04:14.200
+for our potential customers.
+
+84
+00:04:16.560 --> 00:04:19.200
+Solve the biggest problems first.
+
+85
+00:04:19.200 --> 00:04:22.840
+The closer you are to the biological imperative,
+
+86
+00:04:22.840 --> 00:04:25.600
+the lower you are on the pyramid,
+
+87
+00:04:25.600 --> 00:04:28.040
+that is Maslow's hierarchy of needs,
+
+88
+00:04:28.040 --> 00:04:30.960
+the easier it will be to sell your product.
+
+89
+00:04:30.960 --> 00:04:34.000
+Everything I just said for the past few minutes
+
+90
+00:04:34.000 --> 00:04:35.320
+boils down to that.
+
+91
+00:04:35.320 --> 00:04:39.280
+Solve major problems.
+
+92
+00:04:39.280 --> 00:04:44.280
+Solve the key things that people want to get out of their life.
+
+93
+00:04:44.880 --> 00:04:47.560
+And I would go so far as to assert
+
+94
+00:04:47.560 --> 00:04:52.560
+that it is almost always easier and more lucrative,
+
+95
+00:04:52.560 --> 00:04:56.760
+and higher probability of building a successful product
+
+96
+00:04:56.760 --> 00:05:00.000
+when you solve 10% of a major problem
+
+97
+00:05:00.000 --> 00:05:04.480
+rather than 100% of a minor problem.
+
+98
+00:05:04.480 --> 00:05:06.040
+Okay, so major problems.
+
+99
+00:05:06.040 --> 00:05:08.360
+Like I stated above here,
+
+100
+00:05:08.360 --> 00:05:11.120
+the lower we have in Maslow's hierarchy of needs,
+
+101
+00:05:11.120 --> 00:05:12.760
+the more of a major problem it is.
+
+102
+00:05:12.760 --> 00:05:16.360
+If, for example, let's set aside apps for a second,
+
+103
+00:05:16.360 --> 00:05:18.520
+if there exists a marketplace
+
+104
+00:05:18.520 --> 00:05:21.320
+where people that are coming to this marketplace
+
+105
+00:05:21.320 --> 00:05:24.080
+don't have reliable sources of food,
+
+106
+00:05:24.080 --> 00:05:25.840
+then the product that you want to solve
+
+107
+00:05:25.840 --> 00:05:27.600
+is probably food.
+
+108
+00:05:27.600 --> 00:05:29.880
+Everybody is going to purchase that from you.
+
+109
+00:05:29.880 --> 00:05:32.840
+When it comes to software,
+
+110
+00:05:32.840 --> 00:05:34.600
+physiological and safety needs
+
+111
+00:05:34.600 --> 00:05:38.320
+are largely not problems that we solve.
+
+112
+00:05:38.320 --> 00:05:40.600
+So we go to the next most important.
+
+113
+00:05:40.600 --> 00:05:42.520
+We go to intimate relationships.
+
+114
+00:05:42.520 --> 00:05:44.280
+We go to status.
+
+115
+00:05:44.280 --> 00:05:45.480
+We go to health.
+
+116
+00:05:45.480 --> 00:05:48.680
+It's because health, obviously,
+
+117
+00:05:48.680 --> 00:05:50.040
+somewhat physiological in nature,
+
+118
+00:05:50.040 --> 00:05:51.520
+but the health that we're talking about
+
+119
+00:05:51.520 --> 00:05:54.680
+is increasing feelings of wellness
+
+120
+00:05:54.680 --> 00:05:56.400
+rather than just survival.
+
+121
+00:05:56.400 --> 00:05:57.240
+Okay.
+
+122
+00:05:57.240 --> 00:06:03.040
+So if we want to solve a major problem,
+
+123
+00:06:03.040 --> 00:06:05.000
+such as finding a romantic partner,
+
+124
+00:06:05.000 --> 00:06:08.920
+a, this is written wrong, let me edit this real quick,
+
+125
+00:06:10.520 --> 00:06:14.080
+a 10% solution here would be
+
+126
+00:06:14.080 --> 00:06:18.640
+an AI dating app that suggests better responses.
+
+127
+00:06:18.640 --> 00:06:19.480
+Okay.
+
+128
+00:06:19.480 --> 00:06:21.200
+We go back to the case studies.
+
+129
+00:06:21.200 --> 00:06:22.640
+This is just Riz.
+
+130
+00:06:22.640 --> 00:06:23.680
+This is plug AI.
+
+131
+00:06:23.680 --> 00:06:24.840
+Riz GPT.
+
+132
+00:06:24.840 --> 00:06:31.440
+Now on the flip side,
+
+133
+00:06:31.440 --> 00:06:32.880
+if we're not solving major problems,
+
+134
+00:06:32.880 --> 00:06:35.280
+we're probably solving minor problems.
+
+135
+00:06:35.280 --> 00:06:39.040
+For example, splitting a dinner bill evenly.
+
+136
+00:06:39.040 --> 00:06:41.880
+Okay. Now what's like the fundamental problem here?
+
+137
+00:06:41.880 --> 00:06:45.440
+Something along the lines of fairness.
+
+138
+00:06:45.440 --> 00:06:48.000
+It's also like saving money, right?
+
+139
+00:06:48.000 --> 00:06:51.960
+But this is a major abstraction
+
+140
+00:06:51.960 --> 00:06:55.600
+of the underlying problem of like making money,
+
+141
+00:06:55.600 --> 00:06:59.440
+which is like related to having high status
+
+142
+00:06:59.440 --> 00:07:01.400
+and this concept of fairness, right?
+
+143
+00:07:01.400 --> 00:07:03.520
+It's convoluted.
+
+144
+00:07:03.520 --> 00:07:05.960
+It's over-intellectualized.
+
+145
+00:07:05.960 --> 00:07:09.480
+And I want, I want to harp on that word, over-intellectualized.
+
+146
+00:07:09.480 --> 00:07:13.800
+This is one of the major problems that I see people
+
+147
+00:07:13.800 --> 00:07:16.840
+experience when they're building consumer applications.
+
+148
+00:07:16.840 --> 00:07:21.840
+They over-intellectualize and abstract too far out
+
+149
+00:07:21.840 --> 00:07:23.640
+from the actual underlying problem
+
+150
+00:07:23.640 --> 00:07:25.080
+that they're trying to solve.
+
+151
+00:07:25.080 --> 00:07:29.440
+So while an app that calculates and charges everyone
+
+152
+00:07:29.440 --> 00:07:32.720
+instantly is a 100% solution of this problem,
+
+153
+00:07:32.720 --> 00:07:34.400
+sure this is a problem a lot of people listening
+
+154
+00:07:34.400 --> 00:07:35.680
+have come up with,
+
+155
+00:07:35.680 --> 00:07:37.800
+I've come up with it myself,
+
+156
+00:07:37.800 --> 00:07:40.440
+it's not strong.
+
+157
+00:07:40.440 --> 00:07:42.640
+It's not that important.
+
+158
+00:07:42.640 --> 00:07:45.160
+And when it's not that important,
+
+159
+00:07:45.160 --> 00:07:48.040
+the probability that people are gonna pay you is very low.
+
+160
+00:07:48.040 --> 00:07:52.960
+Now you might be listening to this,
+
+161
+00:07:52.960 --> 00:07:54.560
+reading what I have here on the page,
+
+162
+00:07:54.560 --> 00:07:56.000
+and you might say,
+
+163
+00:07:56.000 --> 00:07:57.360
+well, you know, buddy,
+
+164
+00:07:57.360 --> 00:07:59.480
+I've got plenty of examples of apps
+
+165
+00:07:59.480 --> 00:08:02.520
+that solve relatively minor problems
+
+166
+00:08:02.520 --> 00:08:04.760
+that are very successful.
+
+167
+00:08:04.760 --> 00:08:07.880
+To which I would say that certainly that is the case,
+
+168
+00:08:07.880 --> 00:08:11.720
+but it's generally more so an exception than it is the rule.
+
+169
+00:08:11.720 --> 00:08:18.160
+It's pretty rare that you have an app category
+
+170
+00:08:18.160 --> 00:08:21.240
+that is able to actually contribute
+
+171
+00:08:21.240 --> 00:08:23.160
+to solving a major problem
+
+172
+00:08:23.160 --> 00:08:25.840
+that a lot of people experience
+
+173
+00:08:25.840 --> 00:08:28.080
+and is able to contribute to a large proportion
+
+174
+00:08:28.080 --> 00:08:31.280
+of those people were the entire app category flops.
+
+175
+00:08:33.040 --> 00:08:33.880
+So,
+
+176
+00:08:33.880 --> 00:08:39.320
+as with everything,
+
+177
+00:08:39.320 --> 00:08:41.960
+there are always exceptions,
+
+178
+00:08:41.960 --> 00:08:45.200
+both with respect to minor problem,
+
+179
+00:08:45.200 --> 00:08:46.680
+100% solutions that succeed
+
+180
+00:08:46.680 --> 00:08:49.360
+in major problem 10% solutions that fail,
+
+181
+00:08:49.360 --> 00:08:53.440
+but this is a great overarching principle to abide by.
+
+182
+00:08:53.440 --> 00:08:56.640
+When you're coming up with your ideas,
+
+183
+00:08:56.640 --> 00:08:58.680
+refer back to the case studies,
+
+184
+00:08:58.680 --> 00:09:00.320
+refer back to these principles.
+
+185
+00:09:01.440 --> 00:09:04.280
+Is it solving a major problem
+
+186
+00:09:04.280 --> 00:09:06.040
+that a lot of people experience,
+
+187
+00:09:06.040 --> 00:09:07.600
+even if in a minor way?
+
+188
+00:09:07.600 --> 00:09:09.880
+If you go to a bunch of your friends
+
+189
+00:09:09.880 --> 00:09:11.880
+and you share with them your idea,
+
+190
+00:09:11.880 --> 00:09:15.800
+and the overwhelming reaction is like,
+
+191
+00:09:15.800 --> 00:09:19.120
+oh, well, I mean, yeah, I guess, yeah,
+
+192
+00:09:19.120 --> 00:09:20.240
+that's a good idea.
+
+193
+00:09:20.240 --> 00:09:22.360
+No, yeah, you should definitely do that.
+
+194
+00:09:22.360 --> 00:09:25.720
+They're probably just being supportive.
+
+195
+00:09:25.720 --> 00:09:28.720
+They probably think that it's a fucking bad idea.
+
+196
+00:09:29.600 --> 00:09:30.440
+So,
+
+197
+00:09:30.440 --> 00:09:36.400
+the good ideas are always abundantly obvious.
+
+198
+00:09:36.400 --> 00:09:40.320
+Okay, now building off of this final thought here,
+
+199
+00:09:40.320 --> 00:09:42.560
+make people feel, don't make them think,
+
+200
+00:09:42.560 --> 00:09:43.760
+in line with that,
+
+201
+00:09:43.760 --> 00:09:46.720
+when you tell someone your idea,
+
+202
+00:09:46.720 --> 00:09:48.160
+they should be able to feel it,
+
+203
+00:09:48.160 --> 00:09:52.720
+because when people see an advertisement for your product,
+
+204
+00:09:52.720 --> 00:09:55.640
+they don't have enough time to go through
+
+205
+00:09:55.640 --> 00:09:59.880
+deep, rigorous analysis of why that problem
+
+206
+00:09:59.880 --> 00:10:02.200
+that you're solving is going to be important to them,
+
+207
+00:10:02.200 --> 00:10:05.440
+and why it's going to improve their life, no,
+
+208
+00:10:05.440 --> 00:10:07.280
+they need to feel that, right?
+
+209
+00:10:07.280 --> 00:10:12.080
+Our subconscious processes more quickly than our conscious does.
+
+210
+00:10:12.080 --> 00:10:15.680
+This is what leads to a scrolling past a video
+
+211
+00:10:15.680 --> 00:10:20.280
+versus seeing it and immediately downloading the product
+
+212
+00:10:20.280 --> 00:10:22.240
+and paying for it thereafter.
+
+213
+00:10:23.320 --> 00:10:26.680
+Okay, so identify the fundamental human drive
+
+214
+00:10:26.680 --> 00:10:28.920
+that the problem you're solving relates to.
+
+215
+00:10:28.920 --> 00:10:33.520
+This is why we have this column here, right?
+
+216
+00:10:33.520 --> 00:10:36.360
+We're solving dating, we're solving health,
+
+217
+00:10:36.360 --> 00:10:40.560
+discipline, spirituality, success, social validation, right?
+
+218
+00:10:40.560 --> 00:10:42.520
+We're not abstracting out these terms too much
+
+219
+00:10:42.520 --> 00:10:43.760
+when we're listing them here,
+
+220
+00:10:43.760 --> 00:10:47.520
+we're keeping it very, very simple, very straightforward.
+
+221
+00:10:47.520 --> 00:10:50.080
+Okay, identify the fundamental human drive,
+
+222
+00:10:50.080 --> 00:10:52.840
+build as close to it as possible,
+
+223
+00:10:52.840 --> 00:10:54.480
+you could abstract out this,
+
+224
+00:10:54.480 --> 00:10:56.120
+splitting a dinner bill evenly,
+
+225
+00:10:56.120 --> 00:10:59.160
+you could say, well, this actually helps with reproduction
+
+226
+00:10:59.160 --> 00:11:01.680
+because if you save a little bit of money
+
+227
+00:11:01.680 --> 00:11:04.320
+and there's increased fairness in the world,
+
+228
+00:11:04.320 --> 00:11:08.400
+then you are going to be able to position yourself
+
+229
+00:11:08.400 --> 00:11:11.760
+as a higher status person, or you save cash,
+
+230
+00:11:11.760 --> 00:11:14.220
+or maybe the friend group likes you more
+
+231
+00:11:14.220 --> 00:11:17.000
+because you come up with these creative solutions
+
+232
+00:11:17.000 --> 00:11:20.320
+and therefore everyone wants to be the person
+
+233
+00:11:20.320 --> 00:11:22.520
+that introduces this product to the friend group
+
+234
+00:11:22.520 --> 00:11:24.320
+'cause you'll get social credit for that,
+
+235
+00:11:24.320 --> 00:11:27.760
+thereby it enables you to get more action.
+
+236
+00:11:27.760 --> 00:11:32.400
+Way too much, way too much.
+
+237
+00:11:32.400 --> 00:11:37.520
+Build as close to it, build as close, simple.
+
+238
+00:11:37.520 --> 00:11:44.120
+Finally, don't fear starting small on a big problem
+
+239
+00:11:44.120 --> 00:11:45.720
+when we were building RizGPT,
+
+240
+00:11:45.720 --> 00:11:49.120
+when I built UMAX, Kali-i, people often said that
+
+241
+00:11:49.120 --> 00:11:51.440
+they were very small advances
+
+242
+00:11:51.440 --> 00:11:54.240
+for RizGPT, it's like, well, who's actually gonna pay
+
+243
+00:11:54.240 --> 00:11:56.640
+to have an AI respond to them?
+
+244
+00:11:56.640 --> 00:11:59.200
+The answer is a lot of people.
+
+245
+00:11:59.200 --> 00:12:01.600
+For UMAX, it's like, yeah, dude,
+
+246
+00:12:01.600 --> 00:12:04.480
+to get a rating of how attractive I am,
+
+247
+00:12:04.480 --> 00:12:06.200
+I don't fucking need that.
+
+248
+00:12:06.200 --> 00:12:09.600
+That doesn't actually help me become more attractive.
+
+249
+00:12:09.600 --> 00:12:13.200
+A lot of people still like that product, right?
+
+250
+00:12:13.200 --> 00:12:14.960
+A lot of people think that it's gonna help them
+
+251
+00:12:14.960 --> 00:12:16.400
+sort of advance, which it does, right?
+
+252
+00:12:16.400 --> 00:12:19.120
+It provides recommendations on how to improve.
+
+253
+00:12:19.120 --> 00:12:21.240
+You might say, well, I can just look at myself in the mirror
+
+254
+00:12:21.240 --> 00:12:23.400
+and I understand, but not everybody does.
+
+255
+00:12:23.400 --> 00:12:26.680
+Finally, Kali-i, everyone's like, well,
+
+256
+00:12:26.680 --> 00:12:29.760
+AI calorie tracking, the current calorie trackers
+
+257
+00:12:29.760 --> 00:12:32.840
+already work, and it can't be that accurate.
+
+258
+00:12:32.840 --> 00:12:37.920
+The current calorie trackers have a lot of friction
+
+259
+00:12:37.920 --> 00:12:41.360
+and minor increases, I would say even like
+
+260
+00:12:41.360 --> 00:12:44.120
+two X increase in speed to track the calories
+
+261
+00:12:44.120 --> 00:12:46.560
+results in people across the board
+
+262
+00:12:46.560 --> 00:12:50.360
+being able to achieve their fitness goals
+
+263
+00:12:50.360 --> 00:12:53.600
+with a much higher degree of probability of success, right?
+
+264
+00:12:53.600 --> 00:12:56.880
+Even though there may be slight decreases in accuracy,
+
+265
+00:12:56.880 --> 00:13:00.600
+it will enable people that previously struggled
+
+266
+00:13:00.600 --> 00:13:02.840
+with the consistency of calorie tracking
+
+267
+00:13:02.840 --> 00:13:05.400
+to be able to lose weight or gain weight,
+
+268
+00:13:05.400 --> 00:13:10.400
+which are of paramount importance in humans' lives.
+
+269
+00:13:10.400 --> 00:13:16.600
+Okay, that is pretty much it on human psychology.
+
+270
+00:13:18.760 --> 00:13:21.960
+These are simple truths, but they are truths nonetheless
+
+271
+00:13:21.960 --> 00:13:24.240
+that I think are not adequately represented.
+
+272
+00:13:24.240 --> 00:13:28.160
+The importance of the biological imperative,
+
+273
+00:13:28.160 --> 00:13:30.480
+building close to the major problems
+
+274
+00:13:30.480 --> 00:13:32.800
+that people experience rather than
+
+275
+00:13:32.800 --> 00:13:36.360
+over into intellectualized abstractions,
+
+276
+00:13:36.360 --> 00:13:39.680
+solving these massive problems even in a minor way,
+
+277
+00:13:39.680 --> 00:13:43.400
+and then making sure that people can feel it
+
+278
+00:13:43.400 --> 00:13:45.040
+without having to think about it.
+
+279
+00:13:45.040 --> 00:13:48.160
+Okay, next up, you have an assignment
+
+280
+00:13:48.160 --> 00:13:49.840
+to apply some of the principles and ideas
+
+281
+00:13:49.840 --> 00:13:53.040
+that we spoke about in this lesson and the previous.
+
+282
+00:13:53.040 --> 00:13:55.880
+In the analysis of the case studies
+
+283
+00:13:55.880 --> 00:14:00.040
+listed in the first lesson, in the next unit,
+
+284
+00:14:00.040 --> 00:14:03.200
+we are going to go over actually identifying
+
+285
+00:14:03.200 --> 00:14:05.880
+the very specific problems in your life
+
+286
+00:14:05.880 --> 00:14:08.240
+as well as on social media.
+
+287
+00:14:08.240 --> 00:14:10.320
+So stay tuned for that if you have any questions
+
+288
+00:14:10.320 --> 00:14:11.280
+on the assignment.
+
+289
+00:14:16.000 --> 00:14:19.080
+Figure it out, I believe in you.
+
+290
+00:14:19.080 --> 00:14:20.440
+All right, peace out.

@@ -1,0 +1,130 @@
+[00:00:00] Let's talk about some viral design.
+[00:00:03] How are we going to make your shitty app designs actually look good in an influ
+[00:00:08] encer video
+[00:00:09] so that it converts and it goes viral?
+[00:00:12] It's not overly complicated.
+[00:00:15] It's not overly complicated.
+[00:00:19] It's kind of about branding your own app.
+[00:00:23] And what I mean by this, let me just break this down.
+[00:00:26] If you have an influencer, talk about your app.
+[00:00:27] If you have a paid app, talk about your app.
+[00:00:29] If you're making UGC content and they're showing your app, you need people to
+[00:00:34] know it's
+[00:00:34] your app.
+[00:00:35] There's so many videos where people show apps and the video blows up, but then
+[00:00:40] everyone's
+[00:00:41] asking in the comments, "What app is that?"
+[00:00:42] And no one fucking knows.
+[00:00:44] And you're not going in the comments and responding, so it doesn't actually
+[00:00:49] work.
+[00:00:49] No one finds out and then it doesn't convert.
+[00:00:53] And by the way, let me preface by saying or go back and say, "You want people
+[00:00:57] commenting,
+[00:00:58] "What app is that?"
+[00:00:59] That's a very good sign, but people should be able to figure it out if they
+[00:01:03] looked hard
+[00:01:03] enough in the video.
+[00:01:05] People are always going to comment, "What app is that?"
+[00:01:06] Because consumers are generally not smart and so they'll see something they're
+[00:01:11] lazy.
+[00:01:12] They'll just comment instead of doing their hard work themselves.
+[00:01:16] But influencers show your app on screen.
+[00:01:20] How are people going to know it's your app?
+[00:01:22] A few ways.
+[00:01:23] One, let's see what we do in KaliEye.
+[00:01:25] In KaliEye, we have the name of KaliEye Big at the top of the app screen on the
+[00:01:31] homepage.
+[00:01:32] So if an influencer shows it, boom, right there.
+[00:01:36] We also do the same thing on the scanning page.
+[00:01:39] It's actually not updated here.
+[00:01:40] This is an old version, but we replace scanner with big text that says "calai"
+[00:01:46] on influencers.
+[00:01:48] Actually something interesting that we did is I didn't like always having Kali
+[00:01:52] Eye and
+[00:01:53] branding it for regular users because I thought it was low quality to just put
+[00:01:58] names on everything.
+[00:02:00] For example, I'm someone who doesn't wear clothing with labels typically or
+[00:02:05] brand names
+[00:02:06] typically.
+[00:02:07] So I feel the same way about apps.
+[00:02:09] So we have two separate versions of the app, one for the creator and one for
+[00:02:13] users.
+[00:02:14] The one for the creator has the big KaliEye right here, very big, because this
+[00:02:18] is the
+[00:02:19] screen everyone's showing off.
+[00:02:20] It's the scan screen, the core traction.
+[00:02:22] And so we need it there.
+[00:02:24] When the influencer shows it, we want people to know and think that it is Kali
+[00:02:29] Eye.
+[00:02:29] And for users, we don't show that.
+[00:02:32] We have it at the top on the homepage, but we do not show it in the scanner.
+[00:02:37] I'd say that's the main thing, just making it super obvious from content what
+[00:02:41] your app
+[00:02:41] is.
+[00:02:42] And the best way to do that is literally by putting your name and putting your
+[00:02:45] logo.
+[00:02:45] Okay.
+[00:02:46] How else can we make the design viral?
+[00:02:51] People like visuals on social media.
+[00:02:55] People want things to be cool.
+[00:02:57] They want it to be aesthetic.
+[00:02:59] If for KaliEye, we had, if the screens looked very, first of all, okay, saying
+[00:03:07] a lot, this
+[00:03:09] goes into the general design principles for everything, but you need it to be
+[00:03:13] straightforward
+[00:03:14] and simple.
+[00:03:15] If you have too much going on, then if your app is shown in a frame of a video
+[00:03:19] for like
+[00:03:19] two seconds and you have so much, no one will know what they're seeing.
+[00:03:23] You need the app, the contents of the app to be very simple and concise so that
+[00:03:29] it's
+[00:03:30] very obvious on a glance what's going on.
+[00:03:32] They understand exactly the process of what's happening.
+[00:03:37] Also, you do need cool visuals.
+[00:03:43] So when things are happening, you want it to look nice.
+[00:03:46] When you take a picture of food on KaliEye, you go, you take the picture, not
+[00:03:49] much.
+[00:03:49] You can do it just a camera.
+[00:03:52] Then we show it analyzing and we've basically created a three-step flow for all
+[00:03:58] influencers
+[00:03:59] where they will show taking a picture, show scanning, and then they'll go to
+[00:04:06] the results
+[00:04:07] page and they'll show what the result is ultimately.
+[00:04:10] It's loading right now.
+[00:04:13] We require this for all influencers and really all ad creators in general.
+[00:04:17] They'll show the taking picture, the loading, and then this page.
+[00:04:20] This is actually an outdated version.
+[00:04:24] This one is more recent.
+[00:04:27] You'll want to think about the main flow, the main aha moment.
+[00:04:34] You should call it that influencers should show off.
+[00:04:37] I'm a believer every app, pretty much every app, 99% even, has an aha moment.
+[00:04:45] Whatever your users realize that they're getting the value.
+[00:04:48] For KaliEye, it's okay, you take a picture of your food and you get the
+[00:04:51] calories.
+[00:04:52] For Quitter, I think it's the first time it actually helps you, it stops you
+[00:04:56] from your
+[00:04:57] urges.
+[00:04:58] I think the panic button is really the big thing.
+[00:05:01] It's like the big core action that is like a viral action.
+[00:05:05] It's flashy.
+[00:05:06] It's in your face.
+[00:05:09] There are a bunch of other examples on this as well.
+[00:05:15] You'll want to come up with your aha moment and then just make sure that that
+[00:05:19] is branded
+[00:05:20] well so that when your influencers talk about it.
+[00:05:23] Not just, I know I keep saying influencers, but when the app is shown in some
+[00:05:26] kind of ad
+[00:05:27] or some kind of marketing material, it is easy to understand from a glance,
+[00:05:32] easy to understand
+[00:05:34] what's going on to comprehend what the app does to comprehend the value that
+[00:05:38] they're receiving
+[00:05:39] and make sure it's in sequential order and make sure that the name of your app
+[00:05:46] and your
+[00:05:47] logo is shown very clearly so that people know where to go download it
+[00:05:52] afterwards.
+[00:05:54] These are the main principles to keep in mind.
+[00:05:57] You should iterate, you should always change things, see how they affect
+[00:06:01] conversion rate
+[00:06:02] and that's how we go from here.
+[00:06:04] Good luck.
+[00:06:05] [ Silence ]

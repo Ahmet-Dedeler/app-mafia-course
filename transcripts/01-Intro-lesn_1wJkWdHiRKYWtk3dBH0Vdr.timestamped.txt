@@ -1,0 +1,77 @@
+[00:00:00] Welcome to the first lesson introduction video of App Mafia.
+[00:00:08] I'm going to go over a brief background on who we are and what we intend to
+[00:00:13] teach here.
+[00:00:15] So this is the App Mafia playbook.
+[00:00:18] With zero investors and minimum coding experience, we each built multi-million
+[00:00:23] dollar app businesses.
+[00:00:26] NGL was built, I think, a bit over four years ago by Hunter.
+[00:00:31] It makes $30 million a year.
+[00:00:34] RizGPT, UMAX, and CalAI were built by myself.
+[00:00:39] And then Zach on CalAI as well, which made $3.5, $3.5, and $40 million a year
+[00:00:46] respectively.
+[00:00:47] And Quitter was built, I think, almost exactly one year ago now by Connor and
+[00:00:52] Alex, and they make $6 million a year.
+[00:00:55] So this is all totaled to over $80 million a year just with the power of code
+[00:01:02] and small teams.
+[00:01:05] So as you see here, Zach's 18, Alex's 19, Connor's 23, I'm 24, and Hunter is 26
+[00:01:16] , I think.
+[00:01:18] We all started Bootstrapped, small teams, like one to three people.
+[00:01:26] We were built recently and we all make millions of dollars a year in profit.
+[00:01:32] So why build apps?
+[00:01:34] Today you do not need to have a CS degree or to raise venture capital to do it.
+[00:01:40] You just need direction and execution.
+[00:01:43] I cannot emphasize this enough.
+[00:01:46] AI makes it easier than ever before to build apps.
+[00:01:51] AI apps can solve more problems for users from the advent of the app store
+[00:01:58] until the release of Chate-QPT.
+[00:02:00] The change in existing technology was pretty minor.
+[00:02:05] There weren't that many new products that could be built.
+[00:02:09] AI completely changes that.
+[00:02:13] It turns it upside down.
+[00:02:16] And finally, social media algorithms amplify reach.
+[00:02:20] It's easier than ever before to be one individual with a creative idea and to
+[00:02:25] reach millions, tens of millions, hundreds of millions, even over a billion
+[00:02:31] people.
+[00:02:33] Each of my apps has reached well over a billion people on social media.
+[00:02:41] The structure of this course will be going through the four D's of software.
+[00:02:45] The first D is I-D-A-S-N.
+[00:02:49] The second is design.
+[00:02:51] The third is development.
+[00:02:54] And the fourth is distribution.
+[00:02:58] Now, throughout this course, we are going to give very clear examples,
+[00:03:03] experiences that we have had within each of these domains, the tools that we
+[00:03:08] use,
+[00:03:09] and our processes that we believe apply to almost everybody that is looking to
+[00:03:15] build and scale a consumer app.
+[00:03:18] In the next lesson, I'll dive into the tech stack that we use.
+[00:03:21] And then after that, we will get into the first module, ideation, and coming up
+[00:03:28] with your idea.
+[00:03:30] Feel free to skip around.
+[00:03:33] I would probably watch on 2x speed personally.
+[00:03:38] And, yeah, bounce to whatever is interesting.
+[00:03:42] Follow your gut.
+[00:03:44] Follow your curiosities.
+[00:03:46] Consume other information on the internet.
+[00:03:48] But do know that most people that make content within this domain have not
+[00:03:53] achieved nearly the level of success that just any individual involved in Atmaf
+[00:03:58] ia has.
+[00:03:59] This is the gold standard.
+[00:04:02] And, yeah, I think as of the release of this video, it will be 100% free.
+[00:04:12] The launch, you know, to hit the elephant in the room, the launch on Twitter
+[00:04:18] was obviously very, very viral and very controversial.
+[00:04:23] But that was all intended.
+[00:04:25] It's all an act.
+[00:04:28] The play here is Mindshare.
+[00:04:31] If we can be known by the masses and yet provide something that is extremely
+[00:04:38] helpful, I think that it positions us well to build the best tools for the
+[00:04:45] present and future of all app builders.
+[00:04:49] And at the end of the day, I believe app builders are simply bringing AI and
+[00:04:57] new human experiences into the hands of billions of people.
+[00:05:05] And we hope that that starts here.
+[00:05:07] We hope that it starts with high value information to help you and everybody
+[00:05:14] alongside yourself.
+[00:05:16] Achieve your goals in your journey of building apps.
+[00:05:21] So that is my spiel for this first lesson.
+[00:05:26] I'll see you guys in the next lesson where I explain the tech stack and then we
+[00:05:30] 'll jump right on into ideation.
+[00:05:32] [BLANK_AUDIO]

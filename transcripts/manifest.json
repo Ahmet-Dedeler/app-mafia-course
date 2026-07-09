@@ -1,0 +1,1254 @@
+{
+  "sourceUrl": "https://whop.com/joined/appmafia/courses-EvnQidFnfcQ9K7/app/courses/cors_HU0XWmy7QlYiv/",
+  "courseId": "cors_HU0XWmy7QlYiv",
+  "courseTitle": "0 to $100k Course",
+  "startedAt": "2026-07-09T04:26:14.887Z",
+  "finishedAt": "2026-07-09T04:27:27.402Z",
+  "totals": {
+    "lessons": 63,
+    "videoLessons": 59,
+    "extracted": 59,
+    "missingOrFailed": 0
+  },
+  "results": [
+    {
+      "index": 1,
+      "id": "lesn_1wJkWdHiRKYWtk3dBH0Vdr",
+      "title": "Intro",
+      "chapterTitle": "Module 0 - Introduction",
+      "lessonType": "multi",
+      "durationSeconds": 333,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/01-Intro-lesn_1wJkWdHiRKYWtk3dBH0Vdr.vtt",
+        "txt": "transcripts/01-Intro-lesn_1wJkWdHiRKYWtk3dBH0Vdr.txt",
+        "md": "transcripts/01-Intro-lesn_1wJkWdHiRKYWtk3dBH0Vdr.md",
+        "timestamped": "transcripts/01-Intro-lesn_1wJkWdHiRKYWtk3dBH0Vdr.timestamped.txt"
+      },
+      "cueCount": 77,
+      "subtitleSegments": 12,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 2,
+      "id": "lesn_68627CjjxtSWTVBspVQ4ZL",
+      "title": "Our Tech Stack",
+      "chapterTitle": "Module 0 - Introduction",
+      "lessonType": "multi",
+      "durationSeconds": 293,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/02-Our-Tech-Stack-lesn_68627CjjxtSWTVBspVQ4ZL.vtt",
+        "txt": "transcripts/02-Our-Tech-Stack-lesn_68627CjjxtSWTVBspVQ4ZL.txt",
+        "md": "transcripts/02-Our-Tech-Stack-lesn_68627CjjxtSWTVBspVQ4ZL.md",
+        "timestamped": "transcripts/02-Our-Tech-Stack-lesn_68627CjjxtSWTVBspVQ4ZL.timestamped.txt"
+      },
+      "cueCount": 75,
+      "subtitleSegments": 10,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 3,
+      "id": "lesn_13nQVvbwh1DWP4aLppSyrh",
+      "title": "1.0.0 - Case Studies",
+      "chapterTitle": "Module 1 - Ideation",
+      "lessonType": "multi",
+      "durationSeconds": 1243,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/03-1-0-0-Case-Studies-lesn_13nQVvbwh1DWP4aLppSyrh.vtt",
+        "txt": "transcripts/03-1-0-0-Case-Studies-lesn_13nQVvbwh1DWP4aLppSyrh.txt",
+        "md": "transcripts/03-1-0-0-Case-Studies-lesn_13nQVvbwh1DWP4aLppSyrh.md",
+        "timestamped": "transcripts/03-1-0-0-Case-Studies-lesn_13nQVvbwh1DWP4aLppSyrh.timestamped.txt"
+      },
+      "cueCount": 382,
+      "subtitleSegments": 42,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 4,
+      "id": "lesn_3HTSgX6ZwnaRntU4qAQeSi",
+      "title": "1.0.1 - Idea vs Execution",
+      "chapterTitle": "Module 1 - Ideation",
+      "lessonType": "multi",
+      "durationSeconds": 1141,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/04-1-0-1-Idea-vs-Execution-lesn_3HTSgX6ZwnaRntU4qAQeSi.vtt",
+        "txt": "transcripts/04-1-0-1-Idea-vs-Execution-lesn_3HTSgX6ZwnaRntU4qAQeSi.txt",
+        "md": "transcripts/04-1-0-1-Idea-vs-Execution-lesn_3HTSgX6ZwnaRntU4qAQeSi.md",
+        "timestamped": "transcripts/04-1-0-1-Idea-vs-Execution-lesn_3HTSgX6ZwnaRntU4qAQeSi.timestamped.txt"
+      },
+      "cueCount": 347,
+      "subtitleSegments": 39,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 5,
+      "id": "lesn_6OuPvkCpyJfU9MRLe93a2r",
+      "title": "1.0.2 - Human Psychology",
+      "chapterTitle": "Module 1 - Ideation",
+      "lessonType": "multi",
+      "durationSeconds": 861,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/05-1-0-2-Human-Psychology-lesn_6OuPvkCpyJfU9MRLe93a2r.vtt",
+        "txt": "transcripts/05-1-0-2-Human-Psychology-lesn_6OuPvkCpyJfU9MRLe93a2r.txt",
+        "md": "transcripts/05-1-0-2-Human-Psychology-lesn_6OuPvkCpyJfU9MRLe93a2r.md",
+        "timestamped": "transcripts/05-1-0-2-Human-Psychology-lesn_6OuPvkCpyJfU9MRLe93a2r.timestamped.txt"
+      },
+      "cueCount": 290,
+      "subtitleSegments": 29,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 7,
+      "id": "lesn_4cVbw2vGvf84JywUtuwUcN",
+      "title": "1.1.0 - Solve Your Problems",
+      "chapterTitle": "Module 1 - Ideation",
+      "lessonType": "multi",
+      "durationSeconds": 1108,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/07-1-1-0-Solve-Your-Problems-lesn_4cVbw2vGvf84JywUtuwUcN.vtt",
+        "txt": "transcripts/07-1-1-0-Solve-Your-Problems-lesn_4cVbw2vGvf84JywUtuwUcN.txt",
+        "md": "transcripts/07-1-1-0-Solve-Your-Problems-lesn_4cVbw2vGvf84JywUtuwUcN.md",
+        "timestamped": "transcripts/07-1-1-0-Solve-Your-Problems-lesn_4cVbw2vGvf84JywUtuwUcN.timestamped.txt"
+      },
+      "cueCount": 353,
+      "subtitleSegments": 37,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 8,
+      "id": "lesn_1NsMzXlj6e0KiKtxBPDJ6N",
+      "title": "1.1.1 - Instagram and TikTok - Part 1",
+      "chapterTitle": "Module 1 - Ideation",
+      "lessonType": "multi",
+      "durationSeconds": 415,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/08-1-1-1-Instagram-and-TikTok-Part-1-lesn_1NsMzXlj6e0KiKtxBPDJ6N.vtt",
+        "txt": "transcripts/08-1-1-1-Instagram-and-TikTok-Part-1-lesn_1NsMzXlj6e0KiKtxBPDJ6N.txt",
+        "md": "transcripts/08-1-1-1-Instagram-and-TikTok-Part-1-lesn_1NsMzXlj6e0KiKtxBPDJ6N.md",
+        "timestamped": "transcripts/08-1-1-1-Instagram-and-TikTok-Part-1-lesn_1NsMzXlj6e0KiKtxBPDJ6N.timestamped.txt"
+      },
+      "cueCount": 98,
+      "subtitleSegments": 14,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 9,
+      "id": "lesn_5g7DOLTE9UD8BvksDxgTqt",
+      "title": "1.1.1 - Instagram and TikTok - Part 2",
+      "chapterTitle": "Module 1 - Ideation",
+      "lessonType": "multi",
+      "durationSeconds": 1606,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/09-1-1-1-Instagram-and-TikTok-Part-2-lesn_5g7DOLTE9UD8BvksDxgTqt.vtt",
+        "txt": "transcripts/09-1-1-1-Instagram-and-TikTok-Part-2-lesn_5g7DOLTE9UD8BvksDxgTqt.txt",
+        "md": "transcripts/09-1-1-1-Instagram-and-TikTok-Part-2-lesn_5g7DOLTE9UD8BvksDxgTqt.md",
+        "timestamped": "transcripts/09-1-1-1-Instagram-and-TikTok-Part-2-lesn_5g7DOLTE9UD8BvksDxgTqt.timestamped.txt"
+      },
+      "cueCount": 464,
+      "subtitleSegments": 54,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 10,
+      "id": "lesn_4AUs1porzdesNtKdS7CFlp",
+      "title": "1.1.2 - Reddit and X",
+      "chapterTitle": "Module 1 - Ideation",
+      "lessonType": "multi",
+      "durationSeconds": 929,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/10-1-1-2-Reddit-and-X-lesn_4AUs1porzdesNtKdS7CFlp.vtt",
+        "txt": "transcripts/10-1-1-2-Reddit-and-X-lesn_4AUs1porzdesNtKdS7CFlp.txt",
+        "md": "transcripts/10-1-1-2-Reddit-and-X-lesn_4AUs1porzdesNtKdS7CFlp.md",
+        "timestamped": "transcripts/10-1-1-2-Reddit-and-X-lesn_4AUs1porzdesNtKdS7CFlp.timestamped.txt"
+      },
+      "cueCount": 239,
+      "subtitleSegments": 31,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 12,
+      "id": "lesn_3IKajcgsR8zdhTQaAIAwau",
+      "title": "1.2.0 - Competitive Analysis",
+      "chapterTitle": "Module 1 - Ideation",
+      "lessonType": "multi",
+      "durationSeconds": 948,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/12-1-2-0-Competitive-Analysis-lesn_3IKajcgsR8zdhTQaAIAwau.vtt",
+        "txt": "transcripts/12-1-2-0-Competitive-Analysis-lesn_3IKajcgsR8zdhTQaAIAwau.txt",
+        "md": "transcripts/12-1-2-0-Competitive-Analysis-lesn_3IKajcgsR8zdhTQaAIAwau.md",
+        "timestamped": "transcripts/12-1-2-0-Competitive-Analysis-lesn_3IKajcgsR8zdhTQaAIAwau.timestamped.txt"
+      },
+      "cueCount": 190,
+      "subtitleSegments": 32,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 13,
+      "id": "lesn_4ViLMRQQF7jR1lL7NQfcVm",
+      "title": "1.2.1 - Finalizing Your Idea",
+      "chapterTitle": "Module 1 - Ideation",
+      "lessonType": "multi",
+      "durationSeconds": 910,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/13-1-2-1-Finalizing-Your-Idea-lesn_4ViLMRQQF7jR1lL7NQfcVm.vtt",
+        "txt": "transcripts/13-1-2-1-Finalizing-Your-Idea-lesn_4ViLMRQQF7jR1lL7NQfcVm.txt",
+        "md": "transcripts/13-1-2-1-Finalizing-Your-Idea-lesn_4ViLMRQQF7jR1lL7NQfcVm.md",
+        "timestamped": "transcripts/13-1-2-1-Finalizing-Your-Idea-lesn_4ViLMRQQF7jR1lL7NQfcVm.timestamped.txt"
+      },
+      "cueCount": 276,
+      "subtitleSegments": 31,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 15,
+      "id": "lesn_lH7PBZdxL4yTMVZac01ja",
+      "title": "2.0.0 - Figma Inspiration",
+      "chapterTitle": "Module 2 - Design",
+      "lessonType": "multi",
+      "durationSeconds": 826,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/15-2-0-0-Figma-Inspiration-lesn_lH7PBZdxL4yTMVZac01ja.vtt",
+        "txt": "transcripts/15-2-0-0-Figma-Inspiration-lesn_lH7PBZdxL4yTMVZac01ja.txt",
+        "md": "transcripts/15-2-0-0-Figma-Inspiration-lesn_lH7PBZdxL4yTMVZac01ja.md",
+        "timestamped": "transcripts/15-2-0-0-Figma-Inspiration-lesn_lH7PBZdxL4yTMVZac01ja.timestamped.txt"
+      },
+      "cueCount": 233,
+      "subtitleSegments": 28,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 16,
+      "id": "lesn_3YT85MbLlM5fypbvBtLKxz",
+      "title": "2.0.1 - Wireframing",
+      "chapterTitle": "Module 2 - Design",
+      "lessonType": "multi",
+      "durationSeconds": 1342,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/16-2-0-1-Wireframing-lesn_3YT85MbLlM5fypbvBtLKxz.vtt",
+        "txt": "transcripts/16-2-0-1-Wireframing-lesn_3YT85MbLlM5fypbvBtLKxz.txt",
+        "md": "transcripts/16-2-0-1-Wireframing-lesn_3YT85MbLlM5fypbvBtLKxz.md",
+        "timestamped": "transcripts/16-2-0-1-Wireframing-lesn_3YT85MbLlM5fypbvBtLKxz.timestamped.txt"
+      },
+      "cueCount": 359,
+      "subtitleSegments": 45,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 17,
+      "id": "lesn_4oM2DTo1pVf5fCvVgb9zqc",
+      "title": "2.0.2 - Hiring a Designer",
+      "chapterTitle": "Module 2 - Design",
+      "lessonType": "multi",
+      "durationSeconds": 586,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/17-2-0-2-Hiring-a-Designer-lesn_4oM2DTo1pVf5fCvVgb9zqc.vtt",
+        "txt": "transcripts/17-2-0-2-Hiring-a-Designer-lesn_4oM2DTo1pVf5fCvVgb9zqc.txt",
+        "md": "transcripts/17-2-0-2-Hiring-a-Designer-lesn_4oM2DTo1pVf5fCvVgb9zqc.md",
+        "timestamped": "transcripts/17-2-0-2-Hiring-a-Designer-lesn_4oM2DTo1pVf5fCvVgb9zqc.timestamped.txt"
+      },
+      "cueCount": 166,
+      "subtitleSegments": 20,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 18,
+      "id": "lesn_6IDO7cEm84yUAFdNUzb5FS",
+      "title": "2.1.0 - Primary & Secondary Actions",
+      "chapterTitle": "Module 2 - Design",
+      "lessonType": "multi",
+      "durationSeconds": 1396,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/18-2-1-0-Primary-Secondary-Actions-lesn_6IDO7cEm84yUAFdNUzb5FS.vtt",
+        "txt": "transcripts/18-2-1-0-Primary-Secondary-Actions-lesn_6IDO7cEm84yUAFdNUzb5FS.txt",
+        "md": "transcripts/18-2-1-0-Primary-Secondary-Actions-lesn_6IDO7cEm84yUAFdNUzb5FS.md",
+        "timestamped": "transcripts/18-2-1-0-Primary-Secondary-Actions-lesn_6IDO7cEm84yUAFdNUzb5FS.timestamped.txt"
+      },
+      "cueCount": 486,
+      "subtitleSegments": 47,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 19,
+      "id": "lesn_kH6lvtlkIKTRlPjhnp1y9",
+      "title": "2.1.1 - Onboarding and Paywalls",
+      "chapterTitle": "Module 2 - Design",
+      "lessonType": "multi",
+      "durationSeconds": 1245,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/19-2-1-1-Onboarding-and-Paywalls-lesn_kH6lvtlkIKTRlPjhnp1y9.vtt",
+        "txt": "transcripts/19-2-1-1-Onboarding-and-Paywalls-lesn_kH6lvtlkIKTRlPjhnp1y9.txt",
+        "md": "transcripts/19-2-1-1-Onboarding-and-Paywalls-lesn_kH6lvtlkIKTRlPjhnp1y9.md",
+        "timestamped": "transcripts/19-2-1-1-Onboarding-and-Paywalls-lesn_kH6lvtlkIKTRlPjhnp1y9.timestamped.txt"
+      },
+      "cueCount": 412,
+      "subtitleSegments": 42,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 20,
+      "id": "lesn_2CuQxkFAacnsD6VRxeFxUe",
+      "title": "2.2.0 - Brand Aeshetics",
+      "chapterTitle": "Module 2 - Design",
+      "lessonType": "multi",
+      "durationSeconds": 1302,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/20-2-2-0-Brand-Aeshetics-lesn_2CuQxkFAacnsD6VRxeFxUe.vtt",
+        "txt": "transcripts/20-2-2-0-Brand-Aeshetics-lesn_2CuQxkFAacnsD6VRxeFxUe.txt",
+        "md": "transcripts/20-2-2-0-Brand-Aeshetics-lesn_2CuQxkFAacnsD6VRxeFxUe.md",
+        "timestamped": "transcripts/20-2-2-0-Brand-Aeshetics-lesn_2CuQxkFAacnsD6VRxeFxUe.timestamped.txt"
+      },
+      "cueCount": 312,
+      "subtitleSegments": 44,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 21,
+      "id": "lesn_41qLwvkZ3vJaQEHJ4XFdU6",
+      "title": "2.2.1 - Viral Design",
+      "chapterTitle": "Module 2 - Design",
+      "lessonType": "multi",
+      "durationSeconds": 370,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/21-2-2-1-Viral-Design-lesn_41qLwvkZ3vJaQEHJ4XFdU6.vtt",
+        "txt": "transcripts/21-2-2-1-Viral-Design-lesn_41qLwvkZ3vJaQEHJ4XFdU6.txt",
+        "md": "transcripts/21-2-2-1-Viral-Design-lesn_41qLwvkZ3vJaQEHJ4XFdU6.md",
+        "timestamped": "transcripts/21-2-2-1-Viral-Design-lesn_41qLwvkZ3vJaQEHJ4XFdU6.timestamped.txt"
+      },
+      "cueCount": 130,
+      "subtitleSegments": 13,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 22,
+      "id": "lesn_6bBiEDcobz7UiCOCWiLEaF",
+      "title": "2.X - Viral App Design",
+      "chapterTitle": "Module 2 - Design",
+      "lessonType": "multi",
+      "durationSeconds": 3786,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/22-2-X-Viral-App-Design-lesn_6bBiEDcobz7UiCOCWiLEaF.vtt",
+        "txt": "transcripts/22-2-X-Viral-App-Design-lesn_6bBiEDcobz7UiCOCWiLEaF.txt",
+        "md": "transcripts/22-2-X-Viral-App-Design-lesn_6bBiEDcobz7UiCOCWiLEaF.md",
+        "timestamped": "transcripts/22-2-X-Viral-App-Design-lesn_6bBiEDcobz7UiCOCWiLEaF.timestamped.txt"
+      },
+      "cueCount": 1072,
+      "subtitleSegments": 127,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 24,
+      "id": "lesn_6CGCEGtPGpRkb8Av4HmA4a",
+      "title": "3.0.0 - Intro to Development",
+      "chapterTitle": "Module 3 - Development",
+      "lessonType": "multi",
+      "durationSeconds": 76,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/24-3-0-0-Intro-to-Development-lesn_6CGCEGtPGpRkb8Av4HmA4a.vtt",
+        "txt": "transcripts/24-3-0-0-Intro-to-Development-lesn_6CGCEGtPGpRkb8Av4HmA4a.txt",
+        "md": "transcripts/24-3-0-0-Intro-to-Development-lesn_6CGCEGtPGpRkb8Av4HmA4a.md",
+        "timestamped": "transcripts/24-3-0-0-Intro-to-Development-lesn_6CGCEGtPGpRkb8Av4HmA4a.timestamped.txt"
+      },
+      "cueCount": 29,
+      "subtitleSegments": 3,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 25,
+      "id": "lesn_6YBxgeFSGuHhiIpcDY2A1Q",
+      "title": "3.0.1 - Should you learn to code? ",
+      "chapterTitle": "Module 3 - Development",
+      "lessonType": "multi",
+      "durationSeconds": 136,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/25-3-0-1-Should-you-learn-to-code-lesn_6YBxgeFSGuHhiIpcDY2A1Q.vtt",
+        "txt": "transcripts/25-3-0-1-Should-you-learn-to-code-lesn_6YBxgeFSGuHhiIpcDY2A1Q.txt",
+        "md": "transcripts/25-3-0-1-Should-you-learn-to-code-lesn_6YBxgeFSGuHhiIpcDY2A1Q.md",
+        "timestamped": "transcripts/25-3-0-1-Should-you-learn-to-code-lesn_6YBxgeFSGuHhiIpcDY2A1Q.timestamped.txt"
+      },
+      "cueCount": 47,
+      "subtitleSegments": 5,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 26,
+      "id": "lesn_4JK5d1cLRVyJXaLIVlJdOk",
+      "title": "3.0.2 Hiring a developer",
+      "chapterTitle": "Module 3 - Development",
+      "lessonType": "multi",
+      "durationSeconds": 425,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/26-3-0-2-Hiring-a-developer-lesn_4JK5d1cLRVyJXaLIVlJdOk.vtt",
+        "txt": "transcripts/26-3-0-2-Hiring-a-developer-lesn_4JK5d1cLRVyJXaLIVlJdOk.txt",
+        "md": "transcripts/26-3-0-2-Hiring-a-developer-lesn_4JK5d1cLRVyJXaLIVlJdOk.md",
+        "timestamped": "transcripts/26-3-0-2-Hiring-a-developer-lesn_4JK5d1cLRVyJXaLIVlJdOk.timestamped.txt"
+      },
+      "cueCount": 166,
+      "subtitleSegments": 15,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 27,
+      "id": "lesn_5fRSXGm1ihFN6HmFyHFOUO",
+      "title": "3.1.1 - Languages and Frameworks",
+      "chapterTitle": "Module 3 - Development",
+      "lessonType": "multi",
+      "durationSeconds": 128,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/27-3-1-1-Languages-and-Frameworks-lesn_5fRSXGm1ihFN6HmFyHFOUO.vtt",
+        "txt": "transcripts/27-3-1-1-Languages-and-Frameworks-lesn_5fRSXGm1ihFN6HmFyHFOUO.txt",
+        "md": "transcripts/27-3-1-1-Languages-and-Frameworks-lesn_5fRSXGm1ihFN6HmFyHFOUO.md",
+        "timestamped": "transcripts/27-3-1-1-Languages-and-Frameworks-lesn_5fRSXGm1ihFN6HmFyHFOUO.timestamped.txt"
+      },
+      "cueCount": 33,
+      "subtitleSegments": 5,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 28,
+      "id": "lesn_1G2OPYNCEphjqsRqPrQhC5",
+      "title": "3.2.0 - Setting up Apple Developer",
+      "chapterTitle": "Module 3 - Development",
+      "lessonType": "multi",
+      "durationSeconds": 60,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/28-3-2-0-Setting-up-Apple-Developer-lesn_1G2OPYNCEphjqsRqPrQhC5.vtt",
+        "txt": "transcripts/28-3-2-0-Setting-up-Apple-Developer-lesn_1G2OPYNCEphjqsRqPrQhC5.txt",
+        "md": "transcripts/28-3-2-0-Setting-up-Apple-Developer-lesn_1G2OPYNCEphjqsRqPrQhC5.md",
+        "timestamped": "transcripts/28-3-2-0-Setting-up-Apple-Developer-lesn_1G2OPYNCEphjqsRqPrQhC5.timestamped.txt"
+      },
+      "cueCount": 28,
+      "subtitleSegments": 3,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 29,
+      "id": "lesn_5C9Qdxn35X8U7xksDQAMha",
+      "title": "3.2.1 - Setting up Xcode",
+      "chapterTitle": "Module 3 - Development",
+      "lessonType": "multi",
+      "durationSeconds": 193,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/29-3-2-1-Setting-up-Xcode-lesn_5C9Qdxn35X8U7xksDQAMha.vtt",
+        "txt": "transcripts/29-3-2-1-Setting-up-Xcode-lesn_5C9Qdxn35X8U7xksDQAMha.txt",
+        "md": "transcripts/29-3-2-1-Setting-up-Xcode-lesn_5C9Qdxn35X8U7xksDQAMha.md",
+        "timestamped": "transcripts/29-3-2-1-Setting-up-Xcode-lesn_5C9Qdxn35X8U7xksDQAMha.timestamped.txt"
+      },
+      "cueCount": 77,
+      "subtitleSegments": 7,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 30,
+      "id": "lesn_75VUi63KGLXrVtVjXyMuwX",
+      "title": "3.2.2 - Core Tech Stack and Setup",
+      "chapterTitle": "Module 3 - Development",
+      "lessonType": "multi",
+      "durationSeconds": 116,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/30-3-2-2-Core-Tech-Stack-and-Setup-lesn_75VUi63KGLXrVtVjXyMuwX.vtt",
+        "txt": "transcripts/30-3-2-2-Core-Tech-Stack-and-Setup-lesn_75VUi63KGLXrVtVjXyMuwX.txt",
+        "md": "transcripts/30-3-2-2-Core-Tech-Stack-and-Setup-lesn_75VUi63KGLXrVtVjXyMuwX.md",
+        "timestamped": "transcripts/30-3-2-2-Core-Tech-Stack-and-Setup-lesn_75VUi63KGLXrVtVjXyMuwX.timestamped.txt"
+      },
+      "cueCount": 45,
+      "subtitleSegments": 4,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 31,
+      "id": "lesn_34mbFTxdn0SVe6BwtCtLBc",
+      "title": "3.3.0 - App architecture",
+      "chapterTitle": "Module 3 - Development",
+      "lessonType": "multi",
+      "durationSeconds": 60,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/31-3-3-0-App-architecture-lesn_34mbFTxdn0SVe6BwtCtLBc.vtt",
+        "txt": "transcripts/31-3-3-0-App-architecture-lesn_34mbFTxdn0SVe6BwtCtLBc.txt",
+        "md": "transcripts/31-3-3-0-App-architecture-lesn_34mbFTxdn0SVe6BwtCtLBc.md",
+        "timestamped": "transcripts/31-3-3-0-App-architecture-lesn_34mbFTxdn0SVe6BwtCtLBc.timestamped.txt"
+      },
+      "cueCount": 24,
+      "subtitleSegments": 3,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 32,
+      "id": "lesn_6amGsYQrNFH4vbbvmCiqOE",
+      "title": "3.3.1 - Prompting AI",
+      "chapterTitle": "Module 3 - Development",
+      "lessonType": "multi",
+      "durationSeconds": 199,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/32-3-3-1-Prompting-AI-lesn_6amGsYQrNFH4vbbvmCiqOE.vtt",
+        "txt": "transcripts/32-3-3-1-Prompting-AI-lesn_6amGsYQrNFH4vbbvmCiqOE.txt",
+        "md": "transcripts/32-3-3-1-Prompting-AI-lesn_6amGsYQrNFH4vbbvmCiqOE.md",
+        "timestamped": "transcripts/32-3-3-1-Prompting-AI-lesn_6amGsYQrNFH4vbbvmCiqOE.timestamped.txt"
+      },
+      "cueCount": 74,
+      "subtitleSegments": 7,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 33,
+      "id": "lesn_5sGCDWZPHvDCUY6ap7M3bz",
+      "title": "3.3.2 - Core Features",
+      "chapterTitle": "Module 3 - Development",
+      "lessonType": "multi",
+      "durationSeconds": 338,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/33-3-3-2-Core-Features-lesn_5sGCDWZPHvDCUY6ap7M3bz.vtt",
+        "txt": "transcripts/33-3-3-2-Core-Features-lesn_5sGCDWZPHvDCUY6ap7M3bz.txt",
+        "md": "transcripts/33-3-3-2-Core-Features-lesn_5sGCDWZPHvDCUY6ap7M3bz.md",
+        "timestamped": "transcripts/33-3-3-2-Core-Features-lesn_5sGCDWZPHvDCUY6ap7M3bz.timestamped.txt"
+      },
+      "cueCount": 132,
+      "subtitleSegments": 12,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 34,
+      "id": "lesn_bSMkqkpZ6J8cGJcTtLkXC",
+      "title": "3.3.3 - Rebuilding Cal AI",
+      "chapterTitle": "Module 3 - Development",
+      "lessonType": "multi",
+      "durationSeconds": 1157,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/34-3-3-3-Rebuilding-Cal-AI-lesn_bSMkqkpZ6J8cGJcTtLkXC.vtt",
+        "txt": "transcripts/34-3-3-3-Rebuilding-Cal-AI-lesn_bSMkqkpZ6J8cGJcTtLkXC.txt",
+        "md": "transcripts/34-3-3-3-Rebuilding-Cal-AI-lesn_bSMkqkpZ6J8cGJcTtLkXC.md",
+        "timestamped": "transcripts/34-3-3-3-Rebuilding-Cal-AI-lesn_bSMkqkpZ6J8cGJcTtLkXC.timestamped.txt"
+      },
+      "cueCount": 396,
+      "subtitleSegments": 39,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 35,
+      "id": "lesn_6qzpPAzLJE101FD8AJtdJW",
+      "title": "3.3.4 - Onboarding and Questions",
+      "chapterTitle": "Module 3 - Development",
+      "lessonType": "multi",
+      "durationSeconds": 492,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/35-3-3-4-Onboarding-and-Questions-lesn_6qzpPAzLJE101FD8AJtdJW.vtt",
+        "txt": "transcripts/35-3-3-4-Onboarding-and-Questions-lesn_6qzpPAzLJE101FD8AJtdJW.txt",
+        "md": "transcripts/35-3-3-4-Onboarding-and-Questions-lesn_6qzpPAzLJE101FD8AJtdJW.md",
+        "timestamped": "transcripts/35-3-3-4-Onboarding-and-Questions-lesn_6qzpPAzLJE101FD8AJtdJW.timestamped.txt"
+      },
+      "cueCount": 191,
+      "subtitleSegments": 17,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 36,
+      "id": "lesn_30r8aIhPG6XxaSiS06EAAR",
+      "title": "3.3.5 - Paywall and Access",
+      "chapterTitle": "Module 3 - Development",
+      "lessonType": "multi",
+      "durationSeconds": 1168,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/36-3-3-5-Paywall-and-Access-lesn_30r8aIhPG6XxaSiS06EAAR.vtt",
+        "txt": "transcripts/36-3-3-5-Paywall-and-Access-lesn_30r8aIhPG6XxaSiS06EAAR.txt",
+        "md": "transcripts/36-3-3-5-Paywall-and-Access-lesn_30r8aIhPG6XxaSiS06EAAR.md",
+        "timestamped": "transcripts/36-3-3-5-Paywall-and-Access-lesn_30r8aIhPG6XxaSiS06EAAR.timestamped.txt"
+      },
+      "cueCount": 368,
+      "subtitleSegments": 39,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 37,
+      "id": "lesn_7BBMAKJUyVgjYSVVFcuqNO",
+      "title": "3.3.6 - Optimizations + Revenue Levers",
+      "chapterTitle": "Module 3 - Development",
+      "lessonType": "multi",
+      "durationSeconds": 1336,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/37-3-3-6-Optimizations-Revenue-Levers-lesn_7BBMAKJUyVgjYSVVFcuqNO.vtt",
+        "txt": "transcripts/37-3-3-6-Optimizations-Revenue-Levers-lesn_7BBMAKJUyVgjYSVVFcuqNO.txt",
+        "md": "transcripts/37-3-3-6-Optimizations-Revenue-Levers-lesn_7BBMAKJUyVgjYSVVFcuqNO.md",
+        "timestamped": "transcripts/37-3-3-6-Optimizations-Revenue-Levers-lesn_7BBMAKJUyVgjYSVVFcuqNO.timestamped.txt"
+      },
+      "cueCount": 394,
+      "subtitleSegments": 45,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 38,
+      "id": "lesn_463y4d1ZBBthloUM7D4jV2",
+      "title": "3.4.0 - Mastering Superwall",
+      "chapterTitle": "Module 3 - Development",
+      "lessonType": "multi",
+      "durationSeconds": 1396,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/38-3-4-0-Mastering-Superwall-lesn_463y4d1ZBBthloUM7D4jV2.vtt",
+        "txt": "transcripts/38-3-4-0-Mastering-Superwall-lesn_463y4d1ZBBthloUM7D4jV2.txt",
+        "md": "transcripts/38-3-4-0-Mastering-Superwall-lesn_463y4d1ZBBthloUM7D4jV2.md",
+        "timestamped": "transcripts/38-3-4-0-Mastering-Superwall-lesn_463y4d1ZBBthloUM7D4jV2.timestamped.txt"
+      },
+      "cueCount": 439,
+      "subtitleSegments": 47,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 39,
+      "id": "lesn_EryAIFDRSks4xsNBZsepV",
+      "title": "3.4.1 - Mastering Adjust",
+      "chapterTitle": "Module 3 - Development",
+      "lessonType": "multi",
+      "durationSeconds": 497,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/39-3-4-1-Mastering-Adjust-lesn_EryAIFDRSks4xsNBZsepV.vtt",
+        "txt": "transcripts/39-3-4-1-Mastering-Adjust-lesn_EryAIFDRSks4xsNBZsepV.txt",
+        "md": "transcripts/39-3-4-1-Mastering-Adjust-lesn_EryAIFDRSks4xsNBZsepV.md",
+        "timestamped": "transcripts/39-3-4-1-Mastering-Adjust-lesn_EryAIFDRSks4xsNBZsepV.timestamped.txt"
+      },
+      "cueCount": 160,
+      "subtitleSegments": 17,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 40,
+      "id": "lesn_1GEaah6M1s2MbDKvED3382",
+      "title": "4.0.0 - Distribution channels and their trade-offs",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 520,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/40-4-0-0-Distribution-channels-and-their-trade-offs-lesn_1GEaah6M1s2MbDKvED3382.vtt",
+        "txt": "transcripts/40-4-0-0-Distribution-channels-and-their-trade-offs-lesn_1GEaah6M1s2MbDKvED3382.txt",
+        "md": "transcripts/40-4-0-0-Distribution-channels-and-their-trade-offs-lesn_1GEaah6M1s2MbDKvED3382.md",
+        "timestamped": "transcripts/40-4-0-0-Distribution-channels-and-their-trade-offs-lesn_1GEaah6M1s2MbDKvED3382.timestamped.txt"
+      },
+      "cueCount": 136,
+      "subtitleSegments": 18,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 41,
+      "id": "lesn_IjVZiQFcwafLuVMpDusNG",
+      "title": "4.0.1 - Understanding social media virality",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 573,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/41-4-0-1-Understanding-social-media-virality-lesn_IjVZiQFcwafLuVMpDusNG.vtt",
+        "txt": "transcripts/41-4-0-1-Understanding-social-media-virality-lesn_IjVZiQFcwafLuVMpDusNG.txt",
+        "md": "transcripts/41-4-0-1-Understanding-social-media-virality-lesn_IjVZiQFcwafLuVMpDusNG.md",
+        "timestamped": "transcripts/41-4-0-1-Understanding-social-media-virality-lesn_IjVZiQFcwafLuVMpDusNG.timestamped.txt"
+      },
+      "cueCount": 193,
+      "subtitleSegments": 20,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 42,
+      "id": "lesn_6tfAeXTa1DawcOZ72Nm9xT",
+      "title": "4.1.0 - Influencer Marketing Case Studies",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 636,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/42-4-1-0-Influencer-Marketing-Case-Studies-lesn_6tfAeXTa1DawcOZ72Nm9xT.vtt",
+        "txt": "transcripts/42-4-1-0-Influencer-Marketing-Case-Studies-lesn_6tfAeXTa1DawcOZ72Nm9xT.txt",
+        "md": "transcripts/42-4-1-0-Influencer-Marketing-Case-Studies-lesn_6tfAeXTa1DawcOZ72Nm9xT.md",
+        "timestamped": "transcripts/42-4-1-0-Influencer-Marketing-Case-Studies-lesn_6tfAeXTa1DawcOZ72Nm9xT.timestamped.txt"
+      },
+      "cueCount": 226,
+      "subtitleSegments": 22,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 43,
+      "id": "lesn_3rcxialsMs0Ccqy904dBjr",
+      "title": "4.1.1 - What is Influencer Marketing?",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 156,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/43-4-1-1-What-is-Influencer-Marketing-lesn_3rcxialsMs0Ccqy904dBjr.vtt",
+        "txt": "transcripts/43-4-1-1-What-is-Influencer-Marketing-lesn_3rcxialsMs0Ccqy904dBjr.txt",
+        "md": "transcripts/43-4-1-1-What-is-Influencer-Marketing-lesn_3rcxialsMs0Ccqy904dBjr.md",
+        "timestamped": "transcripts/43-4-1-1-What-is-Influencer-Marketing-lesn_3rcxialsMs0Ccqy904dBjr.timestamped.txt"
+      },
+      "cueCount": 58,
+      "subtitleSegments": 6,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 44,
+      "id": "lesn_FalepqckBKY0Gdg9NiezZ",
+      "title": "4.1.2 - How to Source Influencers",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 517,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/44-4-1-2-How-to-Source-Influencers-lesn_FalepqckBKY0Gdg9NiezZ.vtt",
+        "txt": "transcripts/44-4-1-2-How-to-Source-Influencers-lesn_FalepqckBKY0Gdg9NiezZ.txt",
+        "md": "transcripts/44-4-1-2-How-to-Source-Influencers-lesn_FalepqckBKY0Gdg9NiezZ.md",
+        "timestamped": "transcripts/44-4-1-2-How-to-Source-Influencers-lesn_FalepqckBKY0Gdg9NiezZ.timestamped.txt"
+      },
+      "cueCount": 179,
+      "subtitleSegments": 18,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 45,
+      "id": "lesn_ZtgrzHW4ww2RHvmiogLay",
+      "title": "4.1.3 - Outreach & Messaging",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 658,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/45-4-1-3-Outreach-Messaging-lesn_ZtgrzHW4ww2RHvmiogLay.vtt",
+        "txt": "transcripts/45-4-1-3-Outreach-Messaging-lesn_ZtgrzHW4ww2RHvmiogLay.txt",
+        "md": "transcripts/45-4-1-3-Outreach-Messaging-lesn_ZtgrzHW4ww2RHvmiogLay.md",
+        "timestamped": "transcripts/45-4-1-3-Outreach-Messaging-lesn_ZtgrzHW4ww2RHvmiogLay.timestamped.txt"
+      },
+      "cueCount": 205,
+      "subtitleSegments": 22,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 46,
+      "id": "lesn_2MRaEbC1Aa578NCwXb0yiu",
+      "title": "4.1.4 - Negotiations",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 994,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/46-4-1-4-Negotiations-lesn_2MRaEbC1Aa578NCwXb0yiu.vtt",
+        "txt": "transcripts/46-4-1-4-Negotiations-lesn_2MRaEbC1Aa578NCwXb0yiu.txt",
+        "md": "transcripts/46-4-1-4-Negotiations-lesn_2MRaEbC1Aa578NCwXb0yiu.md",
+        "timestamped": "transcripts/46-4-1-4-Negotiations-lesn_2MRaEbC1Aa578NCwXb0yiu.timestamped.txt"
+      },
+      "cueCount": 292,
+      "subtitleSegments": 34,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 47,
+      "id": "lesn_6vZupEgyy3lW97VwNoxW6I",
+      "title": "4.1.5 - Management + Tracking Influencers",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 277,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/47-4-1-5-Management-Tracking-Influencers-lesn_6vZupEgyy3lW97VwNoxW6I.vtt",
+        "txt": "transcripts/47-4-1-5-Management-Tracking-Influencers-lesn_6vZupEgyy3lW97VwNoxW6I.txt",
+        "md": "transcripts/47-4-1-5-Management-Tracking-Influencers-lesn_6vZupEgyy3lW97VwNoxW6I.md",
+        "timestamped": "transcripts/47-4-1-5-Management-Tracking-Influencers-lesn_6vZupEgyy3lW97VwNoxW6I.timestamped.txt"
+      },
+      "cueCount": 131,
+      "subtitleSegments": 10,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 48,
+      "id": "lesn_1hJ6qbY5xLKTwuJ8sbkAmc",
+      "title": "4.1.6 - Theme Pages",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 219,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/48-4-1-6-Theme-Pages-lesn_1hJ6qbY5xLKTwuJ8sbkAmc.vtt",
+        "txt": "transcripts/48-4-1-6-Theme-Pages-lesn_1hJ6qbY5xLKTwuJ8sbkAmc.txt",
+        "md": "transcripts/48-4-1-6-Theme-Pages-lesn_1hJ6qbY5xLKTwuJ8sbkAmc.md",
+        "timestamped": "transcripts/48-4-1-6-Theme-Pages-lesn_1hJ6qbY5xLKTwuJ8sbkAmc.timestamped.txt"
+      },
+      "cueCount": 89,
+      "subtitleSegments": 8,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 49,
+      "id": "lesn_1YK9Btpm0cY6oyhkltV5Ra",
+      "title": "4.2.0 Organic Case Studies",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 586,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/49-4-2-0-Organic-Case-Studies-lesn_1YK9Btpm0cY6oyhkltV5Ra.vtt",
+        "txt": "transcripts/49-4-2-0-Organic-Case-Studies-lesn_1YK9Btpm0cY6oyhkltV5Ra.txt",
+        "md": "transcripts/49-4-2-0-Organic-Case-Studies-lesn_1YK9Btpm0cY6oyhkltV5Ra.md",
+        "timestamped": "transcripts/49-4-2-0-Organic-Case-Studies-lesn_1YK9Btpm0cY6oyhkltV5Ra.timestamped.txt"
+      },
+      "cueCount": 193,
+      "subtitleSegments": 20,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 50,
+      "id": "lesn_3sDvpunmmg1BDwcUALYvFo",
+      "title": "4.2.1 - Types of Organic",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 1035,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/50-4-2-1-Types-of-Organic-lesn_3sDvpunmmg1BDwcUALYvFo.vtt",
+        "txt": "transcripts/50-4-2-1-Types-of-Organic-lesn_3sDvpunmmg1BDwcUALYvFo.txt",
+        "md": "transcripts/50-4-2-1-Types-of-Organic-lesn_3sDvpunmmg1BDwcUALYvFo.md",
+        "timestamped": "transcripts/50-4-2-1-Types-of-Organic-lesn_3sDvpunmmg1BDwcUALYvFo.timestamped.txt"
+      },
+      "cueCount": 442,
+      "subtitleSegments": 35,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 51,
+      "id": "lesn_n9FcELeAKiAOfe4qOz586",
+      "title": "4.2.2 - Account Creation",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 77,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/51-4-2-2-Account-Creation-lesn_n9FcELeAKiAOfe4qOz586.vtt",
+        "txt": "transcripts/51-4-2-2-Account-Creation-lesn_n9FcELeAKiAOfe4qOz586.txt",
+        "md": "transcripts/51-4-2-2-Account-Creation-lesn_n9FcELeAKiAOfe4qOz586.md",
+        "timestamped": "transcripts/51-4-2-2-Account-Creation-lesn_n9FcELeAKiAOfe4qOz586.timestamped.txt"
+      },
+      "cueCount": 35,
+      "subtitleSegments": 3,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 52,
+      "id": "lesn_2oaFGeST0BE8pZv2c6B3R5",
+      "title": "4.2.3 - Warming up Accounts",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 333,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/52-4-2-3-Warming-up-Accounts-lesn_2oaFGeST0BE8pZv2c6B3R5.vtt",
+        "txt": "transcripts/52-4-2-3-Warming-up-Accounts-lesn_2oaFGeST0BE8pZv2c6B3R5.txt",
+        "md": "transcripts/52-4-2-3-Warming-up-Accounts-lesn_2oaFGeST0BE8pZv2c6B3R5.md",
+        "timestamped": "transcripts/52-4-2-3-Warming-up-Accounts-lesn_2oaFGeST0BE8pZv2c6B3R5.timestamped.txt"
+      },
+      "cueCount": 126,
+      "subtitleSegments": 12,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 53,
+      "id": "lesn_I7V0YSXayiiXUelboZgor",
+      "title": "4.3.0 - Case Studies",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 378,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/53-4-3-0-Case-Studies-lesn_I7V0YSXayiiXUelboZgor.vtt",
+        "txt": "transcripts/53-4-3-0-Case-Studies-lesn_I7V0YSXayiiXUelboZgor.txt",
+        "md": "transcripts/53-4-3-0-Case-Studies-lesn_I7V0YSXayiiXUelboZgor.md",
+        "timestamped": "transcripts/53-4-3-0-Case-Studies-lesn_I7V0YSXayiiXUelboZgor.timestamped.txt"
+      },
+      "cueCount": 114,
+      "subtitleSegments": 13,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 54,
+      "id": "lesn_2gNmGezE6wrzHTRfdIcUQj",
+      "title": "4.3.1 - Different Channels",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 427,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/54-4-3-1-Different-Channels-lesn_2gNmGezE6wrzHTRfdIcUQj.vtt",
+        "txt": "transcripts/54-4-3-1-Different-Channels-lesn_2gNmGezE6wrzHTRfdIcUQj.txt",
+        "md": "transcripts/54-4-3-1-Different-Channels-lesn_2gNmGezE6wrzHTRfdIcUQj.md",
+        "timestamped": "transcripts/54-4-3-1-Different-Channels-lesn_2gNmGezE6wrzHTRfdIcUQj.timestamped.txt"
+      },
+      "cueCount": 151,
+      "subtitleSegments": 15,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 55,
+      "id": "lesn_1zfbBWpHHnEYlK8zldeWwy",
+      "title": "4.3.2 - High Level Heuristics",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 548,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/55-4-3-2-High-Level-Heuristics-lesn_1zfbBWpHHnEYlK8zldeWwy.vtt",
+        "txt": "transcripts/55-4-3-2-High-Level-Heuristics-lesn_1zfbBWpHHnEYlK8zldeWwy.txt",
+        "md": "transcripts/55-4-3-2-High-Level-Heuristics-lesn_1zfbBWpHHnEYlK8zldeWwy.md",
+        "timestamped": "transcripts/55-4-3-2-High-Level-Heuristics-lesn_1zfbBWpHHnEYlK8zldeWwy.timestamped.txt"
+      },
+      "cueCount": 216,
+      "subtitleSegments": 19,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 56,
+      "id": "lesn_3N07IgiLQPYESwUiHNJUdj",
+      "title": "4.3.3 - Campaign structure",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 2313,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/56-4-3-3-Campaign-structure-lesn_3N07IgiLQPYESwUiHNJUdj.vtt",
+        "txt": "transcripts/56-4-3-3-Campaign-structure-lesn_3N07IgiLQPYESwUiHNJUdj.txt",
+        "md": "transcripts/56-4-3-3-Campaign-structure-lesn_3N07IgiLQPYESwUiHNJUdj.md",
+        "timestamped": "transcripts/56-4-3-3-Campaign-structure-lesn_3N07IgiLQPYESwUiHNJUdj.timestamped.txt"
+      },
+      "cueCount": 795,
+      "subtitleSegments": 78,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 57,
+      "id": "lesn_1gkVISr6qCWrak6JmxLZMh",
+      "title": "4.3.4 - Creative Fatigue",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 149,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/57-4-3-4-Creative-Fatigue-lesn_1gkVISr6qCWrak6JmxLZMh.vtt",
+        "txt": "transcripts/57-4-3-4-Creative-Fatigue-lesn_1gkVISr6qCWrak6JmxLZMh.txt",
+        "md": "transcripts/57-4-3-4-Creative-Fatigue-lesn_1gkVISr6qCWrak6JmxLZMh.md",
+        "timestamped": "transcripts/57-4-3-4-Creative-Fatigue-lesn_1gkVISr6qCWrak6JmxLZMh.timestamped.txt"
+      },
+      "cueCount": 51,
+      "subtitleSegments": 5,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 58,
+      "id": "lesn_6AFkTmVMp0z7SROc3QdQRt",
+      "title": "4.3.5 - Creatives",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 1504,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/58-4-3-5-Creatives-lesn_6AFkTmVMp0z7SROc3QdQRt.vtt",
+        "txt": "transcripts/58-4-3-5-Creatives-lesn_6AFkTmVMp0z7SROc3QdQRt.txt",
+        "md": "transcripts/58-4-3-5-Creatives-lesn_6AFkTmVMp0z7SROc3QdQRt.md",
+        "timestamped": "transcripts/58-4-3-5-Creatives-lesn_6AFkTmVMp0z7SROc3QdQRt.timestamped.txt"
+      },
+      "cueCount": 429,
+      "subtitleSegments": 51,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 59,
+      "id": "lesn_2wLuVmEFqazubVb49SpY3w",
+      "title": "4.3.6 - Attribution",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 934,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/59-4-3-6-Attribution-lesn_2wLuVmEFqazubVb49SpY3w.vtt",
+        "txt": "transcripts/59-4-3-6-Attribution-lesn_2wLuVmEFqazubVb49SpY3w.txt",
+        "md": "transcripts/59-4-3-6-Attribution-lesn_2wLuVmEFqazubVb49SpY3w.md",
+        "timestamped": "transcripts/59-4-3-6-Attribution-lesn_2wLuVmEFqazubVb49SpY3w.timestamped.txt"
+      },
+      "cueCount": 24,
+      "subtitleSegments": 4,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 60,
+      "id": "lesn_3VkyR2ao48WCtyYskjs2MP",
+      "title": "4.3.7 - Apple Search Ads",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 409,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/60-4-3-7-Apple-Search-Ads-lesn_3VkyR2ao48WCtyYskjs2MP.vtt",
+        "txt": "transcripts/60-4-3-7-Apple-Search-Ads-lesn_3VkyR2ao48WCtyYskjs2MP.txt",
+        "md": "transcripts/60-4-3-7-Apple-Search-Ads-lesn_3VkyR2ao48WCtyYskjs2MP.md",
+        "timestamped": "transcripts/60-4-3-7-Apple-Search-Ads-lesn_3VkyR2ao48WCtyYskjs2MP.timestamped.txt"
+      },
+      "cueCount": 142,
+      "subtitleSegments": 14,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 61,
+      "id": "lesn_4fUQAuH2OC7fviLJQ7YW3Y",
+      "title": "4.4.0 - ASO",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 1004,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/61-4-4-0-ASO-lesn_4fUQAuH2OC7fviLJQ7YW3Y.vtt",
+        "txt": "transcripts/61-4-4-0-ASO-lesn_4fUQAuH2OC7fviLJQ7YW3Y.txt",
+        "md": "transcripts/61-4-4-0-ASO-lesn_4fUQAuH2OC7fviLJQ7YW3Y.md",
+        "timestamped": "transcripts/61-4-4-0-ASO-lesn_4fUQAuH2OC7fviLJQ7YW3Y.timestamped.txt"
+      },
+      "cueCount": 313,
+      "subtitleSegments": 34,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 62,
+      "id": "lesn_28bqH1KqUWQeuziWXuvFz",
+      "title": "4.4.1 - x.com marketing",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 596,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/62-4-4-1-x-com-marketing-lesn_28bqH1KqUWQeuziWXuvFz.vtt",
+        "txt": "transcripts/62-4-4-1-x-com-marketing-lesn_28bqH1KqUWQeuziWXuvFz.txt",
+        "md": "transcripts/62-4-4-1-x-com-marketing-lesn_28bqH1KqUWQeuziWXuvFz.md",
+        "timestamped": "transcripts/62-4-4-1-x-com-marketing-lesn_28bqH1KqUWQeuziWXuvFz.timestamped.txt"
+      },
+      "cueCount": 229,
+      "subtitleSegments": 20,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    },
+    {
+      "index": 63,
+      "id": "lesn_12zFdK1AZ5UDI5zDqVuLiE",
+      "title": "4.4.2 - Reddit Marketing",
+      "chapterTitle": "Module 4 - Distribution",
+      "lessonType": "multi",
+      "durationSeconds": 666,
+      "status": "ok",
+      "files": {
+        "vtt": "captions/63-4-4-2-Reddit-Marketing-lesn_12zFdK1AZ5UDI5zDqVuLiE.vtt",
+        "txt": "transcripts/63-4-4-2-Reddit-Marketing-lesn_12zFdK1AZ5UDI5zDqVuLiE.txt",
+        "md": "transcripts/63-4-4-2-Reddit-Marketing-lesn_12zFdK1AZ5UDI5zDqVuLiE.md",
+        "timestamped": "transcripts/63-4-4-2-Reddit-Marketing-lesn_12zFdK1AZ5UDI5zDqVuLiE.timestamped.txt"
+      },
+      "cueCount": 240,
+      "subtitleSegments": 23,
+      "subtitleTrack": {
+        "name": "English",
+        "language": "en"
+      }
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+[00:00:00] Alright, what's up Pussy's?
+[00:00:04] Welcome to the start of our first module of this course,
+[00:00:10] Ideation.
+[00:00:14] To start off with ideation we're going to be going over case studies.
+[00:00:18] I'm a big believer in the principle that like the best way to learn to ride a
+[00:00:23] bike
+[00:00:24] is to ride a bike. You might scrape yourself, you might get cut,
+[00:00:28] but you're going to learn better than like studying the underlying mechanics
+[00:00:32] and physics of how bikes work. It's like get on the bike and ride.
+[00:00:36] Now I think approaching building apps is a little bit different in that
+[00:00:40] you know you have to invest significantly more time and resources
+[00:00:46] into actually building and marketing and designing
+[00:00:50] an application. But what you can do instead
+[00:00:56] is take a look at examples of apps that have
+[00:01:00] succeeded. Apps that have been built quickly and made a lot of money.
+[00:01:04] So that's what we're going to do here today.
+[00:01:08] So the apps listed here, almost every single one, makes
+[00:01:12] over a million dollars per year in profit, was started
+[00:01:16] by one to three people, has received zero funding
+[00:01:20] and has been built in the past three years. Now I can
+[00:01:24] verify this because about almost half of the apps here
+[00:01:28] have been built by somebody in App Mafia and
+[00:01:32] the majority of the rest we know the founders personally.
+[00:01:36] The reason that we selected these, in addition to our
+[00:01:42] own experience with them, is because
+[00:01:46] there are a lot of apps on the App Store where you can
+[00:01:50] you know you can scroll the charts and you find apps like My Fitness Pal
+[00:01:54] or apps like you know maybe Impulse
+[00:01:58] or different apps that make millions and millions of dollars a month.
+[00:02:02] But some of the key issues with studying apps like that is
+[00:02:06] they were built 10 years ago and they've raised
+[00:02:10] tens to hundreds of millions of dollars in funding
+[00:02:14] and sure they make money and sure they may have been founded
+[00:02:18] by a couple of people but it's very common
+[00:02:22] that these case studies just aren't going to be that applicable to the people
+[00:02:26] watching this content.
+[00:02:28] And now whether you already have a successful app or you are completely new to
+[00:02:32] this space,
+[00:02:34] these are the apps that have really sort of taken over
+[00:02:38] the industry by storm over the course of the past few years.
+[00:02:42] A lot of these apps apply AI to bring new products to life
+[00:02:46] whereas others just take advantage of
+[00:02:50] other trends or other you know consumer interests.
+[00:02:54] Now a very important disclaimer here is that there are many other
+[00:02:58] app categories that we did not include here.
+[00:03:02] But these are app categories where we have domain expertise
+[00:03:06] and also will also currently
+[00:03:10] present a lot of opportunity and will continue to present a ton of opportunity
+[00:03:14] in the future.
+[00:03:14] So we're going to focus on this within the course of this course.
+[00:03:18] But
+[00:03:22] there are many other apps that are worth studying
+[00:03:26] so do your own research.
+[00:03:30] At the top of this first row
+[00:03:34] you'll see the sort of like higher order problems.
+[00:03:38] We'll get into that a little bit in some of the future lessons
+[00:03:42] and how to kind of determine what problems to work on
+[00:03:46] and how you're going to go about solving them.
+[00:03:50] But for the sake of this first video I'm going to run through some of these
+[00:03:53] apps
+[00:03:54] explain a little bit of the background on why they worked
+[00:03:58] and kind of just get the creative juices flowing.
+[00:04:02] So let's get into it. Alright, RizApp number one. First problem that we're
+[00:04:07] looking at is dating.
+[00:04:08] Why dating is so important. But Riz
+[00:04:12] is actually our first competitor for the first app that I built,
+[00:04:16] RizGPT. I was in school and I had a
+[00:04:20] friend who was using dating apps a lot. Always getting with different girls and
+[00:04:24] whatnot.
+[00:04:24] And you know, he would be like
+[00:04:28] "Dude what should I say to this girl?" in a very normal casual way.
+[00:04:32] And this was shortly after ChatGPT came out and I'm like "Man,
+[00:04:36] we could very easily build an app
+[00:04:40] to generate responses." And it kind of sprung out of curiosity.
+[00:04:44] I'm like "I wonder how good ChatGPT would do given proper prompt engineering?"
+[00:04:48] And so I started working on this app and as I'm starting to work on it
+[00:04:52] I did a little bit of market research and Riz was our number one competitor.
+[00:04:56] Riz had already launched but they weren't popular. They'd done maybe like
+[00:05:00] 20,000 downloads, something like that.
+[00:05:04] But they are a great case study.
+[00:05:08] The founders have a good amount of experience
+[00:05:12] before we had jumped into the scene with RizGPT.
+[00:05:16] I actually go ahead and pull that up right now. PlugAI's the app that I built.
+[00:05:20] We had to rename from RizGPT because of a lawsuit from Riz. No bad blood there.
+[00:05:24] But we launched and we did everything
+[00:05:28] wrong that you could possibly imagine. The app was named
+[00:05:32] RizGPT-production when you downloaded it.
+[00:05:36] I had the OpenAI API keys stored in the front end. It was a complete mess.
+[00:05:40] But what RizGPT,
+[00:05:44] PlugAI and the Riz app do is they enable you to upload a screenshot
+[00:05:48] of a conversation that you're having with a girl and it'll help give you
+[00:05:52] recommendations on what to set.
+[00:05:52] And there's been some innovation over the course of the past year
+[00:05:56] in terms of what the product actually looked like. Looks like.
+[00:06:00] But it touches on the key thread which is
+[00:06:04] highlighted in a South Park episode actually. Which is like,
+[00:06:08] it's not always easy to know what to say to girls. It's actually very hard for
+[00:06:13] a high proportion of guys.
+[00:06:14] And AI in this case can help kind of augment that.
+[00:06:20] So we launched, we did some underground influencer promos that ended up ripping
+[00:06:24] .
+[00:06:24] And then we started into a bloodbath war with the Riz app.
+[00:06:30] Honestly, I think PlugAI/RizGPT
+[00:06:34] and Riz are kind of the first big players
+[00:06:38] in the new AI product
+[00:06:44] crossed with organic social media marketing
+[00:06:48] sort of strategy. I think both, so
+[00:06:52] RizGPT, we make a little bit over 300k a month right now. I think Riz is
+[00:06:56] probably somewhere in the range of four to five hundred.
+[00:07:00] But definitely worth studying these products.
+[00:07:04] So that's a little bit of a background there in terms of how we, or what this
+[00:07:08] part of the industry looks like. Okay, now we've got another relatively new app
+[00:07:12] .
+[00:07:12] T has been absolutely ripping. T is number one on the app store for a little
+[00:07:16] while.
+[00:07:16] T is a little bit distinct from a lot of apps that we're going to touch on
+[00:07:20] and that most of these are kind of single player apps. But I wanted to include
+[00:07:24] it
+[00:07:24] because I think that it highlights a very important component of
+[00:07:28] user and consumer psychology, which is key kind of plays
+[00:07:32] on this concept of FOMO to some extent.
+[00:07:36] You can even see it in their messaging. It's like they say that they're helping
+[00:07:40] women date safe. No, it's really an anonymous gossip
+[00:07:44] forum, but it's a very intelligent product decision.
+[00:07:48] So we're studying
+[00:07:52] and keep moving on. Kalei is the app that Zach and I built together.
+[00:07:56] Kalei does a little bit over three million dollars a month in revenue.
+[00:08:00] Quick background on this. AI
+[00:08:04] calorie trackers were beginning to become popular
+[00:08:08] shortly after the release and popularization of the
+[00:08:12] vision models. So like GPT vision and whatnot. This was the end of
+[00:08:16] the year. I'm going to talk about the new technology.
+[00:08:20] I'm going to talk about the new technology. I'm going to talk about the
+[00:08:24] new technology. I'm going to talk about the new technology. I'm going to talk
+[00:08:28] about the new technology.
+[00:08:28] I'm going to talk about the new technology. I'm going to talk about the new
+[00:08:32] technology.
+[00:08:32] I'm going to talk about the new technology. I'm going to talk about the new
+[00:08:36] technology.
+[00:08:36] I'm going to talk about the new technology. I'm going to talk about the new
+[00:08:40] technology.
+[00:08:40] I'm going to talk about the new technology. I'm going to talk about the new
+[00:08:43] technology.
+[00:08:44] I'm going to talk about the new technology. I'm going to talk about the new
+[00:08:48] technology.
+[00:08:48] I'm going to talk about the new technology. I'm going to talk about the new
+[00:08:51] technology.
+[00:08:52] I'm going to talk about the new technology. I'm going to talk about the new
+[00:08:56] technology.
+[00:08:56] I'm going to talk about the new technology. I'm going to talk about the new
+[00:09:00] technology.
+[00:09:00] I'm going to talk about the new technology. I'm going to talk about the new
+[00:09:03] technology.
+[00:09:04] I'm going to talk about the new technology. I'm going to talk about the new
+[00:09:07] technology.
+[00:09:08] I'm going to talk about the new technology. I'm going to talk about the new
+[00:09:11] technology.
+[00:09:12] I'm going to talk about the new technology. I'm going to talk about the new
+[00:09:15] technology.
+[00:09:16] I'm going to talk about the new technology. I'm going to talk about the new
+[00:09:19] technology.
+[00:09:20] I'm going to talk about the new technology. I'm going to talk about the new
+[00:09:24] technology.
+[00:09:24] I'm going to talk about the new technology. I'm going to talk about the new
+[00:09:28] technology.
+[00:09:28] I'm going to talk about the new technology. I'm going to talk about the new
+[00:09:31] technology.
+[00:09:32] I'm going to talk about the new technology. I'm going to talk about the new
+[00:09:36] technology.
+[00:09:36] I'm going to talk about the new technology. I'm going to talk about the new
+[00:09:39] technology.
+[00:09:40] I'm going to talk about the new technology. I'm going to talk about the new
+[00:09:43] technology.
+[00:09:44] I'm going to talk about the new technology. I'm going to talk about the new
+[00:09:47] technology.
+[00:09:48] I'm going to talk about the new technology. I'm going to talk about the new
+[00:09:51] technology.
+[00:09:52] I'm going to talk about the new technology. I'm going to talk about the new
+[00:09:56] technology.
+[00:09:56] I'm going to talk about the new technology. I'm going to talk about the new
+[00:09:59] technology.
+[00:10:00] I'm going to talk about the new technology. I'm going to talk about the new
+[00:10:03] technology.
+[00:10:04] I'm going to talk about the new technology. I'm going to talk about the new
+[00:10:08] technology.
+[00:10:08] I'm going to talk about the new technology. I'm going to talk about the new
+[00:10:11] technology.
+[00:10:12] I'm going to talk about the new technology. I'm going to talk about the new
+[00:10:15] technology.
+[00:10:16] I'm going to talk about the new technology. I'm going to talk about the new
+[00:10:20] technology.
+[00:10:20] I'm going to talk about the new technology. I'm going to talk about the new
+[00:10:24] technology.
+[00:10:24] I'm going to talk about the new technology. I'm going to talk about the new
+[00:10:27] technology.
+[00:10:28] I'm going to talk about the new technology. I'm going to talk about the new
+[00:10:31] technology.
+[00:10:32] I'm going to talk about the new technology. I'm going to talk about the new
+[00:10:35] technology.
+[00:10:36] I know that the Vision API was coming up, but I also knew that there was going
+[00:10:41] to be competition.
+[00:10:42] I'm like, "Okay, what can I do to be ahead of the curve?"
+[00:10:44] I built the entire product with no functional API.
+[00:10:48] The entire product was ready to go.
+[00:10:52] Then the moment that the API got released, I plugged in the URL.
+[00:10:56] I submitted to the App Store. Within a few days, I was approved.
+[00:11:00] I already had influencer deals lined up on contingencies.
+[00:11:04] I didn't pay anybody ahead of time.
+[00:11:08] Okay, long ramble, but what's the takeaway here?
+[00:11:12] The takeaway is that as we see these continuous advancements in AI technology,
+[00:11:18] this is an example of image analysis.
+[00:11:21] We're seeing video analysis coming to play, video generation, image generation.
+[00:11:26] We're going to see a whole new set of AI modalities
+[00:11:32] that can be applied to create experiences like never before.
+[00:11:36] Facial analysis was somewhat possible before AI Vision APIs,
+[00:11:43] but it was using more traditional ML Vision models,
+[00:11:47] which you can't get the same performance,
+[00:11:50] and it's way more expensive and difficult to build.
+[00:11:53] Now, it's as simple as plaintext English prompting.
+[00:11:58] So, study UMAX onward.
+[00:12:02] I'm going to start moving a little bit faster so that this doesn't take too
+[00:12:05] long,
+[00:12:06] but I hope you guys are kind of picking up on how these ideas come to play,
+[00:12:10] as well as how important timing is.
+[00:12:14] We got Quitter, Connor and Alex, amazing fucking App,
+[00:12:19] one of my favorite in the industry right now.
+[00:12:23] For them, it's not taking advantage of some new AI technology.
+[00:12:27] It's looking at an incredibly, incredibly important problem
+[00:12:31] that our generation faces,
+[00:12:33] and not just our generation,
+[00:12:35] that man has a whole face nowadays, which is lust and pornography.
+[00:12:42] Whether you think it's good or bad,
+[00:12:46] a lot of people think it's bad.
+[00:12:48] A lot of people jerk off and watch porn,
+[00:12:51] and they know it's bad for them, at least as individuals.
+[00:12:55] Connor and Alex recognized this.
+[00:12:57] They saw how big of a problem it was,
+[00:12:59] and they went to solve it.
+[00:13:01] They drew an inspiration from some previously successful apps,
+[00:13:05] in terms of marketing, namely like the apps that I built as well as Zek,
+[00:13:10] and then they created a completely new experience.
+[00:13:14] They took a look at apps that help people track sobriety,
+[00:13:20] and then they embedded that within a product to help quit porn.
+[00:13:24] Alcoholism has been an issue for longer than pornography has.
+[00:13:31] Therefore, there's been more innovation on the UX side of how to solve alcohol
+[00:13:35] ism
+[00:13:36] relative to how to solve pornographic addiction.
+[00:13:41] So, yeah, sweet app.
+[00:13:43] They are going to continue to rise in the rankings.
+[00:13:47] Okay, Opal, similar, very similar.
+[00:13:52] Actually, Opal may have been more of a case study for Quitter than the sobriety
+[00:13:56] tracking apps.
+[00:13:58] Nevertheless, very, very similar products,
+[00:14:03] people are addicted to jerking off, people are also addicted to their phones.
+[00:14:09] Solve that, make content, people pay.
+[00:14:12] All right, Bible chat.
+[00:14:14] Different thread here, spirituality.
+[00:14:16] We're in a meeting crisis.
+[00:14:18] People have heard this.
+[00:14:23] We're in a meeting crisis nowadays.
+[00:14:24] People are increasingly looking for ways to become more spiritual.
+[00:14:31] Bible chat helps people connect with their Christianity.
+[00:14:34] Awesome, great product.
+[00:14:36] You also see this for Muslims and Jews as well.
+[00:14:41] Astra, different thread.
+[00:14:43] Rather than religion, Astra helps people solve the spirituality, whatever they
+[00:14:49] want to find
+[00:14:50] in their life through astrology.
+[00:14:53] Also becoming increasingly popular.
+[00:14:56] This is actually built by my co-founders of RizGPT.
+[00:15:00] You see, they are Vert Ventures.
+[00:15:02] If you go back to plugAI, this was Vert Media.
+[00:15:06] We built RizGPT, plugAI together.
+[00:15:09] I went off and built UMAX.
+[00:15:10] They went off and built Astra.
+[00:15:12] All right, minutes AI, AI note taking.
+[00:15:15] I'm sure everyone's familiar with this industry.
+[00:15:18] It's one of the most popular, you know, sort of clear productivity increase
+[00:15:24] value ads from
+[00:15:25] AI.
+[00:15:26] Minutes is one example founded by a small team.
+[00:15:30] There's Turbo.
+[00:15:31] There is Otter or something and a bunch of others.
+[00:15:36] Pretty straightforward.
+[00:15:38] People don't like to pay attention during meetings or school.
+[00:15:41] They're not a very common AI homework helper.
+[00:15:46] Super simple.
+[00:15:47] Take a picture of your homework.
+[00:15:49] Nice pretty UI.
+[00:15:51] I feel like that's pretty self explanatory why it works.
+[00:15:53] It's built by Oliv Labs.
+[00:15:55] Oliv is a pretty cool company.
+[00:15:58] They've got like another AI note taker, as I mentioned, with Minutes AI.
+[00:16:04] Education category is, or success category is great.
+[00:16:08] It's like, all right, let's help you make money.
+[00:16:10] Let's help you be more successful in your career.
+[00:16:12] If you can build a product that tangibly helps people make those incremental
+[00:16:17] improvements,
+[00:16:19] it's very obvious why they would pay for it.
+[00:16:23] Social validation.
+[00:16:24] Okay, now this is a slightly different territory that we're getting into.
+[00:16:30] So generally we recommend against building social apps.
+[00:16:34] They're so much harder to build.
+[00:16:38] We'll talk more about that later in the course.
+[00:16:42] But there's an interesting subset of social companion products.
+[00:16:50] So Hunter built NGL.
+[00:16:51] NGL has done 300 million downloads, one of the most popular apps in the world.
+[00:16:58] They are a social companion app.
+[00:17:01] You can post your NGL links on your Snapchat and Instagram story to get
+[00:17:06] anonymous messages.
+[00:17:10] So rather than build a full on social platforms, like if you're here in this
+[00:17:13] course, you should
+[00:17:14] probably already know by now.
+[00:17:16] But the probability that you succeed building a full social platform is
+[00:17:20] extremely low.
+[00:17:23] I don't say that to discourage you.
+[00:17:24] Like if you want to do it, you can do it.
+[00:17:27] But I say that just so you know what you're getting yourself into.
+[00:17:33] So if you're going to build social, social companion is usually the highest
+[00:17:36] probability
+[00:17:37] of finding success.
+[00:17:39] Lock it.
+[00:17:40] Lock it enables you to share images with your friends, kind of stay up to date,
+[00:17:43] put it on
+[00:17:43] your home screen.
+[00:17:44] Cool product.
+[00:17:45] They're also one of the most popular apps in the world.
+[00:17:47] I think that they've done tens of millions, maybe like 100 million plus
+[00:17:51] downloads.
+[00:17:53] Now, LAPs.
+[00:17:56] Once again, one of these sort of like, one of these like non full fledged
+[00:18:03] social platforms,
+[00:18:07] but rather like social ex utility.
+[00:18:11] So same boat.
+[00:18:14] Take these sort of like disposable camera aesthetic, whatever images with your
+[00:18:18] friends, share them.
+[00:18:20] Cool.
+[00:18:21] All right.
+[00:18:24] That is it for case studies.
+[00:18:26] Lot of rambling.
+[00:18:29] But just wanted to give you guys a little bit of a background on how I think
+[00:18:33] through these
+[00:18:34] products.
+[00:18:38] So that you guys can refer back to this if you want throughout the rest and the
+[00:18:43] remainder
+[00:18:43] of our course.
+[00:18:50] To be honest, like even beyond us referencing these apps, whenever we are lect
+[00:18:54] uring and providing
+[00:18:55] information, you should refer back to them.
+[00:18:58] You want to start training this muscle.
+[00:19:00] When I first built RizGPT, I had like pretty much zero understanding of this
+[00:19:05] space.
+[00:19:06] The number one most valuable thing I ever did was begin to study these apps.
+[00:19:13] As it started to grow, I picked up on the fact that each time I downloaded a
+[00:19:18] successful
+[00:19:19] app, and used it, I would uncover some new sort of strategy, be it UI, be it
+[00:19:24] marketing,
+[00:19:26] be it general UX, engineering, whatever, that would add a five plus percent
+[00:19:33] increase.
+[00:19:35] For example, with RizGPT, after we downloaded a few different apps, we realized
+[00:19:39] that everyone
+[00:19:40] was using Superwall and split testing their paywalls.
+[00:19:43] That 3X target revenue as soon as we implemented it and began using a harder
+[00:19:49] paywall.
+[00:19:50] Notifications, analytics, these are all things that we did not have set up from
+[00:19:56] day one,
+[00:19:57] but when you take this course, you'll learn how to do all this.
+[00:20:04] That wraps this up.
+[00:20:06] Now we're going to go all the way down to the very bottom.
+[00:20:09] We started at a general high level overview of these apps all the way down to
+[00:20:13] the bottom
+[00:20:14] of the very, very, very fundamentals of coming up with your idea and
+[00:20:18] determining what idea
+[00:20:19] you should actually build and how these people, myself included, how we all
+[00:20:24] came up with
+[00:20:25] ours, using these sort of frameworks.
+[00:20:28] Okay, part two soon.
+[00:20:32] I want to redo that.
+[00:20:35] Okay.
+[00:20:36] That's lesson one.
+[00:20:38] I'll see you guys in lesson two.
+[00:20:40] [ Silence ]

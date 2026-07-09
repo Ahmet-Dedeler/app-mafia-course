@@ -1,0 +1,276 @@
+[00:00:00] We are on the final part or final lesson of ideation, which is, of course,
+[00:00:09] finalizing your idea.
+[00:00:15] This part will probably be short.
+[00:00:18] It kind of builds off of everything we've done, but we'll serve as somewhat of
+[00:00:22] a conclusion
+[00:00:22] and we'll go over some basic frameworks about how to actually pick your idea to
+[00:00:27] move forward
+[00:00:28] with.
+[00:00:31] So we started off with case studies.
+[00:00:34] We went through the background of idea versus execution, analyzing the
+[00:00:38] different outcome
+[00:00:39] curves as well as asking yourself about what you're interested in and examining
+[00:00:44] your constraints
+[00:00:45] and resources.
+[00:00:48] We went through human psychology, some of the underpinnings of what makes a
+[00:00:53] great idea
+[00:00:54] and what problems you should solve for people.
+[00:00:59] Went through the process of ideation, identifying and solving your own problems
+[00:01:04] , scrolling social
+[00:01:05] media, performing competitive analysis on the app store as well as sensor tower
+[00:01:16] .
+[00:01:17] Now finally, we are going to finalize your idea.
+[00:01:24] And from start to finish, this is begin from a first principle perspective on
+[00:01:29] human psychology,
+[00:01:31] examine problems that you and others face, research similar products and
+[00:01:36] competitors,
+[00:01:37] and finally make your decision.
+[00:01:40] Now an extremely important note to add here is once you make your decision to
+[00:01:45] work on
+[00:01:46] a product, that doesn't mean that you can't go back on that decision.
+[00:01:52] There are probably 20 products where I've gone through the ideation phase and
+[00:01:57] said, yes,
+[00:01:58] I am going to build this.
+[00:02:01] And then I open up Figma, right?
+[00:02:03] We'll talk about this in design.
+[00:02:05] The next step, like step number one after you've kind of finished your process
+[00:02:10] of ideation
+[00:02:11] will be beginning in Figma.
+[00:02:13] I've opened up Figma, started to work on it, and then at some point between
+[00:02:20] opening Figma
+[00:02:22] and actually running influencer promos or doing UGC, some point in that process
+[00:02:28] , I said,
+[00:02:29] you know, actually, I don't think this is it.
+[00:02:33] I think a lot of people fall victim to the sunk cost fallacy.
+[00:02:37] They put some time into something and they're like, I have to see this through.
+[00:02:41] I even apply this to reading books in like the sort of self-improvement domain
+[00:02:47] on social
+[00:02:48] media and popular culture, you will hear people say, like, if you start
+[00:02:54] something, you need
+[00:02:56] to finish it.
+[00:02:58] People pick up a book and they say, I will finish this book because in the past
+[00:03:03] , I've
+[00:03:04] had issues with finishing books.
+[00:03:07] But what they end up doing is they read, maybe they get a third through it and
+[00:03:13] they
+[00:03:13] realize that they're no longer interested.
+[00:03:15] Or maybe they got everything out of it that they needed.
+[00:03:19] And instead of closing it and saying, you know what, I'm good here.
+[00:03:23] I'm going to go pick up a new book.
+[00:03:25] They say, no, I'm going to finish it because this is a standard I hold myself
+[00:03:31] to.
+[00:03:31] And then they just stop reading.
+[00:03:33] And then they go three months and they haven't picked the book up.
+[00:03:36] And now they no longer even read.
+[00:03:39] So the same framework that I play to reading books, I would say probably about
+[00:03:45] half, maybe
+[00:03:46] even more than half of the books I read, I close before getting halfway through
+[00:03:52] it.
+[00:03:52] Some books I close after five pages.
+[00:03:54] Others I get halfway through.
+[00:03:55] I love the book and I say, you know, I think I've gotten everything that I need
+[00:04:00] from this.
+[00:04:01] That same framework, I apply to building apps.
+[00:04:04] And so just because you get here and you make your decision and you say, this
+[00:04:08] is the idea
+[00:04:09] I want to work on.
+[00:04:10] This is the problem that I want to tackle.
+[00:04:13] Does not mean that you have to make it all the way through modules two, three
+[00:04:18] and four.
+[00:04:19] There's absolutely nothing wrong with starting and quitting some point
+[00:04:27] thereafter.
+[00:04:28] To me, I think the only real quitting is to quit your pursuit of
+[00:04:34] entrepreneurship as
+[00:04:36] a whole within the context of here building apps.
+[00:04:42] But even that, it's like, man, I did social media marketing for a little while.
+[00:04:49] I quit that to then do crypto.
+[00:04:52] I built in the theory of my machine in 2016.
+[00:04:55] I quit that to then, I think I was actually prioritizing my landscaping
+[00:05:00] business.
+[00:05:01] I've quit in so many different domains, but the key thing is that as a whole, I
+[00:05:06] don't
+[00:05:07] quit working.
+[00:05:08] Okay.
+[00:05:10] Enough of that aside.
+[00:05:12] In short, you know, just know that just because you make the decision to work
+[00:05:16] on an idea doesn't
+[00:05:17] mean that you can't go back to step one or step two.
+[00:05:21] And even one week later, one month later, whatever maybe.
+[00:05:28] Now, in the process of making this decision, I think some key questions to ask
+[00:05:34] ourselves
+[00:05:35] that we touched on earlier, but I think it's worth revisiting are what does the
+[00:05:42] timeline
+[00:05:42] look like?
+[00:05:44] Different products are going to have different life cycles.
+[00:05:47] Certain products are going to be more design heavy.
+[00:05:50] Other products are going to be more, you know, development heavy.
+[00:05:55] Other products are going to be more distribution heavy.
+[00:05:58] And you know, when you're new to a domain, you won't have deep knowledge in
+[00:06:02] that you
+[00:06:03] won't be able to very accurately predict, but it's worth making intuitive
+[00:06:07] assessments
+[00:06:08] as well as using chat GPT to help you predict.
+[00:06:12] Chat GPT can serve as somewhat of your expert tutor.
+[00:06:16] And if you are part of the App Mafia community, you'll be able to get guidance
+[00:06:20] from other
+[00:06:20] app founders.
+[00:06:23] Next is, can I build this myself?
+[00:06:26] How hard will it be to attract somebody that can?
+[00:06:29] So, do you have the design development and then distribution experience?
+[00:06:34] And if you don't, will you be able to get somebody that can fill that gap?
+[00:06:39] So beyond just analyzing how hard it will be from a development perspective,
+[00:06:44] for example,
+[00:06:45] before you end up finalizing this decision, it's worth asking yourself whether
+[00:06:51] or not you'll
+[00:06:51] be able to find that person.
+[00:06:53] Now, personally, I would actually recommend moving into the design process
+[00:06:58] regardless,
+[00:06:59] in terms of this question.
+[00:07:01] The reason that I say that is anytime you are going to try to recruit somebody
+[00:07:06] to work
+[00:07:07] on your idea, the more progress that you have, the easier it will be.
+[00:07:11] And so if you have conviction, then I personally would recommend spending even
+[00:07:16] just a few hours
+[00:07:18] on design and getting somewhat of a mockup and then sharing that with potential
+[00:07:23] developers.
+[00:07:25] I hate when people come to me with an idea and they don't have Figma.
+[00:07:29] I say to people explicitly, if they send me an idea that they have, let's say
+[00:07:33] it's a
+[00:07:34] friend, colleague, whatever, I'll say, "Hey man, thanks for reaching out.
+[00:07:38] Let me know when you have some Figma designs."
+[00:07:40] I'm a more visual person, right?
+[00:07:45] How much cash will I need to get this off the ground, right?
+[00:07:48] So these are, once again, very similar to the questions and nature of resources
+[00:07:56] versus constraints
+[00:07:57] that we went over an idea versus execution.
+[00:08:00] But you need to ask yourself and reassess them when you get to this step of the
+[00:08:05] process.
+[00:08:06] Because if we remember when we were going over idea versus execution, this is
+[00:08:09] looking
+[00:08:10] at it from a macro perspective, right?
+[00:08:13] Like, what are the resources and constraints that I have that will inform how I
+[00:08:16] even come
+[00:08:17] up with ideas and now that you have this idea or these couple of ideas that you
+[00:08:22] 're considering
+[00:08:23] moving forward with, you want to go back and apply the same framework and
+[00:08:31] questions.
+[00:08:32] This is of paramount importance to me.
+[00:08:37] Set it before, I'll say it again and again and again and again.
+[00:08:42] If I'm not deeply interested in a topic, I will not build around it.
+[00:08:47] This was not always true.
+[00:08:49] I did give a hand at projects where I thought that there was significant
+[00:08:53] opportunity, specifically
+[00:08:54] economic opportunity.
+[00:08:58] And every single time I burnt out, every single time I burnt out, the two
+[00:09:05] things that I really
+[00:09:07] look at as I say, "Okay.
+[00:09:10] Am I interested in this topic and the problem that I'm solving?"
+[00:09:15] That's one.
+[00:09:16] And then I say, "Am I interested in engaging in the operations and the day to
+[00:09:21] day that
+[00:09:22] it will take to achieve that?"
+[00:09:25] And if the answer to either of those is no, I completely avoid it.
+[00:09:30] To be honest, I think that the topic and the problem itself are more important
+[00:09:34] actually
+[00:09:35] than the day to day.
+[00:09:41] If, man, there's a good quote here, but something along the lines of like, "If
+[00:09:47] you have a why,
+[00:09:49] you can find almost any will."
+[00:09:52] I probably butcher that, but essentially if you care enough about the end
+[00:09:58] result, and
+[00:09:59] not just like what you get, not just like the money, but that can be the major
+[00:10:03] motivator
+[00:10:04] for many.
+[00:10:05] But personally, it's like, "Do I care about bringing this into the world?"
+[00:10:11] And if, "Oh, oh, oh, he who has a why can bear almost any how."
+[00:10:16] That's the quote.
+[00:10:18] And so yeah, if I have a why, I can bear almost any how in that I can do this
+[00:10:22] shitty little
+[00:10:23] day to day ops that are boring and repetitive and monotonous because I know
+[00:10:28] what life looks
+[00:10:28] like at the end of the tunnel.
+[00:10:30] I'll give an example here.
+[00:10:33] In the early days of RizGPT, we were going very viral, very, very, very viral,
+[00:10:40] and we
+[00:10:41] were just launching Android.
+[00:10:42] The internet had been begging.
+[00:10:45] TikTok had been absolutely begging for this product to get on Android.
+[00:10:49] And so the day that we launched on Android were not charting because we have no
+[00:10:53] sort
+[00:10:53] of app store optimization.
+[00:10:55] And in order to achieve that, what you need is people searching up your app and
+[00:11:00] then organically
+[00:11:00] downloading it.
+[00:11:03] And at this time, I was just so focused on making the most because I didn't
+[00:11:08] know anything
+[00:11:09] about this space when we first launched this product.
+[00:11:11] This is all kind of came out of nowhere, $80,000 in MRR.
+[00:11:17] My life just completely changed.
+[00:11:20] And I was so focused on freedom.
+[00:11:23] Freedom was my why.
+[00:11:25] Freedom was the light at the end of the tunnel that if we executed and we got
+[00:11:30] this shit
+[00:11:31] done and we built something out of nothing, then I would be able to spend the
+[00:11:37] rest of
+[00:11:37] my life doing what I wanted within entrepreneurship and what I wanted with my
+[00:11:43] life rather than
+[00:11:44] answering to some fucking bullshit retarded nine to five boss.
+[00:11:51] So we're launching on Android and I'm like, man, we need to be ranking in the
+[00:11:56] app store.
+[00:11:57] So on the Google Play Store.
+[00:12:00] And I went through all of our most viral videos and I responded to thousands
+[00:12:05] and thousands
+[00:12:06] of comments in a day.
+[00:12:08] I swear to God, I was sitting there all fucking day for 16 hours, just going
+[00:12:15] through TikTok
+[00:12:16] saying, search up, blah, blah, blah, on the app store, search up, blah, blah,
+[00:12:19] blah,
+[00:12:19] on the app store.
+[00:12:21] Now could I've outsourced this to a VA, whatever, like, yeah, theoretically I
+[00:12:25] could have, but
+[00:12:26] time was a paramount importance.
+[00:12:30] Our competitor had just gotten on Android too.
+[00:12:33] We needed to beat them in the rankings and we didn't have a VA ready to go.
+[00:12:39] And so like, yeah, no one wants to sit there and respond to the same comment
+[00:12:43] for 12 hours
+[00:12:44] straight, right?
+[00:12:45] Like that sucks.
+[00:12:46] Nobody wants to do that.
+[00:12:50] But what I wanted more than anything else in the world was to ensure my long
+[00:12:56] term freedom
+[00:12:57] and setting up the, and beating out our competitor in the rankings would put us
+[00:13:03] in a position
+[00:13:04] where our growth would be more long term sustainable and I would have more
+[00:13:10] runway and
+[00:13:11] ability to ensure that I never had to get a job.
+[00:13:15] Now in retrospect, Android is actually not that important.
+[00:13:18] It's like 10 to 15% of revenue across my different apps and I actually don't
+[00:13:23] think that what I
+[00:13:23] did there was entirely necessary.
+[00:13:26] But given the data I had in the moment, that was what it took.
+[00:13:32] And so yeah, I think it's, I think it's important to dig deep.
+[00:13:38] It's another reason I'm a big believer in the fact that like how you do one
+[00:13:42] thing is how
+[00:13:42] you do everything and the sort of willpower and determination that I've
+[00:13:47] cultivated within
+[00:13:49] myself over years of weightlifting and reading books and studying in general
+[00:13:55] right statistics,
+[00:13:56] calculus, psychology, whatever it may be, working on so many different failed
+[00:14:00] business
+[00:14:01] ventures that then when the rubber really hit the road and I finally had a
+[00:14:08] working,
+[00:14:09] viable business model, I was the person that was able to take it all the way.
+[00:14:16] And if you constantly chase these sort of bullshit extrinsic motivators rather
+[00:14:24] than
+[00:14:24] having that, that why within you, you're going to burn out.
+[00:14:33] And so I guess that's my motivational speech to end off this unit on ideation
+[00:14:39] or this
+[00:14:40] module on ideation.
+[00:14:42] And the next module will go over design and taking the idea that you have and
+[00:14:48] building
+[00:14:49] it into an actual, you know, product in Figma.
+[00:14:55] So that's that and I will, yeah, nope, that's it.
+[00:15:06] That's that.
+[00:15:07] Peace out guys.
+[00:15:08] Hope you enjoyed.
+[00:15:08] [BLANK_AUDIO]

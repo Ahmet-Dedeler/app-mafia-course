@@ -1,0 +1,1473 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.640
+All right boys, welcome to the monetizing part of the course.
+
+2
+00:00:05.640 --> 00:00:11.570
+I will pretty much be running through how the Paywall works, getting it fully
+
+3
+00:00:11.570 --> 00:00:12.120
+set up,
+
+4
+00:00:12.120 --> 00:00:16.840
+when to trigger it, and how to collect the best amount of information data you
+
+5
+00:00:16.840 --> 00:00:17.280
+can so
+
+6
+00:00:17.280 --> 00:00:20.830
+you can make better informed decisions when it comes to A/B testing, pricing,
+
+7
+00:00:20.830 --> 00:00:21.360
+and payables
+
+8
+00:00:21.360 --> 00:00:23.040
+and product, etc.
+
+9
+00:00:23.040 --> 00:00:27.610
+So okay, this all starts with installing this package which will be linked in
+
+10
+00:00:27.610 --> 00:00:28.640
+the document,
+
+11
+00:00:28.640 --> 00:00:34.000
+so just come to this 3.2.3 slide and copy it, go to Xcode, on the left side
+
+12
+00:00:34.000 --> 00:00:34.880
+right click
+
+13
+00:00:34.880 --> 00:00:40.400
+and click Add Package Dependencies, then paste in in the top right corner the
+
+14
+00:00:40.400 --> 00:00:41.400
+Superwall,
+
+15
+00:00:41.400 --> 00:00:43.960
+then click Add Package.
+
+16
+00:00:43.960 --> 00:00:46.770
+And then all you got to do is wait for this to load, make sure this is added to
+
+17
+00:00:46.770 --> 00:00:47.040
+the
+
+18
+00:00:47.040 --> 00:00:51.120
+Kali I target or whatever you called your app, and then click Add Package.
+
+19
+00:00:51.120 --> 00:00:55.080
+Boom, that's solid.
+
+20
+00:00:55.080 --> 00:00:59.560
+Then what you want to do is go to Superwall.com and make an account.
+
+21
+00:00:59.560 --> 00:01:03.940
+I already have an account, by the way these steps suck, I usually make around $
+
+22
+00:01:03.940 --> 00:01:05.240
+15,000 a
+
+23
+00:01:05.240 --> 00:01:11.450
+day, but I think Superwall had a bug and we lost like 30% of our revenue, which
+
+24
+00:01:11.450 --> 00:01:12.200
+sucks,
+
+25
+00:01:12.200 --> 00:01:14.880
+but it happens sometimes.
+
+26
+00:01:14.880 --> 00:01:18.720
+But yeah, once you're in, it should put you for an onboarding process, but you
+
+27
+00:01:18.720 --> 00:01:19.080
+should
+
+28
+00:01:19.080 --> 00:01:20.640
+get to this page eventually.
+
+29
+00:01:20.640 --> 00:01:22.000
+I'm going to make a brand new project.
+
+30
+00:01:22.000 --> 00:01:26.960
+I'm going to call this Kali I and then the app name, I'm just going to call it
+
+31
+00:01:26.960 --> 00:01:28.800
+Kali I.
+
+32
+00:01:28.800 --> 00:01:32.600
+Oh, this is not released yet.
+
+33
+00:01:32.600 --> 00:01:38.560
+And then com. I believe we call it mafia.cal AI.
+
+34
+00:01:38.560 --> 00:01:43.270
+Make sure this is accurate though, you can check this by going top left,
+
+35
+00:01:43.270 --> 00:01:44.440
+general, mafia
+
+36
+00:01:44.440 --> 00:01:46.440
+tutorial, Kali I.
+
+37
+00:01:46.440 --> 00:01:51.200
+Okay, make sure you copy that word for word.
+
+38
+00:01:51.200 --> 00:01:57.160
+Well, AI, boom, and then click create app.
+
+39
+00:01:57.160 --> 00:01:59.480
+We are in.
+
+40
+00:01:59.480 --> 00:02:03.440
+So you're going to see $0 proceeds, zero new users, et cetera.
+
+41
+00:02:03.440 --> 00:02:06.080
+Very, very obvious why it's zero.
+
+42
+00:02:06.080 --> 00:02:07.560
+I'd go to settings.
+
+43
+00:02:07.560 --> 00:02:10.800
+Actually, you know, go to quick start.
+
+44
+00:02:10.800 --> 00:02:16.500
+Make sure you check this off because you've installed the SDK, configure the
+
+45
+00:02:16.500 --> 00:02:17.120
+SDK.
+
+46
+00:02:17.120 --> 00:02:23.280
+Okay, so to configure the SDK, make sure you copy this and we'll import Super
+
+47
+00:02:23.280 --> 00:02:24.000
+wall kit
+
+48
+00:02:24.000 --> 00:02:25.000
+very soon.
+
+49
+00:02:25.000 --> 00:02:28.570
+What you want to do is go to Kali I underscore app or whatever you're up is
+
+50
+00:02:28.570 --> 00:02:29.240
+called.
+
+51
+00:02:29.240 --> 00:02:36.040
+Click import Superwall kits and then under struct, copy exactly what I'm doing
+
+52
+00:02:36.040 --> 00:02:36.640
+in it and
+
+53
+00:02:36.640 --> 00:02:39.440
+then in it, the Superwall configuration.
+
+54
+00:02:39.440 --> 00:02:44.420
+What this does is as soon as your app loads up, it initiates your API key and
+
+55
+00:02:44.420 --> 00:02:45.360
+links it to
+
+56
+00:02:45.360 --> 00:02:46.360
+Superwall.
+
+57
+00:02:46.360 --> 00:02:49.930
+Now it's pulling all of the payrolls you've made and allowing you to use them
+
+58
+00:02:49.930 --> 00:02:50.560
+on the front
+
+59
+00:02:50.560 --> 00:02:53.280
+end for your code, which is very crucial.
+
+60
+00:02:53.280 --> 00:02:57.490
+So make sure you do that after you present after reading the word after you've
+
+61
+00:02:57.490 --> 00:02:58.040
+set that
+
+62
+00:02:58.040 --> 00:03:00.040
+up, make sure you present a paywall.
+
+63
+00:03:00.040 --> 00:03:04.160
+So copy this example and you will understand what I mean.
+
+64
+00:03:04.160 --> 00:03:07.200
+So what we're going to do is we're just going to make a brand new file.
+
+65
+00:03:07.200 --> 00:03:11.800
+I'm going to call this paywall view.
+
+66
+00:03:11.800 --> 00:03:13.200
+I'm going to add a new button.
+
+67
+00:03:13.200 --> 00:03:18.080
+So I'm going to turn this into a B stack first and foremost.
+
+68
+00:03:18.080 --> 00:03:33.560
+B stack, text, paywall and then button the label of open paywall.
+
+69
+00:03:33.560 --> 00:03:37.840
+And then I'm going to paste in this, make sure Superwall is actually imported.
+
+70
+00:03:37.840 --> 00:03:39.680
+So import Superwall kit.
+
+71
+00:03:39.680 --> 00:03:42.360
+And now this is what Superwall is doing when I paste this in.
+
+72
+00:03:42.360 --> 00:03:45.880
+Anytime someone clicks the open paywall button, it's going to communicate with
+
+73
+00:03:45.880 --> 00:03:46.560
+the back end
+
+74
+00:03:46.560 --> 00:03:50.820
+and your Superwall account and then pull whatever paywall is linked to this
+
+75
+00:03:50.820 --> 00:03:51.640
+placement,
+
+76
+00:03:51.640 --> 00:03:52.880
+which is campaign trigger.
+
+77
+00:03:52.880 --> 00:03:53.880
+Sounds confusing.
+
+78
+00:03:53.880 --> 00:03:54.880
+This should work.
+
+79
+00:03:54.880 --> 00:03:55.880
+Okay.
+
+80
+00:03:55.880 --> 00:03:59.800
+So this is an example of paywall and I will go through linking a product.
+
+81
+00:03:59.800 --> 00:04:02.800
+So this would have a price right here.
+
+82
+00:04:02.800 --> 00:04:06.260
+And as soon as someone clicks continue, they are prompted to pay and once they
+
+83
+00:04:06.260 --> 00:04:06.840
+are paid,
+
+84
+00:04:06.840 --> 00:04:08.280
+they get access to the app.
+
+85
+00:04:08.280 --> 00:04:10.200
+And that is really simple.
+
+86
+00:04:10.200 --> 00:04:14.370
+So think about the pieces we have now, we have the onboarding view, which
+
+87
+00:04:14.370 --> 00:04:15.240
+allows someone
+
+88
+00:04:15.240 --> 00:04:19.240
+to answer questions and figure out why this app is good for them.
+
+89
+00:04:19.240 --> 00:04:23.850
+After the results have been calculated, they then presented with the paywall
+
+90
+00:04:23.850 --> 00:04:24.080
+view and then
+
+91
+00:04:24.080 --> 00:04:27.520
+they have to decide to themselves, okay, I just answered a bunch of questions.
+
+92
+00:04:27.520 --> 00:04:30.760
+I've learned more about myself, about my goals, about the app.
+
+93
+00:04:30.760 --> 00:04:34.000
+Should I pay this 20 bucks, 30 bucks, 40 bucks a year?
+
+94
+00:04:34.000 --> 00:04:37.860
+If the answer is yes to that question and they do end up paying, then they get
+
+95
+00:04:37.860 --> 00:04:38.320
+prompted
+
+96
+00:04:38.320 --> 00:04:43.320
+with a oh preview.
+
+97
+00:04:43.320 --> 00:04:45.360
+Oh shit.
+
+98
+00:04:45.360 --> 00:04:47.160
+Wrong slide.
+
+99
+00:04:47.160 --> 00:04:48.160
+Wrong slide.
+
+100
+00:04:48.160 --> 00:04:49.160
+Content view.
+
+101
+00:04:49.160 --> 00:04:56.160
+After they paid, they are presented this, this, this.
+
+102
+00:04:56.160 --> 00:04:57.160
+Wow.
+
+103
+00:04:57.160 --> 00:05:04.320
+Can you build a way to ruin my recording?
+
+104
+00:05:04.320 --> 00:05:08.210
+But often they are paid, they are essentially presented with the main app,
+
+105
+00:05:08.210 --> 00:05:08.960
+which is what
+
+106
+00:05:08.960 --> 00:05:12.480
+we just built and estimate in the calories and allowing you to take a photo of
+
+107
+00:05:12.480 --> 00:05:13.080
+your food,
+
+108
+00:05:13.080 --> 00:05:14.080
+et cetera.
+
+109
+00:05:14.080 --> 00:05:15.080
+Very simple stuff.
+
+110
+00:05:15.080 --> 00:05:18.810
+So those are the free, like extremely essential components and once you have
+
+111
+00:05:18.810 --> 00:05:19.560
+that, you can
+
+112
+00:05:19.560 --> 00:05:23.920
+easily go out and start selling your product, make your money for sure.
+
+113
+00:05:23.920 --> 00:05:27.720
+But there's some prerequisites we need to do, so let's do that.
+
+114
+00:05:27.720 --> 00:05:30.720
+So let's think.
+
+115
+00:05:30.720 --> 00:05:36.960
+Okay.
+
+116
+00:05:36.960 --> 00:05:43.170
+So let's go to App Store Connect and start building these products so we can
+
+117
+00:05:43.170 --> 00:05:43.920
+share it
+
+118
+00:05:43.920 --> 00:05:46.400
+with Superwall and allow you to monetize.
+
+119
+00:05:46.400 --> 00:05:51.840
+So I would make a new app from App Store Connect, new app.
+
+120
+00:05:51.840 --> 00:05:56.480
+We're going to call it CalAI.
+
+121
+00:05:56.480 --> 00:05:59.320
+Choose the language of English US if that is your main region.
+
+122
+00:05:59.320 --> 00:06:04.320
+I'm going to click the...
+
+123
+00:06:04.320 --> 00:06:05.320
+Huh.
+
+124
+00:06:05.320 --> 00:06:09.320
+It's not showing.
+
+125
+00:06:09.320 --> 00:06:17.320
+It's confusing.
+
+126
+00:06:17.320 --> 00:06:24.320
+Okay.
+
+127
+00:06:24.320 --> 00:06:46.080
+Anyways, I'm going to call the app name CalAI.
+
+128
+00:06:46.080 --> 00:06:49.950
+This US if that is your main region and then we are going to select the bundle
+
+129
+00:06:49.950 --> 00:06:50.600
+ID for some
+
+130
+00:06:50.600 --> 00:06:51.600
+reason.
+
+131
+00:06:51.600 --> 00:06:55.860
+Mine isn't showing, but I can always change it later and then call this CalAI
+
+132
+00:06:55.860 --> 00:06:56.600
+or whatever
+
+133
+00:06:56.600 --> 00:07:00.490
+else you want to call it and then just click full access and then make sure iOS
+
+134
+00:07:00.490 --> 00:07:01.200
+is selected
+
+135
+00:07:01.200 --> 00:07:02.440
+at the top.
+
+136
+00:07:02.440 --> 00:07:03.760
+We'll click Create.
+
+137
+00:07:03.760 --> 00:07:04.760
+Okay.
+
+138
+00:07:04.760 --> 00:07:06.760
+CalAI is taking my bad.
+
+139
+00:07:06.760 --> 00:07:10.240
+CalAI mafia test.
+
+140
+00:07:10.240 --> 00:07:12.240
+Okay.
+
+141
+00:07:12.240 --> 00:07:13.240
+Cool.
+
+142
+00:07:13.240 --> 00:07:19.140
+Now your app is made on the App Store and of course we're going to go through
+
+143
+00:07:19.140 --> 00:07:20.120
+this later
+
+144
+00:07:20.120 --> 00:07:24.800
+and optimize it in another module, but we'll go to subscriptions.
+
+145
+00:07:24.800 --> 00:07:26.400
+You click Create Subscription Group.
+
+146
+00:07:26.400 --> 00:07:33.160
+You call this Superwall and we're going to make our first subscription.
+
+147
+00:07:33.160 --> 00:07:36.000
+I'm going to call this yearly.
+
+148
+00:07:36.000 --> 00:07:40.840
+The product ID is going to be yearly 30 and we'll click Create.
+
+149
+00:07:40.840 --> 00:07:45.720
+The availability is going to be the entire world and the subscription price.
+
+150
+00:07:45.720 --> 00:07:51.480
+I'm going to say of like $29.99, which is like a solid, most optimal price for
+
+151
+00:07:51.480 --> 00:07:53.400
+this app.
+
+152
+00:07:53.400 --> 00:07:58.790
+That's based off all the testing that I can, as team have done over the past
+
+153
+00:07:58.790 --> 00:07:59.560
+year.
+
+154
+00:07:59.560 --> 00:08:04.860
+Later we will go through, have like really, really optimized Superwall and make
+
+155
+00:08:04.860 --> 00:08:05.360
+a bunch
+
+156
+00:08:05.360 --> 00:08:09.170
+of different products, put those products into paywalls and then A/B test that
+
+157
+00:08:09.170 --> 00:08:09.600
+and try
+
+158
+00:08:09.600 --> 00:08:15.880
+to find the highest LTV, the highest average order value, et cetera, et cetera.
+
+159
+00:08:15.880 --> 00:08:18.120
+But for now we'll just make one product.
+
+160
+00:08:18.120 --> 00:08:22.880
+The localization, this doesn't really matter, we're just going to call this
+
+161
+00:08:22.880 --> 00:08:24.280
+yearly subscription
+
+162
+00:08:24.280 --> 00:08:26.360
+to CalAI.
+
+163
+00:08:26.360 --> 00:08:28.280
+Okay, great.
+
+164
+00:08:28.280 --> 00:08:36.760
+Then we'll click Save.
+
+165
+00:08:36.760 --> 00:08:37.760
+And that should be fine.
+
+166
+00:08:37.760 --> 00:08:39.640
+Actually, I think we need an image.
+
+167
+00:08:39.640 --> 00:08:42.440
+For some reason they still make you do this.
+
+168
+00:08:42.440 --> 00:08:45.280
+Very confusing, very, very confusing.
+
+169
+00:08:45.280 --> 00:08:46.840
+But we'll add an image.
+
+170
+00:08:46.840 --> 00:08:51.520
+We'll just copy this and drag that in.
+
+171
+00:08:51.520 --> 00:08:54.560
+Okay, great.
+
+172
+00:08:54.560 --> 00:08:57.680
+Now this has to be submitted for review and of course we can't submit it for
+
+173
+00:08:57.680 --> 00:08:58.200
+review until
+
+174
+00:08:58.200 --> 00:08:59.440
+the app is finished.
+
+175
+00:08:59.440 --> 00:09:02.800
+So upon launch, I don't think you'll be able to monetize your app.
+
+176
+00:09:02.800 --> 00:09:06.320
+I think you need to wait at least like one version cycle.
+
+177
+00:09:06.320 --> 00:09:11.640
+So let's see, release 1.0 and 1.1, you can release the in app purchases.
+
+178
+00:09:11.640 --> 00:09:13.400
+For some reason, I don't know why Apple does this.
+
+179
+00:09:13.400 --> 00:09:16.400
+I don't know why there needs to even review subscriptions and pricing.
+
+180
+00:09:16.400 --> 00:09:18.400
+They just seem like a complete waste of time.
+
+181
+00:09:18.400 --> 00:09:20.760
+But hey, that's how they do it.
+
+182
+00:09:20.760 --> 00:09:25.990
+The most important thing you need to do here is copy this yearly first product
+
+183
+00:09:25.990 --> 00:09:26.440
+ID and for
+
+184
+00:09:26.440 --> 00:09:31.820
+every subsequent and future subscription you create, the product ID is how
+
+185
+00:09:31.820 --> 00:09:32.560
+Superwall will
+
+186
+00:09:32.560 --> 00:09:35.480
+identify this on the back and with App Store Connect.
+
+187
+00:09:35.480 --> 00:09:42.570
+So what we're going to do is go to Superwall and clicking Next, Next and then
+
+188
+00:09:42.570 --> 00:09:44.240
+adding products
+
+189
+00:09:44.240 --> 00:09:46.120
+on the left hand side.
+
+190
+00:09:46.120 --> 00:09:50.700
+So we'll click Add Products, paste in the product ID and then select the price
+
+191
+00:09:50.700 --> 00:09:51.600
+and trial and
+
+192
+00:09:51.600 --> 00:09:52.800
+period.
+
+193
+00:09:52.800 --> 00:09:57.840
+So we did $29.99, so we'll select that.
+
+194
+00:09:57.840 --> 00:10:00.760
+The period is the year and we'll click Save.
+
+195
+00:10:00.760 --> 00:10:02.160
+So now this is our first product.
+
+196
+00:10:02.160 --> 00:10:06.260
+It isn't like fully registered because Apple needs to approve it, but we can
+
+197
+00:10:06.260 --> 00:10:06.800
+now use it
+
+198
+00:10:06.800 --> 00:10:09.200
+to test our paywalls and fuck around.
+
+199
+00:10:09.200 --> 00:10:11.160
+So that's great.
+
+200
+00:10:11.160 --> 00:10:17.520
+So we'll go into paywalls, we'll click into this paywall and then on the left
+
+201
+00:10:17.520 --> 00:10:17.880
+hand side
+
+202
+00:10:17.880 --> 00:10:22.520
+click Products and then for the primary we'll just click the $29.99 a year.
+
+203
+00:10:22.520 --> 00:10:28.640
+Then we can remove the tertiary in the secondary and boom, we are good.
+
+204
+00:10:28.640 --> 00:10:32.960
+Click Save and publish some top right.
+
+205
+00:10:32.960 --> 00:10:35.480
+So as you can see it's now pulling the pricing.
+
+206
+00:10:35.480 --> 00:10:38.880
+It says $29.99 a year, only $2.49 a month.
+
+207
+00:10:38.880 --> 00:10:43.210
+Now when people click the big blue button, they are prompted to pay using Apple
+
+208
+00:10:43.210 --> 00:10:43.720
+Pay for
+
+209
+00:10:43.720 --> 00:10:49.000
+your app and that should be fully set up, which is great.
+
+210
+00:10:49.000 --> 00:10:50.760
+Okay, cool.
+
+211
+00:10:50.760 --> 00:10:51.760
+Okay.
+
+212
+00:10:51.760 --> 00:10:52.760
+Okay.
+
+213
+00:10:52.760 --> 00:11:13.400
+Okay.
+
+214
+00:11:13.400 --> 00:11:42.760
+All right.
+
+215
+00:11:42.760 --> 00:11:45.880
+So now we're going to put this all into practice.
+
+216
+00:11:45.880 --> 00:11:49.840
+Let me run you through the exact flow, how we're going to put it together and
+
+217
+00:11:49.840 --> 00:11:50.320
+how this
+
+218
+00:11:50.320 --> 00:11:52.200
+will work holistically.
+
+219
+00:11:52.200 --> 00:11:57.250
+So first we're going to go to Kali app, make sure onboarding view is the first
+
+220
+00:11:57.250 --> 00:11:57.800
+one.
+
+221
+00:11:57.800 --> 00:12:01.950
+I think for this example, this is very clear after the onboarding view and
+
+222
+00:12:01.950 --> 00:12:04.520
+after it's been
+
+223
+00:12:04.520 --> 00:12:05.520
+calculated.
+
+224
+00:12:05.520 --> 00:12:07.320
+Let's see when it's been calculated.
+
+225
+00:12:07.320 --> 00:12:10.920
+So it runs this command, which is on done.
+
+226
+00:12:10.920 --> 00:12:14.680
+On done is triggered.
+
+227
+00:12:14.680 --> 00:12:18.120
+Okay.
+
+228
+00:12:18.120 --> 00:12:19.520
+On done, finalize onboarding.
+
+229
+00:12:19.520 --> 00:12:27.600
+So we'll find this and then we will do superwall.shared.present view.
+
+230
+00:12:27.600 --> 00:12:33.120
+Let me just copy.
+
+231
+00:12:33.120 --> 00:12:37.240
+It's a registered placement, not present for you.
+
+232
+00:12:37.240 --> 00:12:43.880
+We'll paste that in here and then we'll import superwall kit.
+
+233
+00:12:43.880 --> 00:12:53.030
+And now we'll do this actually, just for example, we'll add state bar, private
+
+234
+00:12:53.030 --> 00:12:53.680
+bar,
+
+235
+00:12:53.680 --> 00:12:58.480
+clicked pwall equals false.
+
+236
+00:12:58.480 --> 00:13:03.250
+So now if this has been clicked because usually we can't test out superwall
+
+237
+00:13:03.250 --> 00:13:04.440
+until they approve
+
+238
+00:13:04.440 --> 00:13:05.520
+the product.
+
+239
+00:13:05.520 --> 00:13:17.280
+So if this has been clicked, we will do if people clicked if what was it again?
+
+240
+00:13:17.280 --> 00:13:25.900
+If clicked pay will equals false, we'll trigger this else if clicked pay will
+
+241
+00:13:25.900 --> 00:13:27.120
+equals true.
+
+242
+00:13:27.120 --> 00:13:31.840
+Actually, it should just be else this.
+
+243
+00:13:31.840 --> 00:13:39.960
+And then if else, it should present the content view.
+
+244
+00:13:39.960 --> 00:13:43.120
+So we'll do that.
+
+245
+00:13:43.120 --> 00:13:50.720
+Before that works, we need to make sure click paywall. toggle.
+
+246
+00:13:50.720 --> 00:13:54.640
+Great.
+
+247
+00:13:54.640 --> 00:14:10.760
+Okay, we'll just do this.
+
+248
+00:14:10.760 --> 00:14:20.160
+And then open paywall.
+
+249
+00:14:20.160 --> 00:14:34.600
+So now it should be this if, clicked paywall equals true.
+
+250
+00:14:34.600 --> 00:14:38.520
+Navigation link.
+
+251
+00:14:38.520 --> 00:14:43.520
+Label.
+
+252
+00:14:43.520 --> 00:14:44.520
+Access app.
+
+253
+00:14:44.520 --> 00:14:50.000
+And the navigation link should link to the main view, which is content view.
+
+254
+00:14:50.000 --> 00:14:53.480
+Okay, so now this should work.
+
+255
+00:14:53.480 --> 00:14:57.160
+This is like the full package right here.
+
+256
+00:14:57.160 --> 00:14:58.520
+So we'll have it onboarding.
+
+257
+00:14:58.520 --> 00:14:59.520
+So welcome to Kali.
+
+258
+00:14:59.520 --> 00:15:01.080
+Are you sure this is the user that's saying good?
+
+259
+00:15:01.080 --> 00:15:02.580
+Yes, let's do it.
+
+260
+00:15:02.580 --> 00:15:03.580
+Where am I starting from?
+
+261
+00:15:03.580 --> 00:15:05.440
+I'm a total beginner.
+
+262
+00:15:05.440 --> 00:15:07.840
+What's my primary goal to lose fat?
+
+263
+00:15:07.840 --> 00:15:08.840
+What's my target pace?
+
+264
+00:15:08.840 --> 00:15:11.000
+I'm going to say balanced.
+
+265
+00:15:11.000 --> 00:15:12.320
+How do you want to track?
+
+266
+00:15:12.320 --> 00:15:13.880
+I want to do a photo estimate.
+
+267
+00:15:13.880 --> 00:15:15.520
+I see on TikTok is fucking sick.
+
+268
+00:15:15.520 --> 00:15:16.760
+I want to play around with it.
+
+269
+00:15:16.760 --> 00:15:18.160
+Typical weekday activity.
+
+270
+00:15:18.160 --> 00:15:22.720
+I'd say some movement, not that much, but some movement.
+
+271
+00:15:22.720 --> 00:15:23.760
+How many workouts do I do a week?
+
+272
+00:15:23.760 --> 00:15:24.760
+I do fucking zero.
+
+273
+00:15:24.760 --> 00:15:26.360
+I don't know what I'm doing.
+
+274
+00:15:26.360 --> 00:15:28.360
+What tricks you up the most?
+
+275
+00:15:28.360 --> 00:15:29.360
+Probably late nights.
+
+276
+00:15:29.360 --> 00:15:33.700
+Actually weekends, I just drink, drink, drink and I get nowhere and I become
+
+277
+00:15:33.700 --> 00:15:34.200
+fat.
+
+278
+00:15:34.200 --> 00:15:36.160
+That's what I do.
+
+279
+00:15:36.160 --> 00:15:41.720
+Any thues I love or hate, I hate tuna.
+
+280
+00:15:41.720 --> 00:15:46.400
+Okay, if we nail this, what changes first?
+
+281
+00:15:46.400 --> 00:15:48.800
+I feel more cleaner, feel more confident, more energy focused.
+
+282
+00:15:48.800 --> 00:15:52.900
+This is very intentional language and I kind of created chatability to give
+
+283
+00:15:52.900 --> 00:15:53.480
+this kind
+
+284
+00:15:53.480 --> 00:15:59.520
+of response, but showing them the transformation of like, okay, if this app
+
+285
+00:15:59.520 --> 00:16:00.720
+works out, what
+
+286
+00:16:00.720 --> 00:16:01.720
+happens?
+
+287
+00:16:01.720 --> 00:16:03.000
+I get more energy focused.
+
+288
+00:16:03.000 --> 00:16:04.320
+I become more confident.
+
+289
+00:16:04.320 --> 00:16:05.320
+I look cleaner.
+
+290
+00:16:05.320 --> 00:16:07.160
+I perform better in training.
+
+291
+00:16:07.160 --> 00:16:08.720
+These are all direct results.
+
+292
+00:16:08.720 --> 00:16:12.450
+When you're prompted with a payroll for like 29, 9, 9 a year, you're like fuck
+
+293
+00:16:12.450 --> 00:16:12.960
+yeah.
+
+294
+00:16:12.960 --> 00:16:13.960
+I get all of this.
+
+295
+00:16:13.960 --> 00:16:15.840
+All I got to do is pay 30 bucks.
+
+296
+00:16:15.840 --> 00:16:19.240
+Now it is slightly misleading because it's still up to the person to make those
+
+297
+00:16:19.240 --> 00:16:19.720
+changes
+
+298
+00:16:19.720 --> 00:16:20.720
+in their own life.
+
+299
+00:16:20.720 --> 00:16:23.830
+Like the app just because you pay doesn't mean it's going to like fucking
+
+300
+00:16:23.830 --> 00:16:25.400
+transform overnight.
+
+301
+00:16:25.400 --> 00:16:29.790
+It still takes a time and dedication and grit, but this language really helps
+
+302
+00:16:29.790 --> 00:16:31.120
+sell the product.
+
+303
+00:16:31.120 --> 00:16:35.520
+So then you click finish, calculates your plan, boom, you get hit with the pay
+
+304
+00:16:35.520 --> 00:16:36.080
+wall.
+
+305
+00:16:36.080 --> 00:16:37.520
+Now obviously this is a little bit fast.
+
+306
+00:16:37.520 --> 00:16:40.980
+I would change it up at the end, but this is just for demonstration purposes,
+
+307
+00:16:40.980 --> 00:16:41.200
+hits you
+
+308
+00:16:41.200 --> 00:16:42.600
+with the paywall.
+
+309
+00:16:42.600 --> 00:16:44.480
+So now that trigger is done.
+
+310
+00:16:44.480 --> 00:16:47.080
+Let's hypothetically say I click continue and I pay.
+
+311
+00:16:47.080 --> 00:16:51.090
+Obviously we have this error because we can't find the product yet, which is
+
+312
+00:16:51.090 --> 00:16:52.080
+totally fine.
+
+313
+00:16:52.080 --> 00:16:57.000
+Obviously I expected that you click X out and now you see access app.
+
+314
+00:16:57.000 --> 00:16:59.200
+Oh, can I click it?
+
+315
+00:16:59.200 --> 00:17:01.200
+Click it.
+
+316
+00:17:01.200 --> 00:17:02.200
+Damn.
+
+317
+00:17:02.200 --> 00:17:07.770
+It's probably because that's in front, but let's say you did click it and you
+
+318
+00:17:07.770 --> 00:17:09.240
+did pay
+
+319
+00:17:09.240 --> 00:17:11.040
+what would happen now?
+
+320
+00:17:11.040 --> 00:17:14.280
+Well, you guessed it.
+
+321
+00:17:14.280 --> 00:17:16.320
+We're in the fucking app.
+
+322
+00:17:16.320 --> 00:17:17.320
+We paid for it.
+
+323
+00:17:17.320 --> 00:17:18.320
+We're in.
+
+324
+00:17:18.320 --> 00:17:25.260
+And now I can take a picture of my lasagna and Cal AI will estimate the
+
+325
+00:17:25.260 --> 00:17:26.640
+calories and
+
+326
+00:17:26.640 --> 00:17:28.600
+it's doing exactly what I paid for.
+
+327
+00:17:28.600 --> 00:17:31.040
+It works like a charm.
+
+328
+00:17:31.040 --> 00:17:36.610
+So you see everything we've just done in under like an hour has built us a
+
+329
+00:17:36.610 --> 00:17:37.960
+product that
+
+330
+00:17:37.960 --> 00:17:41.520
+hasn't on boarding, that convinces a user to finally pay.
+
+331
+00:17:41.520 --> 00:17:45.930
+We have a paywall that prompts the user to actually pay with a price that we
+
+332
+00:17:45.930 --> 00:17:46.440
+can A/B
+
+333
+00:17:46.440 --> 00:17:47.440
+test, et cetera.
+
+334
+00:17:47.440 --> 00:17:55.560
+And after the user is paid, they have access to the app and now they can use it
+
+335
+00:17:55.560 --> 00:17:55.760
+.
+
+336
+00:17:55.760 --> 00:17:57.560
+And it works and everyone's happy.
+
+337
+00:17:57.560 --> 00:17:58.640
+You've just made money.
+
+338
+00:17:58.640 --> 00:18:01.280
+You've just provided a great product experience.
+
+339
+00:18:01.280 --> 00:18:07.480
+And now people are using your app to better their lives.
+
+340
+00:18:07.480 --> 00:18:10.200
+Congrats, everyone.
+
+341
+00:18:10.200 --> 00:18:11.200
+We did it.
+
+342
+00:18:11.200 --> 00:18:13.280
+Now, obviously, this is not the end of the tutorial.
+
+343
+00:18:13.280 --> 00:18:16.880
+I'm going to get way more in depth with like building a way more polished
+
+344
+00:18:16.880 --> 00:18:17.600
+product.
+
+345
+00:18:17.600 --> 00:18:22.200
+But that's just kind of like the service level of what we're building here.
+
+346
+00:18:22.200 --> 00:18:24.280
+This is more of a demonstration of how easy it is.
+
+347
+00:18:24.280 --> 00:18:28.420
+There is more technical components in order to like log the subscription, to
+
+348
+00:18:28.420 --> 00:18:28.920
+track the
+
+349
+00:18:28.920 --> 00:18:33.800
+data, to make sure that actually looks good, to ask the right questions.
+
+350
+00:18:33.800 --> 00:18:35.800
+And I will be running through that.
+
+351
+00:18:35.800 --> 00:18:38.160
+But that's like the main part of the tutorial.
+
+352
+00:18:38.160 --> 00:18:42.570
+Just to show you how I got from zero to hero, I finally have a product that I
+
+353
+00:18:42.570 --> 00:18:43.600
+could actually
+
+354
+00:18:43.600 --> 00:18:44.600
+sell.
+
+355
+00:18:44.600 --> 00:18:51.360
+And even without like the payroll logic, you could probably fucking sell this.
+
+356
+00:18:51.360 --> 00:18:54.320
+By the way, all the GitHub links and all the code links will be in the
+
+357
+00:18:54.320 --> 00:18:55.880
+description or
+
+358
+00:18:55.880 --> 00:18:57.280
+in the document.
+
+359
+00:18:57.280 --> 00:18:58.960
+So find that.
+
+360
+00:18:58.960 --> 00:19:03.280
+And yeah, the next part of this, let's see what we're going through.
+
+361
+00:19:03.280 --> 00:19:14.720
+So we'll be going through database setup, which I'd say is important.
+
+362
+00:19:14.720 --> 00:19:16.040
+I'll get back to it.
+
+363
+00:19:16.040 --> 00:19:18.160
+Analytics, final cleanup and optimizations.
+
+364
+00:19:18.160 --> 00:19:21.090
+I'm going to spend a lot more time on the cleanup and optimizations to show you
+
+365
+00:19:21.090 --> 00:19:21.360
+how to
+
+366
+00:19:21.360 --> 00:19:23.720
+build like an actual solid robust app.
+
+367
+00:19:23.720 --> 00:19:27.200
+But yeah, that's it for this.
+
+368
+00:19:27.200 --> 00:19:28.200
+Congrats guys.

@@ -1,0 +1,47 @@
+[00:00:00] Okay, so one of the most important questions that you might be having is should
+[00:00:04] I learn
+[00:00:04] to code or should I just hire your developer to build the app for me?
+[00:00:08] Now this has been asked over and over because people have to say distribution
+[00:00:11] is everything
+[00:00:12] and where I do like kind of strongly agree with that.
+[00:00:15] I still fundamentally believe that being technical yourself is one of the
+[00:00:18] highest leverage things
+[00:00:19] you can do to be successful in this space.
+[00:00:22] And you know, Zach, Blake and I all proof that we kind of stick to that.
+[00:00:26] Like we all built our products ourselves.
+[00:00:29] And I think for the same kind of reason, like you can't outsource greatness.
+[00:00:33] Products have to be good to be successful, especially long term.
+[00:00:37] Okay, short, short term, you can make some money, but long term is important to
+[00:00:40] get the
+[00:00:41] product right.
+[00:00:42] And to kind of be a little bit of a perfectionist, I will say.
+[00:00:47] Developers also extremely expensive.
+[00:00:49] Even the cheapest bond with the Barrow like Brazilian devs are around like 6K a
+[00:00:53] month
+[00:00:53] and they take super long to build products and they don't even know what they
+[00:00:56] 're doing
+[00:00:57] half the time.
+[00:00:58] Like you usually pay for quality and unless you have like 10, 15K a month to
+[00:01:02] hire a solid
+[00:01:03] CTO and a product guy, I'd usually just recommend learning yourself.
+[00:01:09] And like I can give my viewpoint on how sorry, I can give my perspective on how
+[00:01:14] I learn.
+[00:01:15] I watched this tutorial around two, three years ago on rebuilding Twitter from
+[00:01:19] scratch.
+[00:01:19] It's linked right here.
+[00:01:21] It's about seven hours long and it seems like a long time.
+[00:01:24] But if I learned all of my coding skills and I built quitter from scratch from
+[00:01:29] this tutorial
+[00:01:30] and our quitter is doing half a million a month, it's like trading seven hours
+[00:01:34] of focus
+[00:01:35] and of your time in your life for the opportunity to build a super successful
+[00:01:39] app.
+[00:01:39] I think that's an amazing exchange of time to wealth ever.
+[00:01:46] Also like if you do decide to hire out understanding fundamentals saves money
+[00:01:51] and time, but I
+[00:01:52] generally wouldn't recommend this for most people.
+[00:01:56] Even if your first cop laps suck, it's important to be able to code yourself.
+[00:02:04] I would also say like I feel like a lot of people watching this tutorial
+[00:02:07] probably don't
+[00:02:08] have cash, which is one of the reasons I built a lunch code myself.
+[00:02:13] So yeah, that's my take.

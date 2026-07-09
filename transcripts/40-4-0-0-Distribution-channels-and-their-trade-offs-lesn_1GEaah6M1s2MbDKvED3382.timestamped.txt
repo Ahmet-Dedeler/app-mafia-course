@@ -1,0 +1,136 @@
+[00:00:00] Welcome to the distribution section of the course. I'm Zach. I'll be leading
+[00:00:04] you
+[00:00:05] through the beginning part and then Connor will take over halfway through.
+[00:00:08] We'll actually be switching off. He's gonna, what you'll see. But this is, if
+[00:00:13] not
+[00:00:14] the most important, one of, it's up there, like top one or two, the most
+[00:00:18] important things of this entire course, you could have the best app in the
+[00:00:23] world.
+[00:00:23] The best ever. If you have zero distribution, you will get zero downloads
+[00:00:29] and you will get zero sales, zero dollars in revenue. And we're not here just
+[00:00:34] to
+[00:00:34] build good apps. We're here to make money. So let's dive in and see how we're
+[00:00:38] gonna do that. So the main distribution channels are really influencers doing
+[00:00:46] influencer marketing, creating organic content. This is posting on TikTok,
+[00:00:51] Instagram, X, Reddit, anything that's organic. You're not paying for the
+[00:00:55] posters, putting it up, letting the algorithm decide if it's gonna go viral.
+[00:00:58] Paper click ads. So this is Facebook ads, Google ads, Snapchat ads, meta ads,
+[00:01:08] meta
+[00:01:08] actually includes Facebook and Instagram. And then a bunch of others. Then we
+[00:01:14] have
+[00:01:14] App Store Optimization. And this is if you guys are familiar with web apps, web
+[00:01:19] development, the concept of SEO, search engine optimization. This is App Store
+[00:01:25] Optimization App Store. So App Store Optimization. Yeah. Okay. App Store
+[00:01:32] search, that's incorrect. I'm gonna fix that. But it's App Store Optimization.
+[00:01:36] And
+[00:01:36] this is like keyword. So if you look for my app, Cal AI, the calorie tracking
+[00:01:40] out,
+[00:01:40] if you look up calorie tracker, the fourth search term will come up as
+[00:01:44] Cal AI. So that's Apple search optimization or sorry, App Store Optimization.
+[00:01:50] So everything has a trade off. If we look at the profitability curve, paper
+[00:01:56] click
+[00:01:56] ads are the least profitable. Influencers are the second least profitable. This
+[00:02:01] is
+[00:02:01] all generally, by the way, you might find that for you, it's totally different.
+[00:02:06] But
+[00:02:06] generally, this is what you'll find. Organic content is the second most
+[00:02:10] profitable. And App Store Optimization is the most profitable. And this is
+[00:02:16] really
+[00:02:16] because App Store Optimization, it's just, it takes setup in the beginning when
+[00:02:21] you
+[00:02:21] first launch your app, you're just putting in the keywords, a bunch of things
+[00:02:24] with
+[00:02:24] the title and screenshots. And then it just goes, you're not spending money on
+[00:02:28] this. If someone looks up your search term and goes to your app, you make money
+[00:02:32] ,
+[00:02:32] you don't pay for anything. So it's the most profitable. Paper click ads, that
+[00:02:36] 's
+[00:02:36] like you're directly paying one of these algorithms to find you a customer that
+[00:02:42] 's
+[00:02:42] going to go buy your app. So you're paying the least margin usually. It's the
+[00:02:46] greatest customer acquisition cost. Okay, now you go through the scalability
+[00:02:52] curve. And you'll notice there's an inverse relationship between these two,
+[00:02:56] where the most profitable is the least scalable here. And the least profitable
+[00:03:00] is the most scalable. Apple Search Optimization, App Store Optimization,
+[00:03:05] Fuck Dude, least scalable, organic content, secondly scalable influencers,
+[00:03:12] second most
+[00:03:12] scalable and paper click ads, the most scalable. This is also everything here.
+[00:03:18] Keep in mind is in general, you might find that it's somewhere for you. And by
+[00:03:23] scalability, I mean how hard it is to exhaust the channel, how many daily
+[00:03:28] downloads or monthly downloads can you pull from these channels? You'll be able
+[00:03:31] to pull the most monthly downloads from paper click ads and the least from
+[00:03:36] App Store Optimization generally. I didn't add its peak performance. Okay, now
+[00:03:44] there is the difficulty to start curve. ASO is by far the easiest to start.
+[00:03:48] When
+[00:03:48] you set up your app, you just have to keep a few principles in mind when you're
+[00:03:52] designing your icon, your screenshots, your title, your subtitle and your
+[00:03:57] keywords.
+[00:03:57] So we're going to go through all of those but really easy and once you set it
+[00:04:00] up,
+[00:04:00] it's just good forever pretty much. Some people like to go in and change things
+[00:04:04] but we'll get to all of that. Organic content, then it's a pretty steep pick up
+[00:04:10] after App Store Optimization then it goes to organic content where this, it's
+[00:04:14] not
+[00:04:15] that difficult to start, it's like you create a new account, you have to do
+[00:04:17] something called warming up an account which is a little bit annoying but then
+[00:04:21] you can just start posting. We'll get to that influencers, this is pretty
+[00:04:25] difficult to start. You have to DM hundreds of influencers, you're lucky if
+[00:04:29] one replies, then you're lucky you can negotiate a deal with them, get them to
+[00:04:33] post all of these things we'll get into and pay per click ads also very
+[00:04:38] difficult
+[00:04:39] to start. I was actually in between with influencers and pay per click which is
+[00:04:42] the most difficult to start because they both have their difficulties and
+[00:04:49] parts that are easier about them. So I'd say they're pretty similar however the
+[00:04:55] reason I say paper click is more difficult is because it's generally more
+[00:04:59] saturated and so maybe like first of all it requires a ton of setup but even
+[00:05:03] once you get started it's not just about getting started in order to run it
+[00:05:07] successfully the right way, be profitable that's gonna be so much more
+[00:05:11] difficult
+[00:05:12] than influencers usually at least like right off the bat and it's a lot more
+[00:05:19] setup than anything else for sure. The consistency curve, so this is like can
+[00:05:26] you rely on this channel to basically pull in the same number of downloads on
+[00:05:31] a week over a week, month over month, day over day basis. So organic content,
+[00:05:37] this
+[00:05:37] is the most sporadic, it's all about the algorithm. People usually will post
+[00:05:43] like
+[00:05:43] 10 videos and they'll apply the pre-to principle, two of those will go viral
+[00:05:46] and
+[00:05:47] justify either the cost or time spent on those other eight videos that did not
+[00:05:51] go viral so that's organic content. It's like you don't know when a video is
+[00:05:55] gonna go viral, it's like randomly you'll have these spikes and maybe they
+[00:05:59] normalize over a long enough period of time. Influencers. Influencers are
+[00:06:03] definitely more steady because you can predict and we're gonna get into how to
+[00:06:08] do this, how many views your video will get and so you can align things where
+[00:06:14] you're basically pulling in the same number of views per day and assuming
+[00:06:18] your content is a similar quality you'll get around the same number of
+[00:06:20] downloads per day. Paper click ads are the second most consistent where the
+[00:06:27] algorithm is really the it will, it is it is complex and we'll get into all
+[00:06:34] the complexities however generally once you have it all set up, once you have
+[00:06:39] your ad creatives, the videos, the videos that you're running as ads all set up
+[00:06:44] and you set up your ad budgets, the algorithm will spend that amount every
+[00:06:51] single day and until you exhaust your creatives you'll see the same performance
+[00:06:56] and exhausting creatives is something I'll explain later and then we have
+[00:07:01] apps or optimization and this is just pretty steady like not that many people
+[00:07:04] will search your keywords not that many people will search for your app but it
+[00:07:10] will be pretty consistent over you know over the week or month time period.
+[00:07:18] Attribution trade-offs used to be a bigger deal so I was thinking of making
+[00:07:21] another one of these curves but I decided not to because in the past one of
+[00:07:26] the big one of the big reasons to run paid ads over something like influencer
+[00:07:31] marketing is because of the attribution. You could figure out exactly where the
+[00:07:36] downloads came from you know exactly how many downloads came from one ad with
+[00:07:41] influencers thinking about it they just post a video and there's no links on a
+[00:07:46] TikTok so the person that sees the video has to go download your app from the
+[00:07:50] app source separately and you don't know where they came from you know they may
+[00:07:55] have came from the video because they were posted the video was posted around
+[00:07:59] the same time the download was in but you can't get much better attribution
+[00:08:02] than that especially if you have multiple posts going out at the same time
+[00:08:06] because
+[00:08:06] you're operating at such a large scale so paid ads were better for so long
+[00:08:12] because
+[00:08:12] you could have hundreds of different ads running and each one would track how
+[00:08:16] many downloads came from it specifically down to down to the device ID but now
+[00:08:22] because of all of Apple's regulations you can do that anymore and so
+[00:08:27] attribution
+[00:08:27] is very tricky therefore it's almost just as hard as attributing influencer
+[00:08:33] marketing at this point.
+[00:08:36] Cool.

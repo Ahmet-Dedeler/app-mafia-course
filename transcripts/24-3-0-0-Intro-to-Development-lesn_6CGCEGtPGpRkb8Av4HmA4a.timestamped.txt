@@ -1,0 +1,29 @@
+[00:00:00] Hey everyone, welcome to the Art Mafia Development module.
+[00:00:04] My name is Alex Slater.
+[00:00:05] I'm the founder and lead developer of Quitter.
+[00:00:08] Quitter does half a million dollars in revenue a month and has done about two
+[00:00:11] and a half
+[00:00:12] million dollars in his total lifespan.
+[00:00:15] I have a lot of information to share about building products specifically
+[00:00:20] because I wasted
+[00:00:21] years and I mean like two years building the perfect app that never launched
+[00:00:27] and never
+[00:00:28] got traction and never went anywhere.
+[00:00:31] Whereas with Quitter on the other hand, I spent a week, two weeks building it,
+[00:00:35] got instant
+[00:00:35] validation and that just kind of parlayed into momentum that got us to this
+[00:00:40] point today.
+[00:00:41] So the goal of this module is to share how to build a successful app.
+[00:00:46] We'll be running through how to rebuild U-Maxxram Scratch which was one of
+[00:00:49] Blake Anderson's
+[00:00:50] most successful first apps.
+[00:00:52] So we'll go for that entire tutorial and how to skip a lot of the waste of time
+[00:00:56] that I
+[00:00:57] spent so you don't have to spend that waste of time yourself.
+[00:01:01] And by the end of this module, ideally you will have an app that is ready to be
+[00:01:06] sold
+[00:01:07] and you can go into the distribution module that comes right after this and
+[00:01:10] start making
+[00:01:11] money.
+[00:01:12] So yeah, let's get started.
+[00:01:14] [BLANK_AUDIO]

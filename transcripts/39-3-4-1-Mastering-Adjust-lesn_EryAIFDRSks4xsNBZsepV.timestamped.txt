@@ -1,0 +1,160 @@
+[00:00:00] Hey everyone, welcome back to the development module.
+[00:00:03] Today we'll be talking about how to master adjust.
+[00:00:06] Adjust is a tool that I used to track revenue from ads,
+[00:00:10] send out affiliate links to X creators,
+[00:00:13] and also see which channels are bringing in
+[00:00:16] the most revenue when it comes to traffic.
+[00:00:18] This tool is great, but it takes a hell of a lot of time
+[00:00:24] to set up.
+[00:00:25] I had to get several devs.
+[00:00:28] I had to get so many independent people
+[00:00:30] to help me set it up.
+[00:00:32] So we won't be going over that today, sadly,
+[00:00:34] but I will be showing you how to use it
+[00:00:36] and how to be the best fucking data guy
+[00:00:41] for your company using Adjust.
+[00:00:43] So let's get right into it.
+[00:00:46] The website is adjust.com, and I have an account
+[00:00:49] I've already set everything up.
+[00:00:50] So again, I will be going over how I use it
+[00:00:53] in my day-to-day operations when it comes to Quiser.
+[00:00:57] So this is the full dashboard overview.
+[00:01:02] I don't know what this time period is.
+[00:01:06] This is seemingly the last month, or two months.
+[00:01:11] And it says we generated 1.1 million dollars of revenue
+[00:01:13] because we passed a revenue that we generate in the app
+[00:01:16] back to adjust.
+[00:01:17] So it just displays in the front end here.
+[00:01:19] It shows us the installs.
+[00:01:21] We don't have to track this manually.
+[00:01:23] This gets tracked automatically.
+[00:01:24] This is great.
+[00:01:26] And yeah, this is a very simple stuff
+[00:01:29] that you see in a bunch of platforms,
+[00:01:30] but we'll get straight into the meat and potatoes.
+[00:01:33] Let's go to campaign lab and custom links.
+[00:01:39] So anytime we put a blog out,
+[00:01:41] anytime we send out a link to an influencer
+[00:01:45] to put in that bio, anytime we work with an ex-affiliate page
+[00:01:48] to post the quitter link in the comments,
+[00:01:51] we send them an individual tracking link.
+[00:01:54] And you can see a bunch of names here.
+[00:01:56] These are campaigns.
+[00:01:58] So like there are 77 campaigns within the influencer channel.
+[00:02:03] And then you can see all of the influencer names under here.
+[00:02:06] And the way we structure this
+[00:02:13] is anytime we wanna create a new link.
+[00:02:15] Let's say it's an ex-affiliate or affiliate program.
+[00:02:18] You would click in the top right, new link.
+[00:02:21] You will call the channel ex-affiliates.
+[00:02:25] We'll call this test, for example.
+[00:02:27] You click next, next again, next again, next,
+[00:02:32] and then create link.
+[00:02:33] Boom, you've created an ex-affiliate link.
+[00:02:38] Now, if we wanna send this to specific pages
+[00:02:41] and see the ROI, instead of just seeing
+[00:02:45] the whole entire channel's ROI,
+[00:02:48] we will go to test at the bottom,
+[00:02:53] click on the campaigns, new campaign link.
+[00:02:56] And we'll do the influencer name as,
+[00:02:59] like let's just say this page is,
+[00:03:01] hourly shitpost, which is a real account
+[00:03:03] that we've partnered with in the past.
+[00:03:05] We'll go next, next, next, next, create link.
+[00:03:10] And now, anytime the hourly shitpost guy uses this link,
+[00:03:15] we will be able to see the revenue he's generated
+[00:03:18] for our business.
+[00:03:19] So it just makes the whole data part really, really simple.
+[00:03:24] When it comes to apps usually,
+[00:03:25] you don't know what you're doing.
+[00:03:27] Apple limits a lot of the traffic data
+[00:03:30] because they're so privacy focused.
+[00:03:32] So tools I could just really make it simple
+[00:03:35] to see the truth in everything you're doing.
+[00:03:38] So yeah, I would send this link to an influencer,
+[00:03:42] tell him to use that.
+[00:03:44] And then when you go back into the dashboard
+[00:03:46] and the overview, you will see it start to accumulate
+[00:03:49] under campaign name.
+[00:03:51] So for example, an influencer we've worked with
+[00:03:54] in the past, Moon, we can see that he's generated
+[00:03:57] 3.2K in the last two months.
+[00:04:01] And that's just for his link alone.
+[00:04:04] And you can see the same different revenue breakdowns
+[00:04:09] for everyone else we've worked with.
+[00:04:11] Specifically like socials, so this is our main accounts.
+[00:04:15] Unknown is obviously not tracked.
+[00:04:18] We also have all of these meta ads.
+[00:04:20] So you can see these are made like 50,000, 30,000, 26,000.
+[00:04:24] And yeah, like adjust as a no brainer
+[00:04:28] when it comes to breaking down exactly what traffic
+[00:04:33] is bringing in, what revenue.
+[00:04:35] So you know how to and where to invest
+[00:04:38] all of your money back into.
+[00:04:42] And you know what?
+[00:04:45] Like that is the main thing I use it for.
+[00:04:47] I'll be honest, maybe there are other things.
+[00:04:51] But I use it for the affiliate links
+[00:04:52] and I absolutely love it.
+[00:04:54] And I suggest as you can see blogs
+[00:04:56] and this should be way more than 1K, which is weird.
+[00:05:01] But we have individual links for individual things we do.
+[00:05:04] So the main website has a custom link.
+[00:05:07] I think this is this link, 63 installs
+[00:05:10] that does not seem right.
+[00:05:12] Anyways, we have one link for the main website
+[00:05:15] and then for the blogs and the SEO, we have another link.
+[00:05:18] You can see that this is generating way more traffic
+[00:05:20] than the main page.
+[00:05:22] So instead of like, for example,
+[00:05:25] instead of giving the same link to the entire website
+[00:05:28] and just like assuming that the entire website is doing well,
+[00:05:33] you can attribute it to a specific part of the website.
+[00:05:36] For example, the blogs, we know blogs are doing very well
+[00:05:39] and have brought in $50,000, for example,
+[00:05:44] instead of just the domain bringing in 50K.
+[00:05:47] So you wanna get really specific and you want some,
+[00:05:49] just dive in there and like improve everything.
+[00:05:54] And then we also have the settings, so the app settings.
+[00:06:02] Once you go into here,
+[00:06:08] you wanna click into social sharing preview
+[00:06:12] and you wanna make this a very clear CTA.
+[00:06:14] For example, mine's called Quitter, Quip Pawn Now.
+[00:06:18] Join, this should be a million people.
+[00:06:20] Well, great for spotting that, guys, good stuff.
+[00:06:25] Join a million people on their mission to Quip Pawn today,
+[00:06:28] download now from the App Store and Google Play.
+[00:06:31] And then we have a really sick image.
+[00:06:37] And anytime this link is shared on social media,
+[00:06:40] this entire preview is shown and this serves
+[00:06:44] kind of like a converting landing page.
+[00:06:49] So yeah.
+[00:06:53] That's a just pretty simple stuff.
+[00:07:01] I didn't wanna dive too deep into it.
+[00:07:03] It is very confusing and complex
+[00:07:06] and there's a lot of shit going on,
+[00:07:07] but I stick to the essentials.
+[00:07:09] I use it for links, cost of links
+[00:07:12] and I also use it for ads.
+[00:07:15] And then the final thing about the sharing preview
+[00:07:18] is very important to get right.
+[00:07:20] For Cal AI, for example, you can call it say,
+[00:07:24] download Cal AI on the App Store today.
+[00:07:26] Join 10 million other people,
+[00:07:28] check in their calories on the iPhone or App Store,
+[00:07:30] which is very, very, very clear that there's an app
+[00:07:34] specifying that it's an app is very beneficial
+[00:07:37] when it comes to converting people
+[00:07:39] because they don't know if there's a product
+[00:07:42] they hate buying physical products,
+[00:07:44] they hate if it's a service, they hate services.
+[00:07:47] They just want an app.
+[00:07:48] That makes it really easy to download.
+[00:07:50] That makes it really easy to convert.
+[00:07:53] Hope that's very clear.
+[00:07:54] I might re-record this tomorrow, who knows I am tired,
+[00:07:59] but I will say I did cover a lot of the essentials
+[00:08:04] and if you guys need help setting up a just,
+[00:08:06] they have a full support team
+[00:08:08] when it comes to setting up your demo,
+[00:08:15] but yeah, good shit boys.

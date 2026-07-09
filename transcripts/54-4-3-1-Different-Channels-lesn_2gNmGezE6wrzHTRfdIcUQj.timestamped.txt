@@ -1,0 +1,151 @@
+[00:00:00] So there are many different channels to run paid ads on, paper click ads.
+[00:00:06] Meta, which is one of the most popular, if not the most popular, that was kind
+[00:00:11] of the
+[00:00:12] OG platform was Facebook ads.
+[00:00:14] And that's under the umbrella of meta.
+[00:00:17] This lets you run ads on Instagram in reels, on Instagram stories, Facebook as
+[00:00:23] you're scrolling
+[00:00:24] through the timeline, banner ads on the website.
+[00:00:28] The whole nine yards, it's very inclusive.
+[00:00:32] Their algorithm is by far one of the best.
+[00:00:34] It's been around the longest.
+[00:00:35] It's really good, really solid platform.
+[00:00:40] Everything was pretty much based on this.
+[00:00:42] Then we go to tick tock ads, which it's a little more simplistic.
+[00:00:46] It's just ads directly in tick tock.
+[00:00:48] There's a lot you could do here.
+[00:00:50] You can do, you can just post a video and it comes up as an ad.
+[00:00:53] You could do a partnership ad.
+[00:00:54] You could do this on Instagram too.
+[00:00:56] By the way, it's called a spark ad where you have someone post from their
+[00:00:59] account and then
+[00:01:00] you put ad spend behind it.
+[00:01:02] So this is how you can branch influencer marketing and paper click marketing
+[00:01:06] together.
+[00:01:07] Apple search ads, which is not the first thing people think of when they think
+[00:01:12] of search
+[00:01:12] ads, or sorry, when they think of paper click ads in general.
+[00:01:15] But Apple search ads is actually really, really overlooked.
+[00:01:20] There's a lot of potential there for new apps.
+[00:01:24] It's basically just bidding on keywords.
+[00:01:26] The reason it's so good is because it is the only platform where the
+[00:01:30] attribution is one
+[00:01:31] to one.
+[00:01:32] Apple has all these privacy rules that really stop you from knowing exactly
+[00:01:39] where your users
+[00:01:40] came from, knowing how profitable each channel was.
+[00:01:43] Apple search ads is the one exception in that platform that you can know.
+[00:01:49] Therefore, it's a great one to run on because there's very little, if any,
+[00:01:55] uncertainty.
+[00:01:56] If it's profitable.
+[00:01:58] It's also easy to settle and we'll get into that.
+[00:02:02] Google ads, Google ads, there are a bunch of different ways to run Google ads.
+[00:02:06] There are search ads, search term ads.
+[00:02:09] So if you Google something, you could place a bid where you're like the
+[00:02:13] highlighted first
+[00:02:14] result, the sponsored first result, but what's more popular as of recently with
+[00:02:20] apps is Google
+[00:02:22] UAC ads and Google UAC ads.
+[00:02:25] I want to look this up.
+[00:02:29] It is they're basically universal app campaigns and they let you run basically
+[00:02:36] ads everywhere
+[00:02:38] for your app.
+[00:02:39] You can run like it.
+[00:02:40] You set it up once and then it will show the ads across all Google platforms.
+[00:02:44] So it will show ads on the Google Play Store.
+[00:02:46] It will show ads on YouTube.
+[00:02:47] It will show ads on the Google display network, which is basically ads running
+[00:02:52] within other
+[00:02:52] apps, Google search.
+[00:02:55] So Google UAC is a big thing.
+[00:02:57] And I know many people that have apps doing millions of dollars a month and
+[00:03:01] Google UAC
+[00:03:02] is their biggest spender, biggest contributor to that.
+[00:03:07] AppLoven is a platform that personally I never used, but there's been a lot of
+[00:03:11] buzz around
+[00:03:12] it recently.
+[00:03:13] There's some rumors like you have to be spending at least 30 K a day in order
+[00:03:17] to get on the
+[00:03:18] platform.
+[00:03:19] It's basically just running ads within other apps, running video ads within
+[00:03:24] other apps.
+[00:03:25] And I've heard good things, but I've also heard bad things.
+[00:03:28] I just very mixed.
+[00:03:30] I wouldn't recommend really spending too much time thinking about this by the
+[00:03:33] point that
+[00:03:34] you would need to run app, love and ads, your app will already be very
+[00:03:37] successful and you
+[00:03:37] could hire someone to do it.
+[00:03:39] And by the way, I do want you guys to take into account something is that I
+[00:03:46] with Kali
+[00:03:47] I so we initially started out with influencer marketing exclusively.
+[00:03:53] And then we decided, Hey, okay, we know there's big opportunity with paid ads
+[00:03:57] as well.
+[00:03:58] So we're going to keep doing what we're best at influencers.
+[00:04:02] And then let's use an agency on the side to run our to run our ads.
+[00:04:09] And so we we did that.
+[00:04:13] It worked out decently well.
+[00:04:14] We were spending we were spending a few thousand dollars a day profitably, but
+[00:04:20] then with pretty
+[00:04:21] much anything I'm very against agencies long term.
+[00:04:24] They're good for short term sometimes, but not long term.
+[00:04:28] We decided we want to really start scaling this and agency is they move too
+[00:04:31] slow for
+[00:04:31] our pace number one rule of business speed.
+[00:04:35] And so we decided to take it in house.
+[00:04:38] I started learning.
+[00:04:39] I started watching a bunch of podcasts talking on my friends who are great with
+[00:04:44] paid ads.
+[00:04:45] And where was I going with this?
+[00:04:50] Oh, well, it we started running again.
+[00:04:55] And there are a lot of ups and downs with paid ads.
+[00:04:58] Some of the biggest problems come from the smallest things generally once you
+[00:05:03] 're set
+[00:05:04] up, you're good to go and scale the only issues come from attribution issues,
+[00:05:10] which
+[00:05:11] we'll get into, which is all about apples privacy rules.
+[00:05:16] But the reason why I wanted to say that is because I started we I did not start
+[00:05:24] the face.
+[00:05:25] So I did not start the ad platform like I did not set up initially running
+[00:05:32] paper click ads
+[00:05:34] for a cali.
+[00:05:35] We had an inch to do it.
+[00:05:36] Then I took over.
+[00:05:37] I started it from scratch.
+[00:05:39] However, we only scaled it so far before bringing in someone else to continue
+[00:05:44] scaling
+[00:05:45] it with us.
+[00:05:46] And that's something you should honestly keep in mind for every section is you
+[00:05:50] only need
+[00:05:50] to know up to a certain point where you're making enough money or you could
+[00:05:54] then hire
+[00:05:55] someone to replace you.
+[00:05:57] And that's basically what we did.
+[00:05:58] We just waited until we were making enough where it made sense to bring someone
+[00:06:01] on and
+[00:06:01] the ads were going to pay for their salary.
+[00:06:03] And so I'm going to teach you enough where you could get to that point.
+[00:06:06] However, I'm definitely not a master at this.
+[00:06:10] I'm definitely not the best in the world.
+[00:06:12] I know how to get it going.
+[00:06:14] I know how to hire for it, hire some of the best in the world.
+[00:06:18] Once you have it going, but keep in mind, this is going to be pretty high level
+[00:06:23] .
+[00:06:23] We're going to go through all the principal strategies.
+[00:06:27] And we'll also talk about how you should hire someone at what point you should
+[00:06:32] hire
+[00:06:33] someone to.
+[00:06:34] So the last one here is Snapchat ads.
+[00:06:36] And Snapchat ads, we've run them once.
+[00:06:39] They weren't profitable for us.
+[00:06:41] We're going to try them again.
+[00:06:42] I think may have jumped the gun.
+[00:06:44] Haven't done enough testing.
+[00:06:45] But it's Snapchat stories or Snapchat spotlight as you're scrolling through.
+[00:06:50] You can see ads.
+[00:06:52] For some people, it's very profitable, very profitable.
+[00:06:56] It's a general that most people don't actually look into.
+[00:06:58] So your CPMs, well, I don't know why, but that in quotes, CPM your cost per
+[00:07:02] thousand
+[00:07:03] views is relatively inexpensive.
+[00:07:04] [BLANK_AUDIO]

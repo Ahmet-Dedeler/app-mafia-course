@@ -1,0 +1,641 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.240
+Hey everyone, welcome back to the development module.
+
+2
+00:00:03.240 --> 00:00:06.720
+Today we'll be talking about how to master adjust.
+
+3
+00:00:06.720 --> 00:00:10.800
+Adjust is a tool that I used to track revenue from ads,
+
+4
+00:00:10.800 --> 00:00:13.240
+send out affiliate links to X creators,
+
+5
+00:00:13.240 --> 00:00:16.200
+and also see which channels are bringing in
+
+6
+00:00:16.200 --> 00:00:18.740
+the most revenue when it comes to traffic.
+
+7
+00:00:18.740 --> 00:00:24.740
+This tool is great, but it takes a hell of a lot of time
+
+8
+00:00:24.740 --> 00:00:25.800
+to set up.
+
+9
+00:00:25.800 --> 00:00:28.240
+I had to get several devs.
+
+10
+00:00:28.240 --> 00:00:30.200
+I had to get so many independent people
+
+11
+00:00:30.200 --> 00:00:32.200
+to help me set it up.
+
+12
+00:00:32.200 --> 00:00:34.640
+So we won't be going over that today, sadly,
+
+13
+00:00:34.640 --> 00:00:36.840
+but I will be showing you how to use it
+
+14
+00:00:36.840 --> 00:00:41.120
+and how to be the best fucking data guy
+
+15
+00:00:41.120 --> 00:00:43.220
+for your company using Adjust.
+
+16
+00:00:43.220 --> 00:00:46.080
+So let's get right into it.
+
+17
+00:00:46.080 --> 00:00:49.400
+The website is adjust.com, and I have an account
+
+18
+00:00:49.400 --> 00:00:50.680
+I've already set everything up.
+
+19
+00:00:50.680 --> 00:00:53.680
+So again, I will be going over how I use it
+
+20
+00:00:53.680 --> 00:00:57.000
+in my day-to-day operations when it comes to Quiser.
+
+21
+00:00:57.000 --> 00:01:02.000
+So this is the full dashboard overview.
+
+22
+00:01:02.000 --> 00:01:06.520
+I don't know what this time period is.
+
+23
+00:01:06.520 --> 00:01:11.000
+This is seemingly the last month, or two months.
+
+24
+00:01:11.000 --> 00:01:13.920
+And it says we generated 1.1 million dollars of revenue
+
+25
+00:01:13.920 --> 00:01:16.200
+because we passed a revenue that we generate in the app
+
+26
+00:01:16.200 --> 00:01:17.360
+back to adjust.
+
+27
+00:01:17.360 --> 00:01:19.920
+So it just displays in the front end here.
+
+28
+00:01:19.920 --> 00:01:21.600
+It shows us the installs.
+
+29
+00:01:21.600 --> 00:01:23.400
+We don't have to track this manually.
+
+30
+00:01:23.400 --> 00:01:24.960
+This gets tracked automatically.
+
+31
+00:01:24.960 --> 00:01:25.980
+This is great.
+
+32
+00:01:26.980 --> 00:01:29.100
+And yeah, this is a very simple stuff
+
+33
+00:01:29.100 --> 00:01:30.940
+that you see in a bunch of platforms,
+
+34
+00:01:30.940 --> 00:01:33.420
+but we'll get straight into the meat and potatoes.
+
+35
+00:01:33.420 --> 00:01:39.180
+Let's go to campaign lab and custom links.
+
+36
+00:01:39.180 --> 00:01:41.780
+So anytime we put a blog out,
+
+37
+00:01:41.780 --> 00:01:45.060
+anytime we send out a link to an influencer
+
+38
+00:01:45.060 --> 00:01:48.700
+to put in that bio, anytime we work with an ex-affiliate page
+
+39
+00:01:48.700 --> 00:01:51.780
+to post the quitter link in the comments,
+
+40
+00:01:51.780 --> 00:01:54.460
+we send them an individual tracking link.
+
+41
+00:01:54.460 --> 00:01:56.700
+And you can see a bunch of names here.
+
+42
+00:01:56.700 --> 00:01:58.420
+These are campaigns.
+
+43
+00:01:58.420 --> 00:02:03.420
+So like there are 77 campaigns within the influencer channel.
+
+44
+00:02:03.420 --> 00:02:06.980
+And then you can see all of the influencer names under here.
+
+45
+00:02:06.980 --> 00:02:13.140
+And the way we structure this
+
+46
+00:02:13.140 --> 00:02:15.140
+is anytime we wanna create a new link.
+
+47
+00:02:15.140 --> 00:02:18.380
+Let's say it's an ex-affiliate or affiliate program.
+
+48
+00:02:18.380 --> 00:02:21.500
+You would click in the top right, new link.
+
+49
+00:02:21.500 --> 00:02:25.300
+You will call the channel ex-affiliates.
+
+50
+00:02:25.300 --> 00:02:27.420
+We'll call this test, for example.
+
+51
+00:02:27.420 --> 00:02:32.420
+You click next, next again, next again, next,
+
+52
+00:02:32.420 --> 00:02:33.960
+and then create link.
+
+53
+00:02:33.960 --> 00:02:38.900
+Boom, you've created an ex-affiliate link.
+
+54
+00:02:38.900 --> 00:02:41.940
+Now, if we wanna send this to specific pages
+
+55
+00:02:41.940 --> 00:02:45.980
+and see the ROI, instead of just seeing
+
+56
+00:02:45.980 --> 00:02:48.660
+the whole entire channel's ROI,
+
+57
+00:02:48.660 --> 00:02:53.660
+we will go to test at the bottom,
+
+58
+00:02:53.660 --> 00:02:56.580
+click on the campaigns, new campaign link.
+
+59
+00:02:56.580 --> 00:02:59.700
+And we'll do the influencer name as,
+
+60
+00:02:59.700 --> 00:03:01.140
+like let's just say this page is,
+
+61
+00:03:01.140 --> 00:03:03.900
+hourly shitpost, which is a real account
+
+62
+00:03:03.900 --> 00:03:05.660
+that we've partnered with in the past.
+
+63
+00:03:05.660 --> 00:03:10.060
+We'll go next, next, next, next, create link.
+
+64
+00:03:10.060 --> 00:03:15.060
+And now, anytime the hourly shitpost guy uses this link,
+
+65
+00:03:15.060 --> 00:03:18.020
+we will be able to see the revenue he's generated
+
+66
+00:03:18.020 --> 00:03:19.540
+for our business.
+
+67
+00:03:19.540 --> 00:03:24.460
+So it just makes the whole data part really, really simple.
+
+68
+00:03:24.460 --> 00:03:25.820
+When it comes to apps usually,
+
+69
+00:03:25.820 --> 00:03:27.580
+you don't know what you're doing.
+
+70
+00:03:27.580 --> 00:03:30.020
+Apple limits a lot of the traffic data
+
+71
+00:03:30.020 --> 00:03:32.780
+because they're so privacy focused.
+
+72
+00:03:32.780 --> 00:03:35.500
+So tools I could just really make it simple
+
+73
+00:03:35.500 --> 00:03:38.920
+to see the truth in everything you're doing.
+
+74
+00:03:38.920 --> 00:03:42.860
+So yeah, I would send this link to an influencer,
+
+75
+00:03:42.860 --> 00:03:44.420
+tell him to use that.
+
+76
+00:03:44.420 --> 00:03:46.220
+And then when you go back into the dashboard
+
+77
+00:03:46.220 --> 00:03:49.660
+and the overview, you will see it start to accumulate
+
+78
+00:03:49.660 --> 00:03:51.580
+under campaign name.
+
+79
+00:03:51.580 --> 00:03:54.980
+So for example, an influencer we've worked with
+
+80
+00:03:54.980 --> 00:03:57.860
+in the past, Moon, we can see that he's generated
+
+81
+00:03:57.860 --> 00:04:01.980
+3.2K in the last two months.
+
+82
+00:04:01.980 --> 00:04:04.820
+And that's just for his link alone.
+
+83
+00:04:04.820 --> 00:04:09.220
+And you can see the same different revenue breakdowns
+
+84
+00:04:09.220 --> 00:04:11.020
+for everyone else we've worked with.
+
+85
+00:04:11.020 --> 00:04:14.500
+Specifically like socials, so this is our main accounts.
+
+86
+00:04:15.500 --> 00:04:18.700
+Unknown is obviously not tracked.
+
+87
+00:04:18.700 --> 00:04:20.900
+We also have all of these meta ads.
+
+88
+00:04:20.900 --> 00:04:24.700
+So you can see these are made like 50,000, 30,000, 26,000.
+
+89
+00:04:24.700 --> 00:04:28.900
+And yeah, like adjust as a no brainer
+
+90
+00:04:28.900 --> 00:04:33.900
+when it comes to breaking down exactly what traffic
+
+91
+00:04:33.900 --> 00:04:35.100
+is bringing in, what revenue.
+
+92
+00:04:35.100 --> 00:04:38.900
+So you know how to and where to invest
+
+93
+00:04:38.900 --> 00:04:41.100
+all of your money back into.
+
+94
+00:04:42.700 --> 00:04:45.220
+And you know what?
+
+95
+00:04:45.220 --> 00:04:47.980
+Like that is the main thing I use it for.
+
+96
+00:04:47.980 --> 00:04:51.260
+I'll be honest, maybe there are other things.
+
+97
+00:04:51.260 --> 00:04:52.900
+But I use it for the affiliate links
+
+98
+00:04:52.900 --> 00:04:54.220
+and I absolutely love it.
+
+99
+00:04:54.220 --> 00:04:56.380
+And I suggest as you can see blogs
+
+100
+00:04:56.380 --> 00:05:01.060
+and this should be way more than 1K, which is weird.
+
+101
+00:05:01.060 --> 00:05:04.220
+But we have individual links for individual things we do.
+
+102
+00:05:04.220 --> 00:05:07.380
+So the main website has a custom link.
+
+103
+00:05:07.380 --> 00:05:10.540
+I think this is this link, 63 installs
+
+104
+00:05:10.540 --> 00:05:12.100
+that does not seem right.
+
+105
+00:05:12.100 --> 00:05:15.380
+Anyways, we have one link for the main website
+
+106
+00:05:15.380 --> 00:05:18.180
+and then for the blogs and the SEO, we have another link.
+
+107
+00:05:18.180 --> 00:05:20.980
+You can see that this is generating way more traffic
+
+108
+00:05:20.980 --> 00:05:22.300
+than the main page.
+
+109
+00:05:22.300 --> 00:05:25.700
+So instead of like, for example,
+
+110
+00:05:25.700 --> 00:05:28.420
+instead of giving the same link to the entire website
+
+111
+00:05:28.420 --> 00:05:33.340
+and just like assuming that the entire website is doing well,
+
+112
+00:05:33.340 --> 00:05:36.380
+you can attribute it to a specific part of the website.
+
+113
+00:05:36.380 --> 00:05:39.900
+For example, the blogs, we know blogs are doing very well
+
+114
+00:05:39.900 --> 00:05:44.020
+and have brought in $50,000, for example,
+
+115
+00:05:44.020 --> 00:05:47.460
+instead of just the domain bringing in 50K.
+
+116
+00:05:47.460 --> 00:05:49.740
+So you wanna get really specific and you want some,
+
+117
+00:05:49.740 --> 00:05:54.520
+just dive in there and like improve everything.
+
+118
+00:05:54.520 --> 00:06:02.380
+And then we also have the settings, so the app settings.
+
+119
+00:06:02.380 --> 00:06:06.380
+Once you go into here,
+
+120
+00:06:08.100 --> 00:06:12.300
+you wanna click into social sharing preview
+
+121
+00:06:12.300 --> 00:06:14.860
+and you wanna make this a very clear CTA.
+
+122
+00:06:14.860 --> 00:06:18.100
+For example, mine's called Quitter, Quip Pawn Now.
+
+123
+00:06:18.100 --> 00:06:20.340
+Join, this should be a million people.
+
+124
+00:06:20.340 --> 00:06:25.340
+Well, great for spotting that, guys, good stuff.
+
+125
+00:06:25.340 --> 00:06:28.860
+Join a million people on their mission to Quip Pawn today,
+
+126
+00:06:28.860 --> 00:06:31.760
+download now from the App Store and Google Play.
+
+127
+00:06:31.760 --> 00:06:35.640
+And then we have a really sick image.
+
+128
+00:06:37.020 --> 00:06:40.820
+And anytime this link is shared on social media,
+
+129
+00:06:40.820 --> 00:06:44.100
+this entire preview is shown and this serves
+
+130
+00:06:44.100 --> 00:06:49.100
+kind of like a converting landing page.
+
+131
+00:06:49.100 --> 00:06:53.580
+So yeah.
+
+132
+00:06:53.580 --> 00:07:01.660
+That's a just pretty simple stuff.
+
+133
+00:07:01.660 --> 00:07:03.620
+I didn't wanna dive too deep into it.
+
+134
+00:07:03.620 --> 00:07:06.140
+It is very confusing and complex
+
+135
+00:07:06.140 --> 00:07:07.820
+and there's a lot of shit going on,
+
+136
+00:07:07.820 --> 00:07:09.620
+but I stick to the essentials.
+
+137
+00:07:09.620 --> 00:07:12.780
+I use it for links, cost of links
+
+138
+00:07:12.780 --> 00:07:15.000
+and I also use it for ads.
+
+139
+00:07:15.000 --> 00:07:18.740
+And then the final thing about the sharing preview
+
+140
+00:07:18.740 --> 00:07:20.980
+is very important to get right.
+
+141
+00:07:20.980 --> 00:07:24.460
+For Cal AI, for example, you can call it say,
+
+142
+00:07:24.460 --> 00:07:26.460
+download Cal AI on the App Store today.
+
+143
+00:07:26.460 --> 00:07:28.100
+Join 10 million other people,
+
+144
+00:07:28.100 --> 00:07:30.620
+check in their calories on the iPhone or App Store,
+
+145
+00:07:30.620 --> 00:07:33.580
+which is very, very, very clear that there's an app
+
+146
+00:07:34.900 --> 00:07:37.860
+specifying that it's an app is very beneficial
+
+147
+00:07:37.860 --> 00:07:39.940
+when it comes to converting people
+
+148
+00:07:39.940 --> 00:07:42.020
+because they don't know if there's a product
+
+149
+00:07:42.020 --> 00:07:44.180
+they hate buying physical products,
+
+150
+00:07:44.180 --> 00:07:47.460
+they hate if it's a service, they hate services.
+
+151
+00:07:47.460 --> 00:07:48.780
+They just want an app.
+
+152
+00:07:48.780 --> 00:07:50.660
+That makes it really easy to download.
+
+153
+00:07:50.660 --> 00:07:53.060
+That makes it really easy to convert.
+
+154
+00:07:53.060 --> 00:07:54.340
+Hope that's very clear.
+
+155
+00:07:54.340 --> 00:07:59.220
+I might re-record this tomorrow, who knows I am tired,
+
+156
+00:07:59.220 --> 00:08:04.060
+but I will say I did cover a lot of the essentials
+
+157
+00:08:04.060 --> 00:08:06.580
+and if you guys need help setting up a just,
+
+158
+00:08:06.580 --> 00:08:08.420
+they have a full support team
+
+159
+00:08:08.420 --> 00:08:15.020
+when it comes to setting up your demo,
+
+160
+00:08:15.020 --> 00:08:16.860
+but yeah, good shit boys.

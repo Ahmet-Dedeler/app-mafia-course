@@ -1,0 +1,439 @@
+[00:00:00] Hey everyone, welcome back to the development module. Today we'll be going over
+[00:00:04] how to master
+[00:00:05] Superwall. Superwall is the paywall provider and is how you'll be tracking your
+[00:00:10] revenue per user,
+[00:00:11] your lifetime value, your AV testing, how many people actually reaching the pay
+[00:00:16] wall,
+[00:00:16] testing pricing, etc. And it's very essential in order to be really profitable
+[00:00:22] and to improve
+[00:00:23] everything else in the business side of things. So this is less about the
+[00:00:27] product,
+[00:00:27] more about the business side of things. So we'll go straight for it. This is
+[00:00:31] the Superwall dashboard
+[00:00:32] at Superwall.com. I'm already logged in, but if you're not logged in yet, just
+[00:00:36] like create an account,
+[00:00:38] very simple stuff. So I'll run you through the main dashboard. Top left is the
+[00:00:43] proceeds today.
+[00:00:44] So it's the amount of revenue minus Apple's cart, whether that be 15 or 30%.
+[00:00:48] They take 30%
+[00:00:49] from me. So my gross today is about maybe 11 or 12k. And after their taxes, we
+[00:00:55] 're sitting at like
+[00:00:56] 8.2k for the day, which isn't great. But hey, like is what it is. That's not
+[00:01:00] fucking important
+[00:01:01] right now. Okay, so new users. This is how many people in the last 24 hours
+[00:01:05] have downloaded your
+[00:01:06] app. So about free 3.2k. This is how many people have converted in the last 24
+[00:01:11] hours, including free
+[00:01:13] trials. So it can be a bit misleading at times. I have a hard paywall, but for
+[00:01:17] under 18s, as you
+[00:01:18] can see, we have a free trial. So that's why only two hundred like 200
+[00:01:21] conversions, which is quite
+[00:01:22] a lot, only a mass to $700, which is like $3 per user. It doesn't make sense.
+[00:01:27] That's because there's
+[00:01:28] a free trial. And yeah, very simple stuff. The next one is initial conversions.
+[00:01:33] So how many people
+[00:01:34] downloaded the app within the last 24 hours that ended up paying within the 24
+[00:01:38] hours. This number
+[00:01:39] here is like, like, how many people today have converted, they could have
+[00:01:42] downloaded it last week
+[00:01:44] or the week before, whatever. So the payroll rate is also very important metric
+[00:01:47] . The payroll rate
+[00:01:48] displays what percent of users that have downloaded your app ended up reaching
+[00:01:53] the paywall. And usually
+[00:01:55] with a long onboarding, you can expect a high drop off. You want to be around
+[00:01:59] the 85 to 90% range.
+[00:02:01] That's like the sweet spot. At the same time, I'm not too bothered with 83%
+[00:02:05] because all the people
+[00:02:06] that had low intent and weren't going to buy from you anyway would have dropped
+[00:02:09] off. All of these
+[00:02:10] people came to the end and they were super prep to pay. And that's why our
+[00:02:15] conversion rate is about 20%.
+[00:02:18] Which is on the far right side. Take a sip of water real quick.
+[00:02:22] Okay, so let's get started. This is Quidders Breakdown. And what we do is we
+[00:02:33] present paywalls
+[00:02:34] by age. So on the back end, and I'll show you how to do this as well, we pretty
+[00:02:39] much ask for your
+[00:02:40] age during the onboarding. And whatever age you're in will display a custom pay
+[00:02:45] wall. Now, we don't
+[00:02:46] necessarily change the prices because that might be against their terms of
+[00:02:50] service. But what we do
+[00:02:52] do, what we do do, but what we do is we see the conversion rates of different
+[00:02:58] age groups. And we
+[00:02:59] didn't do this for a long time. But ever since we started doing it, I've been
+[00:03:03] learning a hell of a
+[00:03:04] lot more about our demographic and like how much intent there is based on
+[00:03:07] different age ranges.
+[00:03:08] So for example, age 23 to 28 seemingly has one of the highest conversion rates
+[00:03:13] at 17.6%
+[00:03:16] paying. So under 18, 17.2%, but they're free trial. So getting like almost 18%
+[00:03:23] paying is insane.
+[00:03:24] And shows that this is the age demographic that we should be focusing on. And
+[00:03:28] this really helps
+[00:03:29] it on marketing because let's say we know this is the most profitable niche,
+[00:03:33] most profitable age
+[00:03:35] range. I'm just going to find creators that serve viewers in that age range. Or
+[00:03:41] I'm going to target
+[00:03:42] Facebook and meta ads in that age range and eventually be more profitable. Very
+[00:03:46] , very simple stuff.
+[00:03:47] What's also interesting to know is under 18, at least for my app. So this is
+[00:03:53] very like subjective.
+[00:03:54] But for my app, most of the traffic comes from under 18. Whereas like even
+[00:03:59] though
+[00:04:00] 23 to 28 year olds bring in the most revenue, under 18 serve as a massive
+[00:04:07] massive like service
+[00:04:09] massive volume for downloads. All right. So now how do you start testing and
+[00:04:14] what are the key
+[00:04:14] metrics to look for when it comes to testing different payables or pricing? So
+[00:04:19] the first thing I do
+[00:04:20] when I'm beginning is start out in the templates category. So on the left side
+[00:04:23] of Superwall over
+[00:04:24] here, there is a botting called templates. Click onto that and look for
+[00:04:28] something that interests you.
+[00:04:30] So what you're looking for is something that appeals to your company. So if
+[00:04:34] this consumer
+[00:04:34] utility, for example, I'd copy this one, homework AI, it's very clear, very
+[00:04:39] simple. Or if it's like
+[00:04:40] a chat based app, maybe I choose the step saga, this one right here. Or you
+[00:04:45] know, you can make it
+[00:04:47] whatever you want, depending on the design of your app, depending on the
+[00:04:49] demographic of targeting,
+[00:04:51] choose anything that interests you is not really a big deal. We'll be testing
+[00:04:55] these payables anyway.
+[00:04:56] So if one doesn't convert, we can always test another. We can test a bunch of
+[00:05:00] conjunction.
+[00:05:00] And you can find out what's the most optimal for you. So what Super does with
+[00:05:05] these templates,
+[00:05:06] by the way, is all the successful apps found in paywallscreens.com. So they've
+[00:05:11] compiled a
+[00:05:12] bunch of different payables. They've also listed the revenue these apps are
+[00:05:16] making. You probably
+[00:05:17] find Twitter here, I'm sure as well. Yep. Well, it says I'm making 30k a month,
+[00:05:22] which isn't true.
+[00:05:23] But this is one of our old payables. And it's like, or maybe Kali, I will use
+[00:05:28] Kali for this example.
+[00:05:30] So it says, I'm making 200k a month. But this is the paywall that we're using.
+[00:05:33] And you know, it's very simple. And you can copy it in the templates category.
+[00:05:39] So for example,
+[00:05:39] the quitter one is right here is called capture AI for some reason. But it's
+[00:05:43] fine. All you need to do
+[00:05:44] is just click on it and then click use template. But because we're doing a Kali
+[00:05:48] iCloud, I want to
+[00:05:49] make, I want to pick a paywall that's kind of better for that. So I'm going to
+[00:05:54] choose.
+[00:05:54] I think I'm going to do the homework AI one. So scroll back up to the top of
+[00:06:05] homework AI is
+[00:06:06] and click on it, click use template. Super simple. Next, it'll show you like a
+[00:06:13] figment kind of breakdown
+[00:06:14] of like what all the elements are. All you need to do is change the text. So I
+[00:06:19] 'm going to call this
+[00:06:19] Cal AI at the top. Cal AI is not pro, but we'll keep it. And then the bullet
+[00:06:26] points. So I'm going to
+[00:06:28] write track calories in one snap. Lose weight, easy and fast. And of course,
+[00:06:40] Hunter or Blake would
+[00:06:41] have covered this in the design section. But you want to kind of show language
+[00:06:45] where it's like,
+[00:06:46] okay, I'm reading this paywall screen. This app is going to change my life. I'm
+[00:06:50] going to track
+[00:06:50] calories. I'm going to lose weight easily. I'm going to become the best version
+[00:06:53] of myself. All I've
+[00:06:54] got to do is pay $20 a year. And if you convince that across, then you're going
+[00:07:00] to be super successful.
+[00:07:01] But again, like we're going to show you how to test these different paywall
+[00:07:05] suit. You're not
+[00:07:05] working in the dark. I always recommend striving for data. So that's exactly
+[00:07:09] what we're going to be
+[00:07:10] doing. So look, I picked the paywall. I'm going to pick up product. So product
+[00:07:14] also contains a
+[00:07:15] price. So they kind of look the same thing. So I'm going to choose like, let's
+[00:07:19] say for 99 a week,
+[00:07:21] or secondary, maybe 1499 a month. And I'm curious, like which one's going to
+[00:07:26] convert the most,
+[00:07:26] like what what product is going to sell the most? Very simple. Just save this.
+[00:07:38] Go to campaigns, create new campaign. And let's call it paywall test.
+[00:07:43] Next thing I want to do is click onto no payables, add paywall, and then just
+[00:07:49] add the most recent
+[00:07:50] ones. So it's the homework AI template. So now that's showing to 100% of users,
+[00:07:56] and the results
+[00:07:56] breakdown will be on this category. So what I want to do now is make a more
+[00:08:00] informed decision.
+[00:08:02] So how do I do that? I go back to templates. Oh, sorry, I go back to payables.
+[00:08:06] I click this duplicate
+[00:08:07] button right here, duplicate. And then I just duplicate it. I'm going to call
+[00:08:13] this
+[00:08:14] 2999 a year test. Of course, by the way, you need all these products already
+[00:08:22] built out in
+[00:08:23] App Store Connect, which I'm sure you had to do in a previous step. So all you
+[00:08:26] need to do is go back
+[00:08:28] to App Store Connect, go back to subscriptions, and then create a new
+[00:08:31] subscription and then
+[00:08:32] just write whatever price you want to test. Let that get approved by Apple
+[00:08:37] takes probably less
+[00:08:38] than a day. Then you can use it in Super one start testing, pretty simple stuff
+[00:08:41] . So okay,
+[00:08:43] now we've completely duplicated the paywall. So this minimizes other factors.
+[00:08:51] So for example,
+[00:08:52] if I were to test a different payroll design with a different price, then I'm
+[00:08:56] playing with two
+[00:08:56] factors. Maybe the original homework AI template would have been better because
+[00:09:03] of the pricing,
+[00:09:04] but because I changed the design on this one, this performs better. Makes sense
+[00:09:08] ? So even though
+[00:09:09] the pricing is cheaper, and everyone's looking at the ARPU and they're like, oh
+[00:09:13] , the average revenue
+[00:09:14] per user is actually increased because you've had an additional factor, you're
+[00:09:17] not going to have
+[00:09:18] a clear answer on what is the most optimal paywall setup for you. But anyways,
+[00:09:24] back to the products.
+[00:09:25] I'm going to change the product to 29, 1990 year, and then I'm going to keep
+[00:09:29] the monthly price.
+[00:09:30] I'm going to do the weekly price because it's more penetrable now. It's like,
+[00:09:34] okay, you can pay
+[00:09:35] 499 a week, which adds up to like $20 a month, or you can pay 29, 99 and get
+[00:09:43] the entire year.
+[00:09:45] So this is a great test. Because you're kind of covering all areas, and you'll
+[00:09:50] find out very
+[00:09:51] fast what your demographic is and what they were paid for, what they were
+[00:09:54] afford. So boom, we saved
+[00:09:55] that. And go back into campaigns, go to the new one called paywall test, and
+[00:10:04] then just click add
+[00:10:06] paywall and select the brand new 29, 99 year test or whatever you called it.
+[00:10:11] Now, usually I would
+[00:10:13] do an 80 20 split. If I have a preexisting successful paywall because I don't
+[00:10:18] want to mess up revenue
+[00:10:20] too much, but because these are fresh brand new, I'm willing to do 50 50 and
+[00:10:26] see which out of the
+[00:10:28] 50% of traffic generates the most revenue. So I just click save, save again,
+[00:10:33] and boom. Now,
+[00:10:36] anytime you run this campaign, so by the way, so you've got to do placements.
+[00:10:41] And this is what
+[00:10:41] you call the campaign name. So I'm going to call it paywall test, for example,
+[00:10:44] create paywall test.
+[00:10:47] And whenever you call that in the Kali i code, so super wall dot, present,
+[00:10:52] shared up register.
+[00:10:54] So you have to make sure this now says make it bigger, paywall test. And you'll
+[00:11:00] see,
+[00:11:01] when we get back to coding later, that this will now display this campaign with
+[00:11:06] the split testing.
+[00:11:07] And now ever anyone that downloads the app will see the either these two pay
+[00:11:11] ables.
+[00:11:13] Okay, great. That's the setup. Now what we want to do is wait for the data to
+[00:11:18] start rolling in so
+[00:11:18] you can make a better informed decision about which one you want to keep. And
+[00:11:22] then you can drive more
+[00:11:22] traffic to a different one. And then you can do additional additional more
+[00:11:27] tests. Very simple.
+[00:11:28] Again, I would suggest maybe different design this time rather than different
+[00:11:35] pricing. So if
+[00:11:36] you've tested the pricing, now it's time to test design. And I'd pick something
+[00:11:40] completely different,
+[00:11:41] maybe something that has a graphic on it, maybe something that feels more
+[00:11:45] engaging.
+[00:11:46] Like this, for example, and then we change the text to track calories, do, do,
+[00:11:52] do, do, do,
+[00:11:52] and then we change the pricing, maybe offer free trial, whatever, whatever,
+[00:11:55] whatever.
+[00:11:56] Pretty simple. I've explained the steps you can just choose which product you
+[00:11:59] prefer.
+[00:12:00] And do the same thing. Go back into campaigns, go back into paywall test, go
+[00:12:07] into payables and
+[00:12:08] just add this brand new paywall. And then click the pen, change the amount of
+[00:12:14] people you want to
+[00:12:15] see the new paywall and boom, let the data start rolling in. What I would
+[00:12:19] recommend is
+[00:12:21] wait for like a thousand users. Okay, usually at my scale, I'd wait for like a
+[00:12:29] thousand to maybe
+[00:12:30] three thousand users per make a decision, whatever a payroll is good. What's
+[00:12:34] not good is if you make
+[00:12:35] a decision based on limited data. So for example, if I have extremely high
+[00:12:43] quality traffic, like
+[00:12:45] I've nurtured, I've like paid an influencer, a lot of people trust this influ
+[00:12:49] encer. And now they
+[00:12:50] have a bunch of traffic coming in, but is really high in 10. And then this pay
+[00:12:55] wall is of course
+[00:12:56] doing super, super well. Like how much of that can you attribute to the traffic
+[00:13:01] rather than the
+[00:13:01] actual paywall? So this is why you should wait an extended period of time
+[00:13:06] before coming to conclusions
+[00:13:07] about what is the most optimal setup for you. And I would never get stagnant. I
+[00:13:12] would always be
+[00:13:13] testing. I'd always be trying new things because like at my scale now, so I
+[00:13:18] make half a million
+[00:13:19] dollars a month, like a small 10% increase is $50,000 of additional bottom line
+[00:13:26] revenue every single
+[00:13:27] month. So that's just some perspective. And 10% on a $20 plan is an extra $2.
+[00:13:35] Like it seems very
+[00:13:36] marginal or nominal, but it adds up big time. And an extra 10% at Cali ice
+[00:13:41] level is like half a million
+[00:13:43] to $350,000 a month. So just an example. So yeah, I'm going to show you now how
+[00:13:51] to study the data
+[00:13:52] and how to make the informed decisions. And of course, I can't load a bunch of
+[00:13:57] data to this
+[00:13:57] because I'm not going to launch this paywall. But I can show you some tests I
+[00:14:01] 've ran and how I
+[00:14:02] justify what is doing well and what isn't doing well. So we'll go to the 50 off
+[00:14:09] the discount button.
+[00:14:11] And we have three different tests. Well, we have two tests. So we'll look at
+[00:14:18] both of these. So one
+[00:14:19] of the tests is you open a special gift. It's very like engaging, super, super
+[00:14:23] engaging. And then you
+[00:14:24] click claim your lemon sit off for now. The other one is getting hit straight
+[00:14:29] with a one time offer,
+[00:14:30] very clean, you have a countdown on the screen, counting down from five minutes
+[00:14:34] , claim your offer
+[00:14:35] now. And yeah, let's see if there's a pricing difference as well. No, same
+[00:14:39] price. But these are
+[00:14:41] the tests of just a design test. And we'll go to the results tab. And you can
+[00:14:45] see very clearly the
+[00:14:46] different results. So if we ignore this one, let's just, let's just do these
+[00:14:50] two. So folks on the
+[00:14:51] ones that have checked, the one with the present is making like 10%, 15% less
+[00:15:03] than the instant one
+[00:15:05] time off of a five minute countdown. You see that? And that's because I'm
+[00:15:11] judging the ARPU,
+[00:15:13] which I believe is the most important metric because this means how much
+[00:15:17] revenue are you generating
+[00:15:18] per viewer? So like, let's say 10 people viewed a screen and, you know, one
+[00:15:25] paid $20,
+[00:15:26] you're making $2 per view, which is about exactly what this is making. So on
+[00:15:32] that note,
+[00:15:33] if your goal is revenue, getting the ARPU up as much as possible, even if that
+[00:15:39] means the
+[00:15:40] conversion rate suffers isn't an issue. So you can see there's like a free
+[00:15:44] percent difference
+[00:15:44] between this conversion rate and the other conversion rate between this
+[00:15:48] discount. So this
+[00:15:49] seems better. And it actually is better. Sorry, that actually is better as a
+[00:15:55] high conversion rate.
+[00:15:56] And it makes more money per user, which kind of makes sense. Because if you
+[00:15:59] have a high conversion
+[00:16:00] rate, usually more people are paying, which means it's more revenue per user.
+[00:16:03] So actually,
+[00:16:04] yeah, no, this is right. But in some instances, like this top one, and I know
+[00:16:08] we have limited data,
+[00:16:10] but this is an 8.7% conversion rate. So very low compared to the others, but it
+[00:16:15] has 2.24
+[00:16:16] estimated dollars revenue per user. Very interesting stuff. So even though this
+[00:16:22] is almost half,
+[00:16:23] it's still making more than the previous one. So again, to cut frame, if you're
+[00:16:29] optimizing for
+[00:16:30] revenue, if you're trying to make as much money as possible, focus on ARPU,
+[00:16:33] even if that means
+[00:16:34] the expense of conversion rate. Even if that means like you sell $100 a year
+[00:16:42] and only 5% of people
+[00:16:43] pay for it, but you make way more money per user, because if you were selling
+[00:16:50] like $5 a week plan,
+[00:16:52] you would have maybe a super high conversion rate, but your average revenue per
+[00:16:56] user wouldn't be
+[00:16:57] that high, which means it maps out that the $100 a year would be way more
+[00:17:02] beneficial for you if
+[00:17:04] you're focusing on revenue. Actually, boom, just forgot massive, massive,
+[00:17:09] massive thing. I'm going
+[00:17:10] to tell you guys one sec. All right, lock in, we're not done. I'm about to make
+[00:17:22] you thousands of
+[00:17:24] dollars more a day at scale, or at least boost your revenue by 20 to 25 to 40%.
+[00:17:33] It's that drastic
+[00:17:34] voice. It's that drastic. Ready? You see this top campaign transaction
+[00:17:40] abandoned right here?
+[00:17:42] Yeah. So this has a 25 or 23.1% conversion rate. That means one in four people
+[00:17:55] pay
+[00:17:56] when they see this screen. That's how overpowered it is. So I'm going to tell
+[00:18:03] you what it does,
+[00:18:05] how to set it up, and a really good pay wall for it. Okay, let's go. So what
+[00:18:10] you do
+[00:18:11] is you go to campaigns, new campaign, and you search, you just call this what
+[00:18:17] transaction
+[00:18:17] abandoned. I'm going to call it transaction abandoned too, because I already
+[00:18:21] have one. And
+[00:18:21] if it placements, you do transaction abandoned. Okay, so this is a default
+[00:18:29] super wall event name,
+[00:18:31] and you don't need to make it yourself. And you can already see the amount of
+[00:18:34] people that
+[00:18:34] triggered this event the last 24 hours, which is approximately 2000 people. Now
+[00:18:38] , what this means
+[00:18:39] is anyone that's clicked on the paywall and has clicks continue and like Apple
+[00:18:44] have prompted them
+[00:18:44] to pay. And then, and then they change their mind and tap out of it. Yeah, they
+[00:18:51] get hit with a
+[00:18:53] second payroll, which has a massive discount. And it's usually around 50%. Now
+[00:18:58] these people are
+[00:18:59] extremely high in 10 because they were about to pay. Maybe you don't know why
+[00:19:03] they didn't pay,
+[00:19:04] but maybe pricing was an issue. So the whole strategy of you've made this
+[00:19:09] campaign, which I'll
+[00:19:10] show you this one, is to hit them with like a FOMO offer. So this is my FOMO
+[00:19:15] offer. One time
+[00:19:17] offer, 80% off forever. And very intentional language. This offer won't be
+[00:19:22] there once you close it.
+[00:19:24] You see this right here? Very, very intentional. Now what this does is,
+[00:19:32] you know, imagine, imagine the flow. Someone's about to pay for the Kali I
+[00:19:36] clone we just created.
+[00:19:37] And they really want to check their calories. They really want to change their
+[00:19:40] life. They really
+[00:19:40] want to lose weight. But then they get hit the paywall and they're like, okay,
+[00:19:45] $50 a year.
+[00:19:46] Let's do it. Fuck it. Let's do it. Click continue. And then the dollar sign
+[00:19:51] comes up on the screen.
+[00:19:52] It says 29.99 Kali I and this is double tap to pay. And then the user's like,
+[00:20:01] actually, it seems like a lot of money. And I don't really spend money on apps.
+[00:20:04] I only
+[00:20:04] spend money on food and other stuff. So I'm going to tap out of this. As soon
+[00:20:09] as they tap out of it,
+[00:20:10] they get hit with the one time offer, 80% off forever. All right. And it's, it
+[00:20:17] just hits some of the
+[00:20:18] fat discount. So yeah, I mean, as the numbers don't lie, I've spoke to Zach who
+[00:20:25] owns Kali I,
+[00:20:26] it's boosted their revenue by almost 40%. It's been my main revenue driver
+[00:20:30] every single day.
+[00:20:31] And it's probably the most essential part of Superwall. If you want to be
+[00:20:35] successful long term.
+[00:20:36] One of the best decisions I've ever, ever, ever made. So I'm real quick. I'll
+[00:20:44] just show you a
+[00:20:45] template you can use for that. So if you go to templates and scroll down, this
+[00:20:49] should be one.
+[00:20:51] Okay, here's one, for example. This is a bunch of code, but it does actually
+[00:20:56] count down. And you
+[00:20:58] can kind of get ideas of one time offer, just uses template and then add it to
+[00:21:01] the campaign.
+[00:21:02] Like I've showed you previously, or this is another one, one time offer you
+[00:21:05] will never see this again
+[00:21:06] with a massive discount. And I would always discount by at least like 50%. So
+[00:21:11] the main paywall
+[00:21:13] is like the main paywall presents you with a product that costs 29, 99 a year.
+[00:21:18] The discount
+[00:21:19] gives you an offer for 19, 99 a year, which is about 50%. So yeah, anyways,
+[00:21:28] that is a high level
+[00:21:30] overview. I think I've covered all bases when it comes to Superwall. This is
+[00:21:33] like this, I guess,
+[00:21:34] the most important and essential stuff. I wouldn't over complicate it. It's
+[00:21:38] just, you know,
+[00:21:39] product, paywall, pricing, testing, data, and then you make a decision. And I
+[00:21:47] would recommend
+[00:21:47] just keep testing, keep testing, keep testing. There's always ways to optimize
+[00:21:51] the revenue.
+[00:21:52] I think I said it's previously, but like a 10% increase, like taking an LTV of
+[00:21:58] a user from 20,
+[00:21:59] 20 dollars to 22 dollars is a 10% increase, which seems nominal, which seems
+[00:22:04] marginal,
+[00:22:04] but I'm making half a million a month. So 10% increase is $50,000 a month. And
+[00:22:10] it goes
+[00:22:11] like the same way for like Cali, like if they boost like conversions or boost
+[00:22:16] like revenue
+[00:22:17] by 10%, by just playing around with the paywall and the language and how they
+[00:22:21] are framing things,
+[00:22:22] that 10% increase is hundreds of thousands. That's a fucking Lamborghini
+[00:22:27] hurricane
+[00:22:27] either a month, just in like small, really easy changes. So yeah, as I said,
+[00:22:36] covered on my bases
+[00:22:36] here, it is a pretty high level overview. But this is all the important stuff.
+[00:22:41] And you know,
+[00:22:42] I've come this far, I mean, I'll show the revenue just just because I don't
+[00:22:46] really care. This is
+[00:22:47] proceeds, by the way, oh, that fucking sucks. All right, 90 days, give me
+[00:22:50] something juicy.
+[00:22:51] All right, almost a million in the last 90 days. It was better than this. We're
+[00:22:56] having a slow
+[00:22:57] month. Point is, you know, I've come this far with all the knowledge I just
+[00:23:02] showed of you. And as
+[00:23:03] you can see, transaction abandoned has made miles more than any other campaign
+[00:23:08] I've ever run,
+[00:23:09] just for perspective. So yeah, keep killing it boys. Much love. Peace.

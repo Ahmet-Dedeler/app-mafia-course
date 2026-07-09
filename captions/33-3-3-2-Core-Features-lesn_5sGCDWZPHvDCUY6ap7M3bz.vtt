@@ -1,0 +1,529 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.640
+Hey everyone, welcome back to the development module.
+
+2
+00:00:03.640 --> 00:00:06.920
+We're finally going to be building the app,
+
+3
+00:00:06.920 --> 00:00:09.760
+focusing essentially on the core feature.
+
+4
+00:00:09.760 --> 00:00:11.880
+Now what is the core feature you may ask?
+
+5
+00:00:11.880 --> 00:00:14.600
+Well, if we look at Kali-i as an example,
+
+6
+00:00:14.600 --> 00:00:17.480
+their core feature is taking a picture of food
+
+7
+00:00:17.480 --> 00:00:19.160
+and then estimating the calories.
+
+8
+00:00:19.160 --> 00:00:20.400
+That's what they started with,
+
+9
+00:00:20.400 --> 00:00:23.120
+that's what they launched with, and it worked really well.
+
+10
+00:00:23.120 --> 00:00:24.400
+Now of course they're developing it,
+
+11
+00:00:24.400 --> 00:00:26.880
+they have teams, they have,
+
+12
+00:00:26.880 --> 00:00:29.280
+you can connect your Apple Health account, et cetera, et cetera.
+
+13
+00:00:29.280 --> 00:00:31.040
+But to be honest, in the early days,
+
+14
+00:00:31.040 --> 00:00:33.400
+this is all fluff and you should be focusing
+
+15
+00:00:33.400 --> 00:00:36.920
+on what is the most important feature of my app.
+
+16
+00:00:36.920 --> 00:00:38.000
+Let me build that.
+
+17
+00:00:38.000 --> 00:00:41.080
+Once that is built, you can go out and validate it.
+
+18
+00:00:41.080 --> 00:00:43.800
+So yeah, for the UMAX clone,
+
+19
+00:00:43.800 --> 00:00:46.320
+we essentially are going to be taking a picture of our face
+
+20
+00:00:46.320 --> 00:00:48.800
+and then just displaying the results on the screen.
+
+21
+00:00:48.800 --> 00:00:52.120
+That's all we need to do for this MVP.
+
+22
+00:00:52.120 --> 00:00:54.160
+And I'm gonna run through how to build this.
+
+23
+00:00:54.160 --> 00:00:56.520
+This will be kind of a longer form video
+
+24
+00:00:56.520 --> 00:00:58.960
+and I'm not gonna like retake this many times,
+
+25
+00:00:58.960 --> 00:01:01.360
+I'm just gonna like throw it all at you.
+
+26
+00:01:01.360 --> 00:01:02.880
+You guys should be following along,
+
+27
+00:01:02.880 --> 00:01:06.560
+are we kind of explaining what things are as we go?
+
+28
+00:01:06.560 --> 00:01:10.000
+And you'll see how I transform this like hello world screen
+
+29
+00:01:10.000 --> 00:01:11.840
+into like a functioning app
+
+30
+00:01:11.840 --> 00:01:15.600
+and including the chat GBT API as well.
+
+31
+00:01:15.600 --> 00:01:17.920
+So let's get fucking started boys.
+
+32
+00:01:17.920 --> 00:01:23.720
+So the way I like to start is I love like logo straight away,
+
+33
+00:01:23.720 --> 00:01:26.640
+like it maybe seems stupid, but I'm just gonna go UMAX.
+
+34
+00:01:28.400 --> 00:01:29.240
+Oh shit.
+
+35
+00:01:29.240 --> 00:01:35.280
+I'm gonna go .footweight.bald.font.title.
+
+36
+00:01:35.280 --> 00:01:41.320
+There you go.
+
+37
+00:01:41.320 --> 00:01:43.360
+And then we're gonna space this to the top.
+
+38
+00:01:43.360 --> 00:01:47.560
+There we go.
+
+39
+00:01:47.560 --> 00:01:50.760
+And you can see the example on the right side.
+
+40
+00:01:50.760 --> 00:01:51.960
+That's exactly what we're building.
+
+41
+00:01:51.960 --> 00:01:55.840
+It's all getting like rendered in real time.
+
+42
+00:01:55.840 --> 00:01:56.680
+Okay.
+
+43
+00:01:56.680 --> 00:01:57.720
+And next we want a button.
+
+44
+00:01:57.720 --> 00:01:58.800
+So we're gonna create a button.
+
+45
+00:01:58.800 --> 00:02:00.120
+Actually, I'm gonna zoom in a little bit
+
+46
+00:02:00.120 --> 00:02:02.320
+just so you guys can see.
+
+47
+00:02:02.320 --> 00:02:03.160
+Okay.
+
+48
+00:02:03.160 --> 00:02:04.240
+Button label.
+
+49
+00:02:04.240 --> 00:02:09.360
+So the label is essentially like what the button looks like.
+
+50
+00:02:09.360 --> 00:02:11.120
+And I'm not gonna like teach you guys how to code,
+
+51
+00:02:11.120 --> 00:02:13.320
+but I'll run through the fundamentals.
+
+52
+00:02:13.320 --> 00:02:16.560
+We're gonna go image, system name,
+
+53
+00:02:16.560 --> 00:02:19.360
+and then we use the system name from the SF symbols library.
+
+54
+00:02:19.360 --> 00:02:23.160
+So I can go plus dot circle and then comes up with this
+
+55
+00:02:23.160 --> 00:02:24.840
+and we're just gonna use this.
+
+56
+00:02:26.520 --> 00:02:30.360
+We're gonna make it resizable, scalter fit frame,
+
+57
+00:02:30.360 --> 00:02:33.240
+and we're gonna make it about like 30 pixels wide.
+
+58
+00:02:33.240 --> 00:02:35.320
+Or maybe even bigger, maybe 90.
+
+59
+00:02:35.320 --> 00:02:38.840
+Yeah, or 80, I think.
+
+60
+00:02:38.840 --> 00:02:41.840
+Yeah.
+
+61
+00:02:41.840 --> 00:02:42.680
+Okay.
+
+62
+00:02:42.680 --> 00:02:44.360
+Because it's a core feature, I'll keep it pretty big.
+
+63
+00:02:44.360 --> 00:02:47.600
+Although like editing, of course you can change this.
+
+64
+00:02:47.600 --> 00:02:48.960
+And again, I'm not gonna teach you guys how to code,
+
+65
+00:02:48.960 --> 00:02:50.520
+but you can change the color.
+
+66
+00:02:50.520 --> 00:02:54.000
+So if you do foreground color, maybe we make it red.
+
+67
+00:02:56.400 --> 00:02:57.560
+So that's red.
+
+68
+00:02:57.560 --> 00:03:00.040
+I think maybe purple is great for now though.
+
+69
+00:03:00.040 --> 00:03:01.120
+Okay, let's do purple.
+
+70
+00:03:01.120 --> 00:03:04.280
+And then yes.
+
+71
+00:03:04.280 --> 00:03:06.520
+That is all good.
+
+72
+00:03:06.520 --> 00:03:10.760
+Great.
+
+73
+00:03:10.760 --> 00:03:13.400
+So now this button should be the core feature.
+
+74
+00:03:13.400 --> 00:03:16.080
+And we're gonna write the logic for this now.
+
+75
+00:03:16.080 --> 00:03:18.320
+And essentially when you click this button,
+
+76
+00:03:18.320 --> 00:03:21.200
+it should pop up a camera view,
+
+77
+00:03:21.200 --> 00:03:23.480
+and then you can take a picture.
+
+78
+00:03:23.480 --> 00:03:24.680
+Once the picture is taken,
+
+79
+00:03:24.680 --> 00:03:27.200
+like it's sent to the chat GPT API,
+
+80
+00:03:27.200 --> 00:03:29.200
+and then the API will rate your looks,
+
+81
+00:03:29.200 --> 00:03:32.080
+and then display that back on the front end.
+
+82
+00:03:32.080 --> 00:03:36.320
+And what I recommend is going here on the left side,
+
+83
+00:03:36.320 --> 00:03:39.040
+sorry, right clicking and clicking
+
+84
+00:03:39.040 --> 00:03:42.200
+add package dependencies.
+
+85
+00:03:42.200 --> 00:03:45.320
+Going back into the document that you guys
+
+86
+00:03:45.320 --> 00:03:46.920
+are all provided with from the course,
+
+87
+00:03:46.920 --> 00:03:47.960
+and copying this link,
+
+88
+00:03:47.960 --> 00:03:51.240
+github.com/macpours/openai.
+
+89
+00:03:51.240 --> 00:03:52.880
+Then you go back into Xcode,
+
+90
+00:03:52.880 --> 00:03:56.480
+paste this in the package URL section at the top right,
+
+91
+00:03:56.480 --> 00:03:59.160
+pasting it, and click add in package,
+
+92
+00:03:59.160 --> 00:04:01.440
+and then adding it to UMac clone two.
+
+93
+00:04:01.440 --> 00:04:04.520
+I've already added this previously in another cut,
+
+94
+00:04:04.520 --> 00:04:05.760
+but just it's really simple.
+
+95
+00:04:05.760 --> 00:04:06.920
+Click on UMacs clone two,
+
+96
+00:04:06.920 --> 00:04:08.240
+or whatever you call your project,
+
+97
+00:04:08.240 --> 00:04:09.640
+and click add package,
+
+98
+00:04:09.640 --> 00:04:12.280
+and boom, it's available.
+
+99
+00:04:12.280 --> 00:04:15.800
+So I'm gonna ask chat GPT right now.
+
+100
+00:04:15.800 --> 00:04:17.840
+I will record it, just give me a second.
+
+101
+00:04:17.840 --> 00:04:19.800
+I'm gonna pause and unpause.
+
+102
+00:04:19.800 --> 00:04:21.800
+I'll formulate a prompt,
+
+103
+00:04:21.800 --> 00:04:25.880
+and it will allow us pretty much to click on this button
+
+104
+00:04:25.880 --> 00:04:28.120
+and then display it in the image,
+
+105
+00:04:28.120 --> 00:04:29.920
+sorry, the camera view on the front end,
+
+106
+00:04:29.920 --> 00:04:31.280
+just so we can take the photo.
+
+107
+00:04:31.280 --> 00:04:33.520
+So I'll be back in a second.
+
+108
+00:04:33.520 --> 00:04:36.360
+Okay guys, so the first next step
+
+109
+00:04:36.360 --> 00:04:39.360
+is to go to your web browser.
+
+110
+00:04:39.360 --> 00:04:43.200
+And what you need to do is get the API key from chat GPT.
+
+111
+00:04:43.200 --> 00:04:47.040
+So go to platform.openai.com,
+
+112
+00:04:47.040 --> 00:04:48.960
+which will open this webpage.
+
+113
+00:04:48.960 --> 00:04:50.920
+And then if you haven't had an account,
+
+114
+00:04:50.920 --> 00:04:53.520
+if you never had an account before, just create one.
+
+115
+00:04:53.520 --> 00:04:55.400
+And if you already have a chat GPT account,
+
+116
+00:04:55.400 --> 00:04:57.240
+just log in, it's simple as that.
+
+117
+00:04:57.240 --> 00:04:59.320
+Then you click start building in the top right.
+
+118
+00:04:59.320 --> 00:05:01.440
+It might ask you for your organization name.
+
+119
+00:05:01.440 --> 00:05:06.440
+I'm just gonna say UMacs clone, create organization,
+
+120
+00:05:06.440 --> 00:05:08.360
+and I'll invite my team later.
+
+121
+00:05:08.360 --> 00:05:10.360
+We don't really need to answer this.
+
+122
+00:05:10.360 --> 00:05:13.560
+And then we can call this first API key, UMacs,
+
+123
+00:05:13.560 --> 00:05:15.120
+and click generate.
+
+124
+00:05:15.120 --> 00:05:16.320
+It'll then give you a test key.
+
+125
+00:05:16.320 --> 00:05:17.720
+So just copy this,
+
+126
+00:05:17.720 --> 00:05:20.640
+and we'll bring it over to the next part of this tutorial.
+
+127
+00:05:20.640 --> 00:05:22.120
+We'll be back in one sec.
+
+128
+00:05:22.120 --> 00:05:25.840
+Actually, I just remembered it's lightly recommended
+
+129
+00:05:25.840 --> 00:05:28.240
+to buy credits because they probably have a lot of spam.
+
+130
+00:05:28.240 --> 00:05:31.920
+So I would just pay for $5 for credits.
+
+131
+00:05:31.920 --> 00:05:33.040
+Not a big deal.
+
+132
+00:05:33.040 --> 00:05:37.040
+And then join me after you've topped up your account.

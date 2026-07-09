@@ -1,0 +1,765 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.760
+Alright boys, we're back, minimal cuts, let's get straight back into business.
+
+2
+00:00:04.760 --> 00:00:09.240
+So in this module, we'll be going through onboarding and onboarding logic.
+
+3
+00:00:09.240 --> 00:00:12.400
+This is the lead up to getting someone to pay for your subscription.
+
+4
+00:00:12.400 --> 00:00:16.750
+And in my opinion, this is the most important step for consumer apps that are
+
+5
+00:00:16.750 --> 00:00:17.480
+utility and
+
+6
+00:00:17.480 --> 00:00:18.720
+subscription based.
+
+7
+00:00:18.720 --> 00:00:21.970
+For social apps, you want to reduce, and I suppose dating, oh well, I'm not
+
+8
+00:00:21.970 --> 00:00:22.560
+dating apps,
+
+9
+00:00:22.560 --> 00:00:27.060
+but social apps for sure, you want to reduce the amount of friction because
+
+10
+00:00:27.060 --> 00:00:27.960
+every screen
+
+11
+00:00:27.960 --> 00:00:32.200
+reduces the amount of people that will convert to the end.
+
+12
+00:00:32.200 --> 00:00:37.260
+And if I pull up my data, sorry, my mixed panel, and we will get more into this
+
+13
+00:00:37.260 --> 00:00:38.520
+later,
+
+14
+00:00:38.520 --> 00:00:41.120
+but you can see this is my onboarding funnel.
+
+15
+00:00:41.120 --> 00:00:47.330
+And yeah, you can see there is drop off, only 95% of people converted to the
+
+16
+00:00:47.330 --> 00:00:48.240
+fifth screen
+
+17
+00:00:48.240 --> 00:00:52.080
+from the fourth screen.
+
+18
+00:00:52.080 --> 00:00:55.810
+So usually in most cases, you don't want to add this friction, but when it
+
+19
+00:00:55.810 --> 00:00:56.600
+comes to trying
+
+20
+00:00:56.600 --> 00:01:00.150
+to prep someone to pay, the more time they spend doing the onboarding,
+
+21
+00:01:00.150 --> 00:01:01.400
+answering questions,
+
+22
+00:01:01.400 --> 00:01:05.000
+and finding out more about the product, the more likely they are to pay.
+
+23
+00:01:05.000 --> 00:01:07.970
+Whereas like if it was a one or two screen, then you hit with the paywall, it's
+
+24
+00:01:07.970 --> 00:01:08.280
+super
+
+25
+00:01:08.280 --> 00:01:12.120
+easy to close the app, uninstall, and just not end up paying.
+
+26
+00:01:12.120 --> 00:01:15.680
+So the friction is incredibly necessary.
+
+27
+00:01:15.680 --> 00:01:18.040
+Also, wow, that's a massive drop off.
+
+28
+00:01:18.040 --> 00:01:19.680
+Oh, I know why that is.
+
+29
+00:01:19.680 --> 00:01:20.680
+No worries.
+
+30
+00:01:20.680 --> 00:01:22.120
+It's not actually about how it's just been the last four days.
+
+31
+00:01:22.120 --> 00:01:25.680
+I introduced a new page, so all the previous guys didn't see it.
+
+32
+00:01:25.680 --> 00:01:26.680
+That's fine.
+
+33
+00:01:26.680 --> 00:01:28.000
+Okay, back to it.
+
+34
+00:01:28.000 --> 00:01:31.000
+So how do we build this from a technical point of view?
+
+35
+00:01:31.000 --> 00:01:36.740
+Now we want a list of questions and answers, and we want the flow for the
+
+36
+00:01:36.740 --> 00:01:38.080
+screen to move
+
+37
+00:01:38.080 --> 00:01:41.360
+on to the next question after you answer the previous question.
+
+38
+00:01:41.360 --> 00:01:45.440
+And then at the end of it, there should be the paywall trigger.
+
+39
+00:01:45.440 --> 00:01:48.240
+And then the paywall trigger after you pay, you should enter the app.
+
+40
+00:01:48.240 --> 00:01:50.240
+So let's dive straight into the logic.
+
+41
+00:01:50.240 --> 00:01:52.400
+What I'm going to do is make a new file.
+
+42
+00:01:52.400 --> 00:01:56.790
+I'm going to do command N, and I'm going to click switch like U. I'm going to
+
+43
+00:01:56.790 --> 00:01:57.120
+call this
+
+44
+00:01:57.120 --> 00:01:58.480
+onboarding U.
+
+45
+00:01:58.480 --> 00:01:59.840
+Okay.
+
+46
+00:01:59.840 --> 00:02:02.760
+So now I'm going to copy this file.
+
+47
+00:02:02.760 --> 00:02:06.310
+Actually, what I'm going to do instead, I'm going to open the preview so you
+
+48
+00:02:06.310 --> 00:02:06.760
+guys can
+
+49
+00:02:06.760 --> 00:02:09.160
+see, make it very clear.
+
+50
+00:02:09.160 --> 00:02:10.160
+So it's hello world.
+
+51
+00:02:10.160 --> 00:02:16.230
+Now I'm going to go back into chat GBT, and I'm going to context with, is that
+
+52
+00:02:16.230 --> 00:02:16.600
+the
+
+53
+00:02:16.600 --> 00:02:20.220
+word, context, or communicate, or whatever, which I GBT and try and build this
+
+54
+00:02:20.220 --> 00:02:20.720
+file.
+
+55
+00:02:20.720 --> 00:02:22.880
+So hi, chat GBT.
+
+56
+00:02:22.880 --> 00:02:30.560
+I'm building an onboarding funnel that asks the user questions about their
+
+57
+00:02:30.560 --> 00:02:32.560
+calorie tracking
+
+58
+00:02:32.560 --> 00:02:38.080
+process and goals.
+
+59
+00:02:38.080 --> 00:02:47.570
+Please make every question somewhat different and build a nurture, a
+
+60
+00:02:47.570 --> 00:02:49.800
+relationship, so they
+
+61
+00:02:49.800 --> 00:02:58.120
+can convert pay at the end of the funnel.
+
+62
+00:02:58.120 --> 00:03:10.150
+Once all screens are answered, display a loading screen, a calculating loading
+
+63
+00:03:10.150 --> 00:03:11.160
+screen, and
+
+64
+00:03:11.160 --> 00:03:20.240
+then trigger, then trigger, if empty funk that I will build into later.
+
+65
+00:03:20.240 --> 00:03:21.240
+Okay.
+
+66
+00:03:21.240 --> 00:03:24.360
+Then I'm going to send it my code.
+
+67
+00:03:24.360 --> 00:03:25.920
+This is the kind of top I would ask.
+
+68
+00:03:25.920 --> 00:03:30.100
+Again, it's not probably the most optimal and Blake probably has better prompts
+
+69
+00:03:30.100 --> 00:03:30.320
+, but
+
+70
+00:03:30.320 --> 00:03:32.920
+I want to be raw and transparent on how I do it.
+
+71
+00:03:32.920 --> 00:03:34.120
+And a little bit about me.
+
+72
+00:03:34.120 --> 00:03:35.280
+I have a successful app.
+
+73
+00:03:35.280 --> 00:03:36.520
+I own Twitter.
+
+74
+00:03:36.520 --> 00:03:38.280
+We do half a million dollars a month.
+
+75
+00:03:38.280 --> 00:03:42.440
+I coded a lot of it myself, so I know what I'm doing for the most part.
+
+76
+00:03:42.440 --> 00:03:45.370
+And even if it seems like I don't know what I'm doing, well look how far it got
+
+77
+00:03:45.370 --> 00:03:45.760
+me, so
+
+78
+00:03:45.760 --> 00:03:47.360
+I'm going to share it anyway.
+
+79
+00:03:47.360 --> 00:03:48.360
+Okay.
+
+80
+00:03:48.360 --> 00:03:49.760
+Well, that was a very quick one.
+
+81
+00:03:49.760 --> 00:03:54.040
+I'm about to sip some water, but I guess not.
+
+82
+00:03:54.040 --> 00:03:55.040
+This is great.
+
+83
+00:03:55.040 --> 00:03:57.000
+I can already tell.
+
+84
+00:03:57.000 --> 00:04:03.440
+This is great.
+
+85
+00:04:03.440 --> 00:04:05.840
+This first question is asked though.
+
+86
+00:04:05.840 --> 00:04:12.080
+Maybe later, you don't want to ever give the option to do it later.
+
+87
+00:04:12.080 --> 00:04:13.480
+That sucks.
+
+88
+00:04:13.480 --> 00:04:17.160
+We'll change it to a different question.
+
+89
+00:04:17.160 --> 00:04:19.320
+Do, do, progress bar.
+
+90
+00:04:19.320 --> 00:04:20.320
+Okay.
+
+91
+00:04:20.320 --> 00:04:21.560
+Progress bar at the top.
+
+92
+00:04:21.560 --> 00:04:23.560
+Question view.
+
+93
+00:04:23.560 --> 00:04:27.320
+This is great.
+
+94
+00:04:27.320 --> 00:04:30.720
+The functions.
+
+95
+00:04:30.720 --> 00:04:34.880
+So this function just like pushes you to the next step to the next question.
+
+96
+00:04:34.880 --> 00:04:36.880
+It just adds an animation.
+
+97
+00:04:36.880 --> 00:04:44.760
+I don't know what the kind is.
+
+98
+00:04:44.760 --> 00:04:49.370
+Again it's doing it all in one file, which I think for this tutorial was really
+
+99
+00:04:49.370 --> 00:04:50.120
+simple.
+
+100
+00:04:50.120 --> 00:04:54.770
+Long term you want to switch to the MVVM structure, which is model view, view
+
+101
+00:04:54.770 --> 00:04:55.440
+model, and they
+
+102
+00:04:55.440 --> 00:04:59.640
+have three separate files.
+
+103
+00:04:59.640 --> 00:05:03.440
+But again, this isn't like a technical masterclass.
+
+104
+00:05:03.440 --> 00:05:06.970
+This is how to build an app from scratch and how to build something that's been
+
+105
+00:05:06.970 --> 00:05:07.560
+successful
+
+106
+00:05:07.560 --> 00:05:08.560
+in the past.
+
+107
+00:05:08.560 --> 00:05:12.150
+And then just as soon as you built it, just go out there and do some marketing
+
+108
+00:05:12.150 --> 00:05:12.640
+because
+
+109
+00:05:12.640 --> 00:05:15.400
+you can market and make money from almost anything.
+
+110
+00:05:15.400 --> 00:05:20.240
+Although of course, make sure you're putting out good quality stuff.
+
+111
+00:05:20.240 --> 00:05:23.600
+I don't suggest you just putting out slop and trying to make money.
+
+112
+00:05:23.600 --> 00:05:26.880
+I suggest you try and help people or help the niche.
+
+113
+00:05:26.880 --> 00:05:28.680
+And that is like the key to being successful.
+
+114
+00:05:28.680 --> 00:05:29.680
+Okay.
+
+115
+00:05:29.680 --> 00:05:32.080
+So we're just going to copy and paste this in.
+
+116
+00:05:32.080 --> 00:05:36.800
+Hopefully this works.
+
+117
+00:05:36.800 --> 00:05:38.280
+First try baby.
+
+118
+00:05:38.280 --> 00:05:39.280
+Okay.
+
+119
+00:05:39.280 --> 00:05:40.280
+Welcome to Kaliite.
+
+120
+00:05:40.280 --> 00:05:42.040
+I'll tell you YouTube this sounds good.
+
+121
+00:05:42.040 --> 00:05:43.040
+Let's do it.
+
+122
+00:05:43.040 --> 00:05:44.040
+Continue.
+
+123
+00:05:44.040 --> 00:05:45.040
+Bro, this is amazing.
+
+124
+00:05:45.040 --> 00:05:46.040
+This is great.
+
+125
+00:05:46.040 --> 00:05:48.040
+Let me see if you click this.
+
+126
+00:05:48.040 --> 00:05:49.040
+Okay.
+
+127
+00:05:49.040 --> 00:05:50.040
+It doesn't matter.
+
+128
+00:05:50.040 --> 00:05:51.040
+Let's do it.
+
+129
+00:05:51.040 --> 00:05:54.880
+I'm just going to change this to...
+
+130
+00:05:54.880 --> 00:05:56.600
+I can't wait.
+
+131
+00:05:56.600 --> 00:05:58.280
+Let's go.
+
+132
+00:05:58.280 --> 00:06:00.240
+Just for simplicity, obviously I won't actually put this.
+
+133
+00:06:00.240 --> 00:06:02.240
+I can't wait.
+
+134
+00:06:02.240 --> 00:06:04.240
+Let's go.
+
+135
+00:06:04.240 --> 00:06:05.240
+Alright.
+
+136
+00:06:05.240 --> 00:06:12.120
+So the whole point of this, oh, should I do a load?
+
+137
+00:06:12.120 --> 00:06:14.480
+Bro.
+
+138
+00:06:14.480 --> 00:06:22.760
+Wow.
+
+139
+00:06:22.760 --> 00:06:25.520
+That is crazy long.
+
+140
+00:06:25.520 --> 00:06:31.960
+I'm just going to run this myself.
+
+141
+00:06:31.960 --> 00:06:33.960
+My bad.
+
+142
+00:06:33.960 --> 00:06:34.960
+Okay.
+
+143
+00:06:34.960 --> 00:06:39.790
+So, as I was saying, the whole point on boarding is to like, answer the user's
+
+144
+00:06:39.790 --> 00:06:40.640
+questions because
+
+145
+00:06:40.640 --> 00:06:44.750
+you need to convince them on why paying for Kaliite is a good idea before they
+
+146
+00:06:44.750 --> 00:06:45.200
+get hit
+
+147
+00:06:45.200 --> 00:06:49.600
+the screen and then they're like, should I, if I can pay or should I leave?
+
+148
+00:06:49.600 --> 00:06:53.080
+So you're supposed to answer all of his questions beforehand and convince them.
+
+149
+00:06:53.080 --> 00:06:56.230
+So when they do get hit with the payroll, they're like, but actually I answered
+
+150
+00:06:56.230 --> 00:06:56.640
+a bunch
+
+151
+00:06:56.640 --> 00:06:59.120
+of questions and I believe in this and I really want to get started and I'm
+
+152
+00:06:59.120 --> 00:07:00.360
+super motivated.
+
+153
+00:07:00.360 --> 00:07:01.360
+Boom impulse buy.
+
+154
+00:07:01.360 --> 00:07:02.360
+I'm a subscriber.
+
+155
+00:07:02.360 --> 00:07:04.040
+Let me use this product.
+
+156
+00:07:04.040 --> 00:07:05.960
+So we'll go through this.
+
+157
+00:07:05.960 --> 00:07:06.960
+Boom.
+
+158
+00:07:06.960 --> 00:07:08.320
+Where are you starting from?
+
+159
+00:07:08.320 --> 00:07:09.320
+Total beginner.
+
+160
+00:07:09.320 --> 00:07:10.320
+What's your primary goal?
+
+161
+00:07:10.320 --> 00:07:11.320
+Lose fat.
+
+162
+00:07:11.320 --> 00:07:12.320
+Can I just select multiple?
+
+163
+00:07:12.320 --> 00:07:13.320
+Okay.
+
+164
+00:07:13.320 --> 00:07:14.320
+No.
+
+165
+00:07:14.320 --> 00:07:15.320
+Oh, primary goal.
+
+166
+00:07:15.320 --> 00:07:16.320
+Okay.
+
+167
+00:07:16.320 --> 00:07:17.320
+Cool.
+
+168
+00:07:17.320 --> 00:07:18.320
+What's your target pace?
+
+169
+00:07:18.320 --> 00:07:19.320
+Boom.
+
+170
+00:07:19.320 --> 00:07:20.320
+Simple.
+
+171
+00:07:20.320 --> 00:07:22.120
+How do you want to track photo estimate?
+
+172
+00:07:22.120 --> 00:07:25.400
+This is great.
+
+173
+00:07:25.400 --> 00:07:26.560
+How many workouts a week?
+
+174
+00:07:26.560 --> 00:07:29.200
+It's a bit of a random question.
+
+175
+00:07:29.200 --> 00:07:39.440
+But hey, when you can input stuff, I love pizza, but I know I shouldn't.
+
+176
+00:07:39.440 --> 00:07:40.920
+Boom.
+
+177
+00:07:40.920 --> 00:07:43.200
+Finish.
+
+178
+00:07:43.200 --> 00:07:44.920
+Calculating your plan.
+
+179
+00:07:44.920 --> 00:07:46.080
+This is the key.
+
+180
+00:07:46.080 --> 00:07:53.910
+You need to have the app think about the answers and results because that makes
+
+181
+00:07:53.910 --> 00:07:54.720
+it look more
+
+182
+00:07:54.720 --> 00:07:56.040
+legit.
+
+183
+00:07:56.040 --> 00:07:57.200
+That is the key.
+
+184
+00:07:57.200 --> 00:07:58.200
+That is the key.
+
+185
+00:07:58.200 --> 00:07:59.200
+Okay.
+
+186
+00:07:59.200 --> 00:08:01.610
+And at this point, after it's calculated, the plan should pump the payroll,
+
+187
+00:08:01.610 --> 00:08:02.040
+which goes
+
+188
+00:08:02.040 --> 00:08:05.480
+onto our next topic, which is Superwall.
+
+189
+00:08:05.480 --> 00:08:10.560
+So let's get into Superwall and we will show you how to make money from your
+
+190
+00:08:10.560 --> 00:08:11.240
+product.
+
+191
+00:08:11.240 --> 00:08:19.760
+[BLANK_AUDIO]

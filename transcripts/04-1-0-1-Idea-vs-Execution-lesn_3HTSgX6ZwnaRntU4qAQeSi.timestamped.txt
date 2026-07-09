@@ -1,0 +1,347 @@
+[00:00:00] All right, welcome back lesson 1.0.1 idea versus execution
+[00:00:06] quick note you might see that my
+[00:00:08] Camera is like might be a different size. I don't know there there might be
+[00:00:14] production inconsistencies throughout this course
+[00:00:16] Admittedly, I'm not an expert on production quality
+[00:00:21] But I am an expert on coming up with great ideas for apps. So let's talk about
+[00:00:28] that
+[00:00:29] idea verse execution is as classic and old a debate as chicken versus egg when
+[00:00:35] it comes to business
+[00:00:36] So what matters more?
+[00:00:39] My non-answer but the honest truth of it is that they matter equally. They're
+[00:00:44] honestly just different things
+[00:00:46] Your idea will determine the outcome curve of your applied execution
+[00:00:52] Whereas your execution will determine where you land on that curve
+[00:00:59] Execution is the input the idea is the structure of the equation itself
+[00:01:05] For those of you that aren't familiar with the term curve curve essentially
+[00:01:10] just means equation. It just means like what is the
+[00:01:13] sort of
+[00:01:15] Possible set of outcomes look like based on your amount of input
+[00:01:20] Okay, so good idea you will get more
+[00:01:25] outcome per unit of input or how well you execute relative to a bad idea
+[00:01:31] This should be pretty self-evident
+[00:01:35] But as usual there are virtually infinite shapes of this curve
+[00:01:41] It's not so one-dimensional
+[00:01:44] So you can work on ideas that are exponential
+[00:01:47] Social apps often take this form factor if you execute really well, you see
+[00:01:52] this like incredible
+[00:01:54] exponential outcome when you have higher attention high k factor, but if you
+[00:01:58] don't execute well
+[00:01:59] The outcome is most likely to be low
+[00:02:02] The thing that's often difficult here is it's pretty difficult to
+[00:02:07] See the difference between this curve right here for exponential and a bad idea
+[00:02:14] so you might think that you're in the early stages of
+[00:02:18] What will be exponential
+[00:02:21] Right so yet at four units of execution we see about the same sort of outcome
+[00:02:26] output
+[00:02:30] But you don't know if you're close to take off exponential growth or if you're
+[00:02:36] dead on arrival
+[00:02:38] um
+[00:02:40] in my experience
+[00:02:45] Man, it really depends but in my experience I
+[00:02:49] Try to target fast growth or at the very minimum these sort of good idea lin
+[00:02:54] early linearly tracking up
+[00:02:56] um as you become more skilled as an entrepreneur builder
+[00:03:01] just
+[00:03:04] Businessperson as a whole you'll be able to more easily recognize the
+[00:03:07] difference between exponential and bad
+[00:03:09] um
+[00:03:11] And so you'll be able to kind of work on products with a longer time horizon
+[00:03:15] and uh
+[00:03:17] larger
+[00:03:18] feedback loops
+[00:03:20] And so as you see here as with the most maximums in business, this is still an
+[00:03:24] oversimplification
+[00:03:25] Because it's just like your execution is so multi-dimensional
+[00:03:30] There's so many factors that go into it the amount of resources that you have
+[00:03:34] to play
+[00:03:35] uh, what your time horizon looks like
+[00:03:37] Which I think actually brings us to here
+[00:03:42] In coming up with the best possible idea. These are questions that are
+[00:03:45] extremely important to have very clear answers to
+[00:03:48] What is your desired outcome?
+[00:03:51] Do you care more about the problem that you are solving or the reward that you
+[00:03:56] get for solving it
+[00:03:58] a good litmus test here is
+[00:04:01] You know, if you worked on the problem for 10 years
+[00:04:04] And you never made much money from it. Maybe just enough to last would you be
+[00:04:09] happy?
+[00:04:11] Uh on the other hand
+[00:04:12] Like instead of doing that would you prefer to ignore that problem and just
+[00:04:16] take a million dollars right now?
+[00:04:18] If your answer is the latter you probably care a little bit more about the
+[00:04:22] reward that you get for solving it
+[00:04:24] It doesn't mean that you don't work on problems that you don't still care about
+[00:04:28] But just that
+[00:04:30] You know, maybe you do care about making a lot of money and that's like there's
+[00:04:35] no
+[00:04:35] There's no harm in that
+[00:04:39] The harm is when you know, you you may you sacrifice
+[00:04:41] Uh and take immoral action for the pursuit of it, right, but in and of itself
+[00:04:47] Wanting to make money is not a bad thing
+[00:04:50] What's your timeline?
+[00:04:52] Do you need to make the money in the next three months or can you work on it
+[00:04:56] for a year?
+[00:04:57] Two years before you make any cash
+[00:05:00] When I first got started off my timeline was zero dude like I needed to make
+[00:05:05] money as quickly as possible
+[00:05:07] I'd like two thousand dollars in my bank account, but all of that into riz gpt
+[00:05:12] My brother was giving me loans for groceries
+[00:05:15] There there was no runway
+[00:05:18] My entire goal with riz gpt
+[00:05:21] My entire goal was to make
+[00:05:24] $50,000 over the course of 12 months
+[00:05:27] Just so that I could continue to pay living expenses so that I could keep being
+[00:05:31] an entrepreneur
+[00:05:32] Uh actually have this like written down
+[00:05:36] Um, and there's I have a tweet about it on my uh twitter, uh, so
+[00:05:40] Anyways
+[00:05:45] What are your resources and constraints now similar to timeline? It's like do
+[00:05:49] you have a lot of capital to invest?
+[00:05:51] um
+[00:05:53] That might be uh
+[00:05:55] One of your resources your constraint might be that you only have three hours a
+[00:05:59] day free
+[00:05:59] Maybe you still have to work a full-time job. Maybe you have a family. Maybe
+[00:06:03] you're a student
+[00:06:05] Uh, so these are very very important problems to identify because these will
+[00:06:10] impact your
+[00:06:11] Problem identification or you want to consider these things ahead of time
+[00:06:15] If you want to build something that is technically very very very difficult
+[00:06:19] Um, then you're going to want more resources with regards to engineering
+[00:06:24] capabilities
+[00:06:25] Either you or a co-founder or whomever need to be very skilled
+[00:06:29] um, you know if if your resource is
+[00:06:34] Uh, you know, you have a lot of money. Maybe you can pursue problems that
+[00:06:38] generally require significantly more capital to to get going
+[00:06:41] And have a longer development timeline
+[00:06:44] Um
+[00:06:46] So yeah identify your resources and constraints and we'll touch on kind of
+[00:06:50] these specific things in a sec
+[00:06:51] And then additionally you want to consider what the curve looks like right
+[00:06:56] based on timeline
+[00:06:57] You might you might pursue different sort of outcome curves. Okay, so so let's
+[00:07:01] get tangible here
+[00:07:02] Riz GPT and umax grew fast but flatlined the goal with both of those products
+[00:07:07] was how do I start making money as quickly as possible because
+[00:07:11] I don't have cash to continue putting in or even cash to continue paying for my
+[00:07:16] living expenses
+[00:07:17] And so as a result, I identified problems that I thought I could solve very
+[00:07:23] easily
+[00:07:23] Both with regards to the amount of capital invested and the amount of
+[00:07:28] engineering difficulty
+[00:07:30] Riz GPT was a significantly easier engineering product than umax was
+[00:07:36] So as my capabilities as an engineer increased
+[00:07:40] I'd like to think that I was like one of the first vibe coders
+[00:07:44] Because ai actually wrote the vast majority of the code for both riz GPT and u
+[00:07:48] max
+[00:07:48] But as my technical abilities increased so did the technical complexity of the
+[00:07:53] products that I worked on
+[00:07:56] Now after umax had kind of blew up. It was doing really well
+[00:08:00] Zach came to me and he was like I want to build an app with you
+[00:08:03] and
+[00:08:06] He sent me a list of ideas
+[00:08:08] And so at this point in time I knew that I was going to make over a million
+[00:08:12] dollars in profit from my products
+[00:08:14] And so when he sent a list of ideas
+[00:08:16] Also, this should say plug sorry about that
+[00:08:19] But Zach sent me a list of ideas and I said to him I was like listen
+[00:08:23] I want to work on something that has more upside otherwise. It's not going to
+[00:08:27] be worth my time at all
+[00:08:28] And
+[00:08:30] So I went through his list of ideas and there were a number that were more
+[00:08:34] similar to Riz GPT and umax in total possible outcome
+[00:08:37] But I saw a i calorie tracker was included and I said I want to work on this
+[00:08:42] Or this is what we should work on together
+[00:08:45] I just want you to know that we're probably not going to see the same takeoff
+[00:08:50] As umax umax hit over $700,000 in monthly revenue within two months
+[00:08:55] Now I always kind of knew that that was possible given the state of that niche
+[00:09:00] and the virality of the product
+[00:09:02] With calai we were going against an incumbent. We were working with a
+[00:09:07] relatively rudimentary technology
+[00:09:09] We it required more capital
+[00:09:11] More engineering resources and more overall effort to get it to grow
+[00:09:18] But it had much higher upside because if we could get to the point of really
+[00:09:22] competing with my fitness pal
+[00:09:24] They were making I think $20
+[00:09:27] $20 million a month at the time and I think that they still are
+[00:09:30] I knew that it was a bigger market as a whole right a product that more people
+[00:09:34] are willing to pay for
+[00:09:35] um calorie tracking is just objectively bigger than like facial analysis looks
+[00:09:41] maxing
+[00:09:42] It might not be forever. Who knows but at the time that was the case
+[00:09:48] Um, and so these projects went exactly as I expected but with other projects I
+[00:09:51] miscalculated
+[00:09:52] A story I have not told too much was the college marketplace app that I built
+[00:09:57] before riz gpt
+[00:09:59] This was a grave and major miscalculation
+[00:10:03] Um, Alex liamon, um, I co-founder and I and then evan jay as well joined later
+[00:10:10] as a co-founder
+[00:10:11] Identify the problem on college campuses of the fact that students
+[00:10:15] Um, we're using group me do buy and sell used clothing
+[00:10:18] Now there were a number of I think false premises on which we operated
+[00:10:24] But not the least of which was that we were trying to build a local social
+[00:10:30] marketplace
+[00:10:31] This is one of the most common pitfalls of new app developers
+[00:10:37] Which is I identify this problem in my local community. So I will solve it for
+[00:10:42] my local community
+[00:10:44] But it's extremely hard so hard because not only is it social, but you're also
+[00:10:51] uh constrained by geography
+[00:10:53] So you have to create pervasive, um, sort of use
+[00:10:58] within individual bubbles
+[00:11:01] And then across bubbles as well. So so when you scale up at different schools
+[00:11:06] in this case for for our college marketplace
+[00:11:08] We had to go figure out how to solve the cold start problem again and again
+[00:11:13] Now there are benefits to this if you solve it, you know, you've got a strong
+[00:11:16] moat
+[00:11:16] But we didn't realize how difficult it would be so we put over a year into the
+[00:11:21] project
+[00:11:21] We launched at Tulane and went reasonably well
+[00:11:24] Then we went to other schools and it kind of was dead on arrival
+[00:11:29] It just didn't really grow. We didn't have the same level of connections. The
+[00:11:34] product didn't have higher attention
+[00:11:36] We did not have a high k-factor
+[00:11:39] It was solving a relatively minor problem, which I'm actually going to touch on
+[00:11:44] in the next section
+[00:11:45] Miscalculations can cause you years of your life
+[00:11:50] Seriously, it's like you pick the wrong product. You don't identify this curve.
+[00:11:56] Well, right?
+[00:11:56] We were operating within either exponential or bad idea curve
+[00:12:00] In retrospect, it was clearly bad idea. We kept telling ourselves that it was
+[00:12:05] exponential
+[00:12:05] so
+[00:12:07] um
+[00:12:09] This lesson is very theoretical about determining what idea is to work on but
+[00:12:14] it is
+[00:12:14] overwhelmingly important
+[00:12:18] I like
+[00:12:20] I actually experienced this problem a decent amount when people come to me and
+[00:12:25] they're like hey, I have this idea for an app
+[00:12:26] Can I get your thoughts?
+[00:12:29] And I want to support them and be a positive influence and be like you got it,
+[00:12:32] man
+[00:12:32] You're gonna you're gonna fucking you know, you're gonna succeed and they start
+[00:12:36] working on it
+[00:12:37] And they think that it's going to be exponential
+[00:12:40] But the whole time i'm like it's not a good idea
+[00:12:43] and
+[00:12:47] It's hard because that you know, I don't really know how to how to say it
+[00:12:50] straight
+[00:12:51] Be like dude, you should work on something else, but I try my best to do that
+[00:12:54] I'm actually really grateful for the college marketplace app that we built
+[00:12:57] Someone told that to us when everyone else is just positive like you're gonna
+[00:13:00] do it, bro. We believe in you
+[00:13:02] A successful entrepreneur harry just stetner. He was a good friend great guy
+[00:13:07] he was like
+[00:13:09] Guys, I would uh, I would fucking move on and we moved on and i'm actually like
+[00:13:14] it was one of the best decisions
+[00:13:15] Of my life because it led to everything else that occurred after the fact
+[00:13:18] building risk gpt and then all the of the future products
+[00:13:21] Um, okay, so these are all important questions to kind of ask yourself and I
+[00:13:27] think I started touching to this but
+[00:13:29] Uh, as you come up with the idea, uh, you start brainstorming you got to ask
+[00:13:33] yourself like what's what is the execution going to tangibly look like here?
+[00:13:37] So similar to the resources and constraints in terms of you know, the tangible
+[00:13:41] resources
+[00:13:42] Time money whatever it may be
+[00:13:45] Um, you need to look at the subset of skills that are required. Right. What
+[00:13:49] does your team have? What do you have and what does the product require?
+[00:13:53] Okay, so for social apps
+[00:13:55] Um, as I gave the example of the college marketplace app I built called holly
+[00:14:00] Uh, to be honest, Alex evan and I we were all very very good at distribution
+[00:14:06] As has become evident with the products that we've built since
+[00:14:08] Specifically social media distribution, but what we weren't very good at was,
+[00:14:13] uh, design and development
+[00:14:15] I actually kind of forgot this but I have this stuff written out here
+[00:14:20] Um
+[00:14:21] So so we weren't very good at design development, which are extremely important
+[00:14:25] for social apps
+[00:14:26] You might think that social apps are distribution, uh, heavy, but that's
+[00:14:29] actually not the case
+[00:14:30] Uh, a properly built social app will have high k-factor and higher attention
+[00:14:35] Which are design and development challenges rather than distribution if you
+[00:14:38] build the social app, right?
+[00:14:39] Uh, and you advertise it correctly. It'll kind of continue to grow on its own
+[00:14:43] Now emerging markets are largely just design and distribution heavy. So this
+[00:14:50] was umax and riz gpt
+[00:14:51] Um
+[00:14:53] The reason that they're not development heavy is because I mean it's a new you
+[00:14:57] 're building a new product
+[00:14:58] Sure, you need to get it to work
+[00:15:00] And sometimes it will be development heavy if it's like leveraging a very very
+[00:15:03] new technology
+[00:15:04] It's technically sophisticated but more often than not in this consumer domain
+[00:15:08] It's design heavy
+[00:15:11] Not in that you need amazing ui but you need great ux, right?
+[00:15:14] If it's an emerging market if it's a new product where there does not exist
+[00:15:18] Exist precedent on how to build it and what it should look like
+[00:15:23] You have to kind of pioneer that on your own. So this was once again riz gpt
+[00:15:27] and umax
+[00:15:28] We we pioneered the the ux
+[00:15:32] Um, there was a little bit of precedent that we borrowed on but it was more
+[00:15:35] design heavy
+[00:15:36] ux specifically and then distribution should be obvious for emerging sectors
+[00:15:41] Um specifically for like utility apps is what i'm referring to with like
+[00:15:46] emergency and legacy social being its own
+[00:15:47] utility meaning single player
+[00:15:50] um
+[00:15:52] Distribution heavy because you know you're producing a product that nobody
+[00:15:55] really knows about so you're gonna have to figure out how to convince people
+[00:15:59] Um, why they should download it first you need to figure out how to put it in
+[00:16:03] front of their face
+[00:16:04] Make it interesting enough for people to engage with on social media or other
+[00:16:08] platforms
+[00:16:09] And then second you have to figure out how to convert them to actually download
+[00:16:12] and pet
+[00:16:12] Now legacy sectors. This would be an example of calai
+[00:16:16] Um calai was a mix between legacy and emerging so like the market itself of cal
+[00:16:20] orie tracking was legacy
+[00:16:22] But then the ai component was emerging so it was new
+[00:16:25] um
+[00:16:27] But if you're competing with incumbents, it's often development or engineering
+[00:16:31] heavy
+[00:16:32] Because you need to build a really great product, right if there are already
+[00:16:36] existing products on the market and yours isn't
+[00:16:39] At least as good on a product side of things
+[00:16:42] um
+[00:16:44] It's not going to not going to grow usually
+[00:16:47] It's less design heavy because you have precedent you can go find that
+[00:16:52] comparable product
+[00:16:55] Take the screenshots put it in figma and um
+[00:16:58] There's less innovation required if you're just competing with already existing
+[00:17:02] companies
+[00:17:02] This is kind of like the idea of like second movers advantage
+[00:17:05] I do not recommend being a copycat
+[00:17:08] And there are a lot of reasons for that that will likely touch on in the future
+[00:17:12] but um
+[00:17:15] If you are going to be competing with incumbents
+[00:17:18] Your development does have to be on point and then of course distribution has
+[00:17:22] to be on point because
+[00:17:24] People probably already know about the existing product
+[00:17:26] um
+[00:17:28] And so you have to figure out how to kind of out distribute them
+[00:17:31] Um finish up on the story about the college marketplace app and rich gpt
+[00:17:37] Uh, you know wrong subset of skills
+[00:17:40] uh wrong product idea
+[00:17:43] This I think genuinely just shows the power of working on the right idea and
+[00:17:48] properly determining expectations
+[00:17:52] Uh and and resources constraints timeline outcome these these sort of questions
+[00:17:56] are so incredibly important
+[00:17:58] I cannot emphasize them enough. You might be like, this is bullshit. I can't
+[00:18:02] believe I paid for this course
+[00:18:04] He's just talking about idea for his execution, but it's so real. It's so
+[00:18:08] important. I spent over a year of my life
+[00:18:10] Working on the wrong thing because I did not really understand
+[00:18:15] all of what I just spoke about
+[00:18:18] And then I changed and I hit 80k MRR in three fucking days
+[00:18:22] Please, please please whatever you do
+[00:18:26] Take this message to heart take this unit to heart
+[00:18:30] This is the the very foundation
+[00:18:33] Of uh the framework that you should use when determining what idea is to work
+[00:18:39] on
+[00:18:39] All right in the next section we're going to get into human psychology
+[00:18:43] And how to actually begin
+[00:18:47] Identifying the ideas with which you can apply these frameworks to
+[00:18:52] Peace out
+[00:18:55] So
+[00:18:57] [BLANK_AUDIO]

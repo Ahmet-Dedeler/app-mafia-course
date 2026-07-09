@@ -1,0 +1,132 @@
+[00:00:00] Hey everyone, welcome back to the development module.
+[00:00:03] We're finally going to be building the app,
+[00:00:06] focusing essentially on the core feature.
+[00:00:09] Now what is the core feature you may ask?
+[00:00:11] Well, if we look at Kali-i as an example,
+[00:00:14] their core feature is taking a picture of food
+[00:00:17] and then estimating the calories.
+[00:00:19] That's what they started with,
+[00:00:20] that's what they launched with, and it worked really well.
+[00:00:23] Now of course they're developing it,
+[00:00:24] they have teams, they have,
+[00:00:26] you can connect your Apple Health account, et cetera, et cetera.
+[00:00:29] But to be honest, in the early days,
+[00:00:31] this is all fluff and you should be focusing
+[00:00:33] on what is the most important feature of my app.
+[00:00:36] Let me build that.
+[00:00:38] Once that is built, you can go out and validate it.
+[00:00:41] So yeah, for the UMAX clone,
+[00:00:43] we essentially are going to be taking a picture of our face
+[00:00:46] and then just displaying the results on the screen.
+[00:00:48] That's all we need to do for this MVP.
+[00:00:52] And I'm gonna run through how to build this.
+[00:00:54] This will be kind of a longer form video
+[00:00:56] and I'm not gonna like retake this many times,
+[00:00:58] I'm just gonna like throw it all at you.
+[00:01:01] You guys should be following along,
+[00:01:02] are we kind of explaining what things are as we go?
+[00:01:06] And you'll see how I transform this like hello world screen
+[00:01:10] into like a functioning app
+[00:01:11] and including the chat GBT API as well.
+[00:01:15] So let's get fucking started boys.
+[00:01:17] So the way I like to start is I love like logo straight away,
+[00:01:23] like it maybe seems stupid, but I'm just gonna go UMAX.
+[00:01:28] Oh shit.
+[00:01:29] I'm gonna go .footweight.bald.font.title.
+[00:01:35] There you go.
+[00:01:41] And then we're gonna space this to the top.
+[00:01:43] There we go.
+[00:01:47] And you can see the example on the right side.
+[00:01:50] That's exactly what we're building.
+[00:01:51] It's all getting like rendered in real time.
+[00:01:55] Okay.
+[00:01:56] And next we want a button.
+[00:01:57] So we're gonna create a button.
+[00:01:58] Actually, I'm gonna zoom in a little bit
+[00:02:00] just so you guys can see.
+[00:02:02] Okay.
+[00:02:03] Button label.
+[00:02:04] So the label is essentially like what the button looks like.
+[00:02:09] And I'm not gonna like teach you guys how to code,
+[00:02:11] but I'll run through the fundamentals.
+[00:02:13] We're gonna go image, system name,
+[00:02:16] and then we use the system name from the SF symbols library.
+[00:02:19] So I can go plus dot circle and then comes up with this
+[00:02:23] and we're just gonna use this.
+[00:02:26] We're gonna make it resizable, scalter fit frame,
+[00:02:30] and we're gonna make it about like 30 pixels wide.
+[00:02:33] Or maybe even bigger, maybe 90.
+[00:02:35] Yeah, or 80, I think.
+[00:02:38] Yeah.
+[00:02:41] Okay.
+[00:02:42] Because it's a core feature, I'll keep it pretty big.
+[00:02:44] Although like editing, of course you can change this.
+[00:02:47] And again, I'm not gonna teach you guys how to code,
+[00:02:48] but you can change the color.
+[00:02:50] So if you do foreground color, maybe we make it red.
+[00:02:56] So that's red.
+[00:02:57] I think maybe purple is great for now though.
+[00:03:00] Okay, let's do purple.
+[00:03:01] And then yes.
+[00:03:04] That is all good.
+[00:03:06] Great.
+[00:03:10] So now this button should be the core feature.
+[00:03:13] And we're gonna write the logic for this now.
+[00:03:16] And essentially when you click this button,
+[00:03:18] it should pop up a camera view,
+[00:03:21] and then you can take a picture.
+[00:03:23] Once the picture is taken,
+[00:03:24] like it's sent to the chat GPT API,
+[00:03:27] and then the API will rate your looks,
+[00:03:29] and then display that back on the front end.
+[00:03:32] And what I recommend is going here on the left side,
+[00:03:36] sorry, right clicking and clicking
+[00:03:39] add package dependencies.
+[00:03:42] Going back into the document that you guys
+[00:03:45] are all provided with from the course,
+[00:03:46] and copying this link,
+[00:03:47] github.com/macpours/openai.
+[00:03:51] Then you go back into Xcode,
+[00:03:52] paste this in the package URL section at the top right,
+[00:03:56] pasting it, and click add in package,
+[00:03:59] and then adding it to UMac clone two.
+[00:04:01] I've already added this previously in another cut,
+[00:04:04] but just it's really simple.
+[00:04:05] Click on UMacs clone two,
+[00:04:06] or whatever you call your project,
+[00:04:08] and click add package,
+[00:04:09] and boom, it's available.
+[00:04:12] So I'm gonna ask chat GPT right now.
+[00:04:15] I will record it, just give me a second.
+[00:04:17] I'm gonna pause and unpause.
+[00:04:19] I'll formulate a prompt,
+[00:04:21] and it will allow us pretty much to click on this button
+[00:04:25] and then display it in the image,
+[00:04:28] sorry, the camera view on the front end,
+[00:04:29] just so we can take the photo.
+[00:04:31] So I'll be back in a second.
+[00:04:33] Okay guys, so the first next step
+[00:04:36] is to go to your web browser.
+[00:04:39] And what you need to do is get the API key from chat GPT.
+[00:04:43] So go to platform.openai.com,
+[00:04:47] which will open this webpage.
+[00:04:48] And then if you haven't had an account,
+[00:04:50] if you never had an account before, just create one.
+[00:04:53] And if you already have a chat GPT account,
+[00:04:55] just log in, it's simple as that.
+[00:04:57] Then you click start building in the top right.
+[00:04:59] It might ask you for your organization name.
+[00:05:01] I'm just gonna say UMacs clone, create organization,
+[00:05:06] and I'll invite my team later.
+[00:05:08] We don't really need to answer this.
+[00:05:10] And then we can call this first API key, UMacs,
+[00:05:13] and click generate.
+[00:05:15] It'll then give you a test key.
+[00:05:16] So just copy this,
+[00:05:17] and we'll bring it over to the next part of this tutorial.
+[00:05:20] We'll be back in one sec.
+[00:05:22] Actually, I just remembered it's lightly recommended
+[00:05:25] to buy credits because they probably have a lot of spam.
+[00:05:28] So I would just pay for $5 for credits.
+[00:05:31] Not a big deal.
+[00:05:33] And then join me after you've topped up your account.

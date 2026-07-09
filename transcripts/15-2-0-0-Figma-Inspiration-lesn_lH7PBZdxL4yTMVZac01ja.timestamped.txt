@@ -1,0 +1,233 @@
+[00:00:00] Okay, welcome to the first unit of or first lesson of design. Design is where
+[00:00:09] we actually
+[00:00:10] bring our idea to life. So in the previous module, we will have come up with
+[00:00:16] the idea
+[00:00:16] that we intend to work on in this module. We're going to actually make it into
+[00:00:24] reality,
+[00:00:25] put it into pixels. So I'll go through the core walkthrough of what all the
+[00:00:31] design module
+[00:00:32] will look like to start off, and then we'll dive into setting up Figma and
+[00:00:38] incorporating
+[00:00:39] some inspiration. Okay. Figma is a design software. Do not try to use Canva if
+[00:00:50] you are
+[00:00:51] going to be designing a mobile or web application. It's a terrible idea. You
+[00:00:56] might use it for
+[00:00:57] some social media stuff. I don't know your background, but you definitely
+[00:01:00] should not use it for
+[00:01:03] consumer apps. Then we're going to go into wireframing. This is actually coming
+[00:01:08] up with the sort of
+[00:01:10] general layout of your product. You know, like box here and button here and
+[00:01:16] that sort of thing.
+[00:01:17] We have four tabs, settings in the top right corner. Then we're going to go
+[00:01:22] over hiring
+[00:01:23] a designer. The reason that we're doing this here and not at the end is once
+[00:01:27] you listen to the first
+[00:01:28] two lessons, you'll kind of be ready to hire a designer. But you should almost
+[00:01:34] certainly
+[00:01:35] listen to the rest of the lessons. Now that said, some people want to move as
+[00:01:41] quickly as possible.
+[00:01:43] The first two lessons will give the core information necessary. At that point,
+[00:01:47] if you're
+[00:01:47] trying to move as quickly as possible, you might want to hire a designer while
+[00:01:50] you complete
+[00:01:51] the rest of the module. Personally though, I would recommend doing it all at
+[00:01:56] once.
+[00:01:56] I also know that a lot of people here aren't going to watch everything all the
+[00:02:02] way through.
+[00:02:02] This is one of the major takeaways. There are right ways to do it and wrong
+[00:02:08] ways to do it.
+[00:02:09] I want to make sure that you guys do it the right way. Testing out this camera.
+[00:02:14] Yeah, we're good.
+[00:02:15] Cool. Okay. Then we'll have a brief assignment. We'll move into unit one. So we
+[00:02:25] go to unit zero,
+[00:02:26] then unit one. Unit one contains the actual information you're getting your MVP
+[00:02:32] complete.
+[00:02:33] So we step a little bit beyond wire framing and into getting or building a
+[00:02:38] fully fleshed out MVP.
+[00:02:41] We have our primary and secondary actions, some basic principles. We move into
+[00:02:46] onboarding and
+[00:02:47] paywalls. This is very, very important. And then we have an assignment
+[00:02:51] designing a bunch of screens.
+[00:02:53] Next, we have brand aesthetics and design to distribution. We don't have the
+[00:03:00] assignment
+[00:03:00] built out yet for this. I'm going to actually do that right after I record this
+[00:03:04] . I realize I
+[00:03:05] think I'd just accidentally left out or had left something in. I also think
+[00:03:10] that Alex is going to
+[00:03:12] be doing that part. So important notes. You should watch additional tutorials
+[00:03:20] on design.
+[00:03:21] This is not meant to make you an amazing designer for the sake of time and
+[00:03:26] prioritizing the most
+[00:03:28] important higher order components of app design. I'm going to be teaching you
+[00:03:33] everything that I
+[00:03:34] and we at at mafia know. But at the end of the day, the vast majority of people
+[00:03:40] are not trying to
+[00:03:40] become 10x designers, right? You need to know how to design well enough to
+[00:03:46] create a great product
+[00:03:49] and specifically how to create great UX. It'll take years to get great at UI.
+[00:03:56] And so that's why
+[00:03:56] we usually outsource that. All right, on to the lesson itself. So the amount of
+[00:04:05] theory that we're
+[00:04:05] going to have in design will be significantly less than ideation. We're going
+[00:04:09] to be a lot more
+[00:04:10] hands on. I'm going to show you guys how I work in Figma. Step one, download
+[00:04:17] figma.com. So you go
+[00:04:18] to the website, you download super easy. You can work out of the browser
+[00:04:23] version, but I definitely
+[00:04:24] recommend working out of the desktop version. Then you should play around,
+[00:04:31] watch some tutorials online,
+[00:04:33] and I'll kind of show you guys the the very basics and tutorials can take you
+[00:04:37] next step further.
+[00:04:38] And then you're going to want to screenshot other apps or use mobbin.
+[00:04:41] The idea that we are going to be designing throughout my my lecturing during
+[00:04:49] this module will be test
+[00:04:51] max super non creative, very descriptive name. It'll be a product to help guys
+[00:04:58] improve in their
+[00:04:59] testosterone and track their progress by uploading personal information. We'll
+[00:05:04] get into the more
+[00:05:06] specific details, but essentially think like take a picture of your face, your
+[00:05:10] body, answer questions
+[00:05:12] about your habits and get a custom routine from improving your testosterone.
+[00:05:17] This is a very, very
+[00:05:19] common problem that young men nowadays are facing, which is low testosterone,
+[00:05:24] which is extremely,
+[00:05:26] extremely bad for your quality of life and overall feeling of well being. And a
+[00:05:34] lot of
+[00:05:34] a lot of guys on social media are turning to influencers to tell them what to
+[00:05:38] do,
+[00:05:39] but through an application, we can develop more more custom protocols with even
+[00:05:44] higher quality,
+[00:05:45] more structured information. So I'm sure you can tell it even just based on the
+[00:05:50] namesake.
+[00:05:51] It will resemble UMAX to some extent. I didn't want to just do a product that I
+[00:06:00] 've already done
+[00:06:01] before I easily could have taken a design, you know, you know, just redesign U
+[00:06:07] MAX or Cali or
+[00:06:09] Twitter or raise or whatever app ground up. But I want to come up with
+[00:06:14] something on the spot.
+[00:06:15] And so you guys will be able to see how I actually think through these problems
+[00:06:17] in real time. Okay,
+[00:06:18] enough of that. Let's get into Figma. All right. So here we've got Figma. Once
+[00:06:27] again,
+[00:06:27] if you want to learn the very basics, you can you should go watch the tutorial.
+[00:06:30] But when we're
+[00:06:31] starting off with app design, you're going to want to click this little hashtag
+[00:06:34] looking thing in
+[00:06:35] the bottom corner. And then at the top right, let me actually bring myself down
+[00:06:40] here. You know
+[00:06:42] what? For Figma, I should be in the bottom left. Yeah, that'll be good. Okay.
+[00:06:47] Yeah. Okay. So up
+[00:06:48] here, you you can press on phone, do iPhone 1314. I took some screenshots of
+[00:06:55] apps earlier,
+[00:06:56] we'll downsize. And let's bring it over. So as I mentioned, one of the first
+[00:07:03] things that I do when
+[00:07:04] I'm working on a new app is I go and I take screenshots of comparables. So for
+[00:07:10] the time being, I only
+[00:07:11] have a few screenshots in here, but I will flesh it out more so over the course
+[00:07:16] of this module as
+[00:07:17] we begin to actually design. But this is like the very, very basic step number
+[00:07:24] one of designing an
+[00:07:26] app. You have an idea, you find apps that are similar in either functionality,
+[00:07:33] demographic,
+[00:07:34] and or aesthetic, or apps that you just like their components, like you just
+[00:07:40] kind of like how it
+[00:07:41] looks, right? You don't have to over complicate this. Just grab apps, bring
+[00:07:45] them in here. The reason
+[00:07:47] for this is we will be able to use them as as inspiration for the different
+[00:07:52] components. So for
+[00:07:54] example, Cal AI, we have this sort of primary action, which is taking a picture
+[00:08:00] of your food.
+[00:08:01] Now, similar to Twitter, we want to make this accessible at all times. The
+[00:08:07] reason that I mentioned
+[00:08:08] Twitter is Twitter wants you to always be able to post, right? So Twitter has
+[00:08:13] this nice little
+[00:08:14] circular plus button in the bottom, right? That is how I actually came up with
+[00:08:18] the design of this
+[00:08:19] plus button. When we first launched all that we had was this plus button in the
+[00:08:25] bottom right.
+[00:08:26] That was it. We literally had the plus button camera picture of the food and
+[00:08:31] then your calories
+[00:08:32] or the food analysis would show up here. Now for Twitter, Twitter is the
+[00:08:39] primary action is all about
+[00:08:41] keeping track of your streak. So, Twitter has this sort of streak length listed
+[00:08:49] here,
+[00:08:50] as well as the number of days that you've been active. UMAX, it's all about
+[00:08:58] getting your scan,
+[00:08:59] getting your phase ratings. Now, we're going to dive much deeper into core and
+[00:09:06] or primary and secondary actions within apps in the future. But the primary
+[00:09:12] purpose of this lesson
+[00:09:14] is to kind of just show you guys, show you guys how we incorporate screenshots
+[00:09:20] from these other apps
+[00:09:21] and then use them to inform our process of wireframing or setting up our Figma
+[00:09:27] file for now,
+[00:09:28] I should say. So, I'm not going to get too deep into wireframing. We're going
+[00:09:32] to be doing that in
+[00:09:33] the next video. But I just want to show you guys some very basic how-tos in Fig
+[00:09:37] ma. But once again,
+[00:09:39] you should watch more tutorials online and we can probably provide links of
+[00:09:43] those
+[00:09:44] in the description of this video. Okay. So, I pressed so down here in the
+[00:09:50] bottom left,
+[00:09:51] I think you can just barely see it. We have the little cursor. This is just our
+[00:09:55] main sort of
+[00:09:56] our mouse, our pointer. Then when we press this button, we get the frame
+[00:10:02] that enables us to add more frames. Then we have this sort of shape button. So,
+[00:10:10] we're starting off
+[00:10:11] rectangle. If we hit the drop down, we can do different sort of shapes. Okay.
+[00:10:14] So, let's show
+[00:10:15] you how this works. Say that we want to put something right here. I'll create
+[00:10:19] this rectangle.
+[00:10:20] And now in the wireframing lesson, next we're going to talk about how this sort
+[00:10:24] of size and
+[00:10:25] color and corner radius are less important when you first begin designing your
+[00:10:31] app.
+[00:10:32] But what's most important is just kind of putting it in the different places
+[00:10:36] that you want.
+[00:10:37] So, for now, let's just kind of like redesign UMAX a little bit.
+[00:10:41] And then we're going to reshape it for this app in the next lesson.
+[00:10:46] So, I create this rectangle. Let's say I want to add the corner radius right
+[00:10:52] now.
+[00:10:52] I'll press this button here, corner radius, maybe add 20. Right? So, we get
+[00:10:57] this sort of looking
+[00:10:58] image. Then we want a button within it, right? So, this is the background image
+[00:11:03] ,
+[00:11:03] and we want another button in it. So, now I'll change this maybe to be black,
+[00:11:08] and I'll add a
+[00:11:08] little corner radius as well. Great. And you can see we get some amount of auto
+[00:11:14] layout by the
+[00:11:16] the editor. So, we have the shapes here. If we jump to one over, we've got text
+[00:11:25] .
+[00:11:26] I'll add some text, facial analysis.
+[00:11:29] I'll maybe increase the size of this, maybe just a little bit bigger,
+[00:11:37] bold it. Now we've got facial analysis right here.
+[00:11:42] It's very common to have a tab bar at the bottom. So, we can put this little
+[00:11:48] tab bar in
+[00:11:51] and add some new little squares to represent icons or buttons.
+[00:11:56] So, now I'm just copying and pasting this over. I'll select these and center
+[00:12:05] them.
+[00:12:05] And there you have it. That quickly, I've got the sort of like the main layout
+[00:12:12] designed from UMAX.
+[00:12:13] Once again in the next lesson, we're going to dive deeper into this, but let's
+[00:12:19] say I want to
+[00:12:20] add comments. I'll say for my designer, add an image of a generic person right
+[00:12:28] here.
+[00:12:28] And then you can add more. You can say, add a scrollable set here. Okay.
+[00:12:38] If you already know how to use Figma, I'm sure you've skipped the video at this
+[00:12:44] point. If you
+[00:12:45] didn't, thanks for staying to watch this a little refresher. If you don't know
+[00:12:50] how to use Figma,
+[00:12:51] you're new to it. I would really recommend once again watching tutorials online
+[00:12:56] and honestly
+[00:12:57] just spending like 20 minutes, 30 minutes, even like two hours getting familiar
+[00:13:03] with the software.
+[00:13:04] It's extremely powerful. I spend so much time in Figma. So, you're going to
+[00:13:10] want to get good at it.
+[00:13:13] Cool. That's that's this first lesson of the basic Figma setup, importing these
+[00:13:19] screenshots
+[00:13:19] of comparable apps. And in the next lesson, we're going to dive into wirefram
+[00:13:27] ing itself,
+[00:13:28] how to properly do it, adding more detailed instructions for your designer,
+[00:13:33] and how to think through the sort of UX side of things, figuring out when to
+[00:13:37] copy and paste
+[00:13:38] components over, and when to come up with stuff on your own. Cool. I'll see you
+[00:13:44] guys in the next lesson.

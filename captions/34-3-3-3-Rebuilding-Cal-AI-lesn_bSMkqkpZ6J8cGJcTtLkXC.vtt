@@ -1,0 +1,1585 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.620
+Hey everyone, welcome back to finally the tutorial on how to rebuild a
+
+2
+00:00:05.620 --> 00:00:06.720
+successful app
+
+3
+00:00:06.720 --> 00:00:07.720
+from scratch.
+
+4
+00:00:07.720 --> 00:00:11.990
+Now, a slight change of plan, we will be rebuilding Cal AI from scratch,
+
+5
+00:00:11.990 --> 00:00:12.760
+focusing on
+
+6
+00:00:12.760 --> 00:00:17.010
+like the fundamental feature, which pretty much is the taking a picture of your
+
+7
+00:00:17.010 --> 00:00:17.320
+food
+
+8
+00:00:17.320 --> 00:00:20.320
+and estimating the calories instead of you next.
+
+9
+00:00:20.320 --> 00:00:24.760
+The reason for this is because OpenAI at chat GBT, they are limiting me from
+
+10
+00:00:24.760 --> 00:00:25.520
+raising other
+
+11
+00:00:25.520 --> 00:00:29.040
+people's faces, which is totally fair and there's not a problem.
+
+12
+00:00:29.040 --> 00:00:33.070
+Cal AI, a little bit of background, Cal AI makes three and a half million
+
+13
+00:00:33.070 --> 00:00:34.120
+dollars a month,
+
+14
+00:00:34.120 --> 00:00:38.290
+they have almost 10 million downloads and I'm going to run you through exactly
+
+15
+00:00:38.290 --> 00:00:38.480
+how I
+
+16
+00:00:38.480 --> 00:00:43.300
+would rebuild it from scratch and how I would, like what kind of version I
+
+17
+00:00:43.300 --> 00:00:44.480
+would launch into
+
+18
+00:00:44.480 --> 00:00:47.600
+the market if I wanted to make a competitor, for example.
+
+19
+00:00:47.600 --> 00:00:52.820
+Now, I will preface this by saying I don't suggest you make a competitor to Cal
+
+20
+00:00:52.820 --> 00:00:53.320
+AI.
+
+21
+00:00:53.320 --> 00:00:57.340
+I mean, even if you do, like there is a lot of competition and a lot of people
+
+22
+00:00:57.340 --> 00:00:58.000
+have tried
+
+23
+00:00:58.000 --> 00:01:02.130
+and failed, but I want you to more use this tutorial as a kind of a visual
+
+24
+00:01:02.130 --> 00:01:03.200
+representation
+
+25
+00:01:03.200 --> 00:01:07.760
+on how you can build a super successful app from scratch and then you can
+
+26
+00:01:07.760 --> 00:01:08.680
+translate these
+
+27
+00:01:08.680 --> 00:01:13.860
+same concepts, these same execution I'm doing now into other ideas and other
+
+28
+00:01:13.860 --> 00:01:14.560
+apps.
+
+29
+00:01:14.560 --> 00:01:16.240
+So let's get started.
+
+30
+00:01:16.240 --> 00:01:19.730
+The first thing you need to do is to download Xcode and once you've downloaded
+
+31
+00:01:19.730 --> 00:01:20.440
+it, go to
+
+32
+00:01:20.440 --> 00:01:24.360
+the top left to click settings and log into Apple account.
+
+33
+00:01:24.360 --> 00:01:27.920
+You log in by clicking this plus icon on the bottom left, clicking Apple
+
+34
+00:01:27.920 --> 00:01:28.840
+account, continue
+
+35
+00:01:28.840 --> 00:01:30.720
+and then entering your details.
+
+36
+00:01:30.720 --> 00:01:33.440
+Super simple stuff.
+
+37
+00:01:33.440 --> 00:01:39.170
+Once you've done that, you will click create new project app next, call it Cal
+
+38
+00:01:39.170 --> 00:01:40.280
+AI or whatever
+
+39
+00:01:40.280 --> 00:01:44.130
+else you want to call it and then make sure you come up with your own
+
+40
+00:01:44.130 --> 00:01:45.760
+organization identifier.
+
+41
+00:01:45.760 --> 00:01:50.630
+You can do like calm dot Slater or calm dot mafia or calm dot whatever else,
+
+42
+00:01:50.630 --> 00:01:51.760
+but it's totally
+
+43
+00:01:51.760 --> 00:01:54.440
+unique and you need to come up with your own name.
+
+44
+00:01:54.440 --> 00:01:57.280
+This can't be repeated by other people and you can't just copy the one I've
+
+45
+00:01:57.280 --> 00:01:58.560
+written down.
+
+46
+00:01:58.560 --> 00:02:01.640
+So I'm just going to do mafia tutorial.
+
+47
+00:02:01.640 --> 00:02:07.120
+You can leave all of this as a standard and then choose a folder and
+
+48
+00:02:07.120 --> 00:02:08.280
+destination where
+
+49
+00:02:08.280 --> 00:02:09.680
+you'd want to code in.
+
+50
+00:02:09.680 --> 00:02:11.280
+So I'm happy with the GitHub folder.
+
+51
+00:02:11.280 --> 00:02:16.240
+So I'll just click create bottom right and boom, your app is now live and in
+
+52
+00:02:16.240 --> 00:02:17.200
+business.
+
+53
+00:02:17.200 --> 00:02:27.470
+So this is going to load a preview of what you're coding on the left side and
+
+54
+00:02:27.470 --> 00:02:28.720
+like this
+
+55
+00:02:28.720 --> 00:02:31.570
+will show, okay, so the left side is the back end and the right side is the
+
+56
+00:02:31.570 --> 00:02:32.680
+front end.
+
+57
+00:02:32.680 --> 00:02:35.780
+Everything you're typing on the left side will display itself in some shape or
+
+58
+00:02:35.780 --> 00:02:36.200
+form on
+
+59
+00:02:36.200 --> 00:02:39.680
+the front end if you're building the front end view.
+
+60
+00:02:39.680 --> 00:02:42.680
+Obviously like the functions and stuff you won't be able to like see.
+
+61
+00:02:42.680 --> 00:02:48.500
+But as you can see, if I just changed this from hello world to hello mafia,
+
+62
+00:02:48.500 --> 00:02:49.520
+this update
+
+63
+00:02:49.520 --> 00:02:54.780
+in real time and you can see exactly what you are building, which is super cool
+
+64
+00:02:54.780 --> 00:02:54.880
+.
+
+65
+00:02:54.880 --> 00:03:02.620
+So the way I usually like to start building apps is kind of mapping up the
+
+66
+00:03:02.620 --> 00:03:04.160
+design first
+
+67
+00:03:04.160 --> 00:03:08.700
+and you know, people can say that this isn't necessarily productive, but I like
+
+68
+00:03:08.700 --> 00:03:09.240
+to do it
+
+69
+00:03:09.240 --> 00:03:14.030
+because it gives me a vision of what the app is and that inspires me to and
+
+70
+00:03:14.030 --> 00:03:14.880
+motivates
+
+71
+00:03:14.880 --> 00:03:16.600
+me to keep building, keep building, keep building.
+
+72
+00:03:16.600 --> 00:03:20.800
+Whereas if you're just working on a feature and the rest of it isn't built, you
+
+73
+00:03:20.800 --> 00:03:21.000
+might
+
+74
+00:03:21.000 --> 00:03:23.840
+be like, eh, I'm not super happy with this.
+
+75
+00:03:23.840 --> 00:03:27.420
+But if you start creating a brand around it and start doing the designs, it
+
+76
+00:03:27.420 --> 00:03:27.920
+feels more
+
+77
+00:03:27.920 --> 00:03:30.960
+real and more tangible and that pushes you to keep building.
+
+78
+00:03:30.960 --> 00:03:32.720
+At least that's how I operate.
+
+79
+00:03:32.720 --> 00:03:38.120
+So I'm going to start with like fontway dot bold dot font dot title.
+
+80
+00:03:38.120 --> 00:03:41.040
+And if you've watched this tutorial, I suggested earlier, like these concepts
+
+81
+00:03:41.040 --> 00:03:41.680
+are really easy
+
+82
+00:03:41.680 --> 00:03:42.680
+to understand.
+
+83
+00:03:42.680 --> 00:03:46.050
+I'm not going to go into details on how to code, but I will kind of give you a
+
+84
+00:03:46.050 --> 00:03:46.480
+little
+
+85
+00:03:46.480 --> 00:03:49.000
+bit of that kind of what I'm doing when necessary.
+
+86
+00:03:49.000 --> 00:03:50.800
+So okay, so that's the title.
+
+87
+00:03:50.800 --> 00:03:58.720
+We'll do a spacer and then we'll do a button with the label of an image.
+
+88
+00:03:58.720 --> 00:04:00.240
+And this is when you open SF symbols.
+
+89
+00:04:00.240 --> 00:04:02.080
+I told you guys down at this earlier.
+
+90
+00:04:02.080 --> 00:04:06.480
+So open SF symbols and we're going to go for a camera icon.
+
+91
+00:04:06.480 --> 00:04:07.960
+So we'll do camera dot circle.
+
+92
+00:04:07.960 --> 00:04:09.520
+Is there a circle dot fill?
+
+93
+00:04:09.520 --> 00:04:10.520
+Let's see.
+
+94
+00:04:10.520 --> 00:04:11.720
+Circle dot fill.
+
+95
+00:04:11.720 --> 00:04:13.960
+Okay, there is.
+
+96
+00:04:13.960 --> 00:04:15.640
+So I'm going to copy this, this name.
+
+97
+00:04:15.640 --> 00:04:17.520
+I'm going to do image, system name.
+
+98
+00:04:17.520 --> 00:04:20.240
+Actually, I'm going to make this a bit bigger for you guys.
+
+99
+00:04:20.240 --> 00:04:22.800
+Image, system name, camera dot circle dot fill.
+
+100
+00:04:22.800 --> 00:04:25.200
+So as you can see, time the little circle in the corner now.
+
+101
+00:04:25.200 --> 00:04:26.200
+Great.
+
+102
+00:04:26.200 --> 00:04:29.640
+Now we'll do dot resizable, scalps at fit, frame, width.
+
+103
+00:04:29.640 --> 00:04:31.160
+I'm going to say width 45.
+
+104
+00:04:31.160 --> 00:04:32.720
+Is that big enough?
+
+105
+00:04:32.720 --> 00:04:33.720
+No.
+
+106
+00:04:33.720 --> 00:04:34.720
+90.
+
+107
+00:04:34.720 --> 00:04:35.720
+Okay.
+
+108
+00:04:35.720 --> 00:04:38.040
+So it's a fine balance.
+
+109
+00:04:38.040 --> 00:04:39.040
+That's all good.
+
+110
+00:04:39.040 --> 00:04:43.160
+And then for the color, I'm going to go red.
+
+111
+00:04:43.160 --> 00:04:44.160
+Cool.
+
+112
+00:04:44.160 --> 00:04:49.160
+Like a little like camera red recording icon, which is sick.
+
+113
+00:04:49.160 --> 00:04:50.160
+Okay.
+
+114
+00:04:50.160 --> 00:04:54.550
+Now inside this, inside this bracket, you do the logic, which we'll get to very
+
+115
+00:04:54.550 --> 00:04:55.040
+, very
+
+116
+00:04:55.040 --> 00:04:56.040
+soon.
+
+117
+00:04:56.040 --> 00:05:01.470
+So what this should do is you click on this, it will then open your camera and
+
+118
+00:05:01.470 --> 00:05:01.960
+there should
+
+119
+00:05:01.960 --> 00:05:05.120
+be another button where you can click and snap a photo.
+
+120
+00:05:05.120 --> 00:05:09.320
+That photo should then be sent back to the chat GBT API and then that will
+
+121
+00:05:09.320 --> 00:05:10.080
+analyze the
+
+122
+00:05:10.080 --> 00:05:11.840
+calories and estimate it.
+
+123
+00:05:11.840 --> 00:05:15.920
+And then you'll take that data that chat GBT is analyzed also where it's like
+
+124
+00:05:15.920 --> 00:05:16.240
+estimated
+
+125
+00:05:16.240 --> 00:05:18.920
+the calories and display that on the front end for the user.
+
+126
+00:05:18.920 --> 00:05:21.200
+So that's our objective today.
+
+127
+00:05:21.200 --> 00:05:24.200
+And then we'll get into the payroll everything else soon.
+
+128
+00:05:24.200 --> 00:05:25.960
+So let's stop the linkers.
+
+129
+00:05:25.960 --> 00:05:29.360
+So what I would do is take this logic.
+
+130
+00:05:29.360 --> 00:05:33.480
+Actually, we'll just copy that entire file.
+
+131
+00:05:33.480 --> 00:05:35.480
+And then we go to chat GBT.com.
+
+132
+00:05:35.480 --> 00:05:39.000
+I'll close this.
+
+133
+00:05:39.000 --> 00:05:41.360
+Hey, chat GBT.
+
+134
+00:05:41.360 --> 00:05:52.980
+I'm coding a calorie tracker app and I want you to write me the code for a
+
+135
+00:05:52.980 --> 00:05:54.800
+function that
+
+136
+00:05:54.800 --> 00:06:06.350
+allows me to press the button shown below, pull up the camera and when a photo
+
+137
+00:06:06.350 --> 00:06:08.200
+is snapped,
+
+138
+00:06:08.200 --> 00:06:18.540
+it should send it back to the chat GBT API and estimate the calories and also
+
+139
+00:06:18.540 --> 00:06:19.800
+display
+
+140
+00:06:19.800 --> 00:06:26.320
+the name of the food item it sees.
+
+141
+00:06:26.320 --> 00:06:28.880
+Don't use any packages.
+
+142
+00:06:28.880 --> 00:06:33.920
+Just use a standard API call.
+
+143
+00:06:33.920 --> 00:06:36.400
+And then I'm going to send it my code.
+
+144
+00:06:36.400 --> 00:06:41.000
+Maybe I could have written this better, but like it doesn't have to be perfect.
+
+145
+00:06:41.000 --> 00:06:45.290
+If you ask it a question and it fucks up or isn't the result you're expecting,
+
+146
+00:06:45.290 --> 00:06:45.480
+you can
+
+147
+00:06:45.480 --> 00:06:49.360
+always go back and say, hey, can we change this or I meant this thing or I
+
+148
+00:06:49.360 --> 00:06:51.520
+meant to say
+
+149
+00:06:51.520 --> 00:06:53.880
+or, you know, explain the bug.
+
+150
+00:06:53.880 --> 00:06:56.320
+Like if this doesn't work, just be like, okay, look, it didn't estimate the
+
+151
+00:06:56.320 --> 00:06:56.920
+calories.
+
+152
+00:06:56.920 --> 00:07:00.800
+It estimated the width of the food, whatever it is.
+
+153
+00:07:00.800 --> 00:07:02.960
+But the prompt doesn't have to be perfect.
+
+154
+00:07:02.960 --> 00:07:05.840
+At least that's my take.
+
+155
+00:07:05.840 --> 00:07:07.160
+So I would post this.
+
+156
+00:07:07.160 --> 00:07:11.320
+Let's see what it says.
+
+157
+00:07:11.320 --> 00:07:19.600
+I'll be waiting.
+
+158
+00:07:19.600 --> 00:07:23.520
+Silo, chat GBT5 takes a hell of a long time to apply it.
+
+159
+00:07:23.520 --> 00:07:28.080
+Honestly, I love photo because it was incredibly accurate and fast.
+
+160
+00:07:28.080 --> 00:07:33.960
+So, you know, it is what it is.
+
+161
+00:07:33.960 --> 00:07:39.570
+But apparently chat GBT5 makes less mistakes and thinks deeper about certain
+
+162
+00:07:39.570 --> 00:07:40.480
+topics.
+
+163
+00:07:40.480 --> 00:07:43.090
+So you don't have to keep going back and forth because it did make the
+
+164
+00:07:43.090 --> 00:07:44.160
+occasional mistakes.
+
+165
+00:07:44.160 --> 00:07:46.960
+Okay, this is important.
+
+166
+00:07:46.960 --> 00:07:49.520
+You got to, so I'll give you a quick background.
+
+167
+00:07:49.520 --> 00:07:54.440
+For Apple, you need to clearly state why you're using certain features.
+
+168
+00:07:54.440 --> 00:07:57.680
+For example, the camera or the microphone or the photo library.
+
+169
+00:07:57.680 --> 00:08:00.720
+You need to add and do this with me.
+
+170
+00:08:00.720 --> 00:08:02.120
+Copy NSCameraUseThisDescription.
+
+171
+00:08:02.120 --> 00:08:04.760
+Go to Xcode.
+
+172
+00:08:04.760 --> 00:08:07.280
+Click Cali top left if that's what you named it.
+
+173
+00:08:07.280 --> 00:08:08.960
+Go into info.
+
+174
+00:08:08.960 --> 00:08:10.200
+Click this plus icon.
+
+175
+00:08:10.200 --> 00:08:11.400
+Paste it in.
+
+176
+00:08:11.400 --> 00:08:13.240
+Click return.
+
+177
+00:08:13.240 --> 00:08:17.120
+It should then pull up the full name and then you can write.
+
+178
+00:08:17.120 --> 00:08:26.220
+We use your camera so you can take a picture of food and estimate the calories
+
+179
+00:08:26.220 --> 00:08:27.320
+bomb.
+
+180
+00:08:27.320 --> 00:08:28.320
+You need to do this.
+
+181
+00:08:28.320 --> 00:08:30.560
+Otherwise your camera won't work.
+
+182
+00:08:30.560 --> 00:08:31.560
+Straight up.
+
+183
+00:08:31.560 --> 00:08:32.560
+Very essential.
+
+184
+00:08:32.560 --> 00:08:37.280
+Okay, well, let's send me a massive, massive code.
+
+185
+00:08:37.280 --> 00:08:38.280
+Result.
+
+186
+00:08:38.280 --> 00:08:44.670
+And it's all in one file which isn't optimal, but for the sake of the tutorial,
+
+187
+00:08:44.670 --> 00:08:45.640
+I think it's
+
+188
+00:08:45.640 --> 00:08:47.640
+clearer and easier.
+
+189
+00:08:47.640 --> 00:08:49.960
+So we're going to stick with this.
+
+190
+00:08:49.960 --> 00:08:52.920
+Okay, it's just finished.
+
+191
+00:08:52.920 --> 00:08:54.800
+So I would copy this.
+
+192
+00:08:54.800 --> 00:08:58.160
+And by the way, this whole chat will be in the course material.
+
+193
+00:08:58.160 --> 00:09:03.360
+So you can go into this and also copy the exact code I'm taking here right now.
+
+194
+00:09:03.360 --> 00:09:08.040
+And then copy and paste the entire file back into it.
+
+195
+00:09:08.040 --> 00:09:11.960
+And let's see any errors.
+
+196
+00:09:11.960 --> 00:09:15.240
+Two errors.
+
+197
+00:09:15.240 --> 00:09:19.030
+So what I would do is I would copy the errors if you do get them and they are
+
+198
+00:09:19.030 --> 00:09:19.880
+occasional,
+
+199
+00:09:19.880 --> 00:09:20.880
+but they do happen.
+
+200
+00:09:20.880 --> 00:09:22.680
+I'm just going to show you how to navigate this.
+
+201
+00:09:22.680 --> 00:09:24.200
+You'd post.
+
+202
+00:09:24.200 --> 00:09:28.160
+I got two errors.
+
+203
+00:09:28.160 --> 00:09:30.720
+Fix these for me, please.
+
+204
+00:09:30.720 --> 00:09:38.000
+And I'm going to paste the errors.
+
+205
+00:09:38.000 --> 00:09:39.480
+And it should know what's causing it.
+
+206
+00:09:39.480 --> 00:09:42.840
+Like it should have the knowledge and intelligence to find out what is causing
+
+207
+00:09:42.840 --> 00:09:43.640
+it and fix it for
+
+208
+00:09:43.640 --> 00:09:47.640
+us.
+
+209
+00:09:47.640 --> 00:09:56.600
+You know what we can do in the meantime?
+
+210
+00:09:56.600 --> 00:09:58.640
+We can go to platform.openai.com.
+
+211
+00:09:58.640 --> 00:10:04.200
+For that form.openai.com.
+
+212
+00:10:04.200 --> 00:10:06.470
+Make an account if you haven't already in the top right, there should be a
+
+213
+00:10:06.470 --> 00:10:07.160
+button to create
+
+214
+00:10:07.160 --> 00:10:08.160
+an account.
+
+215
+00:10:08.160 --> 00:10:11.160
+Okay, look, as you can see the sign up, do that.
+
+216
+00:10:11.160 --> 00:10:14.480
+I already have an account so I don't, ooh, it would log me out.
+
+217
+00:10:14.480 --> 00:10:17.080
+Oh, am I an incognito?
+
+218
+00:10:17.080 --> 00:10:20.720
+I am my bad.
+
+219
+00:10:20.720 --> 00:10:27.560
+Platform.openai.com.
+
+220
+00:10:27.560 --> 00:10:35.400
+Once you're assigned in, go to, I believe, Manage Projects.
+
+221
+00:10:35.400 --> 00:10:38.840
+Yep, API Keys and then create a new secret key.
+
+222
+00:10:38.840 --> 00:10:44.680
+I'm going to call this one Cal AI clone and just pick the quota project.
+
+223
+00:10:44.680 --> 00:10:46.080
+This will create a secret key.
+
+224
+00:10:46.080 --> 00:10:49.310
+Usually you can't reveal this, but I'm like, I'm going to delete this
+
+225
+00:10:49.310 --> 00:10:50.240
+afterwards, but
+
+226
+00:10:50.240 --> 00:11:03.800
+copy the key and make sure you paste it into, whoa, like, into this.
+
+227
+00:11:03.800 --> 00:11:06.760
+Your open AI API key.
+
+228
+00:11:06.760 --> 00:11:09.640
+So we'll do that right now.
+
+229
+00:11:09.640 --> 00:11:13.840
+That's how ChaiJubitin knows which account to build.
+
+230
+00:11:13.840 --> 00:11:17.490
+So incredibly important and you won't be able to do your functional call about
+
+231
+00:11:17.490 --> 00:11:17.840
+it.
+
+232
+00:11:17.840 --> 00:11:19.760
+It's very important to know as well.
+
+233
+00:11:19.760 --> 00:11:25.640
+Okay, let's get back to it.
+
+234
+00:11:25.640 --> 00:11:33.560
+All right, so we're sending back the full fixed file, which means we're going
+
+235
+00:11:33.560 --> 00:11:34.320
+to need
+
+236
+00:11:34.320 --> 00:11:37.960
+to paste in the opening idea again, but that's not an issue.
+
+237
+00:11:37.960 --> 00:11:41.960
+Takes like a second.
+
+238
+00:11:41.960 --> 00:11:52.400
+By the way, I intend to keep this process very raw and uncut just because like
+
+239
+00:11:52.400 --> 00:11:53.000
+this is
+
+240
+00:11:53.000 --> 00:11:56.280
+like the real grind.
+
+241
+00:11:56.280 --> 00:11:59.880
+You are seeing like directly behind the scenes of the building process.
+
+242
+00:11:59.880 --> 00:12:03.520
+And like if I do fast cuts, a lot of you guys won't understand.
+
+243
+00:12:03.520 --> 00:12:09.820
+And I think it's very important to see the building process in its flaws, in
+
+244
+00:12:09.820 --> 00:12:11.360
+its successes.
+
+245
+00:12:11.360 --> 00:12:15.550
+I kind of, kind of adjust of how long it takes, but we'll always through this
+
+246
+00:12:15.550 --> 00:12:16.560
+like eventually.
+
+247
+00:12:16.560 --> 00:12:25.400
+Once it gets it right, that's like the bulk of the work.
+
+248
+00:12:25.400 --> 00:12:31.880
+All right, cool.
+
+249
+00:12:31.880 --> 00:12:32.880
+Hopefully this works.
+
+250
+00:12:32.880 --> 00:12:33.880
+Hopefully this works.
+
+251
+00:12:33.880 --> 00:12:36.560
+So paste it in and no errors.
+
+252
+00:12:36.560 --> 00:12:37.560
+Great.
+
+253
+00:12:37.560 --> 00:12:38.560
+All right.
+
+254
+00:12:38.560 --> 00:12:43.610
+Now let's go back to our API key, copy it and then paste it in the your opening
+
+255
+00:12:43.610 --> 00:12:44.680
+API, such
+
+256
+00:12:44.680 --> 00:12:47.560
+a tongue twister, your opening API API key.
+
+257
+00:12:47.560 --> 00:12:52.760
+All right, paste it in, bomb and run of ships running to my phone.
+
+258
+00:12:52.760 --> 00:12:56.520
+Oh no.
+
+259
+00:12:56.520 --> 00:12:57.520
+Okay.
+
+260
+00:12:57.520 --> 00:12:59.920
+I've just run it on the simulator.
+
+261
+00:12:59.920 --> 00:13:01.920
+So let's see how it looks.
+
+262
+00:13:01.920 --> 00:13:04.770
+Simulators are a little bit different to the preview by the way, but I like
+
+263
+00:13:04.770 --> 00:13:05.200
+using the
+
+264
+00:13:05.200 --> 00:13:06.200
+simulator more.
+
+265
+00:13:06.200 --> 00:13:11.640
+All right, so let's test camera, boom, camera right there.
+
+266
+00:13:11.640 --> 00:13:14.880
+Amazing.
+
+267
+00:13:14.880 --> 00:13:18.790
+Which is great and should work, but because it's in the simulator and it has no
+
+268
+00:13:18.790 --> 00:13:19.360
+physical
+
+269
+00:13:19.360 --> 00:13:22.880
+camera, you won't be able to see what it's doing.
+
+270
+00:13:22.880 --> 00:13:30.400
+So what we should do is run this.
+
+271
+00:13:30.400 --> 00:13:34.920
+I'm going to say great.
+
+272
+00:13:34.920 --> 00:13:36.640
+It works.
+
+273
+00:13:36.640 --> 00:13:46.680
+Now please add functionality to upload stuff from your photo library as well.
+
+274
+00:13:46.680 --> 00:13:54.800
+In the meantime, I'm going to find a picture of food on the simulator.
+
+275
+00:13:54.800 --> 00:13:56.600
+Picture of lasagna.
+
+276
+00:13:56.600 --> 00:14:02.670
+Actually, lasagna is like so misleading because everything's like melted
+
+277
+00:14:02.670 --> 00:14:03.760
+together, but we'll
+
+278
+00:14:03.760 --> 00:14:04.760
+try it.
+
+279
+00:14:04.760 --> 00:14:05.760
+We'll do this, this picture.
+
+280
+00:14:05.760 --> 00:14:10.760
+Just going to hold down on it, click save to photos.
+
+281
+00:14:10.760 --> 00:14:13.280
+This is just for the tutorial, by the way, usually in practice when people have
+
+282
+00:14:13.280 --> 00:14:13.560
+their
+
+283
+00:14:13.560 --> 00:14:16.560
+real phones, they could just take a picture, very simple, but for the safety of
+
+284
+00:14:16.560 --> 00:14:17.440
+the tutorial,
+
+285
+00:14:17.440 --> 00:14:20.360
+I will show you how this works.
+
+286
+00:14:20.360 --> 00:14:21.360
+Okay.
+
+287
+00:14:21.360 --> 00:14:24.600
+So it's going to send like the full complete code again.
+
+288
+00:14:24.600 --> 00:14:29.880
+Is that right?
+
+289
+00:14:29.880 --> 00:14:33.800
+Seems like it.
+
+290
+00:14:33.800 --> 00:14:36.570
+It should be fast at this time because it's only changing a few lines, but then
+
+291
+00:14:36.570 --> 00:14:36.960
+we will
+
+292
+00:14:36.960 --> 00:14:38.720
+need to find our API key again.
+
+293
+00:14:38.720 --> 00:14:42.200
+I'm going to tell it in future if there are any more changes we need to do
+
+294
+00:14:42.200 --> 00:14:42.760
+after this
+
+295
+00:14:42.760 --> 00:14:49.480
+to just use the API key that I provided.
+
+296
+00:14:49.480 --> 00:14:54.960
+But like, I hope this is an example of like, it's not super complex.
+
+297
+00:14:54.960 --> 00:14:58.180
+Like yes, there's a lot of back and forth from repetition and trying to like
+
+298
+00:14:58.180 --> 00:14:58.560
+mold the
+
+299
+00:14:58.560 --> 00:15:02.480
+AI to do what you want, but that's the game.
+
+300
+00:15:02.480 --> 00:15:07.580
+And once it's built once, sorry, she's the same word twice, once it's built
+
+301
+00:15:07.580 --> 00:15:09.440
+once I suppose,
+
+302
+00:15:09.440 --> 00:15:11.520
+you don't need to really build it again.
+
+303
+00:15:11.520 --> 00:15:15.970
+It's just slight improvements that you have to make, but once I've built this
+
+304
+00:15:15.970 --> 00:15:16.480
+feature,
+
+305
+00:15:16.480 --> 00:15:19.600
+I can just change the code slightly to improve it.
+
+306
+00:15:19.600 --> 00:15:22.900
+Like I don't need to get this entire thing written, written, written again,
+
+307
+00:15:22.900 --> 00:15:23.400
+have to keep
+
+308
+00:15:23.400 --> 00:15:24.400
+going back to AI.
+
+309
+00:15:24.400 --> 00:15:27.360
+I just make small changes.
+
+310
+00:15:27.360 --> 00:15:31.760
+And what I will say as well, once you've built this app, this example, you can
+
+311
+00:15:31.760 --> 00:15:32.120
+just
+
+312
+00:15:32.120 --> 00:15:33.280
+go out there and market it.
+
+313
+00:15:33.280 --> 00:15:35.400
+You don't need to do much else.
+
+314
+00:15:35.400 --> 00:15:37.200
+Like it can be very simple.
+
+315
+00:15:37.200 --> 00:15:41.820
+As long as it helps a select few people and makes their life maybe 5 to 10%
+
+316
+00:15:41.820 --> 00:15:42.720
+better, that's
+
+317
+00:15:42.720 --> 00:15:43.880
+all that matters.
+
+318
+00:15:43.880 --> 00:15:49.260
+And like the distribution of having an AI to estimate the calories, even if it
+
+319
+00:15:49.260 --> 00:15:49.800
+isn't
+
+320
+00:15:49.800 --> 00:15:52.960
+perfect, is super helpful.
+
+321
+00:15:52.960 --> 00:15:55.720
+Even if it sucks, it can suck.
+
+322
+00:15:55.720 --> 00:16:00.200
+Cal AI launched and it launched with one feature and the tracking wasn't great.
+
+323
+00:16:00.200 --> 00:16:02.740
+They slowly started improving it, but they still made hundreds of thousands of
+
+324
+00:16:02.740 --> 00:16:03.120
+dollars
+
+325
+00:16:03.120 --> 00:16:04.480
+before that point.
+
+326
+00:16:04.480 --> 00:16:08.480
+So I wouldn't over index on getting the technical part, right?
+
+327
+00:16:08.480 --> 00:16:12.480
+I'm, you know, like, I'd focus on just building MVP.
+
+328
+00:16:12.480 --> 00:16:15.800
+Okay, so that should be good.
+
+329
+00:16:15.800 --> 00:16:23.120
+And again, I'm going to have to get my API key annoying, but hey, all good.
+
+330
+00:16:23.120 --> 00:16:26.280
+So here we go, paste it in, run it on the simulator.
+
+331
+00:16:26.280 --> 00:16:30.380
+By the way, to run, I'm using command R. So it's the Apple symbol on your
+
+332
+00:16:30.380 --> 00:16:31.360
+keyboard plus
+
+333
+00:16:31.360 --> 00:16:32.360
+the letter R.
+
+334
+00:16:32.360 --> 00:16:33.880
+Okay, let's see.
+
+335
+00:16:33.880 --> 00:16:34.880
+Here we go.
+
+336
+00:16:34.880 --> 00:16:38.440
+So now I can choose from library and I'm going to select the, that's me, I'm
+
+337
+00:16:38.440 --> 00:16:39.120
+going to select
+
+338
+00:16:39.120 --> 00:16:43.560
+the lasagna and it's saying analyzing.
+
+339
+00:16:43.560 --> 00:16:44.560
+Boom.
+
+340
+00:16:44.560 --> 00:16:48.200
+We have fucking built Cal AI.
+
+341
+00:16:48.200 --> 00:16:49.200
+Okay.
+
+342
+00:16:49.200 --> 00:16:50.520
+That's how you do it.
+
+343
+00:16:50.520 --> 00:16:51.520
+Right?
+
+344
+00:16:51.520 --> 00:16:56.880
+I'm launching a competitor, Blake and Zach and Henry and Jake watch out because
+
+345
+00:16:56.880 --> 00:16:57.880
+my Cal AI
+
+346
+00:16:57.880 --> 00:16:59.720
+is going to destroy the market.
+
+347
+00:16:59.720 --> 00:17:03.840
+I'm going to make way more money than you and you guys suck.
+
+348
+00:17:03.840 --> 00:17:04.840
+I'm going to go back here.
+
+349
+00:17:04.840 --> 00:17:05.840
+That is come on now.
+
+350
+00:17:05.840 --> 00:17:06.840
+All right.
+
+351
+00:17:06.840 --> 00:17:07.840
+Awesome boys.
+
+352
+00:17:07.840 --> 00:17:09.360
+We have something tangible.
+
+353
+00:17:09.360 --> 00:17:13.160
+Now there are, there are a bunch of improvements and changes you can make.
+
+354
+00:17:13.160 --> 00:17:15.360
+How much of it is totally relevant?
+
+355
+00:17:15.360 --> 00:17:18.600
+I don't know, but like I'm telling you and I know this sucks, but you could
+
+356
+00:17:18.600 --> 00:17:19.120
+fully go
+
+357
+00:17:19.120 --> 00:17:23.000
+to market with this product right now and how long did it take me?
+
+358
+00:17:23.000 --> 00:17:27.920
+Like 17 minutes and that's just with like a bit of back and forth of AI.
+
+359
+00:17:27.920 --> 00:17:31.450
+17 minutes and I've built the main feature that Cal AI made hundreds of
+
+360
+00:17:31.450 --> 00:17:32.160
+thousands of
+
+361
+00:17:32.160 --> 00:17:34.240
+dollars with.
+
+362
+00:17:34.240 --> 00:17:35.240
+There we go.
+
+363
+00:17:35.240 --> 00:17:36.920
+This is the new age of software boys.
+
+364
+00:17:36.920 --> 00:17:38.720
+Welcome to the fucking mafia.
+
+365
+00:17:38.720 --> 00:17:39.720
+New age.
+
+366
+00:17:39.720 --> 00:17:40.720
+Okay.
+
+367
+00:17:40.720 --> 00:17:41.720
+Great.
+
+368
+00:17:41.720 --> 00:17:48.760
+Now let's go back to our course assignment.
+
+369
+00:17:48.760 --> 00:17:51.760
+(keyboard clicking)
+
+370
+00:17:51.760 --> 00:17:54.760
+(keyboard clicking)
+
+371
+00:18:18.760 --> 00:18:23.760
+Alright, well it looks like that's it for the core feature.
+
+372
+00:18:23.760 --> 00:18:24.760
+Like we built it, boys.
+
+373
+00:18:24.760 --> 00:18:25.760
+We have built it.
+
+374
+00:18:25.760 --> 00:18:27.760
+And we can do another test real quick,
+
+375
+00:18:27.760 --> 00:18:29.760
+just for reference.
+
+376
+00:18:29.760 --> 00:18:31.760
+Let's get like ice cream.
+
+377
+00:18:31.760 --> 00:18:33.760
+Ice cream.
+
+378
+00:18:33.760 --> 00:18:35.760
+Let's see if this works as well.
+
+379
+00:18:35.760 --> 00:18:37.760
+So we're gonna images.
+
+380
+00:18:37.760 --> 00:18:39.760
+(grunts)
+
+381
+00:18:39.760 --> 00:18:41.760
+We'll get this ice cream, that's good.
+
+382
+00:18:41.760 --> 00:18:44.760
+But if it estimates the hand, that'll be so funny.
+
+383
+00:18:44.760 --> 00:18:47.760
+How many calories do you think are in a hand?
+
+384
+00:18:47.760 --> 00:18:49.760
+Alright, bomb.
+
+385
+00:18:49.760 --> 00:18:50.760
+Analyzing.
+
+386
+00:18:50.760 --> 00:18:51.760
+Let's go.
+
+387
+00:18:51.760 --> 00:18:55.760
+Chocolate ice cream.
+
+388
+00:18:55.760 --> 00:18:57.760
+There we fucking go, boys.
+
+389
+00:18:57.760 --> 00:18:58.760
+Okay.
+
+390
+00:18:58.760 --> 00:19:02.760
+Next module, we'll go through the paywall and onboarding.
+
+391
+00:19:02.760 --> 00:19:06.760
+And we'll show you guys how to make money and how to turn this free product,
+
+392
+00:19:06.760 --> 00:19:09.760
+and easy to use product, paywall it.
+
+393
+00:19:09.760 --> 00:19:12.760
+And then before the paywall just convince people why this is relevant to them,
+
+394
+00:19:12.760 --> 00:19:14.760
+and why they should pay.
+
+395
+00:19:14.760 --> 00:19:15.760
+See you, boys.
+
+396
+00:19:15.760 --> 00:19:25.320
+[BLANK_AUDIO]
