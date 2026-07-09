@@ -1,10 +1,10 @@
 # App Mafia Course Transcripts
 
-Text transcripts of the **[App Mafia — Viral App: $0 to $100k/mo](https://whop.com/appmafia/)** course on Whop, extracted from each video's English captions.
+Text transcripts of the **[App Mafia — Viral App: $0 to $100k/mo](https://whop.com/joined/appmafia/courses-EvnQidFnfcQ9K7/app/)** course on Whop, extracted from each video's English captions.
 
 This is the course recordings as searchable text so you (or an AI agent) can look up a lesson, answer a targeted question, or RAG over the material without scrubbing through video.
 
-**Course:** [https://whop.com/appmafia/](https://whop.com/appmafia/)
+**Course:** [https://whop.com/joined/appmafia/courses-EvnQidFnfcQ9K7/app/](https://whop.com/joined/appmafia/courses-EvnQidFnfcQ9K7/app/)
 
 **59 video transcripts** across **5 modules**. Lesson numbers jump in a few places (`06`, `11`, `14`, `23`) because those course items were non-video (docs/text) and have no captions.
 
@@ -168,4 +168,4 @@ Paths below are relative to the repo root. Open the `.md` link to read that less
 - Use `ALL_TRANSCRIPTS.md` only for broad cross-course search or full-course RAG.
 - Content is caption-derived speech-to-text — expect occasional ASR typos.
 - These are transcripts of the course recordings for agent/human lookup — not personal notes, and not a redistribution of the paid videos.
-- Official course (membership required): [https://whop.com/appmafia/](https://whop.com/appmafia/).
+- Official course (membership required): [https://whop.com/joined/appmafia/courses-EvnQidFnfcQ9K7/app/](https://whop.com/joined/appmafia/courses-EvnQidFnfcQ9K7/app/).
