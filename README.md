@@ -2,7 +2,7 @@
 
 Text transcripts of the **[App Mafia — Viral App: $0 to $100k/mo](https://whop.com/joined/appmafia/courses-EvnQidFnfcQ9K7/app/)** course on Whop, extracted from each video's English captions.
 
-This is the course recordings as searchable text so you (or an AI agent) can look up a lesson, answer a targeted question, or RAG over the material without scrubbing through video.
+This is the course recordings as searchable text so you (or an AI agent) can look up a lesson, answer a targeted question without scrubbing through video.
 
 **Course:** [https://whop.com/joined/appmafia/courses-EvnQidFnfcQ9K7/app/](https://whop.com/joined/appmafia/courses-EvnQidFnfcQ9K7/app/)
 
